@@ -10,9 +10,13 @@ export const dynamic = 'force-dynamic';
 export async function GET(request: Request) {
   const { searchParams } = new URL(request.url);
   const ticker = searchParams.get('ticker');
+  const type = searchParams.get('type');
 
   if (!ticker) {
     return NextResponse.json({ success: false, error: 'Ticker parameter is required' }, { status: 400 });
+  }
+  if (!type || (type !== 'fundamental' && type !== 'technical')) {
+    return NextResponse.json({ success: false, error: 'Invalid or missing type parameter (fundamental/technical required)' }, { status: 400 });
   }
 
   // 일일 한도 체크 (5회 제한)
@@ -52,23 +56,23 @@ export async function GET(request: Request) {
     
     const currentPrice = history[history.length - 1].close;
 
-    console.log(`Generating Dual Reports (Fundamental & Technical) for ${ticker.toUpperCase()}...`);
+    console.log(`Generating ${type} Report for ${ticker.toUpperCase()}...`);
     
-    const [fundamentalReport, technicalReport] = await Promise.all([
-      generateFundamentalReport(ticker, companyData, currentPrice),
-      generateTechnicalReport(ticker, companyData, history, currentPrice)
-    ]);
+    let reportObj: any = {};
+    if (type === 'fundamental') {
+      const fundamentalReport = await generateFundamentalReport(ticker, companyData, currentPrice);
+      reportObj = { fundamental: fundamentalReport };
+    } else {
+      const technicalReport = await generateTechnicalReport(ticker, companyData, history, currentPrice);
+      reportObj = { technical: technicalReport };
+    }
 
-    // 분리된 리포트를 하나로 묶어서 아카이브에 저장
-    const combinedReport = {
-      fundamental: fundamentalReport,
-      technical: technicalReport
-    };
-    saveCompanyArchive(ticker, combinedReport);
+    // 아카이브에 병합 저장 (이전 데이터 보존)
+    saveCompanyArchive(ticker, reportObj);
 
     return NextResponse.json({
       success: true,
-      data: combinedReport
+      data: reportObj
     });
   } catch (error: any) {
     console.error(`Company API Error for ${ticker}:`, error);

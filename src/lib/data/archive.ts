@@ -121,6 +121,16 @@ export function saveCompanyArchive(ticker: string, analysis: any) {
   const safeTicker = ticker.toUpperCase().replace(/[^A-Z0-9]/g, '');
   const filePath = path.join(COMPANY_ARCHIVE_DIR, `${today}_${safeTicker}.json`);
   
-  fs.writeFileSync(filePath, JSON.stringify(analysis, null, 2), 'utf-8');
+  let existingData = {};
+  if (fs.existsSync(filePath)) {
+    try {
+      existingData = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+    } catch (e) {
+      console.error('Error reading existing company archive:', e);
+    }
+  }
+
+  const mergedData = { ...existingData, ...analysis };
+  fs.writeFileSync(filePath, JSON.stringify(mergedData, null, 2), 'utf-8');
 }
 

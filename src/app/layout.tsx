@@ -50,6 +50,12 @@ export default function RootLayout({
           <Link href="/archive" style={{ color: '#fff', textDecoration: 'none', fontSize: '1.1rem', fontWeight: 600, padding: '0.5rem 1rem', borderRadius: '8px', transition: 'all 0.2s' }}>
             📂 과거 아카이브
           </Link>
+          <Link href="/screener" style={{ color: '#fff', textDecoration: 'none', fontSize: '1.1rem', fontWeight: 600, padding: '0.5rem 1rem', borderRadius: '8px', transition: 'all 0.2s', borderBottom: '2px solid var(--accent-color)' }}>
+            🎯 기술적 종목 스크리너
+          </Link>
+          <Link href="/tracking" style={{ color: '#fff', textDecoration: 'none', fontSize: '1.1rem', fontWeight: 600, padding: '0.5rem 1rem', borderRadius: '8px', transition: 'all 0.2s', borderBottom: '2px solid #ef4444' }}>
+            📈 수익률 트래킹
+          </Link>
         </nav>
         <main>
           {children}

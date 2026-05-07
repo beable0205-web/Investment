@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useRef } from 'react';
 import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
 import { Archive, Calendar, Building, Globe, Activity, X, Trash2, Download, Shield } from 'lucide-react';
 import html2canvas from 'html2canvas';
 import jsPDF from 'jspdf';
@@ -78,35 +79,14 @@ export default function ArchivePage() {
     }
   };
 
-  const exportPDF = async () => {
-    if (!modalRef.current || isExporting) return;
-    setIsExporting(true);
-
-    try {
-      const canvas = await html2canvas(modalRef.current, { 
-        scale: 2, 
-        useCORS: true,
-        backgroundColor: '#0a0a0c' 
-      });
-      const imgData = canvas.toDataURL('image/png');
-      
-      const pdf = new jsPDF('portrait', 'mm', 'a4');
-      const pdfWidth = 210;
-      const pdfHeight = (canvas.height * pdfWidth) / canvas.width;
-      
-      pdf.addImage(imgData, 'PNG', 0, 0, pdfWidth, pdfHeight);
-      pdf.save(`Archive_${activeTab}_${selectedItem.date}.pdf`);
-    } catch (err) {
-      console.error('PDF Export Error:', err);
-      alert('PDF 생성 중 오류가 발생했습니다.');
-    } finally {
-      setIsExporting(false);
-    }
+  const exportPDF = () => {
+    window.print();
   };
 
   return (
     <div className="container animate-fade-in" style={{ paddingBottom: '4rem' }}>
-      <header className="header" style={{ marginBottom: '2rem', display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>
+      <div className={selectedItem ? "no-print" : ""}>
+        <header className="header no-print" style={{ marginBottom: '2rem', display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>
         <div>
           <h1 className="title-gradient" style={{ fontSize: '2.5rem', display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
             <Archive size={36} color="var(--accent-color)" />
@@ -133,7 +113,7 @@ export default function ArchivePage() {
       </header>
 
       {/* Tabs */}
-      <div style={{ display: 'flex', gap: '1rem', marginBottom: '2rem', borderBottom: '1px solid rgba(255,255,255,0.1)', paddingBottom: '1rem' }}>
+      <div className="no-print" style={{ display: 'flex', gap: '1rem', marginBottom: '2rem', borderBottom: '1px solid rgba(255,255,255,0.1)', paddingBottom: '1rem' }}>
         <button 
           className={`btn ${activeTab === 'macro' ? 'active' : 'ghost'}`} 
           onClick={() => setActiveTab('macro')}
@@ -207,6 +187,7 @@ export default function ArchivePage() {
           </div>
         )}
       </div>
+      </div>
 
       {/* Detail Viewer Modal */}
       {selectedItem && (
@@ -215,7 +196,7 @@ export default function ArchivePage() {
           background: 'rgba(0,0,0,0.85)', backdropFilter: 'blur(10px)', zIndex: 1000,
           display: 'flex', flexDirection: 'column'
         }}>
-          <div style={{ display: 'flex', justifyContent: 'space-between', padding: '1.5rem 2rem', background: '#0f172a', borderBottom: '1px solid rgba(255,255,255,0.1)' }}>
+          <div className="no-print" style={{ display: 'flex', justifyContent: 'space-between', padding: '1.5rem 2rem', background: '#0f172a', borderBottom: '1px solid rgba(255,255,255,0.1)' }}>
             <h2 style={{ margin: 0, display: 'flex', alignItems: 'center', gap: '1rem' }}>
               <span style={{ color: 'var(--text-secondary)' }}>{selectedItem.date}</span>
               <span>{selectedItem.ticker ? `${selectedItem.ticker} 분석` : (activeTab === 'macro' ? '매크로 분석' : 'IB 브리핑')}</span>
@@ -247,7 +228,7 @@ export default function ArchivePage() {
                     {detailData.map((news: any, i: number) => (
                       <div key={i} className="glass-panel" style={{ borderColor: '#10b981' }}>
                          <h3 style={{ color: '#10b981' }}>{news.ib_name} - {news.headline}</h3>
-                         <div className="markdown-content"><ReactMarkdown>{news.insight}</ReactMarkdown></div>
+                         <div className="markdown-content"><ReactMarkdown remarkPlugins={[remarkGfm]}>{news.insight}</ReactMarkdown></div>
                       </div>
                     ))}
                   </div>
@@ -260,7 +241,7 @@ export default function ArchivePage() {
                         {detailData.fundamental.sections?.map((item: any, i: number) => (
                           <div key={i} className="glass-panel">
                             <h2>{i+1}. {item.title}</h2>
-                            <div className="markdown-content"><ReactMarkdown>{item.content}</ReactMarkdown></div>
+                            <div className="markdown-content"><ReactMarkdown remarkPlugins={[remarkGfm]}>{item.content}</ReactMarkdown></div>
                           </div>
                         ))}
                       </div>
@@ -271,7 +252,7 @@ export default function ArchivePage() {
                         {detailData.technical.sections?.map((item: any, i: number) => (
                           <div key={i} className="glass-panel" style={{ borderColor: '#10b981' }}>
                             <h2>{i+1}. {item.title}</h2>
-                            <div className="markdown-content"><ReactMarkdown>{item.content}</ReactMarkdown></div>
+                            <div className="markdown-content"><ReactMarkdown remarkPlugins={[remarkGfm]}>{item.content}</ReactMarkdown></div>
                           </div>
                         ))}
                       </div>
@@ -283,14 +264,14 @@ export default function ArchivePage() {
                     {(detailData.sections || detailData.slides).map((item: any, i: number) => (
                       <div key={i} className="glass-panel">
                         <h2>{i+1}. {item.title}</h2>
-                        <div className="markdown-content"><ReactMarkdown>{item.content}</ReactMarkdown></div>
+                        <div className="markdown-content"><ReactMarkdown remarkPlugins={[remarkGfm]}>{item.content}</ReactMarkdown></div>
                       </div>
                     ))}
                   </div>
                 )}
                 {activeTab === 'macro' && detailData.explanation && (
                   <div className="glass-panel">
-                    <div className="markdown-content"><ReactMarkdown>{detailData.explanation}</ReactMarkdown></div>
+                    <div className="markdown-content"><ReactMarkdown remarkPlugins={[remarkGfm]}>{detailData.explanation}</ReactMarkdown></div>
                   </div>
                 )}
               </div>

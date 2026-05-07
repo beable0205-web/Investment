@@ -162,8 +162,8 @@ a {
 .markdown-content h1, .markdown-content h2, .markdown-content h3 {
   margin-top: 2rem;
   margin-bottom: 1rem;
-  color: var(--text-primary);
-  border-bottom: 1px solid var(--surface-border);
+  color: #ffffff;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
   padding-bottom: 0.5rem;
 }
 .markdown-content h3 {
@@ -173,12 +173,12 @@ a {
 }
 .markdown-content p {
   margin-bottom: 1.25rem;
-  color: var(--text-secondary);
+  color: #e2e8f0;
 }
 .markdown-content ul, .markdown-content ol {
   margin-bottom: 1.25rem;
   padding-left: 1.5rem;
-  color: var(--text-secondary);
+  color: #e2e8f0;
 }
 .markdown-content li {
   margin-bottom: 0.5rem;
@@ -210,4 +210,103 @@ a {
   font-family: monospace;
   font-size: 0.9em;
   color: #fca5a5;
+}
+.markdown-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 2rem 0;
+  background: rgba(20, 20, 25, 0.4);
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid var(--surface-border);
+}
+.markdown-content th, .markdown-content td {
+  padding: 1rem;
+  border-bottom: 1px solid var(--surface-border);
+  text-align: left;
+  color: #e2e8f0;
+}
+.markdown-content th {
+  background: rgba(79, 70, 229, 0.1);
+  color: #e0e7ff;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 0.85rem;
+  letter-spacing: 0.05em;
+}
+.markdown-content tr:last-child td {
+  border-bottom: none;
+}
+.markdown-content tr:hover td {
+  background: rgba(255, 255, 255, 0.02);
+  color: #fff;
+}
+
+/* Print Styles for PDF Export */
+@media print {
+  body {
+    background: #ffffff !important;
+    color: #000000 !important;
+    background-image: none !important;
+  }
+  
+  .no-print {
+    display: none !important;
+  }
+  
+  .container {
+    width: 100% !important;
+    max-width: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  
+  .glass-panel, .pdf-section, .card {
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+    padding: 1rem 0 !important;
+    width: 100% !important;
+    height: auto !important;
+    min-height: auto !important;
+  }
+  
+  .markdown-content, .markdown-content p, .markdown-content li, 
+  .markdown-content td, .markdown-content th, .markdown-content span {
+    color: #000000 !important;
+  }
+  
+  .markdown-content h1, .markdown-content h2, .markdown-content h3, h2, h3 {
+    color: #000000 !important;
+    border-bottom-color: #cccccc !important;
+  }
+  
+  .markdown-content table {
+    border: 1px solid #cccccc !important;
+    background: transparent !important;
+  }
+  
+  .markdown-content th, .markdown-content td {
+    border-bottom: 1px solid #cccccc !important;
+  }
+  
+  .markdown-content th {
+    background: #f3f4f6 !important;
+    color: #000000 !important;
+  }
+  
+  .markdown-content blockquote {
+    background: #f9fafb !important;
+    border-left-color: #4f46e5 !important;
+    color: #374151 !important;
+  }
+  
+  /* Natural page breaks */
+  h1, h2, h3 {
+    page-break-after: avoid;
+  }
+  
+  table, img, blockquote {
+    page-break-inside: avoid;
+  }
 }

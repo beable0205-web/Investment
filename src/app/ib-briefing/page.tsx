@@ -37,35 +37,13 @@ export default function IBBriefingPage() {
     }
   };
 
-  const exportPDF = async () => {
-    if (!reportRef.current || isExporting) return;
-    setIsExporting(true);
-
-    try {
-      const canvas = await html2canvas(reportRef.current, { 
-        scale: 2, 
-        useCORS: true,
-        backgroundColor: '#0a0a0c' // 바탕화면 톤을 고정하여 투명도 이슈 제거
-      });
-      const imgData = canvas.toDataURL('image/png');
-      
-      const pdf = new jsPDF('portrait', 'mm', 'a4');
-      const pdfWidth = 210;
-      const pdfHeight = (canvas.height * pdfWidth) / canvas.width;
-      
-      pdf.addImage(imgData, 'PNG', 0, 0, pdfWidth, pdfHeight);
-      pdf.save(`Global_IB_Briefing.pdf`);
-    } catch (err) {
-      console.error('PDF Export Error:', err);
-      alert('PDF 생성 중 오류가 발생했습니다.');
-    } finally {
-      setIsExporting(false);
-    }
+  const exportPDF = () => {
+    window.print();
   };
 
   return (
     <div className="container animate-fade-in" style={{ paddingBottom: '4rem' }}>
-      <header className="header" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '3rem' }}>
+      <header className="header no-print" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '3rem' }}>
         <div>
           <h1 className="title-gradient" style={{ fontSize: '2.5rem', display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
             <Globe size={36} color="#10b981" />
@@ -110,7 +88,7 @@ export default function IBBriefingPage() {
       ) : (
         <div style={{ display: 'flex', flexDirection: 'column', gap: '3rem' }}>
           {newsList.map((news, idx) => (
-            <div key={idx} className="glass-panel" style={{ borderColor: 'rgba(16, 185, 129, 0.3)', position: 'relative' }}>
+            <div key={idx} className="glass-panel pdf-section" style={{ borderColor: 'rgba(16, 185, 129, 0.3)', position: 'relative' }}>
               <div style={{ position: 'absolute', top: '-15px', left: '2rem', background: '#10b981', color: '#fff', padding: '0.25rem 1rem', borderRadius: '20px', fontWeight: 'bold', fontSize: '0.9rem', boxShadow: '0 4px 6px rgba(0,0,0,0.1)' }}>
                 {news.ib_name}
               </div>

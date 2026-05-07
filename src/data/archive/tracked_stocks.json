@@ -1,0 +1,192 @@
+[
+  {
+    "id": "1778144160785",
+    "ticker": "AIG",
+    "name": "American International Group",
+    "discoveryDate": "2026-05-07T08:56:00.785Z",
+    "discoveryPrice": 77.69000244140625,
+    "matchReasons": [
+      "Rule 1: 224일선 부근 눌림목 및 강력한 거래량(매집봉) 포착 (대시세 초입 가능성 높은 밥그릇 3번 자리)"
+    ]
+  },
+  {
+    "id": "1778144161561",
+    "ticker": "CAH",
+    "name": "Cardinal Health",
+    "discoveryDate": "2026-05-07T08:56:01.561Z",
+    "discoveryPrice": 191.49000549316406,
+    "matchReasons": [
+      "Rule 1: 224일선 부근 눌림목 및 강력한 거래량(매집봉) 포착 (대시세 초입 가능성 높은 밥그릇 3번 자리)"
+    ]
+  },
+  {
+    "id": "1778144162466",
+    "ticker": "CDW",
+    "name": "CDW Corporation",
+    "discoveryDate": "2026-05-07T08:56:02.466Z",
+    "discoveryPrice": 109,
+    "matchReasons": [
+      "Rule 2: 엔벨롭(20, 20%) 하단 터치 임박 (기관/외인 프로그램 매수 유입을 기대하는 극단적 과대낙폭 타점)"
+    ]
+  },
+  {
+    "id": "1778144163545",
+    "ticker": "COR",
+    "name": "Cencora",
+    "discoveryDate": "2026-05-07T08:56:03.545Z",
+    "discoveryPrice": 252.74000549316406,
+    "matchReasons": [
+      "Rule 2: 엔벨롭(20, 20%) 하단 터치 임박 (기관/외인 프로그램 매수 유입을 기대하는 극단적 과대낙폭 타점)"
+    ]
+  },
+  {
+    "id": "1778144164217",
+    "ticker": "CHTR",
+    "name": "Charter Communications",
+    "discoveryDate": "2026-05-07T08:56:04.217Z",
+    "discoveryPrice": 156.52000427246094,
+    "matchReasons": [
+      "Rule 2: 엔벨롭(20, 20%) 하단 터치 임박 (기관/외인 프로그램 매수 유입을 기대하는 극단적 과대낙폭 타점)"
+    ]
+  },
+  {
+    "id": "1778144164847",
+    "ticker": "CINF",
+    "name": "Cincinnati Financial",
+    "discoveryDate": "2026-05-07T08:56:04.847Z",
+    "discoveryPrice": 160.42999267578125,
+    "matchReasons": [
+      "Rule 1: 224일선 부근 눌림목 및 강력한 거래량(매집봉) 포착 (대시세 초입 가능성 높은 밥그릇 3번 자리)"
+    ]
+  },
+  {
+    "id": "1778144167094",
+    "ticker": "CVS",
+    "name": "CVS Health",
+    "discoveryDate": "2026-05-07T08:56:07.094Z",
+    "discoveryPrice": 86.86000061035156,
+    "matchReasons": [
+      "Rule 3: 전일 음봉을 압도하는 거래량 동반 장대 양봉 발생 (추세 반전의 강력한 역주행 캔들 시그널)"
+    ]
+  },
+  {
+    "id": "1778144168430",
+    "ticker": "DTE",
+    "name": "DTE Energy",
+    "discoveryDate": "2026-05-07T08:56:08.430Z",
+    "discoveryPrice": 142.44000244140625,
+    "matchReasons": [
+      "Rule 1: 224일선 부근 눌림목 및 강력한 거래량(매집봉) 포착 (대시세 초입 가능성 높은 밥그릇 3번 자리)"
+    ]
+  },
+  {
+    "id": "1778144169109",
+    "ticker": "FE",
+    "name": "FirstEnergy",
+    "discoveryDate": "2026-05-07T08:56:09.109Z",
+    "discoveryPrice": 45.54999923706055,
+    "matchReasons": [
+      "Rule 1: 224일선 부근 눌림목 및 강력한 거래량(매집봉) 포착 (대시세 초입 가능성 높은 밥그릇 3번 자리)"
+    ]
+  },
+  {
+    "id": "1778144170372",
+    "ticker": "HWM",
+    "name": "Howmet Aerospace",
+    "discoveryDate": "2026-05-07T08:56:10.372Z",
+    "discoveryPrice": 256.42999267578125,
+    "matchReasons": [
+      "Rule 3: 전일 음봉을 압도하는 거래량 동반 장대 양봉 발생 (추세 반전의 강력한 역주행 캔들 시그널)"
+    ]
+  },
+  {
+    "id": "1778144171108",
+    "ticker": "ITW",
+    "name": "Illinois Tool Works",
+    "discoveryDate": "2026-05-07T08:56:11.108Z",
+    "discoveryPrice": 260.5199890136719,
+    "matchReasons": [
+      "Rule 1: 224일선 부근 눌림목 및 강력한 거래량(매집봉) 포착 (대시세 초입 가능성 높은 밥그릇 3번 자리)"
+    ]
+  },
+  {
+    "id": "1778144171853",
+    "ticker": "PODD",
+    "name": "Insulet Corporation",
+    "discoveryDate": "2026-05-07T08:56:11.853Z",
+    "discoveryPrice": 151.27999877929688,
+    "matchReasons": [
+      "Rule 2: 엔벨롭(20, 20%) 하단 터치 임박 (기관/외인 프로그램 매수 유입을 기대하는 극단적 과대낙폭 타점)"
+    ]
+  },
+  {
+    "id": "1778144173459",
+    "ticker": "MSCI",
+    "name": "MSCI Inc.",
+    "discoveryDate": "2026-05-07T08:56:13.459Z",
+    "discoveryPrice": 582.1400146484375,
+    "matchReasons": [
+      "Rule 1: 224일선 부근 눌림목 및 강력한 거래량(매집봉) 포착 (대시세 초입 가능성 높은 밥그릇 3번 자리)"
+    ]
+  },
+  {
+    "id": "1778144174346",
+    "ticker": "PPL",
+    "name": "PPL Corporation",
+    "discoveryDate": "2026-05-07T08:56:14.346Z",
+    "discoveryPrice": 36.880001068115234,
+    "matchReasons": [
+      "Rule 1: 224일선 부근 눌림목 및 강력한 거래량(매집봉) 포착 (대시세 초입 가능성 높은 밥그릇 3번 자리)"
+    ]
+  },
+  {
+    "id": "1778144175113",
+    "ticker": "DGX",
+    "name": "Quest Diagnostics",
+    "discoveryDate": "2026-05-07T08:56:15.113Z",
+    "discoveryPrice": 189.1300048828125,
+    "matchReasons": [
+      "Rule 1: 224일선 부근 눌림목 및 강력한 거래량(매집봉) 포착 (대시세 초입 가능성 높은 밥그릇 3번 자리)"
+    ]
+  },
+  {
+    "id": "1778144176073",
+    "ticker": "TEL",
+    "name": "TE Connectivity",
+    "discoveryDate": "2026-05-07T08:56:16.073Z",
+    "discoveryPrice": 216.1699981689453,
+    "matchReasons": [
+      "Rule 1: 224일선 부근 눌림목 및 강력한 거래량(매집봉) 포착 (대시세 초입 가능성 높은 밥그릇 3번 자리)"
+    ]
+  },
+  {
+    "id": "1778144176674",
+    "ticker": "SMCI",
+    "name": "Supermicro",
+    "discoveryDate": "2026-05-07T08:56:16.674Z",
+    "discoveryPrice": 34.65999984741211,
+    "matchReasons": [
+      "Rule 3: 전일 음봉을 압도하는 거래량 동반 장대 양봉 발생 (추세 반전의 강력한 역주행 캔들 시그널)"
+    ]
+  },
+  {
+    "id": "1778144178110",
+    "ticker": "UPS",
+    "name": "United Parcel Service",
+    "discoveryDate": "2026-05-07T08:56:18.110Z",
+    "discoveryPrice": 99.88999938964844,
+    "matchReasons": [
+      "Rule 1: 224일선 부근 눌림목 및 강력한 거래량(매집봉) 포착 (대시세 초입 가능성 높은 밥그릇 3번 자리)"
+    ]
+  },
+  {
+    "id": "1778144179039",
+    "ticker": "RVTY",
+    "name": "Revvity",
+    "discoveryDate": "2026-05-07T08:56:19.039Z",
+    "discoveryPrice": 99.08999633789062,
+    "matchReasons": [
+      "Rule 1: 224일선 부근 눌림목 및 강력한 거래량(매집봉) 포착 (대시세 초입 가능성 높은 밥그릇 3번 자리)"
+    ]
+  }
+]
