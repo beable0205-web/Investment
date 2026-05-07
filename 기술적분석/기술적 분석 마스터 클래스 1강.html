@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>기술적 분석 마스터 클래스 - 제1강</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <style>
+        /* 1. RESET & BASE */
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            background-color: #050B14;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            font-family: 'Noto Sans KR', sans-serif;
+            overflow: hidden;
+        }
+
+        /* 2. PRESENTATION WRAPPER */
+        #presentation-area {
+            position: relative;
+            width: 1280px;
+            height: 720px;
+            background-color: #0B132B;
+            border-radius: 12px;
+            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5);
+            overflow: hidden;
+        }
+
+        /* 3. SLIDE STYLES */
+        .slide-container {
+            display: none; /* Hide all by default */
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+            height: 100%;
+            padding: 60px;
+            position: absolute;
+            top: 0; left: 0;
+            opacity: 0;
+            transition: opacity 0.3s ease-in-out;
+        }
+        .slide-container.active {
+            display: flex; /* Show active */
+            opacity: 1;
+            z-index: 10;
+        }
+
+        /* Background Graphics for Slides */
+        .slide-container::before {
+            content: ''; position: absolute; top: 0; left: 0; right: 0; bottom: 0;
+            background-image: linear-gradient(rgba(255, 255, 255, 0.02) 1px, transparent 1px), linear-gradient(90deg, rgba(255, 255, 255, 0.02) 1px, transparent 1px);
+            background-size: 40px 40px; z-index: 0; pointer-events: none;
+        }
+        .slide-container::after {
+            content: ''; position: absolute; top: 0; right: 0; width: 600px; height: 600px;
+            background: radial-gradient(circle, rgba(0, 229, 255, 0.05) 0%, transparent 70%);
+            border-radius: 50%; transform: translate(20%, -20%); z-index: 0; pointer-events: none;
+        }
+        .slide-container > * { position: relative; z-index: 1; }
+
+        /* 4. TYPOGRAPHY & COMMON ELEMENTS */
+        h1, h2, h3 { color: #FFFFFF; font-weight: 700; letter-spacing: -0.5px; word-break: keep-all; }
+        h1, .number { font-family: 'Poppins', 'Noto Sans KR', sans-serif; }
+        p, li, .subtitle { color: #EAECEE; font-weight: 400; line-height: 1.6; word-break: keep-all; }
+        h1 { font-size: 64px; line-height: 1.2; margin-bottom: 20px; }
+        .slide-title { font-size: 44px; font-weight: 700; margin-bottom: 40px; text-align: left; width: 100%; color: #00E5FF; }
+        h3 { font-size: 28px; margin-bottom: 15px; color: #F1C40F; }
+        p, li { font-size: 20px; }
+        .content-area { display: flex; flex-direction: column; flex-grow: 1; justify-content: center; width: 100%; align-items: center; }
+        .highlight-text { color: #F1C40F; font-weight: 700; }
+        .cyan-text { color: #00E5FF; font-weight: 700; }
+
+        /* 5. SPECIFIC LAYOUTS */
+        /* Titles */
+        .title-layout { text-align: center; }
+        .title-layout .badge { display: inline-block; background-color: rgba(0, 229, 255, 0.1); color: #00E5FF; padding: 8px 20px; border-radius: 30px; font-size: 18px; font-weight: 700; margin-bottom: 25px; border: 1px solid rgba(0, 229, 255, 0.3); }
+        .section-title-layout { text-align: center; }
+        .section-title-layout h2 { font-size: 56px; margin-bottom: 20px; color: #FFFFFF; }
+        .section-title-layout hr { background-color: #F1C40F; border: none; height: 4px; margin: 30px auto; width: 80px; border-radius: 2px; }
+
+        /* Two Column & Grid */
+        .two-column { display: grid; grid-template-columns: 1fr 1fr; gap: 60px; width: 100%; align-items: center; }
+        .two-column ul { list-style: none; }
+        .two-column li { margin-bottom: 25px; position: relative; padding-left: 30px; }
+        .two-column li::before { content: '\f0da'; font-family: 'Font Awesome 6 Free'; font-weight: 900; color: #00E5FF; position: absolute; left: 0; top: 2px; }
+        .tiled-content { display: flex; gap: 30px; width: 100%; }
+        .tile { background-color: #1C2541; border-radius: 16px; border: 1px solid rgba(255,255,255,0.05); flex: 1; padding: 40px 30px; text-align: center; }
+        .tile .icon { color: #00E5FF; font-size: 50px; margin: 0 auto 25px auto; background: rgba(0, 229, 255, 0.1); width: 100px; height: 100px; display: flex; align-items: center; justify-content: center; border-radius: 50%; }
+
+        /* Lists */
+        .bullet-list { width: 100%; max-width: 1000px; }
+        .bullet-list ul { list-style: none; }
+        .bullet-list li { background-color: #1C2541; border-radius: 12px; margin-bottom: 20px; padding: 25px 30px 25px 80px; position: relative; border-left: 5px solid #F1C40F; }
+        .bullet-list i { color: #F1C40F; font-size: 28px; position: absolute; left: 25px; top: 28px; }
+        .bullet-list li strong { color: #FFFFFF; font-size: 22px; display: block; margin-bottom: 8px; }
+
+        /* Image/SVG Wrappers */
+        .image-wrapper { border-radius: 16px; height: 400px; width: 100%; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.4); border: 1px solid rgba(255,255,255,0.1); background-color: #050B14; }
+        .slide-container.bleed-image-layout { padding: 0; flex-direction: row; align-items: stretch; }
+        .slide-container.bleed-image-layout > .content-container { padding: 60px; flex: 1; display: flex; flex-direction: column; justify-content: center; }
+        .slide-container.bleed-image-layout > .image-container { flex: 1; background-color: #050B14; border-left: 1px solid rgba(255,255,255,0.1); }
+        
+        /* Summary & QA */
+        .highlight-numbers-layout > div:first-child { flex: 0 0 35%; text-align: center; border-right: 2px solid rgba(255,255,255,0.1); padding-right: 40px; }
+        .highlight-numbers-layout .number { color: #00E5FF; font-size: 180px; font-weight: 700; line-height: 1; text-shadow: 0 0 30px rgba(0, 229, 255, 0.3); }
+        .qa-layout { text-align: center; }
+        .qa-layout i { font-size: 80px; color: #F1C40F; margin-bottom: 30px; }
+
+        /* 6. NAVIGATION CONTROLS */
+        .controls {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 1280px;
+            margin-top: 20px;
+        }
+        .btn {
+            background-color: rgba(0, 229, 255, 0.1);
+            color: #00E5FF;
+            border: 1px solid #00E5FF;
+            padding: 12px 24px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 18px;
+            font-family: 'Noto Sans KR', sans-serif;
+            font-weight: 600;
+            transition: all 0.2s;
+        }
+        .btn:hover:not(:disabled) { background-color: #00E5FF; color: #050B14; }
+        .btn:disabled { border-color: #333; color: #333; cursor: not-allowed; background: none; }
+        .progress-indicator { color: #AAB7B8; font-size: 18px; letter-spacing: 2px; }
+
+        /* 7. ANIMATIONS (Triggered when slide is active) */
+        @keyframes growUp { from { transform: scaleY(0); transform-origin: bottom; } to { transform: scaleY(1); transform-origin: bottom; } }
+        @keyframes blinkFast { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+        
+        .active .anim-candle { animation: growUp 0.8s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards; transform-origin: bottom; }
+        .active .anim-blink { animation: blinkFast 0.6s infinite; }
+    </style>
+</head>
+<body>
+
+<div id="presentation-area">
+
+    <!-- Slide 1: Title -->
+    <div class="slide-container active">
+        <div class="title-layout">
+            <div class="badge">주식단테(DANTE) 실전 매매 기법</div>
+            <h1>기술적 분석 마스터 클래스</h1>
+            <h3 style="font-size: 36px; margin-top: 10px; margin-bottom: 30px; color: #00E5FF;">제1강. 투자의 내비게이션</h3>
+            <p class="subtitle">매매 포지션 확립과 차트 기본 설정<br>초보자를 위한 완벽 가이드</p>
+        </div>
+    </div>
+
+    <!-- Slide 2: Part 1 -->
+    <div class="slide-container">
+        <div class="section-title-layout">
+            <p style="color: #00E5FF; font-size: 24px;">Part 1.</p>
+            <h2>매매 포지션 확립</h2>
+            <hr>
+            <p style="color: #AAB7B8; font-size: 22px; margin-top: 10px;">나의 성향과 자금에 맞는 '투자 옷' 입기</p>
+        </div>
+    </div>
+
+    <!-- Slide 3: Position -->
+    <div class="slide-container">
+        <h2 class="slide-title">나에게 맞는 매매 포지션은?</h2>
+        <div class="content-area">
+            <div class="tiled-content">
+                <div class="tile">
+                    <div class="icon"><i class="fa-solid fa-bolt"></i></div>
+                    <h3>단타 (초단기)</h3>
+                    <p>당일 매수하여 당일 매도하는 기법입니다. 빠른 판단력과 장중 지속적인 모니터링이 가능하신 분들께 적합합니다.</p>
+                </div>
+                <div class="tile" style="border-color: #F1C40F;">
+                    <div class="icon" style="color: #F1C40F; background: rgba(241, 196, 15, 0.1);"><i class="fa-solid fa-calendar-days"></i></div>
+                    <h3 style="color: #FFFFFF;">스윙 (단기~중기)</h3>
+                    <p>며칠에서 1~2주 정도 보유하는 기법입니다. 호가창을 계속 볼 수 없는 <span class="highlight-text">직장인 분들에게 가장 추천</span>하는 매매 형태입니다.</p>
+                </div>
+                <div class="tile">
+                    <div class="icon"><i class="fa-solid fa-seedling"></i></div>
+                    <h3>중장기 (장기)</h3>
+                    <p>수개월에서 년 단위로 보유합니다. 기업의 가치와 큰 차트의 흐름을 믿고 여유 자금으로 길게 투자하는 방식입니다.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Slide 4: Part 2 -->
+    <div class="slide-container">
+        <div class="section-title-layout">
+            <p style="color: #00E5FF; font-size: 24px;">Part 2.</p>
+            <h2>차트의 뼈대 세우기</h2>
+            <hr>
+            <p style="color: #AAB7B8; font-size: 22px; margin-top: 10px;">단테 기법의 핵심, 장기 이동평균선 설정</p>
+        </div>
+    </div>
+
+    <!-- Slide 5: MA -->
+    <div class="slide-container">
+        <h2 class="slide-title">단테표 장기 이동평균선 (이평선)</h2>
+        <div class="content-area">
+            <p style="margin-bottom: 30px; text-align: left; width: 100%; max-width: 1000px;">이동평균선은 일정 기간 동안의 '평균 주가'를 선으로 연결한 것입니다. 단테 기법에서는 세력의 흐름을 파악하기 위해 일반적인 설정과 다른 특수한 수치를 사용합니다.</p>
+            <div class="bullet-list">
+                <ul>
+                    <li><i class="fa-solid fa-chart-line"></i><strong>112일선 (약 6개월의 평균)</strong>반년 동안의 평균 가격입니다. 하락하던 주가가 상승으로 꺾이는 단기적인 추세 전환점을 파악할 때 유용하게 쓰입니다.</li>
+                    <li style="border-left-color: #00E5FF;"><i class="fa-solid fa-star" style="color: #00E5FF;"></i><strong>224일선 (약 1년의 평균) - <span class="cyan-text">가장 중요!</span></strong>1년 동안의 평균 가격으로 주가의 뼈대 역할을 합니다. 주가의 절대적인 지지와 저항 라인이 되며, 매매의 기준점이 됩니다.</li>
+                    <li><i class="fa-solid fa-anchor"></i><strong>448일선 (약 2년의 평균)</strong>2년 동안의 평균 가격입니다. 아주 강력한 장기 추세를 판단하는 지표로, 큰 시세가 나오는 종목을 발굴할 때 참고합니다.</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <!-- Slide 6: MA Chart (Animated) -->
+    <div class="slide-container bleed-image-layout">
+        <div class="content-container">
+            <h2 class="slide-title" style="margin-bottom: 20px;">224일선의 절대적 의미</h2>
+            <div class="content-area" style="align-items: flex-start; text-align: left;">
+                <div class="bleed-text-side">
+                    <h3 style="color: #F1C40F; margin-bottom: 25px; font-size: 32px;">"주가의 생명선이자 기준선"</h3>
+                    <p>주가가 224일선 <strong>아래</strong>에 있다면 물(바다) 속에 있는 것과 같습니다. 수압(매도세)이 강해 상승하기 힘들고 시간이 오래 걸립니다.</p>
+                    <p>하지만 주가가 224일선을 강력하게 <strong>뚫고 올라온다면(돌파)</strong>, 물 밖으로 나와 숨을 쉬며 날아갈 준비를 하는 <span class="cyan-text">'추세 전환'의 강력한 신호</span>입니다.</p>
+                    <p>따라서 초보자분들은 항상 <span class="highlight-text">224일선 근처 또는 그 위</span>에서 움직이는 종목을 매매하는 습관을 들여야 합니다.</p>
+                </div>
+            </div>
+        </div>
+        <div class="image-container">
+            <svg viewBox="0 0 600 720" style="width: 100%; height: 100%;" xmlns="http://www.w3.org/2000/svg">
+                <defs>
+                    <pattern id="grid1" width="50" height="50" patternUnits="userSpaceOnUse">
+                        <path d="M 50 0 L 0 0 0 50" fill="none" stroke="rgba(255,255,255,0.03)" stroke-width="1"/>
+                    </pattern>
+                </defs>
+                <rect width="100%" height="100%" fill="url(#grid1)" />
+                
+                <!-- 224 MA -->
+                <path d="M 0 450 C 200 500, 350 480, 600 350" fill="none" stroke="#F1C40F" stroke-width="6" stroke-linecap="round"/>
+                <text x="440" y="330" fill="#F1C40F" font-size="22" font-weight="bold">224일선 (생명선)</text>
+                
+                <!-- Below MA -->
+                <g fill="#3366FF" stroke="#3366FF" stroke-width="2">
+                    <rect x="80" y="520" width="24" height="40"/><line x1="92" y1="500" x2="92" y2="580"/>
+                    <rect x="140" y="550" width="24" height="20" fill="#FF3333" stroke="#FF3333"/><line x1="152" y1="530" x2="152" y2="590" stroke="#FF3333"/>
+                    <rect x="200" y="530" width="24" height="50"/><line x1="212" y1="510" x2="212" y2="600"/>
+                </g>
+                <text x="100" y="650" fill="#AAB7B8" font-size="20">수압이 강한 "물 속"</text>
+
+                <!-- ANIMATED BREAKOUT -->
+                <g class="anim-candle" transform="translate(0,0)">
+                    <line x1="322" y1="280" x2="322" y2="520" stroke="#FF3333" stroke-width="2"/>
+                    <rect x="310" y="300" width="24" height="200" fill="#FF3333"/>
+                </g>
+                
+                <!-- Highlight -->
+                <g class="anim-blink">
+                    <circle cx="322" cy="465" r="40" fill="none" stroke="#00E5FF" stroke-width="3" stroke-dasharray="5,5"/>
+                    <text x="350" y="270" fill="#00E5FF" font-size="26" font-weight="bold">강력한 돌파! (매수 급소)</text>
+                    <path d="M 370 290 L 335 320" fill="none" stroke="#00E5FF" stroke-width="2"/>
+                </g>
+
+                <!-- Above MA -->
+                <g fill="#FF3333" stroke="#FF3333" stroke-width="2">
+                    <rect x="400" y="240" width="24" height="40"/><line x1="412" y1="220" x2="412" y2="300"/>
+                    <rect x="460" y="200" width="24" height="30"/><line x1="472" y1="180" x2="472" y2="250"/>
+                </g>
+            </svg>
+        </div>
+    </div>
+
+    <!-- Slide 7: Part 3 -->
+    <div class="slide-container">
+        <div class="section-title-layout">
+            <p style="color: #00E5FF; font-size: 24px;">Part 3.</p>
+            <h2>보조 지표 활용법</h2>
+            <hr>
+            <p style="color: #AAB7B8; font-size: 22px; margin-top: 10px;">일목균형표 구름대와 볼린저 밴드</p>
+        </div>
+    </div>
+
+    <!-- Slide 8: Ichimoku -->
+    <div class="slide-container">
+        <h2 class="slide-title">일목균형표 : 날씨로 이해하는 구름대</h2>
+        <div class="content-area">
+            <div class="two-column">
+                <div>
+                    <p style="margin-bottom: 20px;">차트에 색칠된 영역을 '구름대'라고 부릅니다. 실제 날씨와 비교하면 이해하기 매우 쉽습니다.</p>
+                    <ul>
+                        <li><strong>구름 아래 (먹구름 낀 날) :</strong> 주가가 구름대 아래에 있으면 비가 오는 것과 같습니다. 악성 매물(저항)이 많아 주가가 상승하기 매우 어렵습니다.</li>
+                        <li><strong>구름 돌파 (구름 뚫기) :</strong> 답답한 비구름을 강하게 뚫고 올라가는 순간이 바로 수익을 낼 수 있는 <span class="cyan-text">매수 타점의 기초</span>가 됩니다.</li>
+                        <li><strong>구름 위 (맑은 하늘) :</strong> 주가가 구름대 위에 안착하면 햇빛이 비치는 맑은 하늘입니다. 구름이 푹신한 매트리스(지지선) 역할을 하여 주가가 가볍게 상승할 수 있습니다.</li>
+                    </ul>
+                </div>
+                <div>
+                    <div class="image-wrapper">
+                        <svg viewBox="0 0 600 400" style="width: 100%; height: 100%;" xmlns="http://www.w3.org/2000/svg">
+                            <defs>
+                                <pattern id="grid2" width="40" height="40" patternUnits="userSpaceOnUse">
+                                    <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(255,255,255,0.03)" stroke-width="1"/>
+                                </pattern>
+                            </defs>
+                            <rect width="100%" height="100%" fill="url(#grid2)" />
+                            <polygon points="0,150 150,180 250,120 200,50 50,80" fill="rgba(51, 102, 255, 0.2)" stroke="#3366FF" stroke-width="2"/>
+                            <text x="60" y="120" fill="#3366FF" font-size="18" font-weight="bold">먹구름 (악성 매물)</text>
+                            <polygon points="300,280 450,220 580,250 500,350 350,330" fill="rgba(255, 51, 51, 0.2)" stroke="#FF3333" stroke-width="2"/>
+                            <text x="400" y="290" fill="#FF3333" font-size="18" font-weight="bold">맑은 구름 (지지선)</text>
+                            <path d="M 50 250 L 150 220 L 250 100 L 350 180 L 450 150 L 550 80" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-dasharray="6,6"/>
+                            <circle cx="250" cy="100" r="8" fill="#00E5FF"/>
+                            <text x="180" y="80" fill="#00E5FF" font-size="16" font-weight="bold">구름 돌파!</text>
+                            <circle cx="350" cy="180" r="8" fill="#F1C40F"/>
+                            <text x="360" y="170" fill="#F1C40F" font-size="16" font-weight="bold">구름 위 안착</text>
+                        </svg>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Slide 9: Bollinger (Animated) -->
+    <div class="slide-container">
+        <h2 class="slide-title">볼린저 밴드 : 주가의 고속도로</h2>
+        <div class="content-area">
+            <div class="two-column">
+                <div>
+                    <p style="margin-bottom: 20px;">볼린저 밴드는 주가가 움직이는 '길'입니다. 상단선, 하단선, 중심선으로 구성됩니다.</p>
+                    <ul>
+                        <li><strong>밴드 내 이동 :</strong> 주가 움직임의 <span class="highlight-text">약 95%는 밴드 안</span>에서 이루어집니다. 이 길을 벗어나는 것은 강한 힘이 발생했다는 뜻입니다.</li>
+                        <li><strong>수렴 (에너지 응축) :</strong> 밴드의 폭이 좁아지는 구간은 주가가 힘을 모으고 있는 상태입니다. 조만간 위든 아래든 크게 방향이 터집니다.</li>
+                        <li><strong>돌파와 지지 :</strong> 주가가 좁아진 밴드 상단을 <span class="cyan-text">강하게 돌파</span>할 때가 시세 분출의 시작입니다.</li>
+                    </ul>
+                </div>
+                <div>
+                    <div class="image-wrapper">
+                        <svg viewBox="0 0 600 400" style="width: 100%; height: 100%;" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M 0 100 Q 200 180, 300 180 T 600 50 L 600 350 Q 400 300, 300 220 T 0 300 Z" fill="rgba(241, 196, 15, 0.05)"/>
+                            <path d="M 0 100 Q 200 180, 300 180 T 600 50" fill="none" stroke="#F1C40F" stroke-width="2"/>
+                            <path d="M 0 200 Q 200 240, 300 200 T 600 150" fill="none" stroke="#FFFFFF" stroke-width="1" stroke-dasharray="4,4"/>
+                            <path d="M 0 300 Q 200 300, 300 220 T 600 350" fill="none" stroke="#F1C40F" stroke-width="2"/>
+                            <text x="250" y="160" fill="#AAB7B8" font-size="16" font-weight="bold">수렴 (에너지 응축)</text>
+                            
+                            <!-- Static small candles -->
+                            <rect x="280" y="185" width="12" height="20" fill="#FF3333"/>
+                            <rect x="330" y="160" width="12" height="30" fill="#FF3333"/>
+                            
+                            <!-- Animated Breakout Candles -->
+                            <g class="anim-candle">
+                                <rect x="380" y="120" width="12" height="35" fill="#FF3333"/>
+                                <rect x="430" y="80" width="12" height="40" fill="#FF3333"/>
+                                <rect x="480" y="30" width="12" height="50" fill="#FF3333"/>
+                                <line x1="486" y1="10" x2="486" y2="90" stroke="#FF3333" stroke-width="2"/>
+                            </g>
+                            
+                            <text x="450" y="70" fill="#00E5FF" font-size="18" font-weight="bold" class="anim-blink">상단 밴드 돌파!</text>
+                        </svg>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Slide 10: Summary -->
+    <div class="slide-container">
+        <h2 class="slide-title">제1강 핵심 요약</h2>
+        <div class="content-area">
+            <div class="two-column highlight-numbers-layout">
+                <div><div class="number">3</div><div class="number-label">차트 세팅 완료 단계</div></div>
+                <div style="display: flex; flex-direction: column; gap: 20px;">
+                    <h3 style="color: #FFFFFF; font-size: 32px; margin-bottom: 10px;">본격적인 매매 전 필수 점검!</h3>
+                    <p style="font-size: 22px; margin: 0;"><span class="cyan-text">Step 1.</span> 나의 자금과 시간에 맞는 <strong>매매 포지션</strong> 정하기</p>
+                    <p style="font-size: 22px; margin: 0;"><span class="cyan-text">Step 2.</span> 기준 뼈대인 <strong>112일, 224일, 448일 이평선</strong> 설정하기</p>
+                    <p style="font-size: 22px; margin: 0;"><span class="cyan-text">Step 3.</span> <strong>구름대(저항/지지)</strong>와 <strong>볼린저 밴드(수렴/확장)</strong> 추가하기</p>
+                    <p style="color: #F1C40F; margin-top: 15px; font-size: 20px;">* 이 세팅이 끝나야 차트를 '분석'할 수 있습니다.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Slide 11: QA -->
+    <div class="slide-container">
+        <div class="qa-layout">
+            <i class="fa-solid fa-chart-pie"></i>
+            <h2>질문 있으신가요?</h2>
+            <p style="margin-top: 20px; font-size: 22px; color: #FFFFFF;">수고하셨습니다. 차트 세팅을 모두 마치셨다면 완벽합니다.</p>
+            <p style="margin-top: 10px; color: #00E5FF;">다음 제2강에서는 <strong>'세력의 매집 패턴 파악(밥그릇 기법)'</strong>에 대해 알아보겠습니다.</p>
+        </div>
+    </div>
+
+</div> <!-- End presentation-area -->
+
+<!-- Controls -->
+<div class="controls">
+    <button class="btn" id="prevBtn" onclick="changeSlide(-1)" disabled><i class="fa-solid fa-chevron-left"></i> 이전</button>
+    <div class="progress-indicator" id="progressText">1 / 11</div>
+    <button class="btn" id="nextBtn" onclick="changeSlide(1)">다음 <i class="fa-solid fa-chevron-right"></i></button>
+</div>
+
+<script>
+    let currentSlide = 0;
+    const slides = document.querySelectorAll('.slide-container');
+    const totalSlides = slides.length;
+    const prevBtn = document.getElementById('prevBtn');
+    const nextBtn = document.getElementById('nextBtn');
+    const progressText = document.getElementById('progressText');
+
+    function updatePresentation() {
+        // Update Slides
+        slides.forEach((slide, index) => {
+            if (index === currentSlide) {
+                slide.classList.add('active');
+                // Force animation replay hack by re-inserting the node
+                const animatedElements = slide.querySelectorAll('.anim-candle, .anim-blink');
+                animatedElements.forEach(el => {
+                    el.style.animation = 'none';
+                    el.offsetHeight; /* trigger reflow */
+                    el.style.animation = null; 
+                });
+            } else {
+                slide.classList.remove('active');
+            }
+        });
+
+        // Update UI
+        progressText.innerText = `${currentSlide + 1} / ${totalSlides}`;
+        prevBtn.disabled = currentSlide === 0;
+        nextBtn.disabled = currentSlide === totalSlides - 1;
+    }
+
+    function changeSlide(direction) {
+        currentSlide += direction;
+        if (currentSlide < 0) currentSlide = 0;
+        if (currentSlide >= totalSlides) currentSlide = totalSlides - 1;
+        updatePresentation();
+    }
+
+    // Keyboard navigation
+    document.addEventListener('keydown', (e) => {
+        if (e.key === 'ArrowRight' || e.key === ' ') changeSlide(1);
+        if (e.key === 'ArrowLeft') changeSlide(-1);
+    });
+</script>
+
+</body>
+</html>
