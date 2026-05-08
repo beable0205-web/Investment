@@ -1,0 +1,41 @@
+name: Daily AI Researcher (Auto Crawl & Learn)
+
+on:
+  schedule:
+    # 매일 한국 시간 오전 7시 (UTC 22:00)에 실행
+    - cron: '0 22 * * *'
+  
+  # 수동으로 즉시 학습을 지시할 수 있는 버튼 활성화
+  workflow_dispatch:
+
+jobs:
+  auto-research:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Trigger AI Analysis and Archive
+        run: |
+          # Vercel 등 실제 배포된 서버의 URL로 변경 필요 (예: https://my-invest-ai.vercel.app)
+          # GitHub Secrets에 PRODUCTION_URL을 등록해두면 안전하게 사용할 수 있습니다.
+          API_URL="${{ secrets.PRODUCTION_URL }}"
+          
+          if [ -z "$API_URL" ]; then
+            echo "Warning: PRODUCTION_URL secret is not set. Using fallback for demonstration."
+            echo "Please set your deployed Vercel domain in GitHub Secrets."
+            exit 0
+          fi
+
+          echo "Waking up AI Mentor to crawl news and macro data..."
+          response=$(curl -s -w "\nHTTP_STATUS:%{http_code}" "$API_URL/api/analyze")
+          
+          http_status=$(echo "$response" | grep "HTTP_STATUS" | cut -d':' -f2)
+          body=$(echo "$response" | sed '/HTTP_STATUS/d')
+          
+          if [ "$http_status" -eq 200 ]; then
+            echo "✅ AI Learning Complete! Daily archive has been saved."
+            echo "Response snippet: ${body:0:200}..."
+          else
+            echo "❌ Failed to trigger AI Analysis. HTTP Status: $http_status"
+            echo "Error Details: $body"
+            exit 1
+          fi

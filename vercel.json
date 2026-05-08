@@ -1,0 +1,12 @@
+{
+  "crons": [
+    {
+      "path": "/api/podcast",
+      "schedule": "0 22 * * *" 
+    },
+    {
+      "path": "/api/analyze",
+      "schedule": "0 22 * * *" 
+    }
+  ]
+}

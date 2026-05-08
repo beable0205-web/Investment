@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>기술적 분석 마스터 클래스 - 제2강</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <style>
+        /* 1. RESET & BASE */
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            background-color: #050B14;
+            display: flex; flex-direction: column; align-items: center; justify-content: center;
+            height: 100vh; font-family: 'Noto Sans KR', sans-serif; overflow: hidden;
+        }
+
+        /* 2. PRESENTATION WRAPPER */
+        #presentation-area {
+            position: relative; width: 1280px; height: 720px;
+            background-color: #0B132B; border-radius: 12px; box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5); overflow: hidden;
+        }
+
+        /* 3. SLIDE STYLES */
+        .slide-container {
+            display: none; flex-direction: column; align-items: center; justify-content: center;
+            width: 100%; height: 100%; padding: 60px; position: absolute; top: 0; left: 0;
+            opacity: 0; transition: opacity 0.3s ease-in-out;
+        }
+        .slide-container.active { display: flex; opacity: 1; z-index: 10; }
+
+        .slide-container::before {
+            content: ''; position: absolute; top: 0; left: 0; right: 0; bottom: 0;
+            background-image: linear-gradient(rgba(255, 255, 255, 0.02) 1px, transparent 1px), linear-gradient(90deg, rgba(255, 255, 255, 0.02) 1px, transparent 1px);
+            background-size: 40px 40px; z-index: 0; pointer-events: none;
+        }
+        .slide-container::after {
+            content: ''; position: absolute; top: 0; right: 0; width: 600px; height: 600px;
+            background: radial-gradient(circle, rgba(241, 196, 15, 0.05) 0%, transparent 70%);
+            border-radius: 50%; transform: translate(20%, -20%); z-index: 0; pointer-events: none;
+        }
+        .slide-container > * { position: relative; z-index: 1; }
+
+        /* 4. TYPOGRAPHY */
+        h1, h2, h3 { color: #FFFFFF; font-weight: 700; letter-spacing: -0.5px; word-break: keep-all; }
+        h1, .number { font-family: 'Poppins', 'Noto Sans KR', sans-serif; }
+        p, li, .subtitle { color: #EAECEE; font-weight: 400; line-height: 1.6; word-break: keep-all; }
+        h1 { font-size: 64px; line-height: 1.2; margin-bottom: 20px; }
+        .slide-title { font-size: 44px; font-weight: 700; margin-bottom: 40px; text-align: left; width: 100%; color: #F1C40F; }
+        h3 { font-size: 28px; margin-bottom: 15px; color: #00E5FF; }
+        p, li { font-size: 20px; }
+        .content-area { display: flex; flex-direction: column; flex-grow: 1; justify-content: center; width: 100%; align-items: center; }
+        .highlight-text { color: #00E5FF; font-weight: 700; }
+        .gold-text { color: #F1C40F; font-weight: 700; }
+        .red-text { color: #FF3333; font-weight: 700; }
+
+        /* 5. LAYOUTS */
+        .title-layout { text-align: center; }
+        .title-layout .badge { display: inline-block; background-color: rgba(241, 196, 15, 0.1); color: #F1C40F; padding: 8px 20px; border-radius: 30px; font-size: 18px; font-weight: 700; margin-bottom: 25px; border: 1px solid rgba(241, 196, 15, 0.3); }
+        .section-title-layout { text-align: center; }
+        .section-title-layout h2 { font-size: 56px; margin-bottom: 20px; color: #FFFFFF; }
+        .section-title-layout hr { background-color: #00E5FF; border: none; height: 4px; margin: 30px auto; width: 80px; border-radius: 2px; }
+
+        .two-column { display: grid; grid-template-columns: 1fr 1fr; gap: 60px; width: 100%; align-items: center; }
+        .two-column ul { list-style: none; }
+        .two-column li { margin-bottom: 25px; position: relative; padding-left: 30px; }
+        .two-column li::before { content: '\f0da'; font-family: 'Font Awesome 6 Free'; font-weight: 900; color: #F1C40F; position: absolute; left: 0; top: 2px; }
+        
+        .image-wrapper { border-radius: 16px; height: 400px; width: 100%; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.4); border: 1px solid rgba(255,255,255,0.1); background-color: #050B14; }
+        .slide-container.bleed-image-layout { padding: 0; flex-direction: row; align-items: stretch; }
+        .slide-container.bleed-image-layout > .content-container { padding: 60px; flex: 1; display: flex; flex-direction: column; justify-content: center; }
+        .slide-container.bleed-image-layout > .image-container { flex: 1; background-color: #050B14; border-left: 1px solid rgba(255,255,255,0.1); }
+        .bleed-text-side p { margin-bottom: 1.5rem; font-size: 22px; }
+
+        /* Grid specific for Rice Bowl stages */
+        .stage-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; width: 100%; }
+        .stage-card { background: #1C2541; padding: 30px 20px; border-radius: 12px; text-align: center; border-top: 4px solid #333; }
+        .stage-card h3 { font-size: 24px; margin-bottom: 15px; color: #FFF; }
+        .stage-card.s1 { border-color: #3366FF; }
+        .stage-card.s2 { border-color: #AAB7B8; }
+        .stage-card.s3 { border-color: #F1C40F; }
+        .stage-card.s4 { border-color: #FF3333; }
+
+        .controls { display: flex; justify-content: space-between; align-items: center; width: 1280px; margin-top: 20px; }
+        .btn { background-color: rgba(241, 196, 15, 0.1); color: #F1C40F; border: 1px solid #F1C40F; padding: 12px 24px; border-radius: 8px; cursor: pointer; font-size: 18px; font-weight: 600; transition: all 0.2s; }
+        .btn:hover:not(:disabled) { background-color: #F1C40F; color: #050B14; }
+        .btn:disabled { border-color: #333; color: #333; cursor: not-allowed; background: none; }
+        .progress-indicator { color: #AAB7B8; font-size: 18px; letter-spacing: 2px; }
+
+        /* ANIMATIONS */
+        @keyframes drawPath { from { stroke-dashoffset: 1000; } to { stroke-dashoffset: 0; } }
+        @keyframes popUp { 0% { transform: scaleY(0); } 100% { transform: scaleY(1); } }
+        @keyframes fadeBlink { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; } }
+        @keyframes slideRight { from { transform: translateX(-20px); opacity: 0; } to { transform: translateX(0); opacity: 1; } }
+
+        .active .anim-path { stroke-dasharray: 1000; stroke-dashoffset: 1000; animation: drawPath 2s ease-out forwards; }
+        .active .anim-candle { transform-origin: bottom; animation: popUp 0.8s cubic-bezier(0.2, 0.8, 0.2, 1) forwards; }
+        .active .anim-candle-down { transform-origin: top; animation: popUp 0.8s cubic-bezier(0.2, 0.8, 0.2, 1) forwards; }
+        .active .anim-blink { animation: fadeBlink 1.5s infinite; }
+        .active .anim-delay-1 { animation-delay: 0.5s; }
+        .active .anim-delay-2 { animation-delay: 1.0s; }
+        .active .anim-delay-3 { animation-delay: 1.5s; }
+        
+    </style>
+</head>
+<body>
+
+<div id="presentation-area">
+
+    <div class="slide-container active">
+        <div class="title-layout">
+            <div class="badge">주식단테(DANTE) 실전 매매 기법</div>
+            <h1>기술적 분석 마스터 클래스</h1>
+            <h3 style="font-size: 36px; margin-top: 10px; margin-bottom: 30px; color: #F1C40F;">제2강. 세력의 발자국 읽기</h3>
+            <p class="subtitle">밥그릇 패턴의 이해와 대시세 초입 공략법</p>
+        </div>
+    </div>
+
+    <div class="slide-container">
+        <div class="section-title-layout">
+            <p style="color: #F1C40F; font-size: 24px;">Part 1.</p>
+            <h2>밥그릇 4단계 이론</h2>
+            <hr>
+            <p style="color: #AAB7B8; font-size: 22px; margin-top: 10px;">주가의 하락이 멈추고 대시세가 나기 전의 공통 패턴</p>
+        </div>
+    </div>
+
+    <div class="slide-container">
+        <h2 class="slide-title" style="text-align: center; margin-bottom: 20px;">세력의 매집과 슈팅: 밥그릇 패턴</h2>
+        <div class="content-area">
+            <div class="image-wrapper" style="height: 350px; margin-bottom: 30px;">
+                <svg viewBox="0 0 1000 350" style="width: 100%; height: 100%;" xmlns="http://www.w3.org/2000/svg">
+                    <defs>
+                        <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(255,255,255,0.03)"/></pattern>
+                    </defs>
+                    <rect width="100%" height="100%" fill="url(#grid)" />
+                    
+                    <path d="M 50 150 Q 400 280, 950 250" fill="none" stroke="#F1C40F" stroke-width="4" stroke-dasharray="8,8" />
+                    <text x="850" y="240" fill="#F1C40F" font-size="16" font-weight="bold">224일선</text>
+
+                    <path d="M 50 50 L 250 280 L 550 280 L 650 180 L 720 230 L 900 50" fill="none" stroke="#FFFFFF" stroke-width="3" class="anim-path" />
+                    
+                    <rect x="50" y="20" width="200" height="310" fill="rgba(51, 102, 255, 0.05)" />
+                    <text x="130" y="320" fill="#3366FF" font-size="20" font-weight="bold">1번 (투매)</text>
+                    
+                    <rect x="250" y="20" width="300" height="310" fill="rgba(255, 255, 255, 0.02)" />
+                    <text x="380" y="320" fill="#AAB7B8" font-size="20" font-weight="bold">2번 (매집/횡보)</text>
+                    
+                    <rect x="550" y="20" width="170" height="310" fill="rgba(241, 196, 15, 0.05)" />
+                    <text x="580" y="320" fill="#F1C40F" font-size="20" font-weight="bold">3번 (출발/흔들기)</text>
+                    
+                    <rect x="720" y="20" width="230" height="310" fill="rgba(255, 51, 51, 0.05)" />
+                    <text x="800" y="320" fill="#FF3333" font-size="20" font-weight="bold">4번 (슈팅)</text>
+
+                    <g transform="translate(650, 180)" class="anim-candle anim-delay-1"><circle cx="0" cy="0" r="8" fill="#F1C40F"/></g>
+                    <g transform="translate(720, 230)" class="anim-candle anim-delay-2"><circle cx="0" cy="0" r="8" fill="#00E5FF"/></g>
+                </svg>
+            </div>
+            
+            <div class="stage-grid">
+                <div class="stage-card s1">
+                    <h3 style="color: #3366FF;">1번: 하락 (투매)</h3>
+                    <p style="font-size: 16px;">악재나 시장 하락으로 주가가 224일선 아래로 급락하는 구간. (절대 매수 금지)</p>
+                </div>
+                <div class="stage-card s2">
+                    <h3 style="color: #AAB7B8;">2번: 횡보 (매집)</h3>
+                    <p style="font-size: 16px;">하락이 멈추고 거래량이 마르며 바닥을 다지는 구간. 세력이 물량을 모으는 시기.</p>
+                </div>
+                <div class="stage-card s3">
+                    <h3 style="color: #F1C40F;">3번: 흔들기 (타점)</h3>
+                    <p style="font-size: 16px;">주가가 224일선을 돌파하며 고개를 드는 <span class="gold-text">핵심 매수 구간</span>. 변동성이 커집니다.</p>
+                </div>
+                <div class="stage-card s4">
+                    <h3 style="color: #FF3333;">4번: 슈팅 (수익)</h3>
+                    <p style="font-size: 16px;">본격적인 대시세가 터지는 구간. 보유자의 영역이며 분할 매도로 대응합니다.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="slide-container">
+        <div class="section-title-layout">
+            <p style="color: #F1C40F; font-size: 24px;">Part 2.</p>
+            <h2>치트키 '3번 자리' 공략</h2>
+            <hr>
+            <p style="color: #AAB7B8; font-size: 22px; margin-top: 10px;">개미가 만들 수 없는 비정상적 흐름, 세력의 진짜 의도 파악하기</p>
+        </div>
+    </div>
+
+    <div class="slide-container bleed-image-layout">
+        <div class="content-container">
+            <h2 class="slide-title" style="margin-bottom: 20px;">3번 자리의 핵심: "개미털기"</h2>
+            <div class="content-area" style="align-items: flex-start; text-align: left;">
+                <div class="bleed-text-side">
+                    <h3 style="color: #F1C40F; margin-bottom: 25px; font-size: 32px;">돌파 후 안착(눌림목)을 노려라</h3>
+                    <p>3번 자리는 224일선을 강력한 거래량과 함께 돌파하며 시작됩니다. 하지만 세력은 개인 투자자들을 데리고 올라가지 않습니다.</p>
+                    <p>돌파 직후, 고의로 주가를 빼서 224일선(또는 112일선) 근처까지 <span class="red-text">지지 테스트(N자형 눌림목)</span>를 합니다. 공포에 질린 단기 투자자들의 물량을 뺏는 <strong>'개미털기'</strong> 과정입니다.</p>
+                    <p><i class="fa-solid fa-check" style="color: #00E5FF;"></i> <span class="highlight-text">실전 타점:</span> 돌파할 때 추격 매수하지 말고, 다시 내려와서 224일선의 지지를 받을 때 매수하는 것이 가장 안전하고 승률이 높습니다.</p>
+                </div>
+            </div>
+        </div>
+        <div class="image-container">
+            <svg viewBox="0 0 600 720" style="width: 100%; height: 100%;" xmlns="http://www.w3.org/2000/svg">
+                <defs><pattern id="grid2" width="50" height="50" patternUnits="userSpaceOnUse"><path d="M 50 0 L 0 0 0 50" fill="none" stroke="rgba(255,255,255,0.03)"/></pattern></defs>
+                <rect width="100%" height="100%" fill="url(#grid2)" />
+                
+                <path d="M 0 450 Q 300 450, 600 420" fill="none" stroke="#F1C40F" stroke-width="5" />
+                <text x="480" y="400" fill="#F1C40F" font-size="24" font-weight="bold">224일 지지선</text>
+
+                <path d="M 50 550 L 150 540 L 250 520" fill="none" stroke="#AAB7B8" stroke-width="2" />
+                
+                <g class="anim-candle" style="animation-delay: 0.2s;" transform="translate(0, 0)">
+                    <rect x="270" y="300" width="30" height="220" fill="#FF3333" />
+                    <line x1="285" y1="260" x2="285" y2="540" stroke="#FF3333" stroke-width="3" />
+                    <text x="250" y="240" fill="#FF3333" font-size="20" font-weight="bold">1차 돌파 (세력개입)</text>
+                </g>
+
+                <g class="anim-candle-down" style="animation-delay: 1.2s; opacity: 0; animation-fill-mode: forwards;" transform="translate(0, 0)">
+                    <rect x="350" y="320" width="24" height="110" fill="#3366FF" />
+                    <line x1="362" y1="300" x2="362" y2="440" stroke="#3366FF" stroke-width="3" />
+                    <path d="M 320 280 Q 340 350, 360 420" fill="none" stroke="#3366FF" stroke-width="2" stroke-dasharray="5,5" marker-end="url(#arrow)"/>
+                    <text x="380" y="360" fill="#3366FF" font-size="18">개미털기 (공포)</text>
+                </g>
+
+                <g class="anim-blink" style="animation-delay: 2.2s; opacity: 0; animation-fill-mode: forwards;">
+                    <circle cx="430" cy="435" r="30" fill="rgba(0, 229, 255, 0.2)" stroke="#00E5FF" stroke-width="3" />
+                    <rect x="420" y="400" width="20" height="40" fill="#FF3333" />
+                    <text x="460" y="470" fill="#00E5FF" font-size="26" font-weight="bold">정확한 타점 (지지 확인)</text>
+                </g>
+
+                <g class="anim-candle" style="animation-delay: 3.2s; opacity: 0; animation-fill-mode: forwards;">
+                    <rect x="490" y="150" width="40" height="250" fill="#FF3333" />
+                    <line x1="510" y1="100" x2="510" y2="420" stroke="#FF3333" stroke-width="4" />
+                </g>
+            </svg>
+        </div>
+    </div>
+
+    <div class="slide-container">
+        <div class="section-title-layout">
+            <p style="color: #F1C40F; font-size: 24px;">Part 3.</p>
+            <h2>우량주 vs 세력주</h2>
+            <hr>
+            <p style="color: #AAB7B8; font-size: 22px; margin-top: 10px;">종목 성격에 따른 밥그릇 모양의 차이와 대응 전략</p>
+        </div>
+    </div>
+
+    <div class="slide-container">
+        <h2 class="slide-title">종목별 밥그릇 형태 비교</h2>
+        <div class="content-area">
+            <div class="two-column">
+                <div style="background: #1C2541; padding: 40px; border-radius: 16px; border-top: 5px solid #3366FF;">
+                    <h3 style="color: #3366FF; text-align: center; margin-bottom: 20px;">대형 우량주 (완만한 대접)</h3>
+                    <svg viewBox="0 0 400 200" style="width: 100%; height: 150px; margin-bottom: 20px;">
+                        <path d="M 20 50 Q 200 250, 380 50" fill="none" stroke="#FFFFFF" stroke-width="3" />
+                        <path d="M 0 120 L 400 120" fill="none" stroke="#F1C40F" stroke-width="2" stroke-dasharray="5,5" />
+                    </svg>
+                    <ul style="font-size: 18px;">
+                        <li><strong>형태:</strong> 1번과 2번 구간이 매우 길고 완만함 (냉면 대접 형태).</li>
+                        <li><strong>특징:</strong> 3번 자리 흔들기의 변동폭이 작고, 상승도 천천히 이루어짐.</li>
+                        <li><strong>대응:</strong> 시드가 크고 장기 투자를 선호하는 경우 2번 후반 ~ 3번 초입에 모아가는 전략.</li>
+                    </ul>
+                </div>
+                
+                <div style="background: #1C2541; padding: 40px; border-radius: 16px; border-top: 5px solid #FF3333;">
+                    <h3 style="color: #FF3333; text-align: center; margin-bottom: 20px;">중소형 세력주 (날카로운 종이컵)</h3>
+                    <svg viewBox="0 0 400 200" style="width: 100%; height: 150px; margin-bottom: 20px;">
+                        <path d="M 20 20 L 100 170 L 250 170 L 280 100 L 320 160 L 380 20" fill="none" stroke="#FFFFFF" stroke-width="3" />
+                        <path d="M 0 100 L 400 100" fill="none" stroke="#F1C40F" stroke-width="2" stroke-dasharray="5,5" />
+                    </svg>
+                    <ul style="font-size: 18px;">
+                        <li><strong>형태:</strong> 하락(1번)이 가파르고 매집(2번)이 짧으며, 흔들기(3번)가 뾰족함 (종이컵 형태).</li>
+                        <li><strong>특징:</strong> 세력의 의도대로 롤러코스터 같은 변동성을 보이며 단기간에 슈팅(4번) 발생.</li>
+                        <li><strong>대응:</strong> 정확히 3번 지지선을 손절 라인으로 잡고 짧게 타점을 노리는 단기/스윙 전략.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="slide-container">
+        <h2 class="slide-title">제2강 핵심 요약</h2>
+        <div class="content-area">
+            <div style="background: #1C2541; padding: 50px; border-radius: 16px; width: 100%; max-width: 900px; border-left: 8px solid #F1C40F;">
+                <h3 style="color: #FFFFFF; font-size: 32px; margin-bottom: 30px;"><i class="fa-solid fa-flag-checkered" style="color: #F1C40F;"></i> 대시세는 '3번 자리'에서 시작된다</h3>
+                <ol style="color: #EAECEE; font-size: 22px; line-height: 1.8; padding-left: 20px;">
+                    <li style="margin-bottom: 15px;">주가는 하락(1) → 매집(2) → <strong style="color: #F1C40F;">흔들기(3)</strong> → 슈팅(4)의 과정을 거친다.</li>
+                    <li style="margin-bottom: 15px;">224일선을 강력하게 뚫고 올라오는 종목은 세력이 개입한 <strong>3번 자리의 시작</strong>일 확률이 높다.</li>
+                    <li>돌파 시 추격 매수보다, 다시 224일선 근처로 내려와 <strong>지지를 확인하는 '눌림목'</strong>이 최고의 매수 타점이다.</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+
+</div> <div class="controls">
+    <button class="btn" id="prevBtn" onclick="changeSlide(-1)" disabled><i class="fa-solid fa-chevron-left"></i> 이전</button>
+    <div class="progress-indicator" id="progressText">1 / 8</div>
+    <button class="btn" id="nextBtn" onclick="changeSlide(1)">다음 <i class="fa-solid fa-chevron-right"></i></button>
+</div>
+
+<script>
+    let currentSlide = 0;
+    const slides = document.querySelectorAll('.slide-container');
+    const totalSlides = slides.length;
+    const prevBtn = document.getElementById('prevBtn');
+    const nextBtn = document.getElementById('nextBtn');
+    const progressText = document.getElementById('progressText');
+
+    function updatePresentation() {
+        slides.forEach((slide, index) => {
+            if (index === currentSlide) {
+                slide.classList.add('active');
+                // Trigger reflow for animations
+                const animatedElements = slide.querySelectorAll('.anim-path, .anim-candle, .anim-candle-down, .anim-blink');
+                animatedElements.forEach(el => {
+                    el.style.animation = 'none';
+                    el.offsetHeight; 
+                    el.style.animation = null; 
+                });
+            } else {
+                slide.classList.remove('active');
+            }
+        });
+
+        progressText.innerText = `${currentSlide + 1} / ${totalSlides}`;
+        prevBtn.disabled = currentSlide === 0;
+        nextBtn.disabled = currentSlide === totalSlides - 1;
+    }
+
+    function changeSlide(direction) {
+        currentSlide += direction;
+        if (currentSlide < 0) currentSlide = 0;
+        if (currentSlide >= totalSlides) currentSlide = totalSlides - 1;
+        updatePresentation();
+    }
+
+    document.addEventListener('keydown', (e) => {
+        if (e.key === 'ArrowRight' || e.key === ' ') changeSlide(1);
+        if (e.key === 'ArrowLeft') changeSlide(-1);
+    });
+</script>
+
+</body>
+</html>
