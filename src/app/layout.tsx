@@ -33,28 +33,38 @@ export default function RootLayout({
           background: 'rgba(15, 23, 42, 0.8)',
           backdropFilter: 'blur(12px)',
           borderBottom: '1px solid rgba(255, 255, 255, 0.05)',
-          padding: '1rem 2rem',
+          padding: '0.8rem 1rem',
           display: 'flex',
           justifyContent: 'center',
-          gap: '2rem'
+          gap: '1rem',
+          flexWrap: 'wrap'
         }}>
-          <Link href="/" style={{ color: '#fff', textDecoration: 'none', fontSize: '1.1rem', fontWeight: 600, padding: '0.5rem 1rem', borderRadius: '8px', transition: 'all 0.2s' }}>
+          <Link href="/" style={{ color: '#fff', textDecoration: 'none', fontSize: '0.9rem', fontWeight: 600, padding: '0.4rem 0.6rem', borderRadius: '8px', transition: 'all 0.2s' }}>
             🌍 매크로 ETF 대시보드
           </Link>
-          <Link href="/company" style={{ color: '#fff', textDecoration: 'none', fontSize: '1.1rem', fontWeight: 600, padding: '0.5rem 1rem', borderRadius: '8px', transition: 'all 0.2s' }}>
+          <Link href="/company" style={{ color: '#fff', textDecoration: 'none', fontSize: '0.9rem', fontWeight: 600, padding: '0.4rem 0.6rem', borderRadius: '8px', transition: 'all 0.2s' }}>
             🔍 개별 기업 딥다이브
           </Link>
-          <Link href="/ib-briefing" style={{ color: '#fff', textDecoration: 'none', fontSize: '1.1rem', fontWeight: 600, padding: '0.5rem 1rem', borderRadius: '8px', transition: 'all 0.2s' }}>
+          <Link href="/ib-briefing" style={{ color: '#fff', textDecoration: 'none', fontSize: '0.9rem', fontWeight: 600, padding: '0.4rem 0.6rem', borderRadius: '8px', transition: 'all 0.2s' }}>
             📰 글로벌 IB 브리핑
           </Link>
-          <Link href="/archive" style={{ color: '#fff', textDecoration: 'none', fontSize: '1.1rem', fontWeight: 600, padding: '0.5rem 1rem', borderRadius: '8px', transition: 'all 0.2s' }}>
+          <Link href="/archive" style={{ color: '#fff', textDecoration: 'none', fontSize: '0.9rem', fontWeight: 600, padding: '0.4rem 0.6rem', borderRadius: '8px', transition: 'all 0.2s' }}>
             📂 과거 아카이브
           </Link>
-          <Link href="/screener" style={{ color: '#fff', textDecoration: 'none', fontSize: '1.1rem', fontWeight: 600, padding: '0.5rem 1rem', borderRadius: '8px', transition: 'all 0.2s', borderBottom: '2px solid var(--accent-color)' }}>
+          <Link href="/screener" style={{ color: '#fff', textDecoration: 'none', fontSize: '0.9rem', fontWeight: 600, padding: '0.4rem 0.6rem', borderRadius: '8px', transition: 'all 0.2s', borderBottom: '2px solid var(--accent-color)' }}>
             🎯 기술적 종목 스크리너
           </Link>
-          <Link href="/tracking" style={{ color: '#fff', textDecoration: 'none', fontSize: '1.1rem', fontWeight: 600, padding: '0.5rem 1rem', borderRadius: '8px', transition: 'all 0.2s', borderBottom: '2px solid #ef4444' }}>
+          <Link href="/tracking" style={{ color: '#fff', textDecoration: 'none', fontSize: '0.9rem', fontWeight: 600, padding: '0.4rem 0.6rem', borderRadius: '8px', transition: 'all 0.2s', borderBottom: '2px solid #ef4444' }}>
             📈 수익률 트래킹
+          </Link>
+          <Link href="/backtest" style={{ color: '#fff', textDecoration: 'none', fontSize: '0.9rem', fontWeight: 600, padding: '0.4rem 0.6rem', borderRadius: '8px', transition: 'all 0.2s' }}>
+            🧪 백테스팅
+          </Link>
+          <Link href="/auto-trade" style={{ color: '#8b5cf6', textDecoration: 'none', fontSize: '0.9rem', fontWeight: 600, padding: '0.4rem 0.6rem', borderRadius: '8px', transition: 'all 0.2s', borderBottom: '2px solid #8b5cf6' }}>
+            🤖 퀀트 매매 봇
+          </Link>
+          <Link href="/algorithm" style={{ color: '#fff', textDecoration: 'none', fontSize: '0.9rem', fontWeight: 600, padding: '0.4rem 0.6rem', borderRadius: '8px', transition: 'all 0.2s' }}>
+            📖 알고리즘 명세서
           </Link>
         </nav>
         <main>

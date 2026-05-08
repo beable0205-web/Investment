@@ -51,14 +51,14 @@ async function fetchUSMajorTickers() {
   return allStocks;
 }
 
-async function runDailyScreener() {
+export async function runDailyScreener() {
   console.log('============================================');
   console.log('🚀 미국 주요 종목(S&P 500) 백그라운드 스캐닝 시작...');
   console.log('============================================');
 
   // API Key 문제(FMP Legacy 에러)를 우회하기 위해 무료 퍼블릭 데이터(S&P 500) 스크래핑 사용
   const stocks = await fetchUSMajorTickers();
-  const matchedStocks = [];
+  const matchedStocks: any[] = [];
   const CHUNK_SIZE = 10; // Rate limit 방지를 위해 10개씩
 
   console.log(`OHLCV 데이터 검증 및 필터링 중... (최대 3~5분 소요 예상)`);
@@ -118,8 +118,11 @@ async function runDailyScreener() {
   console.log(`✅ 결과가 ${savePath} 에 저장되었습니다.`);
   console.log('이제 웹에서 [미국 주식 전 종목 스크리너] 버튼을 눌러 AI 리포트를 즉시 확인하세요!');
   console.log('============================================');
+  return matchedStocks;
 }
 
-runDailyScreener().catch(err => {
-  console.error('스캐너 실행 중 오류 발생:', err);
-});
+if (require.main === module || process.argv[1].endsWith('run_daily_screener.ts')) {
+  runDailyScreener().catch(err => {
+    console.error('스캐너 실행 중 오류 발생:', err);
+  });
+}

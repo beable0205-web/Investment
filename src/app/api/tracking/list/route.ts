@@ -1,7 +1,15 @@
 import { NextResponse } from 'next/server';
 import fs from 'fs';
 import path from 'path';
-import yahooFinance from 'yahoo-finance2';
+let yahooFinance: any;
+try {
+  yahooFinance = require('yahoo-finance2').default;
+  if (typeof yahooFinance === 'function') {
+    yahooFinance = new yahooFinance();
+  }
+} catch (e) {
+  yahooFinance = require('yahoo-finance2');
+}
 
 const FILE_PATH = path.join(process.cwd(), 'src', 'data', 'archive', 'tracked_stocks.json');
 
