@@ -1,0 +1,34 @@
+{
+  "ticker": "ELV",
+  "lastUpdated": "2026-05-08T14:42:07.047Z",
+  "rawFinancials": {
+    "name": "Elevance Health, Inc.",
+    "marketCap": 81605279744,
+    "trailingPE": 15.916137,
+    "forwardPE": 12.858271,
+    "priceToBook": 1.8605733,
+    "totalRevenue": 200416002048,
+    "operatingMargins": 0.05303,
+    "returnOnEquity": 0.12086,
+    "freeCashflow": 4298625024,
+    "totalCash": 37072998400,
+    "totalDebt": 31842000896,
+    "currentRatio": 1.479,
+    "revenueGrowth": 0.026
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 저성장. 2.6%의 낮은 외형 성장률을 보이나, 순이익 개선 기대감(Forward PE < Trailing PE)이 반영된 성숙기 우량 기업의 전형.",
+      "profitability": "박리다매형 고수익성 구조. 5%대의 낮은 영업이익률은 업계 특성이며, 200조원이 넘는 압도적인 매출 규모를 통해 안정적인 12%대 자기자본이익률(ROE)을 창출함.",
+      "cashflow_stability": "압도적인 현금 창출력과 철벽 수준의 재무 안정성. 보유 현금이 총 부채를 상회하며, 연간 4조원 이상의 잉여현금흐름을 기록하여 파산 위험이 극히 낮음."
+    },
+    "macro_sensitivity": "대표적인 경기 방어주. 경기 침체기에도 필수적인 건강보험 수요는 유지되어 실적이 안정적임. 금리 인상 시기에는 막대한 운용자산(float)에서 발생하는 이자 수익 증가로 오히려 수혜를 볼 수 있으나, 급격한 의료비 인플레이션은 마진에 부담으로 작용할 수 있음.",
+    "technical_synergy": "견고한 펀더멘털이 주가 하방을 지지하므로, '단테의 밥그릇 3번 자리'와 같은 장기 이평선 돌파 및 지지 패턴 형성 시 변동성은 낮고 신뢰도는 매우 높은 '저위험 고확률'의 꾸준한 상승을 기대할 수 있음. 폭발적인 시세 분출보다는 기관 투자자의 꾸준한 매수세 유입에 기반한 안정적 우상향 패턴에 적합함.",
+    "business_moat": "미국 최대 규모의 건강 보험사로서, 막대한 가입자 기반을 바탕으로 의료 서비스 제공자와의 강력한 가격 협상력을 확보함. 이는 신규 경쟁자의 진입을 막는 견고한 규모의 경제와 네트워크 효과라는 경제적 해자를 구축함.",
+    "ai_system_tags": [
+      "Value",
+      "Defensive",
+      "Dividend"
+    ]
+  }
+}

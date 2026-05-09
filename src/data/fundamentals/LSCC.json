@@ -1,0 +1,34 @@
+{
+  "ticker": "LSCC",
+  "lastUpdated": "2026-05-08T18:26:06.445Z",
+  "rawFinancials": {
+    "name": "Lattice Semiconductor Corporati",
+    "marketCap": 17008155648,
+    "trailingPE": 886.7143,
+    "forwardPE": 53.71236,
+    "priceToBook": 23.777054,
+    "totalRevenue": 574009024,
+    "operatingMargins": 0.15606,
+    "returnOnEquity": 0.027460001,
+    "freeCashflow": 118340376,
+    "totalCash": 139956000,
+    "totalDebt": 39900000,
+    "currentRatio": 3.481,
+    "revenueGrowth": 0.422
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "폭발적인 고성장. 42.2%에 달하는 매출 성장률은 시장의 높은 기대를 정당화하며, 미래 이익 성장에 대한 강력한 시그널을 보냄.",
+      "profitability": "성장 단계의 수익성. 현재 ROE(2.75%)는 낮지만, 15.6%의 준수한 영업이익률과 폭발적인 매출 성장을 감안할 때, 향후 규모의 경제를 통해 마진이 크게 개선될 잠재력을 보유함.",
+      "cashflow_stability": "최상급 재무 건전성. 총 부채보다 3배 이상 많은 현금을 보유한 넷 캐시(Net Cash) 상태이며, 매출의 20%가 넘는 강력한 잉여현금흐름을 창출하여 파산 위험이 극히 낮음."
+    },
+    "macro_sensitivity": "고성장 기술주 특성상 금리 인상에 취약하며, 경기 순환에 민감함. 전방 산업(통신, 산업, 자동차, 데이터센터)의 투자 사이클에 따라 실적이 크게 변동될 수 있어 거시경제 지표에 대한 모니터링이 필수적임.",
+    "technical_synergy": "폭발적인 성장 스토리와 철옹성 같은 재무구조는 '장기 이평선 돌파 및 지지'와 같은 기술적 신호에 강력한 신뢰도를 부여함. 펀더멘털이 뒷받침되므로, 추세 형성 시 기관 투자자들의 매수가 집중되며 장기적인 우상향 추세를 만들 폭발력이 매우 높음.",
+    "business_moat": "Lattice Semiconductor는 저전력 소형 FPGA(Field-Programmable Gate Array) 시장에 특화하여 경제적 해자를 구축했습니다. 거대 경쟁사들이 집중하지 않는 엣지 컴퓨팅, 산업 자동화, 5G 인프라 등 틈새시장을 선점하여 강력한 가격 결정력과 시장 지위를 확보하고 있습니다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Quality",
+      "Cyclical"
+    ]
+  }
+}

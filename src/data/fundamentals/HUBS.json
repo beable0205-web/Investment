@@ -1,0 +1,34 @@
+{
+  "ticker": "HUBS",
+  "lastUpdated": "2026-05-08T19:32:21.014Z",
+  "rawFinancials": {
+    "name": "HubSpot, Inc.",
+    "marketCap": 10046500864,
+    "trailingPE": 102.71579,
+    "forwardPE": 12.761178,
+    "priceToBook": 4.9638824,
+    "totalRevenue": 3131266048,
+    "operatingMargins": 0.05687,
+    "returnOnEquity": 0.0231,
+    "freeCashflow": 651586880,
+    "totalCash": 1703794048,
+    "totalDebt": 262304992,
+    "currentRatio": 1.669,
+    "revenueGrowth": 0.204
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "고성장. 20%가 넘는 견조한 매출 성장을 지속하고 있으며, 시장은 높은 Trailing PE를 통해 미래의 이익 성장에 대한 큰 기대감을 반영하고 있음.",
+      "profitability": "수익성 개선 초기 단계. 영업이익률과 ROE는 아직 낮지만, 매출의 20%를 상회하는 강력한 잉여현금흐름은 회계적 이익을 넘어서는 실질적인 수익 창출 능력을 증명함.",
+      "cashflow_stability": "현금 창출력 우수 및 재무 건전성 최상. 보유 현금이 총 부채의 6배를 넘어서는 사실상의 무차입 경영 상태이며, 풍부한 현금흐름은 파산 위험을 제로에 가깝게 만듦."
+    },
+    "macro_sensitivity": "금리 인상에 취약한 성장주이며, 경기 침체 시 주 고객층인 중소기업(SMB)의 마케팅 예산 삭감으로 인해 성장률이 둔화될 수 있는 경기 민감형 소프트웨어 기업.",
+    "technical_synergy": "견고한 현금흐름과 성장성을 바탕으로, 금리 인하 등 거시 환경 개선 신호와 함께 장기 이평선 돌파 패턴(단테의 밥그릇 3번 자리) 발생 시, 이익 성장 가시화 기대감이 증폭되며 폭발적인 주가 상승을 보일 신뢰도 높은 후보.",
+    "business_moat": "HubSpot은 중소기업을 위한 통합 CRM 플랫폼을 제공하며, 고객 데이터와 업무 프로세스가 시스템에 깊숙이 통합되면서 발생하는 높은 전환 비용이 핵심 경제적 해자이다. 또한, 강력한 브랜드 인지도와 freemium 모델을 통한 방대한 생태계는 신규 고객을 지속적으로 유치하는 원동력이다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Turnaround",
+      "Value"
+    ]
+  }
+}

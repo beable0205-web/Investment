@@ -1,0 +1,34 @@
+{
+  "ticker": "SEIC",
+  "lastUpdated": "2026-05-08T20:21:49.755Z",
+  "rawFinancials": {
+    "name": "SEI Investments Company",
+    "marketCap": 10966490112,
+    "trailingPE": 15.559727,
+    "forwardPE": 13.7810955,
+    "priceToBook": 4.553081,
+    "totalRevenue": 2368219904,
+    "operatingMargins": 0.30455,
+    "returnOnEquity": 0.29627,
+    "freeCashflow": 404605888,
+    "totalCash": 395241984,
+    "totalDebt": 69485000,
+    "currentRatio": 4.521,
+    "revenueGrowth": 0.128
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "견조한 성장. 12.8%의 안정적인 매출 성장과 순이익 증가가 예상되는 선행 PER(Forward PE)을 통해 확인되는, 지속 가능한 성숙기 성장 기업의 특징을 보임.",
+      "profitability": "독점적 수준의 높은 마진. 30%가 넘는 영업이익률과 29%에 달하는 자기자본이익률(ROE)은 강력한 가격 결정력과 효율적인 비용 구조를 갖춘 최상위 수익성 기업임을 증명함.",
+      "cashflow_stability": "압도적인 현금 창출력과 무결점 재무구조. 보유 현금이 총 부채의 5배를 초과하고 유동비율이 4.5에 달하는 '요새형 대차대조표'를 기반으로 파산 위험이 거의 제로에 가까움."
+    },
+    "macro_sensitivity": "금융 시장 성과에 연동되는 경기 순환주. 자산운용(AUM) 기반 비즈니스로 인해 금리 및 시장 등락에 민감하지만, 압도적인 재무 건전성이 경기 침체기에도 생존을 보장하는 강력한 방어력을 제공함.",
+    "technical_synergy": "펀더멘털이 기술적 분석의 신뢰도를 증폭시키는 전형. 장기 이평선 지지 및 돌파와 같은 의미 있는 기술적 신호 발생 시, 이 기업의 내재가치를 신뢰하는 가치 투자자와 추세를 따르는 모멘텀 투자자의 매수세가 동시에 유입되어 폭발적이고 안정적인 상승을 기대할 수 있음.",
+    "business_moat": "SEI는 금융 기관 및 자산 관리자를 위한 통합 투자 처리 및 운영 플랫폼을 제공하여 높은 전환 비용(Switching Cost)을 창출합니다. 고객이 한번 SEI의 생태계에 편입되면 이탈하기 어려워, 안정적이고 예측 가능한 수익 흐름이 발생하는 강력한 경제적 해자를 구축했습니다.",
+    "ai_system_tags": [
+      "Value",
+      "Defensive",
+      "Cyclical"
+    ]
+  }
+}

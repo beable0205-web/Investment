@@ -1,0 +1,34 @@
+{
+  "ticker": "VMC",
+  "lastUpdated": "2026-05-08T16:15:26.945Z",
+  "rawFinancials": {
+    "name": "Vulcan Materials Company (Holdi",
+    "marketCap": 37277282304,
+    "trailingPE": 34.0391,
+    "forwardPE": 26.501278,
+    "priceToBook": 4.4011583,
+    "totalRevenue": 8062400000,
+    "operatingMargins": 0.15064,
+    "returnOnEquity": 0.13458,
+    "freeCashflow": 239012496,
+    "totalCash": 140200000,
+    "totalDebt": 5191300096,
+    "currentRatio": 2.589,
+    "revenueGrowth": 0.074
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 성장. 7%대의 견조한 매출 성장과 이익 증가 기대감(Forward PE < Trailing PE)을 보이는 성숙기 기업의 특징을 보임.",
+      "profitability": "견고한 수익 구조. 15%의 영업이익률과 13%대의 자기자본이익률(ROE)은 원자재 기업임에도 불구하고 강력한 가격 결정력과 운영 효율성을 증명함.",
+      "cashflow_stability": "안정적 현금흐름, 부채 수준은 주시 필요. 영업활동을 통해 꾸준히 현금을 창출하고 있으나, 총 부채(Total Debt) 규모가 현금 및 잉여현금흐름 대비 높아 자본 집약적 산업의 특성을 보임. 단, 높은 유동비율(Current Ratio)로 단기 파산 위험은 매우 낮음."
+    },
+    "macro_sensitivity": "경기 사이클 및 인프라 투자에 민감한 대표적인 경기 민감주. 금리 인상 시기에는 건설 경기 둔화로 불리하지만, 정부 주도의 대규모 인프라 투자 정책 발표 시 강력한 수혜가 기대됨.",
+    "technical_synergy": "VMC와 같이 펀더멘털이 견고한 업계 선두주가 장기 이평선 지지 후 상승 전환하는 '밥그릇 3번 자리' 패턴을 보일 경우, 이는 단순한 기술적 반등이 아닌 새로운 경제 사이클의 시작을 알리는 신호일 수 있다. 투기성 종목에 비해 폭발력은 덜할 수 있으나, 기관 투자자들의 자금 유입이 뒷받침되므로 추세의 신뢰도가 매우 높다.",
+    "business_moat": "VMC의 경제적 해자는 골재(모래, 자갈 등)의 높은 운송비로 인해 발생하는 지역적 독점권에서 비롯된다. 신규 채석장 설립에 필요한 막대한 자본과 엄격한 규제는 신규 경쟁자의 진입을 막는 강력한 장벽으로 작용한다.",
+    "ai_system_tags": [
+      "Cyclical",
+      "Value",
+      "Dividend"
+    ]
+  }
+}

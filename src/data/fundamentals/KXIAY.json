@@ -1,0 +1,33 @@
+{
+  "ticker": "KXIAY",
+  "lastUpdated": "2026-05-08T13:49:59.454Z",
+  "rawFinancials": {
+    "name": "KIOXIA HLDGS CORP",
+    "marketCap": 161367621632,
+    "trailingPE": 161.27777,
+    "priceToBook": 2.5615563,
+    "totalRevenue": 1681870028800,
+    "operatingMargins": 0.26259002,
+    "returnOnEquity": 0.19680001,
+    "freeCashflow": 107880374272,
+    "totalCash": 281526992896,
+    "totalDebt": 1299839975424,
+    "currentRatio": 1.074,
+    "revenueGrowth": 0.208
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "고성장. 20%가 넘는 높은 매출 성장률을 기록하고 있으며, 이는 160배가 넘는 높은 PER의 배경으로 작용함. 시장은 미래의 폭발적인 성장을 가격에 선반영하고 있음.",
+      "profitability": "독점적 마진. 26%대의 높은 영업이익률과 20%에 육박하는 자기자본이익률(ROE)은 강력한 가격 결정력과 기술적 해자를 증명함. 이는 단순한 규모의 경제를 넘어선 핵심 경쟁력을 시사함.",
+      "cashflow_stability": "레버리지 과다. 양호한 잉여현금흐름을 창출하고 있으나, 보유 현금 대비 부채 규모가 과도하게 큼. 특히 1.07배의 낮은 유동비율은 단기 유동성 위기에 대한 우려를 낳는 핵심 리스크 요인임."
+    },
+    "macro_sensitivity": "대표적인 경기 민감주(Cyclical)이자 금리 인하 수혜주. 반도체 산업의 특성상 글로벌 경기 사이클에 직접적인 영향을 받으며, 높은 부채 수준으로 인해 금리 인상 시 이자 비용 부담이 가중되어 수익성이 급격히 악화될 수 있음.",
+    "technical_synergy": "고위험-고수익(High-Risk, High-Return) 구조의 전형. 펀더멘털의 성장성과 재무 리스크가 공존하기에, '단테의 밥그릇 3번 자리'와 같은 장기 추세 전환 신호의 신뢰도가 매우 높음. 해당 패턴 완성 시, 재무 리스크에 대한 우려가 성장 기대감으로 전환되며 폭발적인 시세 분출을 기대할 수 있음.",
+    "business_moat": "NAND 플래시 메모리 시장의 핵심 플레이어로서, 막대한 설비 투자와 R&D를 통해 구축한 기술적 우위가 핵심 해자이다. 이는 신규 경쟁자의 진입을 막는 강력한 장벽으로 작용한다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Cyclical",
+      "Turnaround"
+    ]
+  }
+}

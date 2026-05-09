@@ -1,0 +1,34 @@
+{
+  "ticker": "QSR",
+  "lastUpdated": "2026-05-08T16:20:58.823Z",
+  "rawFinancials": {
+    "name": "Restaurant Brands International",
+    "marketCap": 36351799296,
+    "trailingPE": 25.61415,
+    "forwardPE": 17.954464,
+    "priceToBook": 7.591728,
+    "totalRevenue": 9589000192,
+    "operatingMargins": 0.27032,
+    "returnOnEquity": 0.28136,
+    "freeCashflow": 1920000000,
+    "totalCash": 1012000000,
+    "totalDebt": 15472000000,
+    "currentRatio": 0.989,
+    "revenueGrowth": 0.073
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 성장",
+      "profitability": "독점적 마진",
+      "cashflow_stability": "현금 창출력 우수, 레버리지 과다"
+    },
+    "macro_sensitivity": "대표적인 경기 방어주이나, 부채 레버리지가 높아 금리 인상 시기에는 이자 비용 증가에 취약한 구조. 금리 인하 시 수혜 기대.",
+    "technical_synergy": "높은 수익성과 브랜드 파워라는 펀더멘털이 뒷받침되므로, 장기 이평선 지지 등 신뢰도 높은 기술적 신호 발생 시 시장의 위험 선호 심리 개선과 맞물려 레버리지 효과로 인한 주가 폭발력을 기대할 수 있음.",
+    "business_moat": "이 기업의 핵심 해자는 버거킹, 팀홀튼 등 세계적인 브랜드를 기반으로 한 강력한 브랜드 인지도와 자산 경량화된 프랜차이즈 모델에 있습니다. 이를 통해 낮은 자본 지출로도 안정적이고 높은 마진의 로열티 수익을 창출하며, 규모의 경제를 실현합니다.",
+    "ai_system_tags": [
+      "Dividend",
+      "Defensive",
+      "Value"
+    ]
+  }
+}

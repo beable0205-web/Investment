@@ -1,0 +1,34 @@
+{
+  "ticker": "FSLR",
+  "lastUpdated": "2026-05-08T17:33:49.964Z",
+  "rawFinancials": {
+    "name": "First Solar, Inc.",
+    "marketCap": 23406565376,
+    "trailingPE": 14.080801,
+    "forwardPE": 9.085411,
+    "priceToBook": 2.3694172,
+    "totalRevenue": 5419047936,
+    "operatingMargins": 0.33067,
+    "returnOnEquity": 0.18436001,
+    "freeCashflow": 1147664768,
+    "totalCash": 2426561024,
+    "totalDebt": 587123008,
+    "currentRatio": 2.557,
+    "revenueGrowth": 0.236
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "고성장. 23.6%의 높은 매출 성장률과 낮은 선행 PER(9.09)은 향후 이익이 폭발적으로 증가할 것을 시사함.",
+      "profitability": "독점적 마진. 33%에 달하는 경이적인 영업이익률과 18%대의 높은 ROE는 기술적 우위와 정책적 수혜를 바탕으로 한 강력한 가격 결정력을 증명함.",
+      "cashflow_stability": "현금 창출력 우수. 부채(5.8억 달러)를 압도하는 현금(24.2억 달러)을 보유한 '순현금' 기업으로, 파산 위험이 극히 낮고 투자 여력이 풍부함."
+    },
+    "macro_sensitivity": "금리 인하 및 정책 수혜주. 대규모 태양광 프로젝트는 자금 조달 비용에 민감하므로 금리 인하 시 수요가 폭증할 수 있으며, 인플레이션 감축법(IRA)과 같은 정부 정책 변화에 실적이 직접적인 영향을 받는 구조.",
+    "technical_synergy": "장기 이평선 돌파와 같은 기술적 매수 신호 발생 시 신뢰도가 매우 높음. 폭발적인 이익 성장 전망과 강력한 펀더멘털이 뒷받침되므로, 기관 투자자의 집중 매수를 유발하며 추세가 장기간 지속될 폭발력을 내재함.",
+    "business_moat": "미국에 기반을 둔 독자적인 카드뮴 텔루라이드(CdTe) 박막 태양광 모듈 기술을 보유한 선도 기업. 중국산 실리콘 기반 제품과 차별화되며, 미국 내 생산을 통해 인플레이션 감축법(IRA)의 최대 수혜를 받는 강력한 정책적 해자를 구축함.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Value",
+      "Cyclical"
+    ]
+  }
+}

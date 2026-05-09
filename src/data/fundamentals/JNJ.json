@@ -1,0 +1,34 @@
+{
+  "ticker": "JNJ",
+  "lastUpdated": "2026-05-08T13:31:41.157Z",
+  "rawFinancials": {
+    "name": "Johnson & Johnson",
+    "marketCap": 537242664960,
+    "trailingPE": 25.860949,
+    "forwardPE": 17.558794,
+    "priceToBook": 6.6156807,
+    "totalRevenue": 96361996288,
+    "operatingMargins": 0.27408,
+    "returnOnEquity": 0.26416,
+    "freeCashflow": 12511375360,
+    "totalCash": 22051000320,
+    "totalDebt": 54987001856,
+    "currentRatio": 1.025,
+    "revenueGrowth": 0.099
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "거대 기업임에도 불구하고, 견고하고 안정적인 한 자릿수 후반의 매출 성장을 지속하고 있음.",
+      "profitability": "특허와 브랜드 파워에 기반한 압도적인 영업이익률(27.4%)과 자기자본이익률(26.4%)을 통해 독점적 수익 구조를 증명함.",
+      "cashflow_stability": "부채 규모는 상당하나, 연간 125억 달러 이상의 막대한 잉여현금흐름을 창출하여 부채 상환 및 주주 환원에 대한 우려가 낮음."
+    },
+    "macro_sensitivity": "헬스케어 섹터의 대표적인 경기 방어주. 경기 침체기에도 필수적인 의약품 및 의료기기 수요는 꾸준하며, 강력한 브랜드 파워를 통해 인플레이션 비용을 소비자에게 전가할 수 있는 능력을 보유함.",
+    "technical_synergy": "JNJ와 같은 우량주는 '밥그릇 3번 자리'와 같은 장기 추세 전환 신호의 신뢰도가 매우 높음. 단기적인 폭발력보다는, 기관 투자자의 꾸준한 매수세가 유입되며 안정적인 우상향 추세를 형성할 가능성이 큼.",
+    "business_moat": "Johnson & Johnson은 특허로 보호받는 혁신 의약품, 시장을 선도하는 의료기기, 그리고 강력한 소비자 브랜드를 아우르는 다각화된 헬스케어 사업 포트폴리오를 운영합니다. 이러한 사업 구조는 막대한 R&D 투자와 규모의 경제, 그리고 수십 년간 쌓아온 브랜드 신뢰도를 바탕으로 신규 경쟁자의 진입을 막는 견고한 경제적 해자를 구축합니다.",
+    "ai_system_tags": [
+      "Defensive",
+      "Dividend",
+      "Value"
+    ]
+  }
+}

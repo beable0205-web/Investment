@@ -1,0 +1,34 @@
+{
+  "ticker": "ROKU",
+  "lastUpdated": "2026-05-08T18:13:12.313Z",
+  "rawFinancials": {
+    "name": "Roku, Inc.",
+    "marketCap": 19036985344,
+    "trailingPE": 94.775734,
+    "forwardPE": 38.19541,
+    "priceToBook": 7.121664,
+    "totalRevenue": 4965457920,
+    "operatingMargins": 0.04145,
+    "returnOnEquity": 0.07755,
+    "freeCashflow": 676668096,
+    "totalCash": 2380218880,
+    "totalDebt": 501116992,
+    "currentRatio": 2.91,
+    "revenueGrowth": 0.224
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "고성장. 매출이 22.4% 성장하고 있고, 높은 Trailing PE 대비 Forward PE가 크게 낮아지는 것은 향후 강력한 이익 성장이 기대됨을 시사함.",
+      "profitability": "박리다매형 성장. 현재 영업이익률(4.1%)과 ROE(7.8%)는 낮지만, 이는 즉각적인 수익성보다 플랫폼 확장과 사용자 기반 확보에 집중하는 성장 단계의 전형적인 특징임.",
+      "cashflow_stability": "현금 창출력 우수. 낮은 이익률에도 불구하고 강력한 잉여현금흐름을 창출하고 있으며, 부채 대비 월등히 많은 현금(Net Cash)과 높은 유동비율(2.91)은 파산 위험이 극히 낮은 재무적 안정성을 증명함."
+    },
+    "macro_sensitivity": "금리 인하 수혜주, 경기 민감주. 미래 이익에 대한 기대가 큰 성장주 특성상 금리 인상에 취약하지만, 금리 인하 시에는 가치평가(Valuation)가 크게 확장될 수 있음. 주 수입원인 광고와 기기 판매는 경기 침체 시 기업과 소비자의 지출 삭감에 직접적인 영향을 받는 경기 민감형 구조임.",
+    "technical_synergy": "이러한 펀더멘털은 '단테의 밥그릇 3번 자리'와 같은 장기 추세 전환 패턴의 신뢰도를 극대화함. 강력한 성장 스토리가 폭발적인 상승의 '연료' 역할을 하고, 견고한 재무 상태는 하방 리스크를 제한하는 '안전망'이 되어, 기술적 신호 발생 시 시장의 신뢰를 증폭시키는 경향이 있음.",
+    "business_moat": "Roku는 스트리밍계의 '운영체제(OS)'로서 강력한 플랫폼 네트워크 효과를 구축함. 방대한 사용자 기반은 콘텐츠 제공자들에게 필수적인 채널이 되며, 이는 다시 더 많은 사용자를 유치하는 선순환 구조의 경제적 해자를 형성함.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Cyclical",
+      "Turnaround"
+    ]
+  }
+}

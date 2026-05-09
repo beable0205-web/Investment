@@ -1,0 +1,33 @@
+{
+  "ticker": "CL",
+  "lastUpdated": "2026-05-08T15:06:01.708Z",
+  "rawFinancials": {
+    "name": "Colgate-Palmolive Company",
+    "marketCap": 70432661504,
+    "trailingPE": 34.11628,
+    "forwardPE": 21.737303,
+    "priceToBook": 1313.7312,
+    "totalRevenue": 20795000832,
+    "operatingMargins": 0.20924,
+    "returnOnEquity": 3.6357698,
+    "freeCashflow": 3319500032,
+    "totalCash": 1419000064,
+    "totalDebt": 7973000192,
+    "currentRatio": 1.025,
+    "revenueGrowth": 0.084
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 성장",
+      "profitability": "독점적 마진",
+      "cashflow_stability": "현금 창출력 우수, 재무 레버리지 활용"
+    },
+    "macro_sensitivity": "대표적인 경기 방어주로, 인플레이션 시기에도 강력한 브랜드 파워를 통한 가격 전가 능력으로 마진을 방어합니다. 다만, 부채를 활용하는 자본 구조상 금리 인상기에는 이자 비용 증가에 대한 민감도가 일부 존재합니다.",
+    "technical_synergy": "이와 같은 펀더멘털 우량주는 '단테의 밥그릇 3번 자리'와 같은 장기 지지선 확인 패턴에서 폭발력보다는 극도로 높은 신뢰도를 보입니다. 투기적 급등보다는 기관 투자자의 꾸준한 매수세가 유입되며, 안정적이고 지속적인 우상향 추세를 형성할 가능성이 매우 높습니다.",
+    "business_moat": "이 기업의 경제적 해자는 수십 년간 구축한 압도적인 브랜드 인지도와 글로벌 유통망에서 나옵니다. 이를 통해 확보한 소비자 충성도는 경기 변동과 무관하게 꾸준한 가격 결정력과 안정적인 현금 흐름을 보장하는 핵심 동력입니다.",
+    "ai_system_tags": [
+      "Defensive",
+      "Dividend"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "ticker": "THC",
+  "lastUpdated": "2026-05-08T18:41:23.517Z",
+  "rawFinancials": {
+    "name": "Tenet Healthcare Corporation",
+    "marketCap": 16485760000,
+    "trailingPE": 9.947505,
+    "forwardPE": 10.740938,
+    "priceToBook": 3.9435022,
+    "totalRevenue": 21454999552,
+    "operatingMargins": 0.17940001,
+    "returnOnEquity": 0.30291998,
+    "freeCashflow": 3061374976,
+    "totalCash": 2967000064,
+    "totalDebt": 13208999936,
+    "currentRatio": 1.358,
+    "revenueGrowth": 0.028
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 성장률 2.8%로 저성장 국면에 진입한 성숙기 기업. 향후 폭발적인 외형 확장보다는 내실 다지기에 집중할 가능성이 높음.",
+      "profitability": "영업이익률 17.9%, ROE 30.3%는 업계 최상위 수준의 수익성. 가격 결정력과 비용 통제 능력을 겸비한 독점적 마진 구조를 보임.",
+      "cashflow_stability": "시가총액의 약 18.5%에 달하는 막대한 잉여현금흐름(FCF)을 창출. 다만, 총 부채가 현금 보유액의 4배를 넘어 레버리지 리스크가 상존함."
+    },
+    "macro_sensitivity": "헬스케어라는 필수 소비재 산업에 속해 경기 침체기에는 방어주의 성격이 강함. 그러나 높은 부채 수준으로 인해 금리 인상기에는 이자 비용 부담이 가중되어 수익성에 부정적 영향을 받을 수 있음.",
+    "technical_synergy": "이와 같은 '고수익성 저평가 가치주'가 장기 이평선을 돌파하며 지지받는 패턴은 시장의 재평가가 시작되었다는 강력한 신호일 수 있음. 펀더멘털이 주가의 하방 경직성을 확보해주므로, 패턴의 신뢰도가 매우 높으며 투기적 급등보다는 안정적인 추세 상승을 기대할 수 있음.",
+    "business_moat": "미국 전역에 걸친 대규모 병원 및 외래 수술 센터 네트워크를 통해 규모의 경제를 실현함. 정부의 강력한 규제, 막대한 초기 자본, 보험사와의 복잡한 관계 등은 신규 경쟁자의 진입을 막는 견고한 해자로 작용함.",
+    "ai_system_tags": [
+      "Value",
+      "Defensive",
+      "Turnaround"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ticker": "JEF",
+  "lastUpdated": "2026-05-09T08:00:44.073Z",
+  "rawFinancials": {
+    "name": "Jefferies Financial Group Inc.",
+    "marketCap": 10830823424,
+    "trailingPE": 17.778522,
+    "forwardPE": 11.968364,
+    "priceToBook": 1.0206913,
+    "totalRevenue": 5402596864,
+    "operatingMargins": 0.13408,
+    "totalCash": 57255104512,
+    "totalDebt": 36643414016,
+    "revenueGrowth": 0.266
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "최근 26.6%의 높은 매출 성장을 기록했으며, 선행 PER이 후행 PER보다 낮아 이익 성장 기대감이 유효함. 단, 금융업 특성상 경기 사이클에 따른 변동성은 내재함.",
+      "profitability": "13.4%의 운영 마진은 업계 평균 수준으로, 독점적 지위보다는 시장 상황 및 딜(Deal) 성사에 따라 수익성이 결정되는 경기 민감형 수익 구조를 가짐.",
+      "cashflow_stability": "총 부채 대비 총 현금 보유액이 월등히 높아 유동성이 매우 풍부함. 이는 금융 시장의 변동성에 대한 강력한 방어막이자, 기회가 왔을 때 공격적인 투자를 집행할 수 있는 실탄으로 작용함."
+    },
+    "macro_sensitivity": "대표적인 경기 순환주(Cyclical Stock). 금리 인상기에는 M&A 및 자본시장 위축으로 실적이 둔화될 수 있으나, 금리 인하 및 경기 확장 국면에서는 기업금융 수요 증가로 폭발적인 실적 개선이 기대되는 금리 변동 민감주.",
+    "technical_synergy": "P/B 1배 수준의 가치(Value)는 주가 하방 경직성을 제공하는 안전마진 역할을 함. 이러한 펀더멘털을 가진 주식이 경기 턴어라운드 기대감과 함께 장기 이평선 지지 후 상승 전환하는 '밥그릇 3번 자리' 패턴을 형성할 경우, 단순한 기술적 반등을 넘어 새로운 상승 추세의 시작을 알리는 높은 신뢰도의 신호로 해석될 수 있음.",
+    "business_moat": "글로벌 투자은행으로서 수십 년간 구축한 브랜드 인지도와 광범위한 고객 네트워크가 핵심 해자임. 특히 중견기업(Mid-market) 딜 소싱과 자문 역량에서 차별화된 경쟁력을 보유하고 있음.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Turnaround"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "ticker": "ROP",
+  "lastUpdated": "2026-05-08T16:20:29.558Z",
+  "rawFinancials": {
+    "name": "Roper Technologies, Inc.",
+    "marketCap": 34999148544,
+    "trailingPE": 21.675625,
+    "forwardPE": 14.51539,
+    "priceToBook": 1.8595113,
+    "totalRevenue": 8114999808,
+    "operatingMargins": 0.27185,
+    "returnOnEquity": 0.09012,
+    "freeCashflow": 2169925120,
+    "totalCash": 382900000,
+    "totalDebt": 10464000000,
+    "currentRatio": 0.534,
+    "revenueGrowth": 0.113
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "견조한 성장. 11.3%의 안정적인 매출 성장률과 낮은 선행 PER(Forward PE)는 향후 이익 증가에 대한 시장의 긍정적 기대를 반영함.",
+      "profitability": "독점적 마진. 27%를 상회하는 높은 영업이익률은 강력한 가격 결정권과 독점적 시장 지위를 시사함. 단, 9%대의 ROE는 자본 효율성 측면에서 다소 아쉬움.",
+      "cashflow_stability": "압도적인 현금 창출력, 단 부채 리스크는 존재. 매출액의 25%를 상회하는 막대한 잉여현금흐름(FCF)을 창출하나, 총 부채 규모가 현금성 자산 대비 과도하여 금리 상승 시 이자 부담 리스크가 있음."
+    },
+    "macro_sensitivity": "경기 방어적 성격과 금리 민감도를 동시에 지닌 복합형 자산. 핵심 소프트웨어 및 서비스 기반의 사업 모델은 경기 침체기에 강한 방어력을 보이지만, 높은 부채 수준으로 인해 금리 인상 사이클에는 취약할 수 있음.",
+    "technical_synergy": "높은 마진과 현금 창출력은 주가의 하방 경직성을 제공하므로, 장기 이평선 돌파 및 지지 패턴('단테의 밥그릇 3번 자리')의 신뢰도가 매우 높다. 폭발적인 시세 분출보다는, 기관 투자자의 꾸준한 매수세가 유입되며 안정적인 우상향 추세를 형성할 가능성이 크다.",
+    "business_moat": "다양한 산업의 틈새시장을 지배하는 소프트웨어 및 기술 기업들을 인수 후 통합하는 비즈니스 모델을 가졌다. 고객사의 높은 전환 비용과 각 사업부의 독점적 시장 지위가 강력한 경제적 해자를 구축한다.",
+    "ai_system_tags": [
+      "Defensive",
+      "Value",
+      "Growth"
+    ]
+  }
+}

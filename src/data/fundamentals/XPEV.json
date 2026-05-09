@@ -1,0 +1,33 @@
+{
+  "ticker": "XPEV",
+  "lastUpdated": "2026-05-08T18:51:21.878Z",
+  "rawFinancials": {
+    "name": "XPeng Inc.",
+    "marketCap": 14965718016,
+    "forwardPE": 22.708178,
+    "priceToBook": 3.364239,
+    "totalRevenue": 76719742976,
+    "operatingMargins": 0.0011,
+    "returnOnEquity": -0.03697,
+    "freeCashflow": 4206453760,
+    "totalCash": 35071655936,
+    "totalDebt": 19553677312,
+    "currentRatio": 1.088,
+    "revenueGrowth": 0.382
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "폭발적인 고성장 국면 (매출 성장률 38.2%)에 있으나, 아직 안정적인 이익을 창출하지는 못하는 단계.",
+      "profitability": "성장을 위해 수익성을 희생하는 전형적인 구조. 영업이익률은 제로에 가깝고 자기자본이익률(ROE)은 마이너스지만, 긍정적인 잉여현금흐름(FCF)은 긍정적 신호.",
+      "cashflow_stability": "순이익은 적자임에도 불구하고 영업활동을 통해 현금을 창출하고 있으며, 총 부채보다 많은 현금을 보유(Net Cash)하여 파산 위험은 매우 낮음."
+    },
+    "macro_sensitivity": "금리 인상기에 밸류에이션 부담이 커지고, 경기 침체 시 소비 위축에 직접적 타격을 받는 대표적인 경기민감형 성장주. 미중 무역 갈등과 같은 지정학적 리스크에도 민감.",
+    "technical_synergy": "강력한 성장 스토리를 보유하고 있어, '단테의 밥그릇 3번 자리'와 같은 장기 추세 전환 패턴 발생 시, 펀더멘털 개선에 대한 시장의 기대를 증폭시켜 폭발적인 시세 분출로 이어질 잠재력이 매우 높음. 긍정적 현금흐름과 재무 안정성이 패턴의 신뢰도를 뒷받침함.",
+    "business_moat": "중국의 극심한 전기차 경쟁 환경 속에서 자율주행(XNGP)과 스마트 콕핏 등 소프트웨어 기술력으로 차별화를 시도하고 있습니다. 거대한 내수 시장과 정부의 지원 정책을 기반으로 규모의 경제를 구축하며 해자를 강화하고 있습니다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

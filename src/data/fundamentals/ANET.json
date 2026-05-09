@@ -1,0 +1,26 @@
+{
+  "ticker": "ANET",
+  "lastUpdated": "2026-05-08T13:14:48.361Z",
+  "rawFinancials": {
+    "name": "Arista Networks, Inc.",
+    "marketCap": 178487263232,
+    "trailingPE": 48.711338,
+    "forwardPE": 32.038532,
+    "priceToBook": 13.218016,
+    "totalRevenue": 9709899776,
+    "operatingMargins": 0.42738998,
+    "returnOnEquity": 0.31520998,
+    "freeCashflow": 4362237440,
+    "totalCash": 12353200128,
+    "totalDebt": 0,
+    "currentRatio": 2.829,
+    "revenueGrowth": 0.351
+  },
+  "analysis": {
+    "financialHealthScore": 98,
+    "valuationRating": "Overvalued",
+    "moatAndBusiness": "Arista Networks provides high-performance cloud networking solutions, primarily selling advanced switches and its proprietary EOS software to large data centers and cloud giants. The company's economic moat is built on the high switching costs of its deeply integrated software ecosystem and its strong brand reputation for reliability in mission-critical environments. This dominant position allows Arista to command exceptional pricing power, resulting in industry-leading profit margins and massive free cash flow generation.",
+    "redFlags": [],
+    "isInvestable": true
+  }
+}

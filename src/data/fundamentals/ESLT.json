@@ -1,0 +1,33 @@
+{
+  "ticker": "ESLT",
+  "lastUpdated": "2026-05-08T16:07:53.486Z",
+  "rawFinancials": {
+    "name": "Elbit Systems Ltd.",
+    "marketCap": 36442898432,
+    "trailingPE": 68.53123,
+    "forwardPE": 44.97277,
+    "priceToBook": 8.763032,
+    "totalRevenue": 7938627072,
+    "operatingMargins": 0.09691,
+    "returnOnEquity": 0.14455,
+    "freeCashflow": 588987520,
+    "totalCash": 815745024,
+    "totalDebt": 964809984,
+    "currentRatio": 1.294,
+    "revenueGrowth": 0.113
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "11.3%의 견고한 두 자릿수 매출 성장률과 시장의 긍정적 이익 성장 전망(Forward PE < Trailing PE)을 바탕으로 한 성장주.",
+      "profitability": "9.7%의 안정적인 영업이익률과 14.5%의 양호한 자기자본이익률(ROE)을 기록하며, 독점적이지는 않으나 꾸준한 수익 창출 능력을 증명.",
+      "cashflow_stability": "강력한 잉여현금흐름(약 5.9억 달러) 창출 능력과 총부채를 거의 상쇄하는 현금 보유량을 바탕으로 파산 위험이 극히 낮은 재무적 안정성을 확보."
+    },
+    "macro_sensitivity": "지정학적 리스크가 고조될수록 수주가 증가하는 대표적인 경기 방어주. 경기 침체기에는 정부의 국방 예산에 의존하므로 일반 소비재 기업보다 타격이 적으나, 금리 인상기에는 부채 비용 증가 부담이 존재.",
+    "technical_synergy": "안정적인 수주 기반 비즈니스 모델과 재무 건전성은 '단테의 밥그릇 3번 자리'와 같은 장기 추세 전환 패턴의 신뢰도를 극대화함. 새로운 대규모 수주나 지정학적 갈등이 기술적 매수 신호와 결합될 때 강력한 상승 모멘텀을 기대할 수 있음.",
+    "business_moat": "이스라엘의 핵심 방산업체로서, 항공우주 및 국방 전자 시스템 분야에서 세계적인 기술력을 보유하고 있습니다. 각국 정부와의 장기적인 신뢰 관계와 높은 기술 진입 장벽이 경쟁사의 진입을 막는 강력한 해자 역할을 합니다.",
+    "ai_system_tags": [
+      "Defensive",
+      "High-Growth"
+    ]
+  }
+}

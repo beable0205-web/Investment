@@ -1,0 +1,31 @@
+{
+  "ticker": "EPD",
+  "lastUpdated": "2026-05-08T14:37:35.561Z",
+  "rawFinancials": {
+    "name": "Enterprise Products Partners L.",
+    "marketCap": 81444331520,
+    "trailingPE": 13.953703,
+    "forwardPE": 12.036664,
+    "priceToBook": 2.7386057,
+    "totalRevenue": 51564998656,
+    "operatingMargins": 0.127,
+    "totalCash": 969000000,
+    "totalDebt": 34881998848,
+    "revenueGrowth": -0.067
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 이익 기반의 저성장 또는 정체. 원자재 가격 변동으로 매출액은 감소했으나, 순이익 성장 기대감(낮은 Forward PE)은 유효함.",
+      "profitability": "안정적 계약 기반의 높은 수익성. 장기 고정 수수료(fee-based) 계약을 통해 12.7%의 견고한 영업이익률을 유지하며, 이는 원자재 가격 변동에 대한 방어력을 의미함.",
+      "cashflow_stability": "견고한 현금 창출력, 자본집약적 사업 특성상 부채 수준은 높음. 막대한 인프라 자산을 기반으로 안정적인 현금흐름을 창출하여 높은 부채(348억 달러)를 감당하는 구조."
+    },
+    "macro_sensitivity": "금리 인상 시 부채 비용 증가에 대한 우려가 있으나, 인플레이션 헤지 능력을 갖춘 대표적인 경기 방어주. 에너지 수요의 비탄력성으로 인해 경기 침체기에도 안정적인 현금 흐름을 기대할 수 있음.",
+    "technical_synergy": "안정적인 현금흐름과 배당 매력을 가진 가치주 특성상, 장기 이평선 돌파 및 지지 패턴('단테의 밥그릇 3번 자리')은 높은 신뢰도를 보임. 폭발적인 시세 분출보다는, 기관 투자자 및 배당 투자자의 꾸준한 매수세 유입으로 인한 안정적이고 점진적인 우상향 추세를 형성할 가능성이 높음.",
+    "business_moat": "북미 최대 규모의 에너지 중류(Midstream) 인프라 자산을 보유, 대체 불가능한 물리적 네트워크가 핵심 경제적 해자임. 장기 계약 기반의 통행료(fee-based) 사업 모델은 원자재 가격 변동성을 완화하며 안정적인 현금 흐름을 창출함.",
+    "ai_system_tags": [
+      "Value",
+      "Dividend",
+      "Defensive"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "ticker": "TX",
+  "lastUpdated": "2026-05-09T08:51:13.287Z",
+  "rawFinancials": {
+    "name": "Ternium S.A. Ternium S.A.",
+    "marketCap": 9210756096,
+    "trailingPE": 15.639999,
+    "forwardPE": 9.354961,
+    "priceToBook": 0.77113974,
+    "totalRevenue": 15609094144,
+    "operatingMargins": 0.041989997,
+    "returnOnEquity": 0.01878,
+    "freeCashflow": -666893632,
+    "totalCash": 3131205888,
+    "totalDebt": 2605520896,
+    "currentRatio": 2.49,
+    "revenueGrowth": -0.026
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 역성장(-2.6%) 상태이나, 낮은 선행 PER(9.35)는 향후 강력한 이익 회복 기대를 반영하는 전형적인 경기순환주의 특성을 보임.",
+      "profitability": "영업이익률(4.2%)과 자기자본이익률(1.88%)이 매우 낮아, 현재 경기 하강 국면에서 수익성 압박을 받고 있는 박리다매 구조를 나타냄.",
+      "cashflow_stability": "일시적인 마이너스 잉여현금흐름(-$667M)은 우려 요인이지만, 총 부채보다 많은 현금(순현금 상태)과 높은 유동비율(2.49)을 바탕으로 파산 위험은 극히 낮음."
+    },
+    "macro_sensitivity": "철강 산업의 특성상 금리, 경기 침체 등 거시 변수에 극도로 민감함. 인플레이션 시기에는 원가 부담과 제품 가격 전가 능력이 동시에 시험받는 대표적인 경기순환주(Cyclical Stock)임.",
+    "technical_synergy": "견고한 재무구조를 바탕으로 불황을 버텨내는 가치주의 전형. 경기 회복 기대감이 형성되며 장기 이평선을 돌파하는 '밥그릇 3번 자리' 패턴이 나타날 경우, 억눌렸던 이익이 폭발하며 매우 높은 신뢰도의 추세 상승을 기대할 수 있음.",
+    "business_moat": "대규모 자본 투자가 필수적인 장치 산업으로 강력한 진입 장벽을 보유하고 있습니다. 규모의 경제와 지역적 물류 네트워크를 통해 원가 경쟁력을 확보하는 것이 핵심 해자입니다.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Turnaround"
+    ]
+  }
+}

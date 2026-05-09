@@ -1,0 +1,30 @@
+{
+  "ticker": "NEE",
+  "lastUpdated": "2026-05-08T13:18:49.136Z",
+  "rawFinancials": {
+    "name": "NextEra Energy, Inc.",
+    "marketCap": 194604056576,
+    "trailingPE": 23.685278,
+    "forwardPE": 21.259098,
+    "priceToBook": 3.524036,
+    "totalRevenue": 27865999360,
+    "operatingMargins": 0.30175,
+    "returnOnEquity": 0.10325,
+    "freeCashflow": -18453374976,
+    "totalCash": 1998000000,
+    "totalDebt": 104403001344,
+    "currentRatio": 0.542,
+    "revenueGrowth": 0.073
+  },
+  "analysis": {
+    "financialHealthScore": "55",
+    "valuationRating": "Overvalued",
+    "moatAndBusiness": "NextEra Energy는 미국 최대 유틸리티 기업 중 하나로, 규제된 전력 사업과 신재생에너지(풍력, 태양광) 발전을 통해 수익을 창출합니다. 이 기업의 경제적 해자는 진입장벽이 높은 규제 산업의 특성과, 신재생에너지 분야에서 압도적인 규모의 경제를 달성하여 얻은 원가 경쟁력에 기반합니다. 안정적인 전통 유틸리티 사업에서 나오는 현금을 바탕으로 성장성이 높은 신재생에너지 분야에 공격적으로 재투자하는 선순환 구조를 갖추고 있습니다.",
+    "redFlags": [
+      "비정상적 현금흐름 유출",
+      "과도한 부채 수준",
+      "낮은 유동성 비율"
+    ],
+    "isInvestable": true
+  }
+}

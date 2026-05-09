@@ -1,0 +1,34 @@
+{
+  "ticker": "FDS",
+  "lastUpdated": "2026-05-09T09:12:16.066Z",
+  "rawFinancials": {
+    "name": "FactSet Research Systems Inc.",
+    "marketCap": 8146364416,
+    "trailingPE": 14.3893175,
+    "forwardPE": 11.515367,
+    "priceToBook": 3.848179,
+    "totalRevenue": 2401061120,
+    "operatingMargins": 0.29799,
+    "returnOnEquity": 0.28084,
+    "freeCashflow": 590249344,
+    "totalCash": 285267008,
+    "totalDebt": 1553656960,
+    "currentRatio": 1.431,
+    "revenueGrowth": 0.071
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 성장",
+      "profitability": "독점적 마진",
+      "cashflow_stability": "현금 창출력 우수, 관리 가능한 부채"
+    },
+    "macro_sensitivity": "경기 방어주. 금융기관의 비용 절감 압박 시 단기적 성장 둔화 가능성은 있으나, 필수적인 데이터/툴 제공으로 구독 해지율이 낮아 침체기에도 안정적인 현금흐름 유지가 기대됨.",
+    "technical_synergy": "견고한 펀더멘털(높은 마진, 안정적 현금흐름)이 장기 이평선 지지 같은 기술적 패턴의 신뢰도를 극대화함. 폭발적 시세보다는, 추세 이탈 가능성이 낮은 안정적 우상향을 기대할 수 있음.",
+    "business_moat": "FactSet은 금융기관을 대상으로 필수적인 데이터와 분석 툴을 구독 모델로 제공하여 높은 전환 비용(Switching Costs) 기반의 강력한 경제적 해자를 구축했다. 이는 30%에 육박하는 독점적 영업이익률로 증명되며, 경쟁사가 쉽게 모방하기 어려운 핵심 경쟁력이다.",
+    "ai_system_tags": [
+      "Value",
+      "Defensive",
+      "Dividend"
+    ]
+  }
+}

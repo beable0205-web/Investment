@@ -1,0 +1,34 @@
+{
+  "ticker": "CP",
+  "lastUpdated": "2026-05-08T14:53:31.622Z",
+  "rawFinancials": {
+    "name": "Canadian Pacific Kansas City Li",
+    "marketCap": 75839315968,
+    "trailingPE": 25.966566,
+    "forwardPE": 19.814203,
+    "priceToBook": 2.2388046,
+    "totalRevenue": 14983999488,
+    "operatingMargins": 0.37557,
+    "returnOnEquity": 0.08428001,
+    "freeCashflow": 1903250048,
+    "totalCash": 409000000,
+    "totalDebt": 24320000000,
+    "currentRatio": 0.672,
+    "revenueGrowth": -0.025
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "일시적 매출 정체 상태이나, 순이익 성장에 대한 시장 기대감이 존재함 (Forward PE < Trailing PE).",
+      "profitability": "37.6%에 달하는 독점적 영업이익률은 강력한 가격 결정력과 운영 효율성을 증명함.",
+      "cashflow_stability": "견고한 잉여현금흐름을 창출하고 있으나, 총 부채 규모가 커 재무 레버리지가 높은 편임."
+    },
+    "macro_sensitivity": "운송 물동량이 경기 순환에 직접적으로 연동되는 대표적인 경기민감주. 다만, 필수 인프라 자산으로서 인플레이션 비용 전가 능력을 일부 보유하고 있으며, 금리 인상기에는 높은 부채 부담이 리스크로 작용함.",
+    "technical_synergy": "강력한 경제적 해자를 가진 기업이 경기 둔화로 인해 장기 조정을 거친 후, 경기 회복 신호와 함께 장기 이평선을 돌파하고 지지하는 패턴(단테의 밥그릇 3번 자리)을 형성할 경우, 펀더멘털의 신뢰도가 더해져 매우 강력한 추세 상승의 시발점이 될 가능성이 높음.",
+    "business_moat": "캐나다, 미국, 멕시코를 잇는 북미 유일의 단일 철도 네트워크를 소유한 인프라 기업. 대체 불가능한 물리적 자산과 네트워크 효과가 결합하여 압도적인 진입 장벽을 형성함.",
+    "ai_system_tags": [
+      "Cyclical",
+      "Value",
+      "Turnaround"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "ticker": "FAST",
+  "lastUpdated": "2026-05-08T15:39:43.078Z",
+  "rawFinancials": {
+    "name": "Fastenal Company",
+    "marketCap": 50456141824,
+    "trailingPE": 38.893806,
+    "forwardPE": 32.142467,
+    "priceToBook": 12.647483,
+    "totalRevenue": 8442800128,
+    "operatingMargins": 0.2033,
+    "returnOnEquity": 0.33842,
+    "freeCashflow": 903862528,
+    "totalCash": 308600000,
+    "totalDebt": 445500000,
+    "currentRatio": 4.392,
+    "revenueGrowth": 0.124
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 고성장. 12%대의 견조한 매출 성장을 보이며, 순이익 성장 기대감(낮은 선행 PER)이 이를 뒷받침함.",
+      "profitability": "독점적 수준의 높은 마진과 자본 효율성. 20%가 넘는 영업이익률과 33%에 달하는 자기자본이익률(ROE)은 강력한 가격 결정권과 효율적인 자산 활용 능력을 증명함.",
+      "cashflow_stability": "압도적인 현금 창출력과 철벽 수준의 재무 안정성. 막대한 잉여현금흐름을 창출하며, 부채는 현금성 자산과 비슷한 수준으로 매우 낮고 유동비율(4.39)이 극도로 높아 파산 위험은 거의 없음."
+    },
+    "macro_sensitivity": "경기 순환에 일부 민감하나, 강력한 재무구조와 필수재적 성격으로 뛰어난 방어력 보유. 산업 및 건설 경기에 영향을 받지만, 고객 공급망에 깊숙이 침투한 비즈니스 모델과 낮은 부채 덕분에 금리 인상이나 경기 침체기에도 상대적으로 안정적인 현금흐름 유지가 가능함.",
+    "technical_synergy": "최상급 펀더멘털이 기술적 돌파 신호의 신뢰도를 극대화함. 장기 이평선 지지 확인과 같은 의미 있는 차트 패턴 발생 시, 이는 투기적 자금이 아닌 장기 투자자(스마트 머니)의 강력한 매수 근거로 작용하여, 변동성이 낮고 지속성 높은 상승 추세를 형성할 가능성이 매우 높음.",
+    "business_moat": "광범위한 유통 네트워크와 고객사 내에 설치된 산업용 자판기(Onsite Solutions)를 통해 강력한 공급망 해자를 구축함. 이는 높은 고객 전환 비용을 유발하며, 단순 제품 판매를 넘어 운영 파트너로서의 독점적 지위를 부여함.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Defensive",
+      "Dividend"
+    ]
+  }
+}

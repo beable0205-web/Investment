@@ -1,0 +1,33 @@
+{
+  "ticker": "AGCO",
+  "lastUpdated": "2026-05-09T09:02:39.796Z",
+  "rawFinancials": {
+    "name": "AGCO Corporation",
+    "marketCap": 8496416256,
+    "trailingPE": 11.315332,
+    "forwardPE": 14.366327,
+    "priceToBook": 1.9942216,
+    "totalRevenue": 10374400000,
+    "operatingMargins": 0.038629998,
+    "returnOnEquity": 0.17531,
+    "freeCashflow": 695812480,
+    "totalCash": 514900000,
+    "totalDebt": 2741900032,
+    "currentRatio": 1.293,
+    "revenueGrowth": 0.143
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "견조한 외형 성장 후 단기 이익 둔화 가능성 (최근 매출 성장률 14.3%로 양호하나, 선행 PER이 후행 PER보다 높아 향후 이익 전망치 하향 조정 가능성 내포)",
+      "profitability": "박리다매 구조 속 효율적 자본 활용 (영업이익률은 3.86%로 낮지만, 17.5%의 높은 자기자본이익률(ROE)을 기록하며 자본을 효율적으로 운용하고 있음을 증명)",
+      "cashflow_stability": "강력한 현금 창출력, 부채는 관리 가능 수준 (시가총액의 약 8.2%에 달하는 강력한 잉여현금흐름을 창출. 총부채가 현금보다 많지만, 현금 창출 능력으로 충분히 통제 가능)"
+    },
+    "macro_sensitivity": "농산물 가격, 금리, 경기 사이클에 민감한 대표적인 경기민감주(Cyclical). 농가 소득 증대 시기에 강력한 수혜를 받으나, 금리 인상 및 경기 침체기에는 농기계 구매 수요 둔화에 취약함.",
+    "technical_synergy": "낮은 밸류에이션과 강력한 현금흐름이 주가의 하방 경직성을 확보. 거시경제(농산물 가격 상승 등)의 턴어라운드와 함께 장기 이평선 돌파 및 지지 패턴이 나타날 경우, 시장이 사이클 전환을 인지하기 시작했다는 신호로 해석되어 높은 신뢰도와 함께 추세적 상승을 기대할 수 있음.",
+    "business_moat": "글로벌 농기계 시장의 핵심 플레이어로서, 매시 퍼거슨(Massey Ferguson), 펜트(Fendt) 등 강력한 브랜드 포트폴리오와 광범위한 딜러 네트워크가 핵심 해자이다. 신규 경쟁사가 단기간에 구축하기 어려운 판매 및 서비스망은 지속적인 시장 점유율을 유지하는 원동력이다.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "ticker": "CDNS",
+  "lastUpdated": "2026-05-08T14:23:34.277Z",
+  "rawFinancials": {
+    "name": "Cadence Design Systems, Inc.",
+    "marketCap": 99809533952,
+    "trailingPE": 84.54906,
+    "forwardPE": 38.576096,
+    "priceToBook": 15.004146,
+    "totalRevenue": 5528612864,
+    "operatingMargins": 0.29699,
+    "returnOnEquity": 0.20656,
+    "freeCashflow": 1499152256,
+    "totalCash": 1546153984,
+    "totalDebt": 3083354112,
+    "currentRatio": 1.471,
+    "revenueGrowth": 0.187
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "고성장. 18.7%의 높은 매출 성장률과 Trailing PE 대비 현저히 낮은 Forward PE는 향후 강력한 이익 성장이 기대됨을 시사합니다.",
+      "profitability": "독점적 마진. 30%에 육박하는 영업이익률과 20%를 상회하는 자기자본이익률(ROE)은 강력한 가격 결정권과 해자를 가진 비즈니스 모델임을 증명합니다.",
+      "cashflow_stability": "현금 창출력 우수. 총 부채가 현금성 자산보다 많지만, 연간 창출하는 막대한 잉여현금흐름(FCF)으로 2년 내에 모든 부채를 상환할 수 있는 수준으로 재무 건전성이 매우 뛰어납니다."
+    },
+    "macro_sensitivity": "금리 인상기에는 높은 밸류에이션으로 인해 주가 변동성이 커질 수 있는 전형적인 성장주입니다. 그러나, AI 및 반도체 설계라는 구조적 성장 산업의 핵심 인프라 역할을 하므로, 일반적인 경기 침체기에는 소비재 기술주보다 뛰어난 방어력을 보입니다.",
+    "technical_synergy": "이처럼 견고한 펀더멘털(고성장, 고수익성)이 뒷받침되므로, '단테의 밥그릇 3번 자리'와 같은 장기 이평선 돌파 및 지지 패턴은 단순한 투기적 움직임이 아닌, 구조적 성장에 대한 시장의 확신으로 해석될 수 있습니다. 이는 기술적 추세의 신뢰도를 극대화하고 폭발적인 상승 동력으로 작용할 가능성이 매우 높습니다.",
+    "business_moat": "CDNS는 반도체 설계에 필수적인 EDA(전자 설계 자동화) 소프트웨어 시장을 과점하는 핵심 기업으로, 높은 고객 전환 비용과 독보적인 기술력이 강력한 경제적 해자로 작용합니다. AI, 자율주행 등 첨단 산업의 성장에 따라 그 가치가 더욱 공고해지는 구조적 수혜를 누립니다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Wide-Moat",
+      "Secular-Growth"
+    ]
+  }
+}

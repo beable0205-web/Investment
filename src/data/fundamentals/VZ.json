@@ -1,0 +1,29 @@
+{
+  "ticker": "VZ",
+  "lastUpdated": "2026-05-08T13:19:14.912Z",
+  "rawFinancials": {
+    "name": "Verizon Communications Inc.",
+    "marketCap": 196647845888,
+    "trailingPE": 11.485366,
+    "forwardPE": 8.929063,
+    "priceToBook": 1.90109,
+    "totalRevenue": 139146002432,
+    "operatingMargins": 0.25186002,
+    "returnOnEquity": 0.17198,
+    "freeCashflow": 19608500224,
+    "totalCash": 8400999936,
+    "totalDebt": 200921006080,
+    "currentRatio": 0.64,
+    "revenueGrowth": 0.029
+  },
+  "analysis": {
+    "financialHealthScore": 55,
+    "valuationRating": "Undervalued",
+    "moatAndBusiness": "버라이즌은 미국 최대 통신사 중 하나로, 무선 및 유선 통신 서비스를 제공하여 안정적인 구독 기반 수익을 창출합니다. 이 기업의 경제적 해자는 막대한 자본 투자가 필요한 전국적인 통신 네트워크 인프라에서 비롯되며, 이는 신규 경쟁자의 진입을 사실상 불가능하게 만듭니다. 이러한 강력한 네트워크와 브랜드 인지도는 높은 고객 충성도로 이어져, 경기 변동에 상대적으로 둔감한 예측 가능한 현금흐름을 보장합니다.",
+    "redFlags": [
+      "과도한 부채 수준 (총부채가 시가총액을 초과)",
+      "낮은 유동비율 (단기 부채 상환 능력을 나타내는 유동비율이 1 미만)"
+    ],
+    "isInvestable": true
+  }
+}

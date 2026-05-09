@@ -1,0 +1,34 @@
+{
+  "ticker": "NSC",
+  "lastUpdated": "2026-05-08T15:02:42.821Z",
+  "rawFinancials": {
+    "name": "Norfolk Southern Corporation",
+    "marketCap": 70449520640,
+    "trailingPE": 26.403618,
+    "forwardPE": 23.250908,
+    "priceToBook": 4.4577003,
+    "totalRevenue": 12184999936,
+    "operatingMargins": 0.32255,
+    "returnOnEquity": 0.17615,
+    "freeCashflow": 1298749952,
+    "totalCash": 1340999936,
+    "totalDebt": 17635000320,
+    "currentRatio": 0.907,
+    "revenueGrowth": 0.002
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 성장은 0.2%로 거의 정체 상태이나, 순이익은 비용 통제 및 운임 인상을 통해 개선될 여지가 있음. 전형적인 저성장 성숙기 기업.",
+      "profitability": "영업이익률 32.3%, ROE 17.6%는 철도 산업의 과점적 지위에서 비롯된 강력한 가격 결정력을 증명하는 독점적 마진 구조.",
+      "cashflow_stability": "견고한 비즈니스 모델을 바탕으로 연간 13억 달러 수준의 안정적인 잉여현금흐름을 창출하나, 176억 달러에 달하는 총부채는 재무적 레버리지가 높은 상태임을 시사함."
+    },
+    "macro_sensitivity": "산업재, 소비재 등 전방산업의 경기에 직접적인 영향을 받는 대표적인 경기 순환주(Cyclical). 금리 인상기에는 막대한 부채에 대한 이자 비용과 설비투자(CAPEX) 부담이 가중되어 수익성에 부정적.",
+    "technical_synergy": "이와 같은 가치주는 성장주와 달리 펀더멘털 개선이나 경기 회복 기대감이 주가에 서서히 반영됨. 따라서 '단테의 밥그릇 3번 자리'와 같은 장기 추세 전환 패턴의 신뢰도는 매우 높으며, 폭발적 급등보다는 기관 투자자의 꾸준한 매수세가 유입되는 안정적 우상향 추세를 형성할 가능성이 큼.",
+    "business_moat": "미국 동부 핵심 물류를 담당하는 과점적 철도 네트워크는 신규 경쟁자가 진입할 수 없는 구조적 해자를 구축함. 이를 통해 대체 불가능한 운송 서비스를 제공하며, 인플레이션 환경에서도 비용을 소비자에게 전가할 수 있는 강력한 가격 결정력을 보유함.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Dividend"
+    ]
+  }
+}

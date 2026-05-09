@@ -1,0 +1,34 @@
+{
+  "ticker": "WRB",
+  "lastUpdated": "2026-05-08T17:12:46.305Z",
+  "rawFinancials": {
+    "name": "W.R. Berkley Corporation",
+    "marketCap": 24583294976,
+    "trailingPE": 13.990467,
+    "forwardPE": 13.690012,
+    "priceToBook": 2.5673575,
+    "totalRevenue": 14850791424,
+    "operatingMargins": 0.17093,
+    "returnOnEquity": 0.20164,
+    "freeCashflow": 3222230528,
+    "totalCash": 3445806080,
+    "totalDebt": 3096750080,
+    "currentRatio": 0.385,
+    "revenueGrowth": 0.04
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 저성장. 4%의 외형 성장은 높지 않으나, 순이익 증가 기대감(Trailing PE > Forward PE)이 존재하는 성숙기 기업의 전형.",
+      "profitability": "독점적 수준의 높은 수익성. 20%를 상회하는 자기자본이익률(ROE)과 17%대의 영업이익률은 업계 내 강력한 가격 결정권과 뛰어난 자산 운용 능력을 증명함.",
+      "cashflow_stability": "압도적인 현금 창출력 및 최상위 재무 건전성. 보유 현금이 총 부채를 상회하며, 연간 32억 달러 이상의 잉여현금흐름은 파산 위험을 제로에 가깝게 만듦."
+    },
+    "macro_sensitivity": "대표적인 금리 인상 수혜주이자 경기 방어주. 금리 상승 시기에는 막대한 투자 자산(플로트)의 운용 수익률이 증대되어 이익이 개선됨. 보험이라는 비즈니스 모델의 특성상 경기 침체기에도 수요가 꾸준하여 실적 방어력이 뛰어남.",
+    "technical_synergy": "이처럼 우량한 펀더멘털을 가진 주식의 장기 이평선 돌파 및 지지 패턴(예: 밥그릇 3번 자리)은 투기적 급등보다는 기관 투자자의 꾸준한 매수세가 유입되는 신호일 가능성이 높음. 따라서 패턴의 신뢰도가 매우 높으며, 폭발적인 시세 분출보다는 저변동성의 안정적인 우상향 추세를 형성할 확률이 높음.",
+    "business_moat": "특화된 손해보험 시장에서의 정교한 리스크 평가 및 가격 결정 능력(Underwriting Discipline)이 핵심 해자. 이를 통해 창출된 막대한 플로트(Float)를 효율적으로 운용하여 추가 수익을 창출하는 선순환 구조를 구축함.",
+    "ai_system_tags": [
+      "Value",
+      "Defensive",
+      "Dividend"
+    ]
+  }
+}

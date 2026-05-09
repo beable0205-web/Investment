@@ -1,0 +1,34 @@
+{
+  "ticker": "TT",
+  "lastUpdated": "2026-05-08T14:15:55.115Z",
+  "rawFinancials": {
+    "name": "Trane Technologies plc",
+    "marketCap": 104305025024,
+    "trailingPE": 35.99161,
+    "forwardPE": 27.742321,
+    "priceToBook": 12.1808605,
+    "totalRevenue": 21602799616,
+    "operatingMargins": 0.15521,
+    "returnOnEquity": 0.36630002,
+    "freeCashflow": 2662362624,
+    "totalCash": 1074200064,
+    "totalDebt": 4616000000,
+    "currentRatio": 1.095,
+    "revenueGrowth": 0.06
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출이 연 6% 수준으로 안정적으로 성장하고 있으며, 순이익 증가에 대한 시장 기대감(낮은 선행 PER)이 존재하는 성숙기 우량 기업의 특징을 보임.",
+      "profitability": "영업이익률 15.5%, 자기자본이익률(ROE) 36.6%는 업계 최상위 수준으로, 강력한 가격 결정력과 효율적인 자본 활용을 통한 독점적 수익 구조를 증명함.",
+      "cashflow_stability": "연간 26억 달러 이상의 잉여현금흐름을 창출하며, 총 부채를 2년 내에 상환 가능한 수준으로 관리하고 있어 재무 건전성과 현금 창출 능력이 매우 우수함."
+    },
+    "macro_sensitivity": "건설 경기에 영향을 받는 경기 순환주(Cyclical)의 특성을 가지나, 필수적인 교체 및 유지보수 수요와 에너지 효율화라는 장기 트렌드 덕분에 경기 침체기에도 일정 수준의 실적을 방어할 수 있는 능력을 보유함. 인플레이션 시기에는 강력한 브랜드를 바탕으로 원가 상승분을 판매가에 전가할 수 있는 능력이 뛰어남.",
+    "technical_synergy": "이처럼 압도적인 수익성과 현금흐름을 가진 기업의 주가가 장기 이평선을 돌파하고 지지받는 패턴은, 투기적 세력이 아닌 기관 투자자의 구조적 매수세가 유입되고 있다는 신호일 가능성이 높음. 따라서 패턴의 신뢰도가 매우 높으며, 변동성 큰 급등보다는 안정적이고 강력한 우상향 추세를 형성할 잠재력이 큼.",
+    "business_moat": "Trane, Thermo King 등 강력한 브랜드를 기반으로 한 글로벌 HVAC(공조) 시장의 과점적 지위가 핵심 해자임. 높은 신뢰도를 요구하는 산업 특성상 한번 구축된 유통 및 서비스 네트워크는 신규 경쟁자의 진입을 막는 견고한 장벽으로 작용함.",
+    "ai_system_tags": [
+      "Cyclical",
+      "Defensive",
+      "Dividend"
+    ]
+  }
+}

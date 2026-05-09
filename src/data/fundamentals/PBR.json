@@ -1,0 +1,34 @@
+{
+  "ticker": "PBR",
+  "lastUpdated": "2026-05-08T13:55:07.636Z",
+  "rawFinancials": {
+    "name": "Petroleo Brasileiro S.A. Petrob",
+    "marketCap": 131755065344,
+    "trailingPE": 6.725329,
+    "forwardPE": 5.3755527,
+    "priceToBook": 1.575679,
+    "totalRevenue": 497548984320,
+    "operatingMargins": 0.26850998,
+    "returnOnEquity": 0.28176,
+    "freeCashflow": 85002125312,
+    "totalCash": 50608001024,
+    "totalDebt": 384025001984,
+    "currentRatio": 0.706,
+    "revenueGrowth": 0.05
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 저성장",
+      "profitability": "독점적 수준의 높은 마진과 우수한 자본 효율성",
+      "cashflow_stability": "강력한 현금 창출력, 그러나 높은 부채 및 단기 유동성 리스크 상존"
+    },
+    "macro_sensitivity": "유가 및 글로벌 경기 변동에 극도로 민감한 대표적 경기민감주. 높은 부채 수준으로 인해 금리 인상 시 이자 비용 부담이 가중될 수 있음.",
+    "technical_synergy": "경기민감주 특성상, 펀더멘털(유가 상승 등) 개선이 확인되는 시점의 장기 이평선 돌파는 강력한 추세 전환 신호일 가능성이 높음. 낮은 밸류에이션과 높은 수익성이 결합되어, 기술적 지지 확인 시 폭발적인 시세 분출 잠재력을 내포함.",
+    "business_moat": "브라질 정부가 통제하는 국영 석유 기업으로서, 방대한 석유 및 가스 매장량에 대한 독점적 접근권과 거대한 규모의 경제가 핵심 해자이다. 이는 신규 경쟁자의 진입을 사실상 불가능하게 만드는 강력한 구조적 장벽으로 작용한다.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Dividend"
+    ]
+  }
+}

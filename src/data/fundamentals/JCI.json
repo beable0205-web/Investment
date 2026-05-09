@@ -1,0 +1,34 @@
+{
+  "ticker": "JCI",
+  "lastUpdated": "2026-05-08T14:33:04.391Z",
+  "rawFinancials": {
+    "name": "Johnson Controls International ",
+    "marketCap": 86038503424,
+    "trailingPE": 43.125385,
+    "forwardPE": 25.261673,
+    "priceToBook": 6.5362687,
+    "totalRevenue": 24433000448,
+    "operatingMargins": 0.14017999,
+    "returnOnEquity": 0.13449,
+    "freeCashflow": 2870374912,
+    "totalCash": 698000000,
+    "totalDebt": 9523000320,
+    "currentRatio": 1.036,
+    "revenueGrowth": 0.082
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적인 한 자릿수 매출 성장과 함께, 순이익 개선에 대한 시장의 높은 기대감(Trailing PE 대비 낮은 Forward PE)이 공존하는 성숙기 성장주.",
+      "profitability": "14%대의 견조한 영업이익률과 13%대의 자기자본이익률(ROE)을 기록하며, 산업재 기업으로서 안정적이고 예측 가능한 수익 구조를 보유함.",
+      "cashflow_stability": "매출의 10%가 넘는 강력한 잉여현금흐름(FCF) 창출 능력은 최대 강점이나, 총 부채 규모와 1.0을 소폭 상회하는 유동비율은 재무안정성 측면에서 지속적인 관찰이 필요함."
+    },
+    "macro_sensitivity": "건설 및 설비투자(CAPEX) 경기에 직접적인 영향을 받는 대표적인 경기순환주(Cyclical). 금리 인상기에는 투자 위축으로 단기적 압박을 받지만, 정부 주도의 인프라 투자 확대나 '스마트 빌딩/에너지 효율' 트렌드 확산 시 구조적 수혜가 기대됨.",
+    "technical_synergy": "견고한 펀더멘털을 가진 대형 경기순환주 특성상, 장기 침체 후 경기 회복 기대감과 함께 '단테의 밥그릇 3번 자리' 같은 추세 전환 패턴이 나타날 경우 신뢰도가 매우 높음. 폭발적 시세 분출보다는 기관 투자자의 꾸준한 매수세가 유입되며 장기 우상향 추세를 형성할 잠재력이 큼.",
+    "business_moat": "빌딩 자동제어, HVAC, 보안 시스템 분야의 글로벌 리더로서, 한번 설치되면 교체가 어려운 제품 특성에서 비롯되는 높은 전환 비용이 핵심 해자임. 이를 통해 창출되는 안정적인 유지보수 및 업그레이드 매출은 경기 변동에 대한 방어력을 제공함.",
+    "ai_system_tags": [
+      "Cyclical",
+      "Value",
+      "Dividend"
+    ]
+  }
+}

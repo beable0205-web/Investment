@@ -1,0 +1,33 @@
+{
+  "ticker": "NMR",
+  "lastUpdated": "2026-05-08T17:36:06.635Z",
+  "rawFinancials": {
+    "name": "Nomura Holdings Inc",
+    "marketCap": 22908565504,
+    "trailingPE": 10.58,
+    "forwardPE": 14.169642,
+    "priceToBook": 1.0127002,
+    "totalRevenue": 2167713038336,
+    "operatingMargins": 0.18655,
+    "returnOnEquity": 0.1007,
+    "totalCash": 48617301737472,
+    "totalDebt": 35363905077248,
+    "currentRatio": 1.575,
+    "revenueGrowth": 0.275
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "최근 27.5%의 높은 매출 성장을 기록했으나, 선행 PER이 후행 PER보다 높아 이익 성장의 지속성은 불확실함. 전형적인 경기 순환에 따른 성장 패턴을 보임.",
+      "profitability": "영업이익률 18.7%, 자기자본이익률(ROE) 10.1%로 금융업종에서 안정적이고 준수한 수익성 구조를 확보하고 있음.",
+      "cashflow_stability": "총 부채보다 총 현금 보유액이 월등히 많아 파산 위험이 극히 낮음. 유동비율 또한 1.5배 이상으로, 압도적인 재무 안정성을 자랑함."
+    },
+    "macro_sensitivity": "글로벌 투자은행으로서 금리, 환율, 경기 사이클 등 거시경제 변수에 실적이 직접적으로 연동되는 대표적인 경기민감주. 시장 활황기에는 수익이 극대화되나, 경기 침체기에는 실적 둔화 위험이 큼.",
+    "technical_synergy": "극도로 안전한 재무구조를 가진 저평가 가치주가 장기 박스권을 돌파하는 '밥그릇 3번 자리' 같은 패턴을 형성할 경우, 펀더멘털이 기술적 신호의 신뢰도를 증폭시킴. 시장의 재평가가 시작되면 매우 강력하고 지속적인 추세 상승을 기대할 수 있음.",
+    "business_moat": "일본 최대 증권사이자 아시아를 대표하는 투자은행으로서의 강력한 브랜드와 고객 네트워크가 핵심 해자임. 높은 규제 장벽과 규모의 경제를 통해 글로벌 시장에서 경쟁 우위를 유지함.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Turnaround"
+    ]
+  }
+}

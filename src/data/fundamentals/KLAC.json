@@ -1,0 +1,26 @@
+{
+  "ticker": "KLAC",
+  "lastUpdated": "2026-05-08T13:12:53.873Z",
+  "rawFinancials": {
+    "name": "KLA Corporation",
+    "marketCap": 230328975360,
+    "trailingPE": 49.992912,
+    "forwardPE": 35.544437,
+    "priceToBook": 42.30649,
+    "totalRevenue": 13096660992,
+    "operatingMargins": 0.41215,
+    "returnOnEquity": 0.94975996,
+    "freeCashflow": 2890187008,
+    "totalCash": 4957938176,
+    "totalDebt": 6145359872,
+    "currentRatio": 3.026,
+    "revenueGrowth": 0.115
+  },
+  "analysis": {
+    "financialHealthScore": "95",
+    "valuationRating": "Overvalued",
+    "moatAndBusiness": "KLA Corporation은 반도체 공정 제어 및 수율 관리 솔루션 시장의 독점적 지배자로서, 칩 제조사들의 생산 품질과 수율을 보장하는 핵심 장비를 공급하여 수익을 창출합니다. 이 기업의 경제적 해자는 고객사들이 쉽게 공급업체를 바꿀 수 없는 높은 전환 비용, 압도적인 기술력과 특허, 그리고 특정 분야에서의 과점적 시장 점유율에 기반합니다. 이러한 강력한 경쟁 우위는 40%가 넘는 경이로운 영업이익률과 막대한 현금 창출 능력으로 이어집니다.",
+    "redFlags": [],
+    "isInvestable": true
+  }
+}

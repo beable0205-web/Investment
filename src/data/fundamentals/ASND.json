@@ -1,0 +1,33 @@
+{
+  "ticker": "ASND",
+  "lastUpdated": "2026-05-08T19:08:10.485Z",
+  "rawFinancials": {
+    "name": "Ascendis Pharma A/S",
+    "marketCap": 14735707136,
+    "trailingPE": 26.860361,
+    "forwardPE": 19.380074,
+    "priceToBook": 25.673634,
+    "totalRevenue": 865779008,
+    "operatingMargins": 0.10062,
+    "returnOnEquity": 3.32654,
+    "freeCashflow": 123772128,
+    "totalCash": 572819968,
+    "totalDebt": 896664000,
+    "currentRatio": 0.996,
+    "revenueGrowth": 1.443
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 144%의 폭발적인 성장세. 순이익 턴어라운드 후 본격적인 이익 성장 국면에 진입했음을 시사",
+      "profitability": "고성장 단계임에도 10%의 안정적인 영업이익률을 기록하며 흑자 구조 안착. 향후 매출 증대에 따른 레버리지 효과 기대",
+      "cashflow_stability": "강력한 플러스 자유현금흐름을 창출하고 있으나, 순부채 상태와 1 미만의 유동비율은 단기 재무안정성에 대한 모니터링 필요"
+    },
+    "macro_sensitivity": "전형적인 성장주로서 금리 인상기에는 높은 밸류에이션이 부담으로 작용할 수 있음. 단, 주력 제품이 희귀질환 치료제일 경우, 경기 침체에 대한 방어력은 상대적으로 높음",
+    "technical_synergy": "폭발적인 펀더멘털 개선(매출 성장, 흑자 전환)은 '단테의 밥그릇 3번 자리'와 같은 장기 추세 전환 패턴의 신뢰도를 극대화함. 해당 패턴 완성 시, 펀더멘털을 확신한 기관 투자자들의 자금 유입이 가속화되며 강력한 시세 분출로 이어질 가능성이 매우 높음",
+    "business_moat": "독자적인 약물 전달 기술 플랫폼(TransCon)을 활용하여 장기 지속형 치료제를 개발하는 것이 핵심. 특허를 통해 확보한 기술적 우위와 규제 기관의 판매 허가가 강력한 경제적 해자로 작용함",
+    "ai_system_tags": [
+      "High-Growth",
+      "Turnaround"
+    ]
+  }
+}

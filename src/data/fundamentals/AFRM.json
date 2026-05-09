@@ -1,0 +1,34 @@
+{
+  "ticker": "AFRM",
+  "lastUpdated": "2026-05-08T17:37:21.127Z",
+  "rawFinancials": {
+    "name": "Affirm Holdings, Inc.",
+    "marketCap": 21670514688,
+    "trailingPE": 80.31481,
+    "forwardPE": 17.065756,
+    "priceToBook": 6.0930037,
+    "totalRevenue": 3715908096,
+    "operatingMargins": 0.10474,
+    "returnOnEquity": 0.08917,
+    "freeCashflow": 457454752,
+    "totalCash": 1564432000,
+    "totalDebt": 9181845504,
+    "currentRatio": 13.846,
+    "revenueGrowth": 0.296
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "고성장. 29.6%의 높은 매출 성장률과 함께, Trailing PE 대비 현저히 낮은 Forward PE는 시장이 폭발적인 이익 성장을 기대하고 있음을 시사함.",
+      "profitability": "성장 단계의 수익성 확보. 10%대의 영업이익률과 흑자 ROE를 기록하며 수익성 있는 성장 모델을 증명하고 있으나, 6배가 넘는 PBR에 비해서는 아직 ROE가 낮은 수준.",
+      "cashflow_stability": "긍정적 현금흐름, 높은 레버리지. 견조한 영업활동현금흐름(FCF) 창출 능력은 긍정적이나, 총 부채가 현금 보유액을 크게 상회하여 레버리지 리스크가 상존함. 단, 13.8배의 높은 유동비율은 단기 상환 능력에 대한 우려를 완화시킴."
+    },
+    "macro_sensitivity": "금리 인하 및 경기 확장 수혜주. 비즈니스 모델의 핵심인 자금 조달 비용과 소비자의 대출 수요가 금리에 직접적인 영향을 받으며, 소비 심리에 민감하여 경기 순환에 따라 실적 변동성이 큰 경기민감주(Cyclical) 특성을 보임.",
+    "technical_synergy": "높은 성장 기대감과 내재된 리스크가 공존하여, 장기 이평선 지지 같은 기술적 신호 발생 시 강력한 '스토리 베팅'이 유입되며 폭발적인 시세 분출이 가능함. 다만, 금리 등 거시경제 변수와 실적 발표에 따라 패턴의 신뢰도가 급변할 수 있어, 펀더멘털 모멘텀 확인이 필수적임.",
+    "business_moat": "Affirm은 독자적인 신용 평가 기술과 대규모 가맹점 네트워크를 기반으로 '선구매 후결제(BNPL)' 시장에서 강력한 브랜드 인지도를 구축했습니다. 데이터가 축적될수록 정교해지는 리스크 관리 능력과 소비자-가맹점 간의 네트워크 효과가 핵심적인 경제적 해자로 작용합니다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

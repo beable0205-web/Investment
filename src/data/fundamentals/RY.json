@@ -1,0 +1,24 @@
+{
+  "ticker": "RY",
+  "lastUpdated": "2026-05-08T13:11:03.898Z",
+  "rawFinancials": {
+    "name": "Royal Bank Of Canada",
+    "marketCap": 252170174464,
+    "trailingPE": 16.948599,
+    "forwardPE": 14.186099,
+    "priceToBook": 2.7373147,
+    "totalRevenue": 63424000000,
+    "operatingMargins": 0.46194,
+    "returnOnEquity": 0.15395,
+    "totalCash": 776768978944,
+    "totalDebt": 470622011392,
+    "revenueGrowth": 0.075
+  },
+  "analysis": {
+    "financialHealthScore": 88,
+    "valuationRating": "Fair",
+    "moatAndBusiness": "Royal Bank of Canada는 캐나다의 과점적 금융 시장을 지배하는 핵심 기관으로, 대출 이자 수익과 자산 관리, 캐피털 마켓 등 다각화된 사업 포트폴리오를 통해 안정적인 이익을 창출합니다. 이 기업의 경제적 해자는 막대한 규모의 경제, 고객의 높은 전환 비용을 유발하는 강력한 브랜드 신뢰도, 그리고 신규 진입을 막는 견고한 규제 환경에서 비롯됩니다. 이러한 구조적 이점 덕분에 RBC는 꾸준히 높은 자기자본이익률(ROE)을 기록하며 지속 가능한 성장을 이어가고 있습니다.",
+    "redFlags": [],
+    "isInvestable": true
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "ticker": "NXT",
+  "lastUpdated": "2026-05-08T18:22:43.178Z",
+  "rawFinancials": {
+    "name": "Nextpower Inc.",
+    "marketCap": 19029676032,
+    "trailingPE": 32.280613,
+    "forwardPE": 26.412245,
+    "priceToBook": 8.733521,
+    "totalRevenue": 3603215104,
+    "operatingMargins": 0.19409999,
+    "returnOnEquity": 0.33172,
+    "freeCashflow": 454167488,
+    "totalCash": 952624000,
+    "totalDebt": 44800000,
+    "currentRatio": 2.36,
+    "revenueGrowth": 0.339
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출이 30% 이상 급증하는 전형적인 고성장(High-Growth) 기업. 순이익 성장 기대감(낮은 Forward PE)이 높아 시장의 높은 밸류에이션을 정당화하고 있음.",
+      "profitability": "20%에 육박하는 영업이익률과 33%를 초과하는 자기자본이익률(ROE)은 강력한 가격 결정력 또는 기술적 우위에 기반한 독점적 마진 구조를 시사함.",
+      "cashflow_stability": "보유 현금이 총 부채의 20배를 초과하는 '현금 창고' 수준의 재무구조. 파산 위험이 극도로 낮으며, 외부 자금 조달 없이도 성장을 지속할 수 있는 우수한 현금 창출력을 보유함."
+    },
+    "macro_sensitivity": "고성장주 특성상 금리 인상 시기에는 높은 밸류에이션 부담으로 주가 변동성이 커질 수 있음. 그러나 압도적인 재무 건전성을 바탕으로 경기 침체기에는 오히려 경쟁사 대비 생존 및 시장 점유율 확대에 유리한 경기 방어적 특성을 동시에 지님.",
+    "technical_synergy": "이처럼 펀더멘털이 폭발적인 기업이 '장기 이평선 돌파 및 지지' 패턴을 형성할 경우, 이는 단순한 기술적 신호를 넘어 기업의 가치가 시장에 본격적으로 재평가받기 시작했다는 신호일 가능성이 높음. 따라서 패턴의 신뢰도가 매우 높으며, 한번 추세가 형성되면 장기간 지속될 강력한 에너지를 내포함.",
+    "business_moat": "이 기업은 높은 수익성을 통해 증명된 강력한 경제적 해자를 보유하고 있으며, 이를 통해 창출된 현금을 다시 고성장 영역에 효과적으로 재투자하여 복리 효과를 극대화하는 선순환 구조를 구축했다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Value",
+      "Defensive"
+    ]
+  }
+}

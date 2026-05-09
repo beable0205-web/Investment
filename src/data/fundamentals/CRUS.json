@@ -1,0 +1,33 @@
+{
+  "ticker": "CRUS",
+  "lastUpdated": "2026-05-09T08:50:51.535Z",
+  "rawFinancials": {
+    "name": "Cirrus Logic, Inc.",
+    "marketCap": 8756438016,
+    "trailingPE": 21.896683,
+    "forwardPE": 18.380735,
+    "priceToBook": 4.0998755,
+    "totalRevenue": 1997378944,
+    "operatingMargins": 0.20131999,
+    "returnOnEquity": 0.20327,
+    "totalCash": 887627008,
+    "totalDebt": 133977000,
+    "currentRatio": 7.365,
+    "revenueGrowth": 0.057
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 성장. 5.7%의 외형 성장은 폭발적이지 않으나, Trailing PE 대비 낮은 Forward PE는 향후 이익 개선에 대한 시장의 기대를 반영하며 꾸준한 성장을 시사함.",
+      "profitability": "독점적 고수익성 구조. 20%를 상회하는 영업이익률(Operating Margin)과 자기자본이익률(ROE)은 강력한 가격 결정력과 기술적 해자를 증명하는 지표임.",
+      "cashflow_stability": "압도적인 재무 안정성. 총 부채(Total Debt)를 훨씬 상회하는 현금(Total Cash)을 보유한 사실상의 순현금 기업이며, 7.365의 높은 유동비율(Current Ratio)은 파산 위험이 극히 낮음을 의미함."
+    },
+    "macro_sensitivity": "경기 민감주 속성의 방어주. 주력 제품이 소비재(스마트폰 등)에 탑재되므로 경기 침체 시 수요 둔화에 노출되나, 막대한 현금 보유량과 낮은 부채 덕분에 금리 인상이나 자금 경색 국면에서 오히려 경쟁사 대비 생존 및 투자 여력이 부각될 수 있는 독특한 위치에 있음.",
+    "technical_synergy": "펀더멘털이 뒷받침하는 신뢰도 높은 패턴. 이처럼 우량한 재무구조를 가진 기업이 장기 이평선 지지를 받으며 박스권을 돌파하는 '단테의 밥그릇 3번 자리'와 같은 패턴을 형성할 경우, 이는 단순한 기술적 움직임을 넘어 기관 투자자의 본격적인 자금 유입 신호일 가능성이 높음. 따라서 패턴의 신뢰도와 돌파 시의 폭발력이 일반 기업보다 월등히 높을 것으로 기대됨.",
+    "business_moat": "고성능 오디오 및 혼합 신호 반도체 분야의 깊은 기술 전문성과 특허를 기반으로 한 기술적 해자를 보유하고 있습니다. 특히, 소수의 거대 IT 기업과의 긴밀하고 장기적인 파트너십은 높은 전환 비용을 유발하여 안정적인 수익 기반을 제공합니다.",
+    "ai_system_tags": [
+      "Quality",
+      "Value",
+      "Defensive"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "ticker": "ALV",
+  "lastUpdated": "2026-05-09T08:47:48.814Z",
+  "rawFinancials": {
+    "name": "Autoliv, Inc.",
+    "marketCap": 9104879616,
+    "trailingPE": 13.091496,
+    "forwardPE": 10.180686,
+    "priceToBook": 3.456685,
+    "totalRevenue": 10990000128,
+    "operatingMargins": 0.08936,
+    "returnOnEquity": 0.28372,
+    "freeCashflow": 430375008,
+    "totalCash": 342000000,
+    "totalDebt": 2252000000,
+    "currentRatio": 1.075,
+    "revenueGrowth": 0.068
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "견조한 한 자릿수 매출 성장과 순이익 증가가 기대되는 안정적 성장 국면. (Forward P/E < Trailing P/E)",
+      "profitability": "경쟁이 심한 자동차 부품 산업 내 평균 수준의 영업이익률(8.9%)을 보이나, 효율적인 자본 활용을 통해 매우 높은 자기자본이익률(ROE 28.4%)을 달성하는 구조.",
+      "cashflow_stability": "영업활동을 통해 꾸준한 잉여현금흐름(FCF)을 창출하고 있으나, 총 부채(22.5억 달러)가 현금성 자산(3.4억 달러) 대비 많아 레버리지 관리가 중요한 재무 구조."
+    },
+    "macro_sensitivity": "자동차 산업의 핵심 공급업체로서, 신차 판매량에 직접적인 영향을 받는 대표적인 경기 민감주(Cyclical). 금리 인상 및 경기 침체 국면에서 매출과 이익이 둔화될 위험이 존재하며, 원자재 가격 상승 등 인플레이션 압력에 취약할 수 있음.",
+    "technical_synergy": "견조한 펀더멘털(적정 P/E, 높은 ROE, 흑자 현금흐름)을 보유한 경기 사이클 주도주. 이러한 종목이 장기 이평선 돌파 및 지지 패턴을 형성할 경우, 단순한 기술적 반등을 넘어 자동차 산업의 업황 턴어라운드 신호로 해석될 수 있어 높은 신뢰도를 가짐. 펀더멘털이 뒷받침되므로, 패턴 완성 시 추세가 지속될 폭발력과 안정성을 겸비함.",
+    "business_moat": "세계 1위의 자동차 안전 시스템(에어백, 안전벨트) 공급업체로서, 규모의 경제와 강력한 고객(자동차 OEM) 관계를 통해 구축된 높은 전환 비용이 핵심 해자임. 엄격한 안전 규제와 지속적인 R&D 투자는 신규 경쟁자의 진입을 막는 기술적 장벽으로 작용함.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical"
+    ]
+  }
+}

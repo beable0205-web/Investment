@@ -1,0 +1,26 @@
+{
+  "ticker": "LIN",
+  "lastUpdated": "2026-05-08T13:12:26.342Z",
+  "rawFinancials": {
+    "name": "Linde plc",
+    "marketCap": 228330209280,
+    "trailingPE": 32.792164,
+    "forwardPE": 25.05581,
+    "priceToBook": 5.9874396,
+    "totalRevenue": 34654998528,
+    "operatingMargins": 0.28471002,
+    "returnOnEquity": 0.18229,
+    "freeCashflow": 4694499840,
+    "totalCash": 3959000064,
+    "totalDebt": 26317000704,
+    "currentRatio": 0.828,
+    "revenueGrowth": 0.082
+  },
+  "analysis": {
+    "financialHealthScore": 85,
+    "valuationRating": "Overvalued",
+    "moatAndBusiness": "Linde는 산업용 가스 분야의 글로벌 리더로서, 다양한 산업에 산소, 수소와 같은 필수 제품을 공급합니다. 이 기업의 경제적 해자는 고객의 높은 전환 비용, 장기 공급 계약, 그리고 경쟁사가 따라올 수 없는 거대한 생산 및 유통 네트워크에서 비롯됩니다. 그 결과 매우 안정적인 매출, 강력한 가격 결정력, 그리고 28%가 넘는 인상적인 영업이익률을 자랑합니다.",
+    "redFlags": [],
+    "isInvestable": true
+  }
+}

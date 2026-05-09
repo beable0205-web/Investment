@@ -1,0 +1,34 @@
+{
+  "ticker": "FDX",
+  "lastUpdated": "2026-05-08T14:35:47.348Z",
+  "rawFinancials": {
+    "name": "FedEx Corporation",
+    "marketCap": 91222941696,
+    "trailingPE": 20.422812,
+    "forwardPE": 17.090416,
+    "priceToBook": 3.0658042,
+    "totalRevenue": 91932999680,
+    "operatingMargins": 0.06942,
+    "returnOnEquity": 0.15869,
+    "freeCashflow": 894000000,
+    "totalCash": 8218999808,
+    "totalDebt": 42021998592,
+    "currentRatio": 1.474,
+    "revenueGrowth": 0.083
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 중속 성장. 8.3%의 견조한 매출 성장을 보이고 있으며, 선행 PER(Forward PE)이 후행 PER(Trailing PE)보다 낮아 향후 이익 개선에 대한 시장의 기대감이 존재합니다.",
+      "profitability": "전형적인 박리다매 구조. 6.9%의 영업이익률은 업종 특성상 높지 않지만, 15.9%의 자기자본이익률(ROE)은 주주자본을 활용하여 양호한 수익을 창출하고 있음을 보여줍니다.",
+      "cashflow_stability": "레버리지를 활용한 현금흐름 창출. 잉여현금흐름(FCF)이 흑자이나, 총 부채(420억 달러)가 현금성 자산(82억 달러) 대비 상당히 높은 수준으로, 부채 관리가 핵심 리스크 요인입니다."
+    },
+    "macro_sensitivity": "대표적인 경기 민감주(Cyclical). 글로벌 교역량과 소비 심리에 직접적인 영향을 받으며, 경기 확장 국면에서 수혜를 입지만 경기 침체 시 실적 둔화 압력이 큽니다. 또한, 높은 부채 수준으로 인해 금리 인상 시 이자 비용 부담이 가중될 수 있습니다.",
+    "technical_synergy": "경기민감 대형주(Stalwart)의 특성상, '단테의 밥그릇 3번 자리'와 같은 장기 바닥권 탈출 패턴은 경기 회복의 선행 지표로 작용할 수 있어 높은 신뢰도를 가집니다. 해당 패턴 완성 시, 경기 회복 기대감에 따른 기관 투자자 자금 유입이 가속화되며 단순 기술적 반등을 넘어선 강력한 추세 상승으로 이어질 잠재력이 매우 큽니다.",
+    "business_moat": "모방이 불가능에 가까운 전 세계적 항공 및 육상 물류 네트워크와 강력한 브랜드 인지도가 핵심 해자입니다. 이는 막대한 자본 투자와 수십 년간 축적된 운영 노하우를 통해 구축된 구조적 경쟁 우위입니다.",
+    "ai_system_tags": [
+      "Cyclical",
+      "Value",
+      "Dividend"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "ticker": "AMKR",
+  "lastUpdated": "2026-05-08T18:23:36.662Z",
+  "rawFinancials": {
+    "name": "Amkor Technology, Inc.",
+    "marketCap": 18853183488,
+    "trailingPE": 43.712643,
+    "forwardPE": 31.045404,
+    "priceToBook": 4.1578746,
+    "totalRevenue": 7071107072,
+    "operatingMargins": 0.05955,
+    "returnOnEquity": 0.10005999,
+    "freeCashflow": -47146500,
+    "totalCash": 1848499968,
+    "totalDebt": 1617483008,
+    "currentRatio": 2.01,
+    "revenueGrowth": 0.275
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "폭발적인 매출 성장세(YoY +27.5%)를 보이고 있으며, 선행 PER이 후행 PER보다 낮아 이익 성장에 대한 시장의 기대감이 높음. 단, 반도체 산업의 특성상 경기 사이클에 따른 성장률 변동성이 큰 편임.",
+      "profitability": "영업이익률(5.96%)이 낮은 자본집약적 박리다매 구조. 이는 OSAT 산업의 공통적인 특징으로, 반도체 업황 호조 시 가동률 상승에 따른 강력한 이익 레버리지 효과를 기대할 수 있음.",
+      "cashflow_stability": "성장 가속화를 위한 대규모 설비투자(CAPEX)로 인해 잉여현금흐름이 일시적으로 마이너스를 기록. 그러나 총 부채보다 많은 현금을 보유한 순현금 상태이며 유동비율(2.01)이 높아 재무 안정성은 매우 양호함."
+    },
+    "macro_sensitivity": "글로벌 경기 및 IT 기기 수요에 직접적인 영향을 받는 대표적인 경기 민감주(Cyclical). 금리 인상 시기에는 대규모 설비투자에 대한 금융 비용 부담이 증가할 수 있으나, AI 산업 개화와 같은 거대 기술 트렌드는 경기 둔화 우려를 상쇄하는 강력한 성장 동력으로 작용함.",
+    "technical_synergy": "경기 사이클에 따라 장기 횡보 국면을 거칠 수 있으나, 펀더멘털(업황 턴어라운드)이 뒷받침되는 상황에서 '단테의 밥그릇 3번 자리'와 같은 장기 이평선 돌파 및 지지 패턴이 나타날 경우 신뢰도가 매우 높음. 폭발적인 성장 잠재력이 주가 재평가(Re-rating)의 강력한 연료로 작용하여 큰 폭의 상승을 기대할 수 있음.",
+    "business_moat": "세계 2위 OSAT(반도체 후공정) 기업으로서, 대규모 생산 능력과 글로벌 고객사 네트워크를 통해 강력한 규모의 경제를 구축함. 기술적 난이도와 막대한 자본 투자 필요성이 신규 경쟁자의 진입을 막는 구조적 해자를 형성하고 있음.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Cyclical",
+      "Turnaround"
+    ]
+  }
+}

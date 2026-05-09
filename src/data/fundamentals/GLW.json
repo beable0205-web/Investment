@@ -1,0 +1,34 @@
+{
+  "ticker": "GLW",
+  "lastUpdated": "2026-05-08T13:57:05.071Z",
+  "rawFinancials": {
+    "name": "Corning Incorporated",
+    "marketCap": 166258016256,
+    "trailingPE": 92.875,
+    "forwardPE": 47.789272,
+    "priceToBook": 14.021919,
+    "totalRevenue": 16321000448,
+    "operatingMargins": 0.15661,
+    "returnOnEquity": 0.1674,
+    "freeCashflow": 612000000,
+    "totalCash": 1755000064,
+    "totalDebt": 9923999744,
+    "currentRatio": 1.61,
+    "revenueGrowth": 0.2
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 성장률 20%와 Trailing PE 대비 현저히 낮은 Forward PE는 향후 이익의 폭발적인 성장이 기대되는 전형적인 고성장 국면의 기업임을 시사합니다.",
+      "profitability": "15%가 넘는 영업이익률과 16%대의 자기자본이익률(ROE)은 독점적인 기술력에 기반한 강력한 가격 결정권을 보유한 '기술 기반의 견고한 수익성' 구조를 보여줍니다.",
+      "cashflow_stability": "순부채 규모가 상당하지만, 긍정적인 잉여현금흐름과 1.6배의 유동비율은 단기적 안정성을 확보하고 있음을 의미합니다. 성장을 위한 투자가 현금흐름을 제약하는 '성장을 위한 레버리지 활용' 단계에 있습니다."
+    },
+    "macro_sensitivity": "주요 전방 산업이 소비재(스마트폰, 자동차)와 통신 인프라 투자에 집중되어 있어, 경기 침체기 소비 위축과 기업 투자 감소에 직접적인 영향을 받는 '경기 순환 및 금리 변동에 민감한 시클리컬 성장주'입니다.",
+    "technical_synergy": "폭발적인 이익 성장이 기대되는 펀더멘털을 보유하고 있어, '단테의 밥그릇 3번 자리'와 같은 장기적 추세 전환 및 지지 패턴의 신뢰도가 매우 높습니다. 해당 패턴 완성 시, 펀더멘털이 주가에 본격적으로 반영되며 강력한 시세 분출의 '연료' 역할을 할 가능성이 큽니다.",
+    "business_moat": "핵심 소재 기술에 대한 깊은 전문성과 수많은 특허 포트폴리오를 기반으로 한 기술적 해자를 보유하고 있습니다. 주요 고객사와의 긴밀한 R&D 협력 관계는 높은 전환 비용을 유발하여 경쟁사의 진입을 막는 강력한 장벽으로 작용합니다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Cyclical",
+      "Dividend"
+    ]
+  }
+}

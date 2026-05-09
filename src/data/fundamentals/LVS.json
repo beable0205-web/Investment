@@ -1,0 +1,34 @@
+{
+  "ticker": "LVS",
+  "lastUpdated": "2026-05-08T16:28:39.304Z",
+  "rawFinancials": {
+    "name": "Las Vegas Sands Corp.",
+    "marketCap": 35576995840,
+    "trailingPE": 19.811808,
+    "forwardPE": 14.576444,
+    "priceToBook": 29.712229,
+    "totalRevenue": 13740000256,
+    "operatingMargins": 0.25439,
+    "returnOnEquity": 0.90455,
+    "freeCashflow": 1622625024,
+    "totalCash": 3329999872,
+    "totalDebt": 15781000192,
+    "currentRatio": 0.921,
+    "revenueGrowth": 0.253
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "코로나19 이후 여행 및 레저 수요 회복에 힘입어 25%가 넘는 강력한 매출 성장을 보이는 고성장 국면.",
+      "profitability": "정부 허가 기반의 과점적 시장 지위 덕분에 25%대의 높은 영업이익률을 자랑하나, 과도한 부채로 인해 부풀려진 90%대의 ROE는 재무 레버리지 리스크를 내포함.",
+      "cashflow_stability": "강력한 무료현금흐름 창출 능력을 보유하고 있으나, 총 부채가 현금 보유액의 5배에 달하고 유동비율이 1 미만인 점은 잠재적 유동성 및 부채 상환 리스크를 시사함."
+    },
+    "macro_sensitivity": "소비자들의 재량적 지출에 절대적으로 의존하는 대표적인 경기 민감주. 금리 인상 시기에는 막대한 부채 부담이 가중되나, 경기 확장 및 금리 인하 국면에서는 수요 증가와 금융 비용 감소의 이중 수혜를 기대할 수 있음.",
+    "technical_synergy": "경기 회복 기대감이 펀더멘털 개선(매출 성장, 이익률 회복)으로 이어질 때, 장기 이평선 돌파와 같은 기술적 신호는 높은 신뢰도를 가짐. 높은 운영 레버리지와 재무 레버리지 구조는 추세 전환 시 주가 상승의 폭발력을 극대화시키는 요인으로 작용할 수 있음.",
+    "business_moat": "마카오와 싱가포르 등 핵심 지역에서 정부로부터 소수에게만 부여되는 카지노 라이선스를 확보하여 강력한 진입장벽을 구축함. 이는 경쟁을 제한하고 독점적인 가격 결정력을 보장하는 핵심 경제적 해자임.",
+    "ai_system_tags": [
+      "Cyclical",
+      "High-Growth",
+      "Turnaround"
+    ]
+  }
+}

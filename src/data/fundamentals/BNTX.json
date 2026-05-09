@@ -1,0 +1,33 @@
+{
+  "ticker": "BNTX",
+  "lastUpdated": "2026-05-08T17:18:27.918Z",
+  "rawFinancials": {
+    "name": "BioNTech SE",
+    "marketCap": 23862159360,
+    "forwardPE": -19.041794,
+    "priceToBook": 1.0551605,
+    "totalRevenue": 2805199872,
+    "operatingMargins": -5.7663,
+    "returnOnEquity": -0.06656,
+    "freeCashflow": -428112512,
+    "totalCash": 13706600448,
+    "totalDebt": 302800000,
+    "currentRatio": 8.8,
+    "revenueGrowth": -0.354
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "역성장 (Post-COVID 매출 급감)",
+      "profitability": "적자 늪 (R&D 투자로 인한 막대한 영업손실)",
+      "cashflow_stability": "현금 창출력 부재, 그러나 막대한 현금 보유로 파산 위험은 극히 낮음"
+    },
+    "macro_sensitivity": "금리 변동에 상대적으로 둔감한 바이오테크 특성. 성공적인 신약 개발 여부가 경기보다 중요. 그러나 경기 침체 시, 불확실한 미래 파이프라인 가치에 대한 할인율이 높아져 주가에 부정적일 수 있음.",
+    "technical_synergy": "펀더멘털은 바닥권(매출 급감, 적자 전환)이나, 장부 가치(PBR 1.05)와 순현금(시가총액의 50% 이상)이 강력한 하방 지지선 역할. '단테의 밥그릇 3번 자리'에서 R&D 파이프라인의 긍정적 뉴스(임상 성공 등)가 트리거가 될 경우, 밸류에이션 재평가(Re-rating)가 일어나며 폭발적인 시세 분출 가능성이 높음. 기술적 신호의 신뢰도가 높은 편.",
+    "business_moat": "mRNA 기술 플랫폼의 선두주자로서, 이를 다양한 질병(특히 암)에 적용할 수 있는 잠재력이 핵심 해자. 팬데믹으로 벌어들인 막대한 자본은 경쟁사 대비 R&D 및 M&A에서 압도적인 우위를 제공함.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Value",
+      "High-Growth"
+    ]
+  }
+}

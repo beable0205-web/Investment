@@ -1,0 +1,25 @@
+{
+  "ticker": "AXP",
+  "lastUpdated": "2026-05-08T13:14:23.644Z",
+  "rawFinancials": {
+    "name": "American Express Company",
+    "marketCap": 217450627072,
+    "trailingPE": 19.880848,
+    "forwardPE": 15.841062,
+    "priceToBook": 6.3934917,
+    "totalRevenue": 68811997184,
+    "operatingMargins": 0.21245001,
+    "returnOnEquity": 0.34419,
+    "totalCash": 53866999808,
+    "totalDebt": 60458999808,
+    "currentRatio": 1.574,
+    "revenueGrowth": 0.116
+  },
+  "analysis": {
+    "financialHealthScore": 88,
+    "valuationRating": "Fair",
+    "moatAndBusiness": "American Express operates a unique closed-loop payment network, earning fees from both merchants and cardholders by targeting a premium customer base. Its economic moat is built on a powerful brand synonymous with luxury and trust, combined with a network effect that locks in both consumers and businesses. This integrated model also provides a significant data advantage, enabling superior risk management and highly effective marketing.",
+    "redFlags": [],
+    "isInvestable": true
+  }
+}

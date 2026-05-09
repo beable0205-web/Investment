@@ -1,0 +1,33 @@
+{
+  "ticker": "RMD",
+  "lastUpdated": "2026-05-08T16:49:06.597Z",
+  "rawFinancials": {
+    "name": "ResMed Inc.",
+    "marketCap": 30007814144,
+    "trailingPE": 19.94889,
+    "forwardPE": 17.02002,
+    "priceToBook": 4.7672486,
+    "totalRevenue": 5537788928,
+    "operatingMargins": 0.35327,
+    "returnOnEquity": 0.25246,
+    "freeCashflow": 1446655104,
+    "totalCash": 1660513024,
+    "totalDebt": 843169024,
+    "currentRatio": 3.008,
+    "revenueGrowth": 0.108
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "10%대의 견고한 매출 성장과 순이익 증가가 기대되는 안정적 성장주. (Stable growth stock with solid 10%-range revenue growth and expected net profit increase.)",
+      "profitability": "35%에 달하는 경이적인 영업이익률과 25%의 높은 자기자본이익률(ROE)은 강력한 가격 결정권을 가진 독점적 수익 구조를 증명함. (A phenomenal 35% operating margin and high 25% ROE prove a monopolistic profit structure with strong pricing power.)",
+      "cashflow_stability": "총 부채를 상회하는 현금 보유고(Net Cash)와 막대한 잉여현금흐름은 파산 위험이 제로에 가까운 '현금 창출 기계'임을 보여줌. (Cash holdings exceeding total debt (Net Cash) and massive free cash flow show it is a 'cash-generating machine' with near-zero bankruptcy risk.)"
+    },
+    "macro_sensitivity": "수면 무호흡증 치료라는 비즈니스의 필수 소비재적 성격으로 인해 경기 침체와 인플레이션에 강한 대표적인 경기 방어주. 순현금 상태의 재무구조는 금리 인상 시기에도 오히려 안정성을 더함. (A classic defensive stock, strong against recession and inflation due to the essential consumer staple nature of its sleep apnea treatment business. Its net cash financial structure adds stability even during periods of rising interest rates.)",
+    "technical_synergy": "이처럼 압도적인 펀더멘털을 가진 주식이 장기 이평선 지지를 받으며 박스권을 돌파하는 패턴을 형성할 경우, 이는 단순한 기술적 신호를 넘어 기관 투자자의 강력한 매수세가 유입되는 신호탄일 가능성이 높음. 패턴의 신뢰도와 상승 폭발력이 극대화됨. (When a stock with such overwhelming fundamentals forms a pattern of breaking out of a consolidation range with support from long-term moving averages, it's highly likely to be more than a mere technical signal, but a flare signaling the influx of strong buying from institutional investors. The pattern's reliability and upward explosive power are maximized.)",
+    "business_moat": "수면 무호흡증 치료기기(CPAP) 시장의 압도적 지배자로, 특허 기반의 기술력과 의사/유통망과의 끈끈한 네트워크가 핵심 해자이다. 높은 교체 비용과 규제 장벽은 신규 경쟁자의 진입을 원천적으로 차단한다. (As the overwhelming leader in the sleep apnea device (CPAP) market, its core moat is its patent-based technology and strong network with doctors/distributors. High switching costs and regulatory hurdles fundamentally block the entry of new competitors.)",
+    "ai_system_tags": [
+      "Value",
+      "Defensive"
+    ]
+  }
+}

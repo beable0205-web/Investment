@@ -1,0 +1,33 @@
+{
+  "ticker": "HKHHY",
+  "lastUpdated": "2026-05-08T18:08:04.331Z",
+  "rawFinancials": {
+    "name": "Heineken Holding N.V.",
+    "marketCap": 19784120320,
+    "trailingPE": 17.964825,
+    "priceToBook": 1.9618193,
+    "totalRevenue": 28753000448,
+    "operatingMargins": 0.14019,
+    "returnOnEquity": 0.100760005,
+    "freeCashflow": 2195749888,
+    "totalCash": 4816000000,
+    "totalDebt": 19278999552,
+    "currentRatio": 0.929,
+    "revenueGrowth": -0.028
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "정체 및 소폭 역성장. 최근 매출 성장이 마이너스를 기록하며 성숙기에 진입한 기업의 전형적인 모습을 보임.",
+      "profitability": "안정적 마진 구조. 14%대의 영업이익률은 강력한 브랜드 파워와 규모의 경제를 통한 비용 통제력을 입증함. 다만, 10% 수준의 ROE는 자본 효율성이 아주 뛰어나다고 보기는 어려움.",
+      "cashflow_stability": "우수한 현금 창출력, 높은 레버리지 부담. 사업 자체는 꾸준한 잉여현금흐름을 창출하지만, 총 부채 규모가 잉여현금흐름의 8배를 초과하고 유동비율이 1 미만인 점은 재무적 안정성에 부담 요인임."
+    },
+    "macro_sensitivity": "전형적인 경기 방어주. 주류 소비는 경기 변동에 둔감하여 침체기에도 안정적인 수요를 유지함. 그러나 높은 부채 수준으로 인해 금리 인상 시기에는 이자 비용 증가로 인한 수익성 악화에 취약할 수 있음.",
+    "technical_synergy": "안정적인 현금흐름과 브랜드 가치를 지닌 기업이므로, 매출 성장세 회복 등 펀더멘털 개선 신호와 함께 장기 이평선 돌파 및 지지 패턴(단테의 밥그릇 3번 자리)이 나타날 경우, 시장의 재평가(multiple expansion)가 동반되며 높은 신뢰도와 함께 강력한 추세 전환을 기대할 수 있음.",
+    "business_moat": "핵심 비즈니스는 강력한 글로벌 브랜드 인지도와 광범위한 유통망을 기반으로 한 주류 제조 및 판매입니다. 이 두 가지 요소가 결합하여 신규 경쟁자의 진입을 어렵게 만드는 견고한 경제적 해자(Moat)를 구축합니다.",
+    "ai_system_tags": [
+      "Value",
+      "Defensive",
+      "Dividend"
+    ]
+  }
+}

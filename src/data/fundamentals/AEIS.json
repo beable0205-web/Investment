@@ -1,0 +1,34 @@
+{
+  "ticker": "AEIS",
+  "lastUpdated": "2026-05-08T18:56:45.949Z",
+  "rawFinancials": {
+    "name": "Advanced Energy Industries, Inc",
+    "marketCap": 13516380160,
+    "trailingPE": 73.73599,
+    "forwardPE": 30.228718,
+    "priceToBook": 9.857917,
+    "totalRevenue": 1905200000,
+    "operatingMargins": 0.14325,
+    "returnOnEquity": 0.14663,
+    "freeCashflow": 49237500,
+    "totalCash": 699699968,
+    "totalDebt": 683100032,
+    "currentRatio": 1.588,
+    "revenueGrowth": 0.263
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "26.3%의 높은 매출 성장률과 Trailing PE(73.7) 대비 현저히 낮은 Forward PE(30.2)는 폭발적인 이익 성장이 기대되는 전형적인 고성장 국면임을 시사합니다.",
+      "profitability": "14%대의 영업이익률(Operating Margin)과 자기자본이익률(ROE)은 기술적 우위를 바탕으로 한 견조한 수익성을 보여주나, 독점적 지위보다는 경쟁 시장 내에서의 우위를 점하는 구조입니다.",
+      "cashflow_stability": "총 부채(Total Debt)와 비슷한 규모의 현금(Total Cash)을 보유하여 재무 안정성이 매우 높습니다. 단, 높은 성장 투자로 인해 잉여현금흐름(Free Cash Flow)의 규모가 작아, 향후 현금 창출력 추이를 지속적으로 관찰할 필요가 있습니다."
+    },
+    "macro_sensitivity": "주요 고객사가 반도체 및 첨단 산업 제조업체인 만큼, 글로벌 경기 사이클과 설비 투자(CAPEX) 동향에 매우 민감한 경기 순환주(Cyclical)입니다. 금리 인상기에는 전방 산업의 투자 위축으로 인한 실적 둔화 리스크가 존재합니다.",
+    "technical_synergy": "폭발적인 성장 스토리를 내재하고 있어, 장기 이평선 돌파와 같은 기술적 매수 신호 발생 시 시장의 관심을 집중시키며 강력한 추세를 형성할 잠재력이 매우 큽니다. 펀더멘털이 뒷받침되므로, 해당 패턴의 신뢰도는 일반적인 종목보다 월등히 높다고 판단할 수 있습니다.",
+    "business_moat": "반도체, 디스플레이 등 첨단 기술 제조 공정의 수율과 효율을 결정하는 초정밀 전력 변환 및 제어 시스템을 공급합니다. 수십 년간 축적된 기술 노하우와 핵심 고객사와의 깊은 파트너십이 진입장벽으로 작용하는 강력한 기술 해자를 보유하고 있습니다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Cyclical",
+      "Turnaround"
+    ]
+  }
+}

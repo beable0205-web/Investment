@@ -1,0 +1,26 @@
+{
+  "ticker": "AMAT",
+  "lastUpdated": "2026-05-08T13:05:43.345Z",
+  "rawFinancials": {
+    "name": "Applied Materials, Inc.",
+    "marketCap": 325887950848,
+    "trailingPE": 42.2035,
+    "forwardPE": 29.183575,
+    "priceToBook": 15.00603,
+    "totalRevenue": 28213999616,
+    "operatingMargins": 0.29892,
+    "returnOnEquity": 0.38863,
+    "freeCashflow": 4341749760,
+    "totalCash": 8511000064,
+    "totalDebt": 7190000128,
+    "currentRatio": 2.715,
+    "revenueGrowth": -0.021
+  },
+  "analysis": {
+    "financialHealthScore": 95,
+    "valuationRating": "Overvalued",
+    "moatAndBusiness": "Applied Materials is a dominant global supplier of manufacturing equipment and services essential for producing semiconductor chips. The company profits from selling highly advanced machinery and enjoys recurring revenue from servicing this installed base, creating a stable income stream. Its economic moat is fortified by immense R&D, high customer switching costs, and its indispensable role in the complex global semiconductor supply chain.",
+    "redFlags": [],
+    "isInvestable": true
+  }
+}

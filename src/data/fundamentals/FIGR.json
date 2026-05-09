@@ -1,0 +1,33 @@
+{
+  "ticker": "FIGR",
+  "lastUpdated": "2026-05-09T09:03:39.427Z",
+  "rawFinancials": {
+    "name": "Figure Technology Solutions, In",
+    "marketCap": 8300718080,
+    "trailingPE": 85.52273,
+    "forwardPE": 28.293234,
+    "priceToBook": 6.626167,
+    "totalRevenue": 432055008,
+    "operatingMargins": 0.13109,
+    "returnOnEquity": 0.16779,
+    "freeCashflow": 23715124,
+    "totalCash": 1198141056,
+    "totalDebt": 946689984,
+    "currentRatio": 2.2,
+    "revenueGrowth": 0.991
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "폭발적인 매출 성장(99.1%)과 높은 미래 이익 성장 기대감(Forward PE 28)을 동시에 갖춘 전형적인 고성장주.",
+      "profitability": "15%를 상회하는 높은 자기자본이익률(ROE 16.8%)과 안정적인 영업이익률(13.1%)은, 성장을 위해 수익성을 희생하지 않는 효율적인 비즈니스 구조를 증명함.",
+      "cashflow_stability": "총 부채를 상회하는 막대한 현금 보유고(Net Cash)와 높은 유동비율(2.2)을 바탕으로 파산 위험이 극히 낮으며, 향후 투자 및 M&A를 위한 실탄이 충분함."
+    },
+    "macro_sensitivity": "미래 성장 가치가 현재 주가에 크게 반영된 고성장 기술주로서, 금리 인상 시 할인율 상승으로 인한 밸류에이션 부담이 크다. 반대로 금리 인하 국면에서는 가장 큰 수혜를 볼 수 있는 대표적인 금리 민감주.",
+    "technical_synergy": "폭발적 성장과 재무적 안정성이라는 강력한 펀더멘털이 뒷받침되므로, 장기 이평선 돌파 및 지지(단테의 밥그릇 3번 자리)와 같은 추세 전환 신호의 신뢰도가 매우 높다. 해당 패턴 발생 시, 펀더멘털을 확인한 기관 투자자들의 자금이 강력하게 유입되며 폭발적인 추세 가속화로 이어질 가능성이 농후하다.",
+    "business_moat": "독점적인 기술 플랫폼을 기반으로 시장을 빠르게 장악하며 폭발적인 외형 성장을 이뤄내고 있다. 순현금 상태의 막강한 재무구조는 경쟁사 진입을 억제하고 지속적인 기술 투자를 가능하게 하는 깊은 해자 역할을 한다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Value"
+    ]
+  }
+}

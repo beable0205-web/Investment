@@ -1,0 +1,34 @@
+{
+  "ticker": "MTDR",
+  "lastUpdated": "2026-05-09T09:16:27.425Z",
+  "rawFinancials": {
+    "name": "Matador Resources Company",
+    "marketCap": 6863340544,
+    "trailingPE": 14.242268,
+    "forwardPE": 6.6195655,
+    "priceToBook": 1.2289559,
+    "totalRevenue": 3591944960,
+    "operatingMargins": 0.04972,
+    "returnOnEquity": 0.100839995,
+    "freeCashflow": -331038016,
+    "totalCash": 30451000,
+    "totalDebt": 3541214976,
+    "currentRatio": 0.733,
+    "revenueGrowth": 0.008
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출은 0.8%로 거의 정체 상태이나, 선행 PER(6.6)이 후행 PER(14.2)의 절반 이하인 점은 향후 강력한 이익 턴어라운드를 시장이 기대하고 있음을 시사함.",
+      "profitability": "영업이익률(5.0%)과 자기자본이익률(10.1%)이 낮아 고수익 사업 구조는 아님. PBR이 1.2배로 낮은 전형적인 자산 기반의 경기민감형 기업의 특징을 보임.",
+      "cashflow_stability": "마이너스 잉여현금흐름(-$331M)과 총 부채($3.54B)가 현금($30.5M) 대비 과도하게 높고, 유동비율이 1 미만(0.73)이어서 재무 안정성이 매우 취약하며 단기 유동성 리스크가 존재함."
+    },
+    "macro_sensitivity": "유가 및 천연가스 가격에 실적이 직결되는 대표적인 경기민감주(Cyclical). 인플레이션 시기에는 원자재 가격 상승의 수혜를 볼 수 있으나, 금리 인상과 경기 침체 국면에서는 높은 부채 부담과 에너지 수요 감소로 인해 매우 취약한 구조임.",
+    "technical_synergy": "펀더멘털은 '고위험 턴어라운드' 성격을 지님. 따라서 '단테의 밥그릇 3번 자리'와 같은 장기 이평선 지지 및 추세 전환 패턴은 시장이 이익 개선과 재무 리스크 완화를 가격에 반영하기 시작했다는 강력한 신호로 해석될 수 있음. 성공 시, 높은 레버리지 특성상 주가의 폭발력은 매우 클 것으로 기대됨.",
+    "business_moat": "미국 핵심 셰일 분지(Permian 등)에서의 원유 및 천연가스 탐사/생산(E&P)이 핵심 비즈니스 모델임. 경제적 해자는 보유 광구의 매장량과 생산 단가를 낮추는 운영 효율성에 기반하며, 이는 본질적으로 원자재 가격 변동에 종속됨.",
+    "ai_system_tags": [
+      "Cyclical",
+      "Value",
+      "Turnaround"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "ticker": "IBM",
+  "lastUpdated": "2026-05-08T13:15:45.650Z",
+  "rawFinancials": {
+    "name": "International Business Machines",
+    "marketCap": 217404866560,
+    "trailingPE": 20.45181,
+    "forwardPE": 17.192987,
+    "priceToBook": 6.5932217,
+    "totalRevenue": 68910997504,
+    "operatingMargins": 0.13809,
+    "returnOnEquity": 0.35772,
+    "freeCashflow": 13080750080,
+    "totalCash": 11783000064,
+    "totalDebt": 69802000384,
+    "currentRatio": 0.796,
+    "revenueGrowth": 0.095
+  },
+  "analysis": {
+    "financialHealthScore": 70,
+    "valuationRating": "Fair",
+    "moatAndBusiness": "IBM은 하이브리드 클라우드, AI, 소프트웨어 및 컨설팅 서비스를 대기업에 제공하여 수익을 창출합니다. 이 기업의 경제적 해자는 금융, 정부 등 핵심 산업 고객들의 운영에 깊숙이 통합되어 발생하는 높은 전환 비용에 기반합니다. 이러한 견고한 고객 기반과 브랜드 파워는 IBM이 안정적으로 현금을 창출하는 원동력입니다.",
+    "redFlags": [
+      "유동비율 1 미만 (단기 지불 능력에 대한 잠재적 리스크)",
+      "높은 총 부채 (보유 현금 대비 부채 규모가 과도함)"
+    ],
+    "isInvestable": true
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "ticker": "WAL",
+  "lastUpdated": "2026-05-09T08:44:36.092Z",
+  "rawFinancials": {
+    "name": "Western Alliance Bancorporation",
+    "marketCap": 8900092928,
+    "trailingPE": 9.534342,
+    "forwardPE": 7.0798388,
+    "priceToBook": 1.2033324,
+    "totalRevenue": 3377799936,
+    "operatingMargins": 0.31774,
+    "returnOnEquity": 0.1297,
+    "totalCash": 8553999872,
+    "totalDebt": 6835999744,
+    "revenueGrowth": 0.079
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "견조한 성장. 7.9%의 안정적인 매출 성장률과 미래 이익 성장을 암시하는 낮은 선행 PER(Forward PE)는 이 기업이 꾸준히 확장하고 있음을 보여줍니다.",
+      "profitability": "높은 수익성 및 효율적 자본 운용. 30%가 넘는 영업이익률과 12% 이상의 자기자본이익률(ROE)은 동종 업계 대비 뛰어난 수익 창출 능력과 효율적인 경영을 증명합니다.",
+      "cashflow_stability": "안정적 예대마진 기반 현금흐름, 양호한 유동성. 은행업의 특성상 안정적인 현금흐름을 보이며, 부채 대비 현금 보유량이 높아 단기 유동성 리스크는 제한적입니다."
+    },
+    "macro_sensitivity": "금리 변동에 민감한 대표적 경기민감주. 금리 인상기 초기에는 순이자마진(NIM) 확대로 수혜를 보지만, 경기 침체 우려가 커지면 대손충당금 증가 및 대출 수요 감소 리스크에 노출됩니다.",
+    "technical_synergy": "가치(저P/E, 저P/B)와 성장성(ROE, 매출 성장)을 겸비하여, 장기 이평선 돌파 및 지지 패턴('단테의 밥그릇 3번 자리') 형성 시 시장의 신뢰가 빠르게 회복되며 강력한 추세 전환을 기대할 수 있습니다. 펀더멘털이 기술적 분석의 신뢰도를 높이는 전형적인 사례입니다.",
+    "business_moat": "특정 지역 및 산업(예: 상업 부동산, 기술 벤처)에 대한 깊은 이해와 고객 관계를 기반으로 한 특화된 금융 서비스를 제공합니다. 대형 은행 대비 빠른 의사결정과 효율적인 비용 구조를 통해 높은 수익성을 유지하는 것이 핵심 해자입니다.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Growth"
+    ]
+  }
+}

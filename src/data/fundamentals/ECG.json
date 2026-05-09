@@ -1,0 +1,33 @@
+{
+  "ticker": "ECG",
+  "lastUpdated": "2026-05-09T08:53:28.729Z",
+  "rawFinancials": {
+    "name": "Everus Construction Group, Inc.",
+    "marketCap": 8332032512,
+    "trailingPE": 37.354694,
+    "forwardPE": 33.71564,
+    "priceToBook": 12.128688,
+    "totalRevenue": 3956710912,
+    "operatingMargins": 0.07492,
+    "returnOnEquity": 0.38951,
+    "freeCashflow": 167110256,
+    "totalCash": 275016992,
+    "totalDebt": 362588992,
+    "currentRatio": 1.768,
+    "revenueGrowth": 0.254
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "25%를 상회하는 강력한 매출 성장률과 순이익 증가 기대를 바탕으로 한 전형적인 고성장주(High-Growth Stock).",
+      "profitability": "건설업 특성상 영업이익률은 높지 않으나, 38%가 넘는 경이적인 자기자본이익률(ROE)을 통해 자본을 매우 효율적으로 운용하여 주주가치를 극대화하는 수익 구조.",
+      "cashflow_stability": "안정적인 잉여현금흐름을 창출하며, 총 부채 대비 현금 보유량이 양호하고 유동비율(1.77)이 높아 단기 파산 위험은 매우 낮은 상태."
+    },
+    "macro_sensitivity": "건설업의 특성상 경기 순환 및 금리 변동에 매우 민감함. 금리 인상과 경기 침체 국면에서 실적 둔화 압력이 크며, 반대로 저금리 확장기에는 강력한 수혜가 기대되는 대표적인 경기민감주(Cyclical).",
+    "technical_synergy": "높은 성장성과 ROE라는 강력한 펀더멘털이 뒷받침되므로, 장기 이평선 돌파 후 지지받는 기술적 패턴 발생 시 시장의 성장 스토리에 대한 신뢰가 더해져 폭발적인 주가 상승으로 이어질 잠재력이 매우 높음.",
+    "business_moat": "이 기업은 박한 마진의 건설업 내에서 독보적인 자본 운용 효율성을 통해 경쟁사 대비 월등히 높은 자기자본이익률을 달성한다. 이것이 곧 규모의 경제 및 운영 노하우에 기반한 이 기업의 핵심적인 경제적 해자이다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Cyclical"
+    ]
+  }
+}

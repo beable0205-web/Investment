@@ -1,0 +1,34 @@
+{
+  "ticker": "FRT",
+  "lastUpdated": "2026-05-09T08:13:20.954Z",
+  "rawFinancials": {
+    "name": "Federal Realty Investment Trust",
+    "marketCap": 10054720512,
+    "trailingPE": 20.048527,
+    "forwardPE": 36.400253,
+    "priceToBook": 3.1711395,
+    "totalRevenue": 1312808960,
+    "operatingMargins": 0.34120998,
+    "returnOnEquity": 0.14783,
+    "freeCashflow": 448925248,
+    "totalCash": 120918000,
+    "totalDebt": 4934187008,
+    "currentRatio": 0.659,
+    "revenueGrowth": 0.103
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 매출 성장, 단기 이익 변동성 존재. 10%대의 견조한 매출 성장을 보이나, 높은 순이익선도P/E는 향후 이익 감소 또는 비용 증가 가능성을 시사함.",
+      "profitability": "독점적 마진 구조. 34%에 달하는 높은 영업이익률은 핵심 상권에 위치한 우량 자산 포트폴리오가 창출하는 강력한 가격 결정력을 증명함.",
+      "cashflow_stability": "안정적 현금흐름, 높은 부채 의존도. 영업활동으로 꾸준한 현금을 창출하나, 총 부채가 현금성 자산 및 잉여현금흐름 대비 매우 높아 레버리지 리스크가 상존함."
+    },
+    "macro_sensitivity": "금리 인상 및 경기 침체에 민감한 대표적인 자산주. 부채 비중이 높아 금리 인상 시 이자 비용 부담이 가중되며, 소비 위축은 임대료 수입에 직접적인 타격을 줄 수 있어 경기 사이클에 민감하게 반응함.",
+    "technical_synergy": "견고한 펀더멘털이 거시경제 변수(금리)와 결합될 때, 장기 이평선 지지 패턴은 높은 신뢰도를 보임. 금리 인하 기대감이 형성되는 국면에서 해당 패턴이 나타날 경우, 단순한 기술적 반등을 넘어 새로운 상승 추세의 시작을 알리는 강력한 신호로 작용할 가능성이 높음.",
+    "business_moat": "미국 내 고소득, 고밀도 지역의 우량 상업용 부동산 포트폴리오를 소유 및 운영하여 발생하는 독점적 입지 경쟁력이 핵심 해자이다. 이는 경기 변동에도 안정적인 임대 수익과 자산 가치 상승을 가능하게 하는 기반이 된다.",
+    "ai_system_tags": [
+      "Dividend",
+      "Cyclical",
+      "Defensive"
+    ]
+  }
+}

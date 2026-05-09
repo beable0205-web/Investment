@@ -1,0 +1,26 @@
+{
+  "ticker": "HD",
+  "lastUpdated": "2026-05-08T13:05:22.615Z",
+  "rawFinancials": {
+    "name": "Home Depot, Inc. (The)",
+    "marketCap": 321358364672,
+    "trailingPE": 22.673227,
+    "forwardPE": 19.787043,
+    "priceToBook": 25.080847,
+    "totalRevenue": 164683005952,
+    "operatingMargins": 0.100760005,
+    "returnOnEquity": 1.45541,
+    "freeCashflow": 8622749696,
+    "totalCash": 1388999936,
+    "totalDebt": 65908998144,
+    "currentRatio": 1.061,
+    "revenueGrowth": -0.038
+  },
+  "analysis": {
+    "financialHealthScore": 80,
+    "valuationRating": "Fair",
+    "moatAndBusiness": "Home Depot dominates the home improvement retail market, generating revenue by selling a vast array of products to both DIY consumers and professional contractors. Its primary economic moat is built on enormous economies of scale, granting it superior purchasing power and cost efficiencies that smaller rivals cannot match. This is further reinforced by a powerful brand and an extensive network of convenient store locations, creating a durable competitive advantage.",
+    "redFlags": [],
+    "isInvestable": true
+  }
+}

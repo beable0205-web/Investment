@@ -1,0 +1,32 @@
+{
+  "ticker": "COF",
+  "lastUpdated": "2026-05-08T14:06:34.294Z",
+  "rawFinancials": {
+    "name": "Capital One Financial Corporati",
+    "marketCap": 120367210496,
+    "trailingPE": 58.39846,
+    "forwardPE": 7.860842,
+    "priceToBook": 1.0939697,
+    "totalRevenue": 36310999040,
+    "operatingMargins": 0.28586,
+    "returnOnEquity": 0.03259,
+    "totalCash": 76493996032,
+    "totalDebt": 51888001024,
+    "revenueGrowth": 0.463
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "폭발적인 외형 성장(매출 성장률 46.3%)에도 불구하고, 최근 이익이 크게 억눌린 상태(ROE 3.26%). 이는 향후 강력한 이익 회복(Turnaround) 가능성을 시사함.",
+      "profitability": "은행업 특성상 경기 사이클에 따른 이익 변동성이 큼. 현재는 높은 후행 PER(58.4)과 낮은 ROE(3.26%)로 볼 때 이익 사이클의 저점에 위치. 다만, 견조한 영업이익률(28.6%)은 핵심 비즈니스의 효율성이 살아있음을 증명함.",
+      "cashflow_stability": "금융기관으로서 레버리지가 본질적인 사업 모델. 제공된 데이터상 총 현금이 총 부채보다 많아 유동성은 양호해 보이나, 핵심 리스크는 부채 규모가 아닌 경기 침체 시 대손충당금 증가에 따른 현금흐름 악화 가능성임."
+    },
+    "macro_sensitivity": "소비자 신용에 대한 노출도가 높아 경기 사이클에 매우 민감한 대표적인 경기민감주(Cyclical). 금리 인상기에는 순이자마진(NIM) 개선 효과를 누릴 수 있으나, 경기 침체로 이어질 경우 대출 부실 증가로 실적이 급격히 악화될 수 있음. '연착륙(Soft Landing)' 시나리오의 최대 수혜주 중 하나.",
+    "technical_synergy": "이익 턴어라운드라는 강력한 펀더멘털 스토리를 보유하고 있어, '단테의 밥그릇 3번 자리'와 같은 장기 바닥 탈출형 패턴의 신뢰도가 매우 높음. 해당 패턴 완성 시, 시장이 후행 PER(58.4)가 아닌 선행 PER(7.86)에 기반한 본격적인 가치 재평가(Re-rating)를 시작했다는 신호로 해석 가능하며, 주가의 폭발적인 상승을 기대할 수 있음.",
+    "business_moat": "미국 신용카드 및 자동차 대출 시장에서의 거대한 규모와 강력한 브랜드 인지도가 핵심 해자임. 리스크 평가 및 고객 확보를 위한 정교한 데이터 분석 역량이 경쟁 우위를 더욱 강화함.",
+    "ai_system_tags": [
+      "Value",
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

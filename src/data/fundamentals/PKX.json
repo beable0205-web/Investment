@@ -1,0 +1,33 @@
+{
+  "ticker": "PKX",
+  "lastUpdated": "2026-05-08T17:20:23.618Z",
+  "rawFinancials": {
+    "name": "POSCO Holdings Inc.",
+    "marketCap": 27008043008,
+    "trailingPE": 58.922585,
+    "forwardPE": 16.177773,
+    "priceToBook": 2.982001,
+    "totalRevenue": 69533884743680,
+    "operatingMargins": 0.03949,
+    "returnOnEquity": 0.01125,
+    "totalCash": 14896999694336,
+    "totalDebt": 30260999487488,
+    "currentRatio": 1.9,
+    "revenueGrowth": 0.025
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "저성장 국면이나, 경기 회복 시 이익이 급증하는 턴어라운드 잠재력 보유",
+      "profitability": "원자재 가격과 전방 산업 수요에 따라 마진 변동성이 큰 전형적인 시클리컬 산업 구조. 낮은 영업이익률(3.9%)과 자기자본이익률(1.1%)은 현재 업황이 부진함을 시사.",
+      "cashflow_stability": "총부채가 총현금의 2배에 달해 레버리지가 높은 편이나, 1.9의 유동비율은 단기 파산 위험이 낮음을 의미. 경기 침체 장기화 시 부채 부담이 리스크로 작용할 수 있음."
+    },
+    "macro_sensitivity": "글로벌 경기 사이클에 실적이 직접적으로 연동되는 대표적인 경기민감주. 금리 인상기에는 자본 조달 비용 증가와 수요 위축의 이중고를 겪을 수 있으며, 원자재 가격 변동에 매우 취약함.",
+    "technical_synergy": "펀더멘털이 업황 저점을 통과하고 있다는 신호(예: Forward PE 급락)와 함께 장기 이평선을 상향 돌파하는 기술적 패턴이 결합될 때, 강력한 추세 전환의 신뢰도를 부여함. 이는 경기 회복에 베팅하는 '스마트 머니'의 유입을 의미하며, 주가 폭발력의 기폭제가 될 수 있음.",
+    "business_moat": "수십 년간 구축한 대규모 생산 설비와 글로벌 공급망이 만들어내는 '규모의 경제'가 핵심 해자임. 철강 산업의 막대한 초기 투자 비용과 운영 노하우는 신규 기업에 대한 강력한 진입장벽으로 작용함.",
+    "ai_system_tags": [
+      "Cyclical",
+      "Value",
+      "Turnaround"
+    ]
+  }
+}

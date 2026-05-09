@@ -1,0 +1,34 @@
+{
+  "ticker": "GMAB",
+  "lastUpdated": "2026-05-08T18:33:46.242Z",
+  "rawFinancials": {
+    "name": "Genmab A/S",
+    "marketCap": 16090596352,
+    "trailingPE": 20.007633,
+    "forwardPE": 14.934472,
+    "priceToBook": 2.7621455,
+    "totalRevenue": 3720000000,
+    "operatingMargins": 0.22968,
+    "returnOnEquity": 0.17535,
+    "freeCashflow": 1068124992,
+    "totalCash": 1715000064,
+    "totalDebt": 5425999872,
+    "currentRatio": 2.022,
+    "revenueGrowth": 0.03
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 이익 기반의 저성장. 3%의 매출 성장은 낮지만, 순이익 증가 기대감(Trailing PE > Forward PE)이 존재하여 성숙기에 진입한 우량 기업의 특성을 보임.",
+      "profitability": "독점적 기술력 기반의 고수익성 구조. 23%에 달하는 영업이익률과 17%의 자기자본이익률(ROE)은 강력한 가격 결정력과 효율적인 자본 운용을 증명함.",
+      "cashflow_stability": "현금 창출력 우수, 부채는 관리 가능한 수준. 연간 10억 달러 이상의 강력한 잉여현금흐름을 창출하나, 총부채가 현금 보유액을 상회하므로 부채 관리 능력을 지속적으로 관찰할 필요가 있음."
+    },
+    "macro_sensitivity": "전형적인 경기 방어주. 핵심 사업인 의약품 수요는 거시 경제 변수에 둔감하여 경기 침체기에도 안정적인 실적과 현금흐름을 기대할 수 있음. 금리 인상기에는 부채 부담이 가중될 수 있으나, 높은 수익성으로 방어 가능.",
+    "technical_synergy": "견고한 펀더멘털이 장기 이평선 지지 패턴의 신뢰도를 극대화함. 이러한 종목이 '밥그릇 3번 자리'와 같은 장기 매집 후 상승 전환 패턴을 보일 경우, 투기적 급등보다는 기관 투자자의 꾸준한 매수세가 유입되며 안정적이고 지속적인 우상향 추세를 형성할 가능성이 높음.",
+    "business_moat": "독자적인 항체 기술 플랫폼과 특허로 보호받는 의약품 파이프라인이 핵심적인 경제적 해자임. 이는 경쟁사의 진입을 원천적으로 차단하고, 업계 최상위권의 수익성을 유지하게 하는 원동력임.",
+    "ai_system_tags": [
+      "Defensive",
+      "Value",
+      "Dividend"
+    ]
+  }
+}

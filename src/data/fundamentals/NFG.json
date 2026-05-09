@@ -1,0 +1,34 @@
+{
+  "ticker": "NFG",
+  "lastUpdated": "2026-05-09T09:17:48.062Z",
+  "rawFinancials": {
+    "name": "National Fuel Gas Company",
+    "marketCap": 7557211648,
+    "trailingPE": 10.745945,
+    "forwardPE": 9.97291,
+    "priceToBook": 2.1058762,
+    "totalRevenue": 2507990016,
+    "operatingMargins": 0.41976002,
+    "returnOnEquity": 0.20833,
+    "freeCashflow": -27653624,
+    "totalCash": 26596000,
+    "totalDebt": 2426181888,
+    "currentRatio": 0.619,
+    "revenueGrowth": 0.176
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출이 17.6% 성장하고 순이익 전망치(Forward PE)가 현재(Trailing PE)보다 낮아, 외형과 내실이 함께 성장하는 국면에 진입함.",
+      "profitability": "영업이익률 42%, 자기자본이익률(ROE) 20.8%는 동종 업계를 압도하는 수치로, 독점적 사업구조에서 비롯된 강력한 가격 결정력을 시사함.",
+      "cashflow_stability": "높은 수익성에도 불구하고 마이너스 잉여현금흐름(-$27.6M)과 낮은 유동비율(0.62)은 대규모 설비투자에 따른 재무적 압박을 보여줌. 부채(Debt) 관리가 핵심 리스크 요인임."
+    },
+    "macro_sensitivity": "천연가스 유틸리티 사업은 필수 소비재 특성상 경기 침체에 강한 방어력을 보이지만, 높은 부채 구조는 금리 인상 시기에 이자 비용 부담을 가중시키는 약점으로 작용함. 에너지 가격 상승기에는 인플레이션 헷지(Hedge) 자산으로서의 매력이 부각될 수 있음.",
+    "technical_synergy": "이 기업의 펀더멘털은 '고수익-고위험' 구조의 전형임. 만약 재무 리스크(마이너스 FCF, 부채)가 해소되는 시그널과 함께 '단테의 밥그릇 3번 자리' 같은 장기 저항선 돌파 패턴이 나타난다면, 억눌렸던 가치가 재평가되며 레버리지 효과에 힘입어 폭발적인 주가 상승을 기대할 수 있는 높은 신뢰도의 기술적 시그널로 해석 가능함.",
+    "business_moat": "규제 산업인 유틸리티 부문에서 지역 독점적 지위를 확보하여 안정적인 현금 창출 기반을 마련함. 동시에 수송 및 저장을 위한 파이프라인 인프라는 막대한 자본과 정부 인허가가 필요한 물리적 해자(Moat)로, 경쟁사의 진입을 원천적으로 차단함.",
+    "ai_system_tags": [
+      "Value",
+      "Defensive",
+      "Dividend"
+    ]
+  }
+}

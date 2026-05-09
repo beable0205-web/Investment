@@ -1,0 +1,31 @@
+{
+  "ticker": "BUD",
+  "lastUpdated": "2026-05-08T13:54:12.927Z",
+  "rawFinancials": {
+    "name": "Anheuser-Busch Inbev SA Sponsor",
+    "marketCap": 154969178112,
+    "trailingPE": 22.163437,
+    "forwardPE": 16.36501,
+    "priceToBook": 10.707382,
+    "totalRevenue": 60958998528,
+    "operatingMargins": 0.26685,
+    "totalCash": 11943999488,
+    "totalDebt": 73333997568,
+    "revenueGrowth": 0.12
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 12%의 견조한 성장세와 이익 개선 기대감(Trailing PE > Forward PE)이 공존하는 안정적 성장 국면",
+      "profitability": "26%가 넘는 높은 영업이익률은 강력한 브랜드 파워와 가격 결정력에 기반한 독점적 마진 구조를 증명함",
+      "cashflow_stability": "강력한 이익 창출 능력에도 불구하고, 총 부채가 현금 보유액의 6배를 초과하여 레버리지가 높은 편이며 금리 변동에 대한 재무적 민감도가 존재함"
+    },
+    "macro_sensitivity": "주류라는 소비재 특성상 경기 방어주의 성격을 띠지만, 높은 부채 수준으로 인해 금리 인상 시기에는 이자 비용 증가로 인한 이익 훼손 가능성에 노출됨",
+    "technical_synergy": "이와 같은 우량 경기 방어주가 장기 이평선 지지를 확인하는 패턴을 보일 경우, 이는 투기적 수요가 아닌 기관 투자자의 견고한 매수세를 의미할 가능성이 높음. 따라서 패턴의 신뢰도는 매우 높으며, 폭발적인 급등보다는 안정적인 우상향 추세를 기대할 수 있음",
+    "business_moat": "버드와이저, 스텔라, 코로나 등 대체 불가능한 글로벌 브랜드를 기반으로 한 압도적인 브랜드 해자를 보유하고 있습니다. 전 세계적인 유통망과 규모의 경제는 신규 경쟁자의 진입을 원천적으로 차단하는 구조적 경쟁 우위를 제공합니다.",
+    "ai_system_tags": [
+      "Value",
+      "Defensive",
+      "Dividend"
+    ]
+  }
+}

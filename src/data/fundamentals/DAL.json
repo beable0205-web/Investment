@@ -1,0 +1,34 @@
+{
+  "ticker": "DAL",
+  "lastUpdated": "2026-05-08T15:50:53.994Z",
+  "rawFinancials": {
+    "name": "Delta Air Lines, Inc.",
+    "marketCap": 48026288128,
+    "trailingPE": 10.671533,
+    "forwardPE": 9.148581,
+    "priceToBook": 2.344226,
+    "totalRevenue": 65178001408,
+    "operatingMargins": 0.03179,
+    "returnOnEquity": 0.2499,
+    "freeCashflow": 3093374976,
+    "totalCash": 5053000192,
+    "totalDebt": 21398999040,
+    "currentRatio": 0.418,
+    "revenueGrowth": 0.129
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출이 12.9% 증가하고 선행 PER이 후행 PER보다 낮아, 팬데믹 이후의 강력한 회복세에 기반한 견실한 이익 성장이 기대됨.",
+      "profitability": "영업이익률은 3.18%로 매우 낮아 전형적인 박리다매 구조이나, 높은 재무 레버리지를 활용하여 24.99%라는 인상적인 자기자본이익률(ROE)을 기록함.",
+      "cashflow_stability": "연간 30억 달러 이상의 잉여현금흐름을 창출하는 능력은 긍정적이나, 214억 달러에 달하는 총부채와 0.42의 낮은 유동비율은 잠재적인 재무 리스크 요인임."
+    },
+    "macro_sensitivity": "경기 순환에 매우 민감한 대표적인 시클리컬(Cyclical) 주식으로, 유가, 금리, 경기 침체 여부에 따라 실적과 주가의 변동성이 극심하게 나타나는 특성을 가짐.",
+    "technical_synergy": "낮은 밸류에이션과 높은 레버리지를 가진 경기민감주의 특성상, 거시경제 개선 신호(금리 인하, 유가 안정 등)와 함께 장기 이평선 돌파 및 지지 패턴이 나타날 경우, 기관 투자자의 자금이 유입되며 매우 폭발적인 주가 상승을 보일 신뢰도가 높음.",
+    "business_moat": "주요 허브 공항의 지배적인 슬롯과 광범위한 글로벌 노선망을 통해 강력한 네트워크 효과를 구축했습니다. 또한, 높은 브랜드 인지도와 충성도 높은 상용 고객 프로그램을 바탕으로 신규 경쟁사의 진입을 막는 견고한 경제적 해자를 보유하고 있습니다.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Turnaround"
+    ]
+  }
+}

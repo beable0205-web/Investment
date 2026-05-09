@@ -1,0 +1,32 @@
+{
+  "ticker": "JOBY",
+  "lastUpdated": "2026-05-09T08:54:53.771Z",
+  "rawFinancials": {
+    "name": "Joby Aviation, Inc.",
+    "marketCap": 10692198400,
+    "forwardPE": -18.268906,
+    "priceToBook": 5.238554,
+    "totalRevenue": 77671000,
+    "operatingMargins": -9.63375,
+    "returnOnEquity": -0.67968005,
+    "freeCashflow": -380630368,
+    "totalCash": 2466189056,
+    "totalDebt": 747726016,
+    "currentRatio": 22.055
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "미래 잠재력 기반 고성장 기대. 현재 매출은 미미하나, eVTOL 시장 개화 시 폭발적인 성장이 예상되는 전형적인 '스토리 주식(Story Stock)'의 특성을 보임.",
+      "profitability": "적자 늪. 상용화 이전 단계로, 막대한 연구개발비와 운영비용으로 인해 영업이익률과 ROE가 극심한 마이너스 상태. 수익성 확보까지 상당한 시간이 소요될 전망.",
+      "cashflow_stability": "대규모 현금 소진, 그러나 막대한 현금 보유로 단기 파산 위험은 제한적. 연간 수천억 원의 현금을 소진하고 있으나, 2조 원이 넘는 현금성 자산과 높은 유동비율(currentRatio: 22.055)이 향후 몇 년간의 운영을 뒷받침하는 안전판 역할을 함."
+    },
+    "macro_sensitivity": "금리 인상 최대 피해주. 이익 창출 시점이 먼 미래에 있어, 할인율(금리) 변동에 주가 가치가 극도로 민감하게 반응. 경기 침체 시 투자 심리 위축과 자금 조달 리스크에 직접적으로 노출되는 대표적인 고위험/고베타 자산.",
+    "technical_synergy": "펀더멘털의 '스토리'가 기술적 분석의 신뢰도를 좌우함. FAA 인증, 주요 파트너십 체결 등과 같은 결정적 뉴스에 의해 '단테의 밥그릇 3번 자리'와 같은 장기 저항선 돌파가 나타날 경우, 기존의 가치 평가 잣대가 무의미해지며 폭발적인 시세 분출로 이어질 잠재력이 매우 높음. 반대로, 스토리가 훼손될 경우 기술적 지지선은 쉽게 붕괴될 수 있음.",
+    "business_moat": "Joby Aviation은 차세대 항공 모빌리티인 eVTOL 항공기 개발 및 상용화의 선두주자입니다. 독자적인 기술력, 실제 비행 데이터 축적, 그리고 미국 연방항공청(FAA) 인증 과정에서의 앞선 행보가 결합되어 강력한 기술적, 규제적 해자를 구축하고 있습니다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

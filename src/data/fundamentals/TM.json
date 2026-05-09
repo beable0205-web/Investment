@@ -1,0 +1,30 @@
+{
+  "ticker": "TM",
+  "lastUpdated": "2026-05-08T13:13:29.722Z",
+  "rawFinancials": {
+    "name": "Toyota Motor Corporation",
+    "marketCap": 223795904512,
+    "trailingPE": 10.49417,
+    "forwardPE": 11.977186,
+    "priceToBook": 16.105194,
+    "totalRevenue": 50450762039296,
+    "operatingMargins": 0.08851,
+    "returnOnEquity": 0.10032,
+    "freeCashflow": -52135124992,
+    "totalCash": 16592086761472,
+    "totalDebt": 42127681650688,
+    "currentRatio": 1.26,
+    "revenueGrowth": 0.086
+  },
+  "analysis": {
+    "financialHealthScore": "45",
+    "valuationRating": "Overvalued",
+    "moatAndBusiness": "토요타는 토요타, 렉서스 등 다양한 브랜드를 통해 차량을 판매하여 수익을 창출하는 글로벌 자동차 대기업입니다. 이 기업의 경제적 해자는 '토요타 생산 시스템'으로 대표되는 압도적인 제조 효율성, 품질과 신뢰성에 대한 전설적인 명성, 그리고 방대한 글로벌 생산 및 유통 네트워크에 기반합니다. 이러한 브랜드 파워, 규모의 경제, 운영 효율성의 결합은 경쟁이 치열한 자동차 산업에서 상당한 시장 점유율과 수익성을 유지하게 해주는 원동력입니다.",
+    "redFlags": [
+      "마이너스 잉여현금흐름(FCF)",
+      "제공된 PBR(16.1)은 PER(10.5) 및 ROE(10%)와 일치하지 않아 데이터 신뢰성 또는 극심한 고평가 위험을 시사함",
+      "순이익 감소 전망 (후행 PER < 선행 PER)"
+    ],
+    "isInvestable": false
+  }
+}

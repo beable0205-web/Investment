@@ -1,0 +1,27 @@
+{
+  "ticker": "PM",
+  "lastUpdated": "2026-05-08T13:09:43.802Z",
+  "rawFinancials": {
+    "name": "Philip Morris International Inc",
+    "marketCap": 266685005824,
+    "trailingPE": 24.1,
+    "forwardPE": 18.706434,
+    "priceToBook": -26.652647,
+    "totalRevenue": 41493000192,
+    "operatingMargins": 0.36044,
+    "freeCashflow": 8575249920,
+    "totalCash": 5463000064,
+    "totalDebt": 51975000064,
+    "currentRatio": 0.976,
+    "revenueGrowth": 0.091
+  },
+  "analysis": {
+    "financialHealthScore": 55,
+    "valuationRating": "Fair",
+    "moatAndBusiness": "Philip Morris International generates revenue by selling its iconic cigarette brands like Marlboro and its rapidly growing heated-tobacco products (IQOS) globally, outside the US. The company's economic moat stems from its immense brand loyalty, which grants it significant pricing power, and the addictive nature of its products. Its vast global distribution network and the high regulatory barriers in the tobacco industry solidify its market position and ensure consistent, powerful cash flow generation.",
+    "redFlags": [
+      "자본잠식"
+    ],
+    "isInvestable": true
+  }
+}

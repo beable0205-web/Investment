@@ -1,0 +1,33 @@
+{
+  "ticker": "IVZ",
+  "lastUpdated": "2026-05-08T20:03:12.600Z",
+  "rawFinancials": {
+    "name": "Invesco Ltd",
+    "marketCap": 12232770560,
+    "forwardPE": 9.300233,
+    "priceToBook": 1.2553452,
+    "totalRevenue": 6592399872,
+    "operatingMargins": 0.191,
+    "returnOnEquity": -0.01535,
+    "freeCashflow": 861862528,
+    "totalCash": 806899968,
+    "totalDebt": 1966700032,
+    "currentRatio": 0.822,
+    "revenueGrowth": 0.141
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출은 14.1% 성장하며 외형은 확장되고 있으나, 순이익률(ROE)이 마이너스로 전환되어 성장의 질이 매우 낮은 '속 빈 강정' 상태.",
+      "profitability": "19.1%의 양호한 영업이익률에도 불구하고 순이익단에서 손실을 기록 중. 이는 영업 외 비용 증가나 자산 상각 등 일시적 혹은 구조적 문제를 시사하며, 수익성 구조에 경고등이 켜진 상태.",
+      "cashflow_stability": "순이익은 적자지만, 8.6억 달러의 잉여현금흐름(FCF)을 창출하는 능력은 긍정적. 다만, 총 부채가 현금 보유액의 2배를 넘고 유동비율이 1 미만(0.822)인 점은 단기 부채 상환 압력 리스크를 내포."
+    },
+    "macro_sensitivity": "자산운용업의 특성상 금융시장 성과에 운용자산(AUM)과 수수료 수입이 직결됨. 금리 인상 및 경기 침체기에는 시장 하락과 자금 유출로 실적이 급격히 악화될 수 있는 대표적인 경기 민감주(Cyclical).",
+    "technical_synergy": "저평가(Value)와 턴어라운드(Turnaround)의 성격을 동시에 지닌 주식. 만약 수익성 개선(ROE 플러스 전환 등)의 펀더멘털 신호와 함께 장기 이평선 지지 및 돌파 패턴이 발생한다면, 시장의 의구심이 확신으로 바뀌며 눌려있던 가치가 폭발적으로 재평가될 가능성이 높음.",
+    "business_moat": "글로벌 시장에 걸친 브랜드 인지도와 수조 달러 규모의 운용자산(AUM)이 핵심 경제적 해자. 하지만 ETF 시장의 치열한 수수료 경쟁과 시장 변동성에 따라 AUM이 급변할 수 있어 해자의 깊이는 제한적.",
+    "ai_system_tags": [
+      "Value",
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

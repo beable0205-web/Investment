@@ -1,0 +1,34 @@
+{
+  "ticker": "WCC",
+  "lastUpdated": "2026-05-08T18:30:26.662Z",
+  "rawFinancials": {
+    "name": "WESCO International, Inc.",
+    "marketCap": 17269293056,
+    "trailingPE": 25.200428,
+    "forwardPE": 18.924257,
+    "priceToBook": 3.4288783,
+    "totalRevenue": 24247300096,
+    "operatingMargins": 0.051149998,
+    "returnOnEquity": 0.13395001,
+    "freeCashflow": 178950000,
+    "totalCash": 696600000,
+    "totalDebt": 6510600192,
+    "currentRatio": 2.123,
+    "revenueGrowth": 0.138
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "견조한 13.8%의 매출 성장률과 긍정적인 이익 성장 전망(Forward PE < Trailing PE)을 보이는 외형 성장주.",
+      "profitability": "5%대의 낮은 영업이익률을 규모의 경제와 효율적인 자산 운용(ROE 13.4%)으로 보완하는 전형적인 박리다매형 산업재 유통업 구조.",
+      "cashflow_stability": "상당한 규모의 부채(65억 달러)를 보유하여 레버리지가 높은 편이며, 이는 현금흐름에 대한 이자비용 부담과 재무적 변동성을 내포함. 단, 단기 유동성(유동비율 2.1)은 양호."
+    },
+    "macro_sensitivity": "산업 및 건설 경기에 직접적인 영향을 받는 대표적인 경기 순환주. 높은 부채 비율로 인해 금리 인상 시 이자 비용 증가에 매우 민감하며, 경기 침체기에는 실적 둔화 위험이 큼.",
+    "technical_synergy": "경기 회복 및 금리 인하 기대감이 형성되는 거시 환경에서 장기 이평선 지지 및 돌파(예: 밥그릇 3번 자리) 패턴이 나타날 경우, 높은 레버리지가 주가 상승의 기폭제로 작용하여 폭발적인 시세 분출을 기대할 수 있음. 펀더멘털 턴어라운드와 기술적 신호의 신뢰도가 동반 상승하는 전형적인 종목.",
+    "business_moat": "전기, 산업, 통신 제품을 아우르는 광범위한 B2B 유통 네트워크와 규모의 경제가 핵심 해자임. 이를 통해 구축한 공급망 관리 효율성과 고객 관계는 신규 경쟁자의 진입을 어렵게 만드는 구조적 우위를 제공함.",
+    "ai_system_tags": [
+      "Cyclical",
+      "Turnaround",
+      "Value"
+    ]
+  }
+}

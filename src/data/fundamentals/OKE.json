@@ -1,0 +1,34 @@
+{
+  "ticker": "OKE",
+  "lastUpdated": "2026-05-08T15:26:44.514Z",
+  "rawFinancials": {
+    "name": "ONEOK, Inc.",
+    "marketCap": 54066270208,
+    "trailingPE": 15.296791,
+    "forwardPE": 13.889721,
+    "priceToBook": 2.4033103,
+    "totalRevenue": 35204001792,
+    "operatingMargins": 0.1492,
+    "returnOnEquity": 0.15903,
+    "freeCashflow": 454375008,
+    "totalCash": 172000000,
+    "totalDebt": 33652000768,
+    "currentRatio": 0.71,
+    "revenueGrowth": 0.196
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "견조한 성장세",
+      "profitability": "안정적인 수익 구조",
+      "cashflow_stability": "현금 창출력 양호, 부채 부담 과다"
+    },
+    "macro_sensitivity": "금리 변동에 민감한 경기 방어주. 막대한 부채 구조로 인해 금리 인상 시 이자 비용 부담이 가중되어 수익성에 직접적인 타격을 입을 수 있으나, 필수 에너지 인프라 사업 모델은 경기 침체기에도 상대적으로 안정적인 수요를 유지함.",
+    "technical_synergy": "높은 부채라는 펀더멘털 제약으로 인해 주가가 장기간 억눌리는 경향이 있음. 따라서 '단테의 밥그릇 3번 자리'와 같은 장기 이평선 돌파 및 지지 패턴은 단순한 기술적 신호를 넘어, 금리 인하 기대감이나 부채 리스크 해소 등 펀더멘털 개선에 대한 시장의 확신을 반영하는 높은 신뢰도의 지표로 작용할 수 있음. 폭발력보다는 안정적인 추세 전환 가능성에 무게를 둠.",
+    "business_moat": "미국 전역에 걸친 방대한 천연가스 파이프라인 및 처리 시설은 대체 불가능한 핵심 인프라 자산임. 막대한 초기 투자 비용과 복잡한 규제 승인 절차는 신규 경쟁자의 진입을 사실상 불가능하게 만드는 강력한 경제적 해자 역할을 함.",
+    "ai_system_tags": [
+      "Value",
+      "Dividend",
+      "Defensive"
+    ]
+  }
+}

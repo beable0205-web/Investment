@@ -1,0 +1,34 @@
+{
+  "ticker": "LH",
+  "lastUpdated": "2026-05-08T17:50:59.225Z",
+  "rawFinancials": {
+    "name": "Labcorp Holdings Inc.",
+    "marketCap": 20814471168,
+    "trailingPE": 22.463274,
+    "forwardPE": 13.058068,
+    "priceToBook": 2.4206116,
+    "totalRevenue": 14144199680,
+    "operatingMargins": 0.10945,
+    "returnOnEquity": 0.11047,
+    "freeCashflow": 1142537472,
+    "totalCash": 981100032,
+    "totalDebt": 7294400000,
+    "currentRatio": 1.726,
+    "revenueGrowth": 0.058
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출은 5.8%의 안정적인 성장을 보이나, 선행 PER(13.06)이 후행 PER(22.46)보다 현저히 낮아 향후 높은 이익 성장이 기대되는 국면입니다.",
+      "profitability": "11% 수준의 영업이익률과 자기자본이익률(ROE)은 업계 내에서 견고한 수익성을 입증하며, 효율적인 자본 활용 능력을 보여줍니다.",
+      "cashflow_stability": "연간 11억 달러 이상의 강력한 잉여현금흐름을 창출하나, 총부채(73억 달러) 규모는 다소 부담스럽습니다. 단, 현금 창출 능력으로 충분히 관리 가능한 수준입니다."
+    },
+    "macro_sensitivity": "필수 의료 서비스인 진단 사업 특성상 경기 침체에 강한 대표적인 경기 방어주입니다. 다만, 부채 수준으로 인해 고금리 환경에서는 이자 비용 증가에 대한 민감도가 존재합니다.",
+    "technical_synergy": "견고한 펀더멘털을 가진 가치주가 장기 이평선 지지 후 상승 전환하는 패턴을 보일 경우, 투기적 급등보다는 기관 투자자들의 꾸준한 매수세가 유입되며 신뢰도 높은 장기 우상향 추세를 형성할 가능성이 매우 높습니다.",
+    "business_moat": "세계 최대 규모의 임상 검사 네트워크를 통해 구축한 규모의 경제와 높은 규제 장벽이 핵심적인 경제적 해자입니다. 의료 시스템과의 깊은 통합 및 방대한 데이터는 신규 경쟁자의 진입을 차단하고 고객 이탈을 방지하는 역할을 합니다.",
+    "ai_system_tags": [
+      "Value",
+      "Defensive",
+      "Dividend"
+    ]
+  }
+}

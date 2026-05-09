@@ -1,0 +1,31 @@
+{
+  "ticker": "MSGS",
+  "lastUpdated": "2026-05-09T09:06:37.121Z",
+  "rawFinancials": {
+    "name": "Madison Square Garden Sports Co",
+    "marketCap": 7946008576,
+    "forwardPE": 1766.3456,
+    "priceToBook": -28.170492,
+    "totalRevenue": 1071032000,
+    "operatingMargins": 0.054980002,
+    "freeCashflow": 16631250,
+    "totalCash": 81302000,
+    "totalDebt": 1187889024,
+    "currentRatio": 0.467,
+    "revenueGrowth": 0.128
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출은 12.8%로 견조하게 성장하고 있으나, 1700배가 넘는 선행 PER는 이익 창출 능력에 대한 심각한 불확실성을 시사함.",
+      "profitability": "5.5%의 낮은 영업이익률과 마이너스(-) PBR이 보여주는 완전 자본 잠식 상태는 구조적인 수익성 문제를 드러냄.",
+      "cashflow_stability": "부채가 현금의 14배를 초과하고 유동비율이 0.467에 불과해, 미미한 현금흐름 창출 능력 대비 레버리지가 과도하고 단기 파산 리스크가 매우 높음."
+    },
+    "macro_sensitivity": "소비자 지출에 직접적인 영향을 받는 대표적인 경기 민감주이며, 과도한 부채 구조로 인해 금리 인상 시기에 이자 비용 부담이 가중되어 재무 안정성이 급격히 악화될 수 있음.",
+    "technical_synergy": "펀더멘털이 극도로 취약하여 '단테의 밥그릇 3번 자리'와 같은 기술적 강세 신호의 신뢰도가 낮음. 실적 개선 없이 패턴이 나타날 경우, 이는 자산 가치에 대한 투기적 심리에 기인한 것일 가능성이 높아 '불 트랩(Bull Trap)'으로 이어질 위험이 큼.",
+    "business_moat": "뉴욕 닉스(NBA), 뉴욕 레인저스(NHL) 등 세계적인 인지도를 가진 스포츠 구단을 소유하여 대체 불가능한 브랜드 해자를 구축하고 있음. 그러나 이 독점적 자산의 가치가 현재의 열악한 재무 성과와 현금 창출 능력으로는 전혀 설명되지 않고 있음.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

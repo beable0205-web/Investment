@@ -1,0 +1,34 @@
+{
+  "ticker": "ALLE",
+  "lastUpdated": "2026-05-08T20:12:09.677Z",
+  "rawFinancials": {
+    "name": "Allegion plc",
+    "marketCap": 11538609152,
+    "trailingPE": 18.342896,
+    "forwardPE": 14.067302,
+    "priceToBook": 5.491391,
+    "totalRevenue": 4159000064,
+    "operatingMargins": 0.18876,
+    "returnOnEquity": 0.34179002,
+    "freeCashflow": 494362496,
+    "totalCash": 308900000,
+    "totalDebt": 2224399872,
+    "currentRatio": 1.908,
+    "revenueGrowth": 0.097
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 성장. 10%에 가까운 견실한 매출 성장률과 순이익 증가 기대감(Trailing PE > Forward PE)이 관찰되나, 폭발적인 고성장 유형은 아님.",
+      "profitability": "독점적 마진 구조. 19%에 육박하는 높은 영업이익률과 34%를 초과하는 경이로운 자기자본이익률(ROE)은 강력한 가격 결정력과 효율적인 자본 활용 능력을 증명함.",
+      "cashflow_stability": "현금 창출력 우수. 부채 규모가 현금 보유량보다 크지만, 연간 창출하는 막대한 잉여현금흐름(FCF)으로 수년 내 전액 상환 가능한 관리 가능 수준이며, 유동비율 또한 매우 안정적임."
+    },
+    "macro_sensitivity": "경기 혼합형 주식. 신규 건설 경기에 일부 영향을 받아 경기민감주(Cyclical) 특성을 보이지만, 보안 제품의 필수재적 성격과 교체 수요 덕분에 경기 침체기에도 일정 수준의 실적을 방어할 수 있는 경기방어주(Defensive) 특징을 동시에 지님.",
+    "technical_synergy": "견고한 펀더멘털이 장기 이평선 지지의 신뢰도를 높여주며, '단테의 밥그릇 3번 자리'와 같은 패턴 형성 시 투기적 급등보다는 기관 투자자의 꾸준한 매수세에 기반한 지속 가능한 우상향 추세를 보일 가능성이 높음. 패턴의 신뢰도가 매우 높은 유형.",
+    "business_moat": "Allegion은 Schlage 등 강력한 브랜드를 기반으로 한 신뢰와 광범위한 유통망을 통해 견고한 경제적 해자를 구축했습니다. 특히 상업용 시장에서는 높은 교체 비용과 시스템 통합의 복잡성이 신규 경쟁자의 진입을 막는 핵심 방어선으로 작용합니다.",
+    "ai_system_tags": [
+      "Value",
+      "Defensive",
+      "Dividend"
+    ]
+  }
+}

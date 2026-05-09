@@ -1,0 +1,34 @@
+{
+  "ticker": "RBC",
+  "lastUpdated": "2026-05-08T18:10:40.962Z",
+  "rawFinancials": {
+    "name": "RBC Bearings Incorporated",
+    "marketCap": 19300528128,
+    "trailingPE": 71.812935,
+    "forwardPE": 43.563934,
+    "priceToBook": 5.9183807,
+    "totalRevenue": 1790599936,
+    "operatingMargins": 0.22444001,
+    "returnOnEquity": 0.08663999,
+    "freeCashflow": 220350000,
+    "totalCash": 107600000,
+    "totalDebt": 1055600000,
+    "currentRatio": 1.86,
+    "revenueGrowth": 0.17
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "고성장. 17%의 높은 매출 성장률과 순이익 증가 기대감(Trailing PE 대비 낮은 Forward PE)이 공존하는 성장주.",
+      "profitability": "독점적 마진. 22.4%에 달하는 높은 영업이익률은 강력한 가격 결정력과 해자를 증명하지만, 8.7%의 자기자본이익률(ROE)은 높은 주가순자산비율(PBR) 대비 다소 아쉬운 수준.",
+      "cashflow_stability": "현금 창출력 우수하나 레버리지 존재. 매출의 12%가 넘는 견고한 잉여현금흐름을 창출하지만, 총 부채가 현금 보유액의 약 10배에 달해 재무 레버리지가 상당한 편."
+    },
+    "macro_sensitivity": "금리 인상 및 경기 침체에 민감한 산업재. 높은 부채 수준이 금리 상승기 리스크를 가중시킬 수 있으나, 항공/방산 부문의 안정성이 일부 방어막 역할을 하여 경기 민감도를 일부 상쇄함.",
+    "technical_synergy": "강력한 매출 성장과 높은 영업이익률은 '단테의 밥그릇 3번 자리'와 같은 장기 추세 전환 신호에 높은 신뢰도를 부여함. 펀더멘털이 뒷받침되므로, 추세 형성 시 단순한 기술적 반등을 넘어 장기 상승 추세로 이어질 폭발력을 내재하고 있음.",
+    "business_moat": "RBC Bearings는 항공우주, 방산 등 고도의 기술력과 신뢰성이 요구되는 틈새시장에서 강력한 브랜드와 기술적 해자를 구축했습니다. 고객사의 높은 교체 비용과 엄격한 진입 장벽이 독점적인 수준의 영업이익률을 가능하게 합니다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Cyclical",
+      "Defensive"
+    ]
+  }
+}

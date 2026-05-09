@@ -1,0 +1,34 @@
+{
+  "ticker": "IAG",
+  "lastUpdated": "2026-05-09T08:27:18.084Z",
+  "rawFinancials": {
+    "name": "Iamgold Corporation",
+    "marketCap": 10808600576,
+    "trailingPE": 10.935673,
+    "forwardPE": 7.4778767,
+    "priceToBook": 2.5026767,
+    "totalRevenue": 3405799936,
+    "operatingMargins": 0.52849,
+    "returnOnEquity": 0.27965,
+    "freeCashflow": 971637504,
+    "totalCash": 551200000,
+    "totalDebt": 651000000,
+    "currentRatio": 1.893,
+    "revenueGrowth": 1.159
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "고성장. 115.9%에 달하는 폭발적인 매출 성장은 물론, 이익 성장에 대한 시장 기대감(Trailing PE > Forward PE)이 매우 높은 상태로, 강력한 성장 국면에 진입했음을 시사합니다.",
+      "profitability": "독점적 마진. 52.8%라는 경이로운 영업이익률과 27.9%의 높은 자기자본이익률(ROE)은 원자재 가격 상승과 비용 통제가 맞물린 최적의 수익 구조를 보여줍니다.",
+      "cashflow_stability": "현금 창출력 우수. 막대한 잉여현금흐름(FCF)을 바탕으로 총부채를 상쇄하고도 남을 현금 동원력을 갖추고 있으며, 1.893의 안정적인 유동비율은 파산 위험이 극히 낮음을 증명합니다."
+    },
+    "macro_sensitivity": "전형적인 금리 인하 및 인플레이션 수혜주. 금 가격에 직접적으로 연동되므로, 금리 인하 시기나 지정학적 리스크 부각으로 인한 안전자산 선호 심리 강화 시 주가 상승 모멘텀이 극대화됩니다. 반면, 강달러와 실질금리 상승 국면에서는 민감하게 반응할 수 있습니다.",
+    "technical_synergy": "폭발적인 펀더멘털 개선은 장기 횡보하던 주가가 '밥그릇 3번 자리'와 같은 추세 전환 패턴을 완성할 때 강력한 신뢰도를 부여합니다. 단순한 기술적 반등이 아닌, 기업가치 재평가(Re-rating)에 기반한 대세 상승의 초기 신호일 가능성이 매우 높습니다.",
+    "business_moat": "핵심 비즈니스는 금광의 탐사, 개발 및 운영을 통해 금을 생산하고 판매하는 것입니다. 경제적 해자는 보유 광산의 매장량과 채산성, 그리고 생산 비용을 통제하는 운영 효율성에서 비롯됩니다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Cyclical",
+      "Turnaround"
+    ]
+  }
+}

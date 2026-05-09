@@ -1,0 +1,26 @@
+{
+  "ticker": "LRCX",
+  "lastUpdated": "2026-05-08T13:04:58.742Z",
+  "rawFinancials": {
+    "name": "Lam Research Corporation",
+    "marketCap": 358313590784,
+    "trailingPE": 54.060375,
+    "forwardPE": 36.20904,
+    "priceToBook": 33.85161,
+    "totalRevenue": 21681844224,
+    "operatingMargins": 0.35042998,
+    "returnOnEquity": 0.66762,
+    "freeCashflow": 4352341504,
+    "totalCash": 4750936064,
+    "totalDebt": 3734479104,
+    "currentRatio": 2.536,
+    "revenueGrowth": 0.238
+  },
+  "analysis": {
+    "financialHealthScore": "95",
+    "valuationRating": "Overvalued",
+    "moatAndBusiness": "램리서치는 반도체 제조 공정의 핵심인 웨이퍼 식각(Etching) 장비를 공급하는 글로벌 선두 기업입니다. 고객사들이 한번 채택하면 바꾸기 어려운 높은 전환 비용과, 수십 년간 축적된 기술 특허 및 R&D 역량이 이 기업의 강력한 경제적 해자를 구축합니다. 이러한 독과점적 시장 지위를 바탕으로 35%에 달하는 높은 영업이익률을 기록하며 막대한 현금을 창출하고 있습니다.",
+    "redFlags": [],
+    "isInvestable": true
+  }
+}

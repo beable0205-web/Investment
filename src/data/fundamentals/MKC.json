@@ -1,0 +1,34 @@
+{
+  "ticker": "MKC",
+  "lastUpdated": "2026-05-08T19:27:27.355Z",
+  "rawFinancials": {
+    "name": "McCormick & Company, Incorporat",
+    "marketCap": 12960930816,
+    "trailingPE": 7.903279,
+    "forwardPE": 14.407215,
+    "priceToBook": 1.8559439,
+    "totalRevenue": 7108700160,
+    "operatingMargins": 0.14344,
+    "returnOnEquity": 0.25347,
+    "freeCashflow": 372775008,
+    "totalCash": 177700000,
+    "totalDebt": 4923400192,
+    "currentRatio": 0.758,
+    "revenueGrowth": 0.167
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 성장 기반의 일시적 고성장. 16.7%의 높은 매출 성장은 인플레이션에 따른 가격 전가 및 M&A 효과로 보이며, Trailing PE(7.9) 대비 Forward PE(14.4)가 높은 점은 향후 성장률 둔화를 시사함.",
+      "profitability": "독점적 브랜드 파워 기반의 고수익성 구조. 14.3%의 견고한 영업이익률과 25.3%의 매우 높은 자기자본이익률(ROE)은 강력한 가격 결정권과 효율적인 자본 운용 능력을 증명함.",
+      "cashflow_stability": "안정적 현금 창출력, 그러나 부채 부담 상존. 필수소비재 사업 특성상 꾸준한 현금흐름을 보이나, 총 부채(49억 달러)가 현금 및 잉여현금흐름 대비 과도하며 유동비율(0.76)이 낮아 재무 안정성 모니터링이 필요함."
+    },
+    "macro_sensitivity": "전형적인 경기 방어주. 경기 침체기에도 수요가 유지되는 필수소비재(향신료) 사업으로 포트폴리오 안정성을 제공함. 단, 원자재 가격 인플레이션에 비용 압박을 받으며, 높은 부채 수준으로 인해 금리 인상 시기에는 이자 비용 증가에 취약할 수 있음.",
+    "technical_synergy": "이러한 초우량 경기 방어주는 장기 횡보 후 이평선 지지를 받는 '밥그릇 3번 자리' 패턴에서 극도의 신뢰도를 보임. 폭발적인 시세 분출보다는, 시장의 불확실성이 커질 때마다 자금이 유입되며 계단식으로 꾸준히 상승하는 '저변동성 우상향' 패턴을 만들 확률이 매우 높음.",
+    "business_moat": "McCormick은 100년 이상 구축해 온 강력한 브랜드 인지도와 글로벌 유통망을 통해 소매점의 진열 공간을 장악하고 있습니다. 이러한 무형자산과 규모의 경제는 신규 경쟁자가 넘볼 수 없는 견고한 경제적 해자로 작용합니다.",
+    "ai_system_tags": [
+      "Defensive",
+      "Value",
+      "Dividend"
+    ]
+  }
+}

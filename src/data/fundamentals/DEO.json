@@ -1,0 +1,34 @@
+{
+  "ticker": "DEO",
+  "lastUpdated": "2026-05-08T15:53:39.780Z",
+  "rawFinancials": {
+    "name": "Diageo plc",
+    "marketCap": 46806474752,
+    "trailingPE": 19.445726,
+    "forwardPE": 13.043344,
+    "priceToBook": 72.67279,
+    "totalRevenue": 19804000256,
+    "operatingMargins": 0.31291,
+    "returnOnEquity": 0.19716999,
+    "freeCashflow": 958124992,
+    "totalCash": 2208999936,
+    "totalDebt": 24290000896,
+    "currentRatio": 1.604,
+    "revenueGrowth": -0.04
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 역성장(-4%) 상태이나, 선행 PER(13.0)이 후행 PER(19.4)보다 현저히 낮아 향후 강력한 이익 개선이 기대되는 국면",
+      "profitability": "영업이익률 31.3%, 자기자본이익률 19.7%에 달하는 독점적 마진 구조. 이는 강력한 브랜드 파워와 가격 결정력을 증명함",
+      "cashflow_stability": "안정적인 잉여현금흐름을 창출하고 있으나, 총부채(243억 달러)가 현금(22억 달러) 및 잉여현금흐름(9.6억 달러) 대비 과도하여 재무 레버리지가 높은 편"
+    },
+    "macro_sensitivity": "경기 침체기에도 수요가 유지되는 대표적인 경기 방어주. 다만, 부채 수준이 높아 금리 인상 시기에는 이자 비용 증가로 인한 수익성 악화에 민감할 수 있음",
+    "technical_synergy": "견고한 펀더멘털을 가진 우량주가 일시적 악재로 조정을 받은 후 장기 이평선을 돌파하고 지지받는 패턴을 보일 경우, 이는 투기적 반등이 아닌 신뢰도 높은 추세 전환의 신호일 가능성이 높음. 시스템은 이를 '가치주의 귀환' 시그널로 해석할 수 있음",
+    "business_moat": "조니워커, 기네스 등 대체 불가능한 글로벌 주류 브랜드 포트폴리오가 핵심 경제적 해자임. 이를 통해 구축된 강력한 소비자 충성도와 유통망은 신규 경쟁자의 진입을 원천적으로 차단함",
+    "ai_system_tags": [
+      "Value",
+      "Defensive",
+      "Dividend"
+    ]
+  }
+}

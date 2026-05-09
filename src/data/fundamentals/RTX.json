@@ -1,0 +1,26 @@
+{
+  "ticker": "RTX",
+  "lastUpdated": "2026-05-08T13:11:58.383Z",
+  "rawFinancials": {
+    "name": "RTX Corporation",
+    "marketCap": 238066696192,
+    "trailingPE": 33.104866,
+    "forwardPE": 23.41612,
+    "priceToBook": 3.6369247,
+    "totalRevenue": 90372997120,
+    "operatingMargins": 0.13182001,
+    "returnOnEquity": 0.11571,
+    "freeCashflow": 7233375232,
+    "totalCash": 6817999872,
+    "totalDebt": 38934999040,
+    "currentRatio": 1.024,
+    "revenueGrowth": 0.087
+  },
+  "analysis": {
+    "financialHealthScore": 75,
+    "valuationRating": "Fair",
+    "moatAndBusiness": "RTX Corporation is a global leader in aerospace and defense, providing advanced systems and services to commercial, military, and government customers. Its economic moat is built on immense technological barriers to entry, a vast portfolio of intellectual property, and long-term, sticky relationships with key government and commercial clients. This entrenched market position ensures a predictable and resilient stream of revenue and cash flow.",
+    "redFlags": [],
+    "isInvestable": true
+  }
+}

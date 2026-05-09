@@ -53,7 +53,7 @@ export async function getStockData(ticker: string, periodDays: number = 500) {
   }
 }
 
-// 3. 룰 기반 필터링 엔진
+// 3. 룰 기반 필터링 엔진 (단테 기법 정밀화)
 export function evaluateRules(ticker: string, data: any[], companyName?: string) {
   if (!data || data.length < 224) return null;
 
@@ -61,8 +61,11 @@ export function evaluateRules(ticker: string, data: any[], companyName?: string)
   const volumes = data.map(d => d.volume);
   
   const sma20 = calculateSMA(data, 20);
+  const sma60 = calculateSMA(data, 60);
+  const sma112 = calculateSMA(data, 112);
   const sma224 = calculateSMA(data, 224);
   const env20 = calculateEnvelope(sma20, 20);
+  const volMA20 = calculateSMA(data.map(d => ({ close: d.volume })), 20);
 
   const lastIdx = data.length - 1;
   const currentClose = closePrices[lastIdx];
@@ -73,42 +76,97 @@ export function evaluateRules(ticker: string, data: any[], companyName?: string)
 
   const matchReasons: string[] = [];
 
-  // Rule 1: 밥그릇 3번 자리 & 224일선 눌림목
+  // ---------------------------------------------------------
+  // Rule 1: 밥그릇 3번 자리 (224일선 돌파 후 눌림목) + 공구리
+  // ---------------------------------------------------------
   if (currentSMA224 !== null) {
-    // 현재가가 224일선 부근에 위치 (-2% ~ +5%)
     const diff224 = (currentClose - currentSMA224) / currentSMA224;
-    if (diff224 >= -0.02 && diff224 <= 0.05) {
-      // 최근 20일 내 대량 거래량(매집봉)이 있었는지 판단
-      let hasVolumeSpike = false;
-      const volMA20 = calculateSMA(data.map(d => ({ close: d.volume })), 20);
-      for (let i = Math.max(0, lastIdx - 20); i <= lastIdx; i++) {
-        if (volMA20[i] && volumes[i] > volMA20[i]! * 2.5) {
-          hasVolumeSpike = true;
-          break;
+    
+    // 1. 현재가가 224일선 근처에 위치 (눌림목 타점: -3% ~ +5%)
+    if (diff224 >= -0.03 && diff224 <= 0.05) {
+      
+      // 2. 과거 1번, 2번 자리(장기 하락 및 횡보) 검증
+      // 최근 6개월(120일) 동안 주가가 224일선 아래에 머문 기간이 최소 50% 이상이어야 '밥그릇 패턴' 성립
+      let daysBelow224 = 0;
+      for (let i = Math.max(0, lastIdx - 120); i < lastIdx - 20; i++) {
+        if (closePrices[i] < sma224[i]!) daysBelow224++;
+      }
+      const isBowlPattern = daysBelow224 > 50;
+
+      // 3. 최근 돌파 및 매집봉 확인 (세력 진입 흔적)
+      let hasAccumulationCandle = false;
+      let hasBreakout = false;
+      
+      for (let i = Math.max(0, lastIdx - 30); i <= lastIdx; i++) {
+        const c = data[i];
+        const v = volumes[i];
+        const vMA = volMA20[i];
+        const sma224AtI = sma224[i]!;
+        
+        // 돌파 확인: 종가가 224일선을 뚫고 올라갔었는가?
+        if (c.close > sma224AtI * 1.02) hasBreakout = true;
+
+        // 매집봉 확인: 거래량이 20일 평균의 3배 이상 터지고, 고가와 저가의 폭이 큰데 윗꼬리가 긴 양봉/음봉
+        if (vMA && v > vMA * 3) {
+          const body = Math.abs(c.close - c.open);
+          const upperShadow = c.high - Math.max(c.close, c.open);
+          const totalRange = c.high - c.low;
+          // 윗꼬리가 몸통보다 길거나 캔들 전체 길이의 40% 이상 차지 (매물대 소화)
+          if (upperShadow > body * 1.5 || upperShadow > totalRange * 0.4) {
+            hasAccumulationCandle = true;
+          }
         }
       }
-      if (hasVolumeSpike) {
-        matchReasons.push("Rule 1: 224일선 부근 눌림목 및 강력한 거래량(매집봉) 포착 (대시세 초입 가능성 높은 밥그릇 3번 자리)");
+
+      // 4. 공구리 (단기 지지선) 확인
+      // 최근 10일간 주가가 특정 가격대에서 더 이상 빠지지 않고 3번 이상 지지받았는가?
+      let supportBounces = 0;
+      const recentLows = data.slice(lastIdx - 10, lastIdx + 1).map(d => d.low);
+      const minLow = Math.min(...recentLows);
+      for (const low of recentLows) {
+        if (low <= minLow * 1.02) supportBounces++; // 최저점 대비 2% 이내에서 지지
+      }
+      const hasConcreteBase = supportBounces >= 3;
+
+      if (isBowlPattern && hasBreakout && hasAccumulationCandle) {
+        let reason = "Rule 1: 완벽한 밥그릇 3번 자리 포착 (장기 매집 후 224일선 돌파 및 눌림목, 강력한 매집봉 존재)";
+        if (hasConcreteBase) reason += " + 단단한 공구리 지지선 확인됨";
+        matchReasons.push(reason);
       }
     }
   }
 
-  // Rule 2: 과대 낙폭 (엔벨롭 하단 터치)
+  // ---------------------------------------------------------
+  // Rule 2: 과대 낙폭 (엔벨롭 하단 터치) - 낙주 매매
+  // ---------------------------------------------------------
   if (currentEnv20Lower !== null) {
-    if (currentClose <= currentEnv20Lower * 1.03) { // 엔벨롭 하단 3% 이내 접근
-      matchReasons.push("Rule 2: 엔벨롭(20, 20%) 하단 터치 임박 (기관/외인 프로그램 매수 유입을 기대하는 극단적 과대낙폭 타점)");
+    if (currentClose <= currentEnv20Lower * 1.02) { // 하단 2% 이내
+      // 낙주 매매는 이격도가 클 때만 유효함 (20일선과 현재가의 괴리가 -15% 이상)
+      const diff20 = (currentClose - sma20[lastIdx]!) / sma20[lastIdx]!;
+      if (diff20 <= -0.15) {
+        matchReasons.push("Rule 2: 엔벨롭(20, 20%) 하단 이탈 과대낙폭 (기술적 반등을 노리는 단기 V자 스윙 타점)");
+      }
     }
   }
 
-  // Rule 3: 역주행 캔들 (장대 양봉)
+  // ---------------------------------------------------------
+  // Rule 3: 역주행 캔들 (장대 양봉) - 영차 패턴 초입
+  // ---------------------------------------------------------
   const prevClose = closePrices[lastIdx - 1];
   const prevOpen = data[lastIdx - 1].open;
   const currentOpen = data[lastIdx].open;
   
-  // 어제 음봉이고 오늘 양봉이면서 전일 음봉 몸통을 완전히 장악한 거래량 폭발 양봉
   if (prevClose < prevOpen && currentClose > currentOpen) {
-    if (currentClose > prevOpen && currentVol > volumes[lastIdx - 1] * 2) {
-      matchReasons.push("Rule 3: 전일 음봉을 압도하는 거래량 동반 장대 양봉 발생 (추세 반전의 강력한 역주행 캔들 시그널)");
+    // 1. 전일 음봉 몸통을 완전히 장악 (장악형 캔들)
+    if (currentClose > prevOpen && currentOpen <= prevClose) {
+      // 2. 거래량이 전일 대비 2배 이상, 20일 평균 대비 2배 이상 폭발
+      const vMA = volMA20[lastIdx];
+      if (currentVol > volumes[lastIdx - 1] * 2 && vMA && currentVol > vMA * 2) {
+        // 3. 20일선이 우상향 중이거나 돌파하는 자리 (하락 추세에서의 가짜 반등 방지)
+        if (currentClose > sma20[lastIdx]!) {
+          matchReasons.push("Rule 3: 거래량 폭발 전일 음봉 장악형 양봉 (세력의 강력한 추세 반전 및 영차 패턴 초입 캔들)");
+        }
+      }
     }
   }
 

@@ -1,0 +1,34 @@
+{
+  "ticker": "UUGRY",
+  "lastUpdated": "2026-05-08T19:08:36.002Z",
+  "rawFinancials": {
+    "name": "United Utilities Group PLC",
+    "marketCap": 14114415616,
+    "trailingPE": 16.309013,
+    "forwardPE": 84.44445,
+    "priceToBook": 4.8184524,
+    "totalRevenue": 2372400128,
+    "operatingMargins": 0.42926997,
+    "returnOnEquity": 0.20435,
+    "freeCashflow": -373362496,
+    "totalCash": 1935699968,
+    "totalDebt": 11377800192,
+    "currentRatio": 2.219,
+    "revenueGrowth": 0.21
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출은 21%로 높은 성장세를 보이나, 84배에 달하는 선행 PER는 향후 이익 급감을 암시. 외형 성장과 이익 전망의 심각한 불일치 상태.",
+      "profitability": "영업이익률 42.9%는 규제받는 독점 사업자의 전형적인 특징. 높은 부채를 활용한 20.4%의 ROE는 인상적이나, 재무 리스크를 내포.",
+      "cashflow_stability": "마이너스(-) 3억 7천만 달러의 잉여현금흐름은 심각한 위험 신호. 113억 달러의 막대한 부채와 결합 시, 금리 상승기에 재무 안정성이 급격히 악화될 수 있음."
+    },
+    "macro_sensitivity": "물 수요의 비탄력성으로 인해 경기 침체에는 강한 '경기 방어주'의 특성을 보임. 그러나 막대한 부채 구조로 인해 금리 인상에 매우 취약하며, 이자 비용 증가가 순이익을 잠식할 위험이 큼.",
+    "technical_synergy": "이 종목이 '단테의 밥그릇 3번 자리'를 형성할 경우, 그 신뢰도는 낮게 평가됨. 독점적 해자라는 펀더멘털이 상승 기대를 만들 수 있으나, 마이너스 현금흐름과 과도한 부채가 발목을 잡아 상승 폭발력은 제한적일 것. 금리 인하와 같은 거시적 변수가 뒷받침되지 않으면, 기술적 돌파는 '가치 함정(Value Trap)'으로 이어질 가능성이 높음.",
+    "business_moat": "영국 정부로부터 허가받은 필수 공공 서비스(상하수도) 사업자로, 경쟁자가 진입할 수 없는 강력한 규제적 해자를 보유하고 있습니다. 이는 경기 변동과 무관하게 안정적인 매출을 창출하는 원천이 됩니다.",
+    "ai_system_tags": [
+      "Defensive",
+      "Dividend",
+      "Cyclical"
+    ]
+  }
+}

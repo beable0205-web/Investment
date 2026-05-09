@@ -1,0 +1,31 @@
+{
+  "ticker": "GH",
+  "lastUpdated": "2026-05-08T19:48:08.010Z",
+  "rawFinancials": {
+    "name": "Guardant Health, Inc.",
+    "marketCap": 12540106752,
+    "forwardPE": -149.72916,
+    "priceToBook": -124.460396,
+    "totalRevenue": 982020992,
+    "operatingMargins": -0.4291,
+    "freeCashflow": -88105872,
+    "totalCash": 1201597952,
+    "totalDebt": 1710141952,
+    "currentRatio": 4.843,
+    "revenueGrowth": 0.394
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "고성장",
+      "profitability": "적자 늪",
+      "cashflow_stability": "현금 소진 중이나 단기 유동성은 양호, 부채는 장기적 부담"
+    },
+    "macro_sensitivity": "금리 인상기 극도로 취약, 금리 인하 기대감에 민감하게 반응하는 대표적인 성장주. 경기 침체 시 자금 조달 리스크가 부각될 수 있음.",
+    "technical_synergy": "폭발적인 매출 성장이 펀더멘털 연료 역할을 하므로, 장기 이평선 돌파와 같은 추세 전환 신호 발생 시, 내러티브가 실적으로 증명될 것이라는 기대감이 증폭되어 강력한 시세 분출 가능성이 높음. 다만, 실적 개선이 뒷받침되지 않으면 돌파 실패 확률도 상존함.",
+    "business_moat": "액체 생검 기술을 통한 암 조기 진단 및 모니터링 분야의 선두주자. 방대한 임상 데이터와 규제 승인, 그리고 기술적 선점 효과가 핵심적인 경제적 해자를 구성함.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Turnaround"
+    ]
+  }
+}

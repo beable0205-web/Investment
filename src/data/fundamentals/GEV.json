@@ -1,0 +1,30 @@
+{
+  "ticker": "GEV",
+  "lastUpdated": "2026-05-08T13:07:28.309Z",
+  "rawFinancials": {
+    "name": "GE Vernova Inc.",
+    "marketCap": 280981700608,
+    "trailingPE": 30.58292,
+    "forwardPE": 42.70117,
+    "priceToBook": 20.182402,
+    "totalRevenue": 39374999552,
+    "operatingMargins": 0.05461,
+    "returnOnEquity": 0.75708,
+    "freeCashflow": 9315624960,
+    "totalCash": 9772000256,
+    "totalDebt": 3755000064,
+    "currentRatio": 0.893,
+    "revenueGrowth": 0.163
+  },
+  "analysis": {
+    "financialHealthScore": 85,
+    "valuationRating": "Overvalued",
+    "moatAndBusiness": "GE Vernova operates in the global energy sector, providing critical power generation and electrification equipment. Its economic moat is built on proprietary technology, a massive installed base, and long-term service contracts that generate recurring revenue. The company profits from both the initial sale of large-scale energy hardware and the subsequent high-margin maintenance and support services.",
+    "redFlags": [
+      "Forward PE (42.7) is significantly higher than Trailing PE (30.6), suggesting expected earnings decline.",
+      "Extremely high Price-to-Book ratio (20.2) indicates a very stretched valuation.",
+      "Current Ratio is below 1 (0.89), signaling potential short-term liquidity weakness."
+    ],
+    "isInvestable": false
+  }
+}

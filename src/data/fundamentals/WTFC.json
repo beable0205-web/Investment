@@ -1,0 +1,32 @@
+{
+  "ticker": "WTFC",
+  "lastUpdated": "2026-05-09T08:02:23.477Z",
+  "rawFinancials": {
+    "name": "Wintrust Financial Corporation",
+    "marketCap": 10227778560,
+    "trailingPE": 12.710813,
+    "forwardPE": 10.93708,
+    "priceToBook": 1.4861714,
+    "totalRevenue": 2692167936,
+    "operatingMargins": 0.46293998,
+    "returnOnEquity": 0.12336001,
+    "totalCash": 3595384064,
+    "totalDebt": 4344239104,
+    "revenueGrowth": 0.103
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 성장. 10%대의 견고한 매출 성장을 보이며, 선행 PER이 후행 PER보다 낮아 향후 이익 증가에 대한 시장의 긍정적 기대를 반영하고 있습니다.",
+      "profitability": "고수익성 구조. 46%를 상회하는 높은 영업이익률과 12%대의 견실한 자기자본이익률(ROE)은 효율적인 비용 관리와 강력한 가격 결정력을 증명합니다.",
+      "cashflow_stability": "안정적 이익 창출력. 은행업의 특성상 부채 레버리지가 높지만, 강력한 수익성을 바탕으로 안정적인 순이자마진을 창출하며, 이는 꾸준한 현금흐름의 기반이 됩니다."
+    },
+    "macro_sensitivity": "전형적인 금리 상승기 수혜주이자 경기 민감주. 금리 인상 시 순이자마진(NIM) 확대가 기대되나, 경기 침체 시에는 대손충당금 증가 리스크에 노출됩니다. 따라서 거시 경제 사이클에 대한 민감도가 높습니다.",
+    "technical_synergy": "이처럼 펀더멘털이 견고한 가치주는 '단테의 밥그릇 3번 자리'와 같은 장기 저항선 돌파 패턴에서 높은 신뢰도를 보입니다. 기술적 브레이크아웃 발생 시, 단순한 투기적 움직임이 아닌 기업 가치 재평가(Re-rating)의 신호로 해석될 수 있어, 추세의 지속성과 폭발력이 클 가능성이 높습니다.",
+    "business_moat": "WTFC는 시카고 지역에 깊이 뿌리내린 고객 관계와 광범위한 금융 서비스 포트폴리오를 통해 강력한 지역적 해자를 구축했습니다. 높은 고객 전환 비용과 지역 사회에서의 브랜드 인지도는 경쟁 은행에 대한 지속 가능한 우위를 제공합니다.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Dividend"
+    ]
+  }
+}

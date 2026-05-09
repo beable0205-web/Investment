@@ -1,0 +1,33 @@
+{
+  "ticker": "CACI",
+  "lastUpdated": "2026-05-08T20:21:24.521Z",
+  "rawFinancials": {
+    "name": "CACI International, Inc.",
+    "marketCap": 10625695744,
+    "trailingPE": 19.875618,
+    "forwardPE": 15.365428,
+    "priceToBook": 2.5671282,
+    "totalRevenue": 9162865664,
+    "operatingMargins": 0.097349994,
+    "returnOnEquity": 0.13449,
+    "freeCashflow": 446507136,
+    "totalCash": 159644000,
+    "totalDebt": 5616314880,
+    "currentRatio": 1.613,
+    "revenueGrowth": 0.085
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 성장",
+      "profitability": "견고한 수익성 구조",
+      "cashflow_stability": "우수한 현금 창출력, 그러나 높은 부채 부담"
+    },
+    "macro_sensitivity": "경기 방어적 사업 모델, 금리 인상 시 부채 부담 가중",
+    "technical_synergy": "안정적 성장성과 경기 방어적 사업 모델을 고려할 때, 장기 이평선 돌파 및 지지 패턴은 새로운 대형 계약 수주나 이익률 개선 등 펀더멘털의 질적 변화를 시장이 인지하는 신호일 수 있습니다. 높은 부채는 폭발력을 제한할 수 있으나, 사업의 안정성 덕분에 패턴의 신뢰도는 높게 평가됩니다.",
+    "business_moat": "미국 국방부, 정보기관 등과의 장기적이고 깊은 관계가 핵심 해자입니다. 높은 수준의 보안 인가와 전문 기술력이 요구되는 정부 계약은 신규 경쟁자의 진입을 막는 강력한 장벽으로 작용합니다.",
+    "ai_system_tags": [
+      "Value",
+      "Defensive"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "ticker": "VIRT",
+  "lastUpdated": "2026-05-08T20:22:38.181Z",
+  "rawFinancials": {
+    "name": "Virtu Financial, Inc.",
+    "marketCap": 11040788480,
+    "trailingPE": 8.495033,
+    "forwardPE": 8.757467,
+    "priceToBook": 2.7537167,
+    "totalRevenue": 3049731072,
+    "operatingMargins": 0.46762002,
+    "returnOnEquity": 0.56901,
+    "totalCash": 18732924928,
+    "totalDebt": 9044183040,
+    "currentRatio": 1.113,
+    "revenueGrowth": 0.303
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "고성장",
+      "profitability": "독점적 마진",
+      "cashflow_stability": "시장 변동성에 연동되는 강력한 현금 창출력, 상당한 부채에도 불구하고 높은 현금 보유로 리스크 관리"
+    },
+    "macro_sensitivity": "시장 변동성 확대의 직접적 수혜주. 금리 변동, 경기 침체 우려 등 거시 경제 불확실성이 높아질수록 거래량이 증가하며 이익이 증대되는 경향이 있음.",
+    "technical_synergy": "이익의 변동성이 큰 사업 모델 특성상, 펀더멘털(시장 변동성 증가)과 기술적 분석(장기 이평선 돌파)이 동시에 긍정적 신호를 보낼 때 폭발적인 시세 분출 가능성이 높음. 낮은 밸류에이션(P/E)은 상승의 초기 저항을 줄여주며, 높은 수익성(ROE)은 이익 급증이 주가에 빠르게 반영될 수 있는 기반이 됨.",
+    "business_moat": "최첨단 저지연(low-latency) 트레이딩 기술과 막대한 규모의 경제를 바탕으로 한 시장 조성(Market Making) 비즈니스를 영위한다. 경쟁사가 모방하기 힘든 기술적 우위와 데이터 분석 능력이 이 기업의 핵심적인 경제적 해자이다.",
+    "ai_system_tags": [
+      "Value",
+      "High-Growth",
+      "Cyclical"
+    ]
+  }
+}

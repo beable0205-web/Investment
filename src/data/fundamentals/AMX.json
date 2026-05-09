@@ -1,0 +1,34 @@
+{
+  "ticker": "AMX",
+  "lastUpdated": "2026-05-08T14:43:55.461Z",
+  "rawFinancials": {
+    "name": "America Movil, S.A.B. de C.V.",
+    "marketCap": 80912506880,
+    "trailingPE": 16.107784,
+    "forwardPE": 13.056161,
+    "priceToBook": 3.777037,
+    "totalRevenue": 948444266496,
+    "operatingMargins": 0.2133,
+    "returnOnEquity": 0.21128,
+    "freeCashflow": 140285067264,
+    "totalCash": 92901253120,
+    "totalDebt": 745425928192,
+    "currentRatio": 0.72,
+    "revenueGrowth": 0.021
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 저성장 (매출 성장률 2.1%로 성숙기에 진입한 대형주)",
+      "profitability": "독점적 고마진 구조 (영업이익률 21.3%, ROE 21.1%로 강력한 시장 지배력과 가격 결정력을 보유)",
+      "cashflow_stability": "강력한 현금 창출력, 높은 부채 부담 공존 (막대한 잉여현금흐름을 창출하나, 총부채 규모가 커 재무 레버리지 리스크 상존)"
+    },
+    "macro_sensitivity": "대표적인 경기 방어주이자 금리 민감주. 통신 서비스는 필수 소비재 성격이 강해 경기 침체기에도 수요가 안정적이나, 높은 부채 수준으로 인해 금리 인상 시 이자 비용 부담이 가중될 수 있음. 반대로 금리 인하 국면에서는 수혜 기대.",
+    "technical_synergy": "이와 같은 펀더멘털 우량주는 장기 횡보 후 '단테의 밥그릇 3번 자리'와 같은 장기 이평선 돌파 패턴 출현 시, 투기적 세력이 아닌 가치 투자자들의 자금 유입이 동반되므로 패턴의 신뢰도가 매우 높음. 폭발적인 시세 분출보다는 안정적인 우상향 추세를 형성할 가능성이 큼.",
+    "business_moat": "라틴 아메리카 전역에 걸친 광범위한 통신 인프라와 규모의 경제를 통해 구축된 강력한 네트워크 효과. 신규 경쟁자가 진입하기 어려운 막대한 자본적 지출(CAPEX) 요구사항이 핵심적인 경제적 해자로 작용함.",
+    "ai_system_tags": [
+      "Value",
+      "Defensive",
+      "Dividend"
+    ]
+  }
+}

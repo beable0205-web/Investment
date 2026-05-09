@@ -1,0 +1,33 @@
+{
+  "ticker": "NOW",
+  "lastUpdated": "2026-05-08T14:25:35.117Z",
+  "rawFinancials": {
+    "name": "ServiceNow, Inc.",
+    "marketCap": 92982738944,
+    "trailingPE": 53.66667,
+    "forwardPE": 17.991232,
+    "priceToBook": 7.9282455,
+    "totalRevenue": 13959999488,
+    "operatingMargins": 0.13342,
+    "returnOnEquity": 0.1607,
+    "freeCashflow": 5108125184,
+    "totalCash": 5182000128,
+    "totalDebt": 2431000064,
+    "currentRatio": 0.845,
+    "revenueGrowth": 0.221
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "고성장. 22.1%의 높은 매출 성장률과 낮은 선행 PER(Forward PE)는 향후 강력한 이익 성장에 대한 시장의 기대를 명확히 보여줌.",
+      "profitability": "견고한 수익 구조. 13%대의 영업이익률과 16%의 자기자본이익률(ROE)은 구독 기반 SaaS 비즈니스 모델의 강력한 가격 결정력과 효율성을 증명함.",
+      "cashflow_stability": "현금 창출력 우수. 총 부채의 2배가 넘는 현금을 보유하고 있으며, 매출의 약 36%에 달하는 막대한 잉여현금흐름(FCF)을 창출하여 파산 위험이 극히 낮음."
+    },
+    "macro_sensitivity": "금리 인상기에는 높은 밸류에이션으로 인해 주가 변동성이 커질 수 있으나, 기업의 비용 절감 및 효율성 개선을 돕는 필수 소프트웨어 특성상 경기 침체기에는 상대적으로 방어적인 성격을 띰.",
+    "technical_synergy": "이처럼 강력한 펀더멘털은 기술적 분석의 신뢰도를 극대화함. 장기 이평선 지지(예: 단테의 밥그릇 3번 자리)와 같은 의미 있는 패턴 형성 시, 단순 투기성 종목과 달리 기관 투자자의 강력한 저가 매수세가 유입되어 폭발적이고 안정적인 상승 추세를 기대할 수 있음.",
+    "business_moat": "기업의 핵심 IT 및 업무 워크플로우를 자동화하는 클라우드 플랫폼을 제공합니다. 한번 도입하면 데이터와 프로세스가 종속되어 교체가 매우 어려운 높은 '전환 비용'이 이 기업의 핵심 경제적 해자입니다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Defensive"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "ticker": "SNY",
+  "lastUpdated": "2026-05-08T14:18:13.318Z",
+  "rawFinancials": {
+    "name": "Sanofi",
+    "marketCap": 102829891584,
+    "trailingPE": 18.5,
+    "forwardPE": 8.275075,
+    "priceToBook": 1.2301422,
+    "totalRevenue": 47353999360,
+    "operatingMargins": 0.20002002,
+    "returnOnEquity": 0.06576,
+    "freeCashflow": 16672499712,
+    "totalCash": 5544000000,
+    "totalDebt": 20021000192,
+    "currentRatio": 1.005,
+    "revenueGrowth": 0.06
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 매출 성장(6%)과 함께, 낮은 선행 PER(8.3)은 향후 강력한 이익 개선 또는 현재 주가의 저평가 가능성을 시사함.",
+      "profitability": "특허 기반 의약품 사업으로 20%의 견고한 영업이익률을 유지하나, ROE(6.6%)는 다소 낮아 자본 효율성 개선이 과제로 보임.",
+      "cashflow_stability": "시가총액의 16%에 달하는 막대한 잉여현금흐름(167억 달러)을 창출하며, 1년 내 순부채 상환이 가능할 정도로 재무 건전성이 매우 우수함."
+    },
+    "macro_sensitivity": "전형적인 경기 방어주. 질병 치료 수요는 경기 변동에 둔감하여, 인플레이션이나 경기 침체기에도 안정적인 실적과 현금흐름을 유지할 가능성이 높음.",
+    "technical_synergy": "이처럼 압도적인 현금흐름과 저평가 지표를 가진 주식이 장기 이평선을 돌파하고 지지받는 패턴은, 단순한 기술적 반등이 아닌 펀더멘털 가치에 기반한 기관 투자자의 유입 신호일 수 있어 신뢰도가 매우 높음. 폭발적인 급등보다는 안정적인 우상향 추세 전환을 기대할 수 있음.",
+    "business_moat": "특허로 보호받는 광범위한 의약품 포트폴리오와 막대한 R&D 투자 능력이 핵심 해자임. 글로벌 유통망과 브랜드 인지도는 신규 경쟁자의 진입을 막는 높은 장벽으로 작용함.",
+    "ai_system_tags": [
+      "Value",
+      "Defensive",
+      "Dividend"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ticker": "NVO",
+  "lastUpdated": "2026-05-08T13:20:33.944Z",
+  "rawFinancials": {
+    "name": "Novo Nordisk A/S",
+    "marketCap": 203024564224,
+    "trailingPE": 10.651162,
+    "forwardPE": 13.501346,
+    "priceToBook": 6.7037463,
+    "totalRevenue": 327799996416,
+    "operatingMargins": 0.61574,
+    "returnOnEquity": 0.71402,
+    "freeCashflow": -12039249920,
+    "totalCash": 21625999360,
+    "totalDebt": 146381996032,
+    "currentRatio": 0.788,
+    "revenueGrowth": 0.24
+  },
+  "analysis": {
+    "financialHealthScore": "35",
+    "valuationRating": "Undervalued",
+    "moatAndBusiness": "이 기업은 당뇨병 및 비만 치료제 시장의 글로벌 리더로서, 강력한 브랜드 파워와 특허 보호를 통해 독점적인 지위를 누리고 있습니다. 이러한 강력한 경제적 해자는 60%가 넘는 경이로운 영업이익률과 70% 이상의 자기자본이익률(ROE)로 증명됩니다. 이는 회사가 투입된 자본으로 엄청난 이익을 창출하고 있음을 의미합니다.",
+    "redFlags": [
+      "비정상적 현금흐름 유출",
+      "높은 부채 및 유동성 위험",
+      "모순적인 성장 및 평가 지표"
+    ],
+    "isInvestable": false
+  }
+}

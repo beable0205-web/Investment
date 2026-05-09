@@ -1,0 +1,34 @@
+{
+  "ticker": "LECO",
+  "lastUpdated": "2026-05-08T19:05:16.782Z",
+  "rawFinancials": {
+    "name": "Lincoln Electric Holdings, Inc.",
+    "marketCap": 14815257600,
+    "trailingPE": 27.877836,
+    "forwardPE": 22.422844,
+    "priceToBook": 10.090488,
+    "totalRevenue": 4350048768,
+    "operatingMargins": 0.1715,
+    "returnOnEquity": 0.37765,
+    "freeCashflow": 176646496,
+    "totalCash": 298903008,
+    "totalDebt": 1364840960,
+    "currentRatio": 1.826,
+    "revenueGrowth": 0.117
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "견실한 성장. 11.7%의 두 자릿수 매출 성장을 기록 중이며, 선행 PER이 후행 PER보다 낮아 이익 성장에 대한 시장의 기대감이 긍정적임.",
+      "profitability": "독점적 수준의 높은 수익성. 17%가 넘는 높은 영업이익률과 37%에 달하는 경이적인 자기자본이익률(ROE)은 강력한 가격 결정력과 효율적인 자본 운용 능력을 증명함.",
+      "cashflow_stability": "안정적 현금흐름, 관리 가능한 부채. 꾸준한 잉여현금흐름을 창출하고 있으나, 현금 대비 부채 비율은 다소 높은 편. 그러나 1.8배의 유동비율과 높은 수익성을 감안할 때 부채 리스크는 통제 가능한 수준임."
+    },
+    "macro_sensitivity": "전형적인 경기 순환주(Cyclical). 산업 생산 및 건설 경기에 직접적인 영향을 받으므로 경기 침체 시 수요 감소에 취약함. 단, 독보적인 시장 지위에서 비롯된 강력한 가격 결정력은 원자재 가격 상승 등 인플레이션 국면에서 비용 전가를 용이하게 하는 방어적 특징을 가짐.",
+    "technical_synergy": "견고한 펀더멘털(높은 ROE, 꾸준한 성장)을 가진 우량주이므로, 장기 이평선 돌파 및 지지 패턴 형성 시 단순한 기술적 반등이 아닌, 기관 투자자의 꾸준한 매수세가 유입되는 장기 추세의 시작점일 신뢰도가 매우 높음. 펀더멘털이 기술적 신호를 강력하게 뒷받침하는 구조.",
+    "business_moat": "100년 이상의 업력을 통해 구축한 강력한 브랜드 신뢰도와 글로벌 유통망이 핵심 해자입니다. 용접이라는 필수 산업재 시장에서 높은 기술력과 품질을 바탕으로 독보적인 가격 결정력을 확보하고 있습니다.",
+    "ai_system_tags": [
+      "Cyclical",
+      "Value",
+      "Dividend"
+    ]
+  }
+}

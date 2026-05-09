@@ -1,0 +1,34 @@
+{
+  "ticker": "BTSG",
+  "lastUpdated": "2026-05-09T08:15:07.864Z",
+  "rawFinancials": {
+    "name": "BrightSpring Health Services, I",
+    "marketCap": 10632546304,
+    "trailingPE": 71.207794,
+    "forwardPE": 25.94852,
+    "priceToBook": 5.677159,
+    "totalRevenue": 13646155776,
+    "operatingMargins": 0.03361,
+    "returnOnEquity": 0.09231,
+    "freeCashflow": 1013108352,
+    "totalCash": 888920000,
+    "totalDebt": 2699866112,
+    "currentRatio": 1.737,
+    "revenueGrowth": 0.256
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "25.6%의 높은 매출 성장률과 순이익 개선 기대감(Forward PE)이 뚜렷한 고성장 국면에 진입한 기업.",
+      "profitability": "3.36%의 낮은 영업이익률과 9.23%의 평이한 ROE는 전형적인 박리다매 구조를 시사하며, 규모의 경제를 통한 이익 창출이 핵심.",
+      "cashflow_stability": "낮은 마진에도 불구하고 시가총액의 약 9.5%에 달하는 강력한 잉여현금흐름(FCF)을 창출. 부채가 존재하나 FCF로 3년 내 상환 가능한 수준으로, 현금흐름 기반의 안정성은 매우 우수."
+    },
+    "macro_sensitivity": "헬스케어 서비스의 특성상 경기 침체에 강한 경기 방어주 성격을 띰. 다만, 부채 수준이 높아 금리 인상 시 이자 비용 부담이 가중될 수 있으며, 인건비 상승 등 인플레이션에 마진이 민감하게 반응할 수 있음.",
+    "technical_synergy": "고성장 스토리와 강력한 현금흐름을 보유한 기업이 장기 이평선 지지(예: 밥그릇 3번 자리)를 확인할 경우, 높은 밸류에이션에 대한 시장의 확신이 더해지며 강력한 추세 상승을 기대할 수 있음. 펀더멘털이 기술적 신호의 신뢰도를 증폭시키는 구조.",
+    "business_moat": "가정 및 지역사회 기반 헬스케어 서비스 분야에서 구축한 광범위한 네트워크와 규모의 경제가 핵심 해자입니다. 정부 및 보험사 등 지불기관과의 장기적 관계와 환자의 높은 전환 비용이 진입장벽으로 작용합니다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Defensive",
+      "Value"
+    ]
+  }
+}

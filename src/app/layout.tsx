@@ -60,6 +60,9 @@ export default function RootLayout({
           <Link href="/backtest" style={{ color: '#fff', textDecoration: 'none', fontSize: '0.9rem', fontWeight: 600, padding: '0.4rem 0.6rem', borderRadius: '8px', transition: 'all 0.2s' }}>
             🧪 백테스팅
           </Link>
+          <Link href="/simulation" style={{ color: '#10b981', textDecoration: 'none', fontSize: '0.9rem', fontWeight: 600, padding: '0.4rem 0.6rem', borderRadius: '8px', transition: 'all 0.2s', borderBottom: '2px solid #10b981' }}>
+            💼 모의투자 대시보드
+          </Link>
           <Link href="/auto-trade" style={{ color: '#8b5cf6', textDecoration: 'none', fontSize: '0.9rem', fontWeight: 600, padding: '0.4rem 0.6rem', borderRadius: '8px', transition: 'all 0.2s', borderBottom: '2px solid #8b5cf6' }}>
             🤖 퀀트 매매 봇
           </Link>

@@ -1,0 +1,33 @@
+{
+  "ticker": "HWM",
+  "lastUpdated": "2026-05-08T14:24:14.614Z",
+  "rawFinancials": {
+    "name": "Howmet Aerospace Inc.",
+    "marketCap": 109835526144,
+    "trailingPE": 63.560326,
+    "forwardPE": 48.67295,
+    "priceToBook": 20.552555,
+    "totalRevenue": 8622999552,
+    "operatingMargins": 0.28534,
+    "returnOnEquity": 0.33818,
+    "freeCashflow": 1231000064,
+    "totalCash": 2435000064,
+    "totalDebt": 4686000128,
+    "currentRatio": 2.444,
+    "revenueGrowth": 0.191
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "19.1%의 높은 매출 성장률과 순이익 증가 기대를 반영하는 선행 PER(Forward PE)을 고려할 때, 명백한 고성장 국면에 위치함.",
+      "profitability": "28.5%에 달하는 경이적인 영업이익률과 33.8%의 높은 자기자본이익률(ROE)은 강력한 가격 결정권과 기술적 해자를 기반으로 한 독점적 마진 구조를 시사함.",
+      "cashflow_stability": "연간 12억 달러 이상의 강력한 잉여현금흐름을 창출하며, 총부채 대비 현금 및 현금 창출 능력이 우수하여 재무 안정성이 높음. 2.4배의 유동비율은 단기 파산 위험이 극히 낮음을 의미함."
+    },
+    "macro_sensitivity": "항공우주 산업의 특성상 경기 사이클에 민감한 경기 민감주(Cyclical)이지만, 국방 부문 사업과 대체 불가능한 부품 기술력은 경기 침체 시 일정 수준의 방어력을 제공함. 금리 인상 시기에는 자본 조달 비용 증가로 인해 부정적 영향을 받을 수 있음.",
+    "technical_synergy": "이처럼 압도적인 펀더멘털을 보유한 기업이 장기 이평선 지지(단테의 밥그릇 3번 자리)와 같은 신뢰도 높은 기술적 매수 신호를 형성할 경우, 개인 투자자가 아닌 기관 투자자의 대규모 자금 유입이 동반될 가능성이 높음. 이는 단순한 기술적 반등을 넘어, 펀더멘털이 뒷받침하는 강력하고 지속적인 추세 상승으로 이어질 폭발력을 내재하고 있음을 의미함.",
+    "business_moat": "Howmet Aerospace는 항공기 엔진 및 기체에 사용되는 핵심 부품을 제조하며, 고객사가 공급업체를 변경하기 매우 어려운 높은 전환 비용과 독보적인 기술력이 경제적 해자의 근간을 이룹니다. 이러한 독점적 지위는 28%가 넘는 높은 영업이익률로 증명됩니다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Cyclical"
+    ]
+  }
+}

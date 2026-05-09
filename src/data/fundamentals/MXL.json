@@ -1,0 +1,33 @@
+{
+  "ticker": "MXL",
+  "lastUpdated": "2026-05-09T09:32:19.889Z",
+  "rawFinancials": {
+    "name": "MaxLinear, Inc",
+    "marketCap": 8939373568,
+    "forwardPE": 53.43732,
+    "priceToBook": 19.678692,
+    "totalRevenue": 508896000,
+    "operatingMargins": -0.12199,
+    "returnOnEquity": -0.27889,
+    "freeCashflow": 22663750,
+    "totalCash": 61077000,
+    "totalDebt": 151176992,
+    "currentRatio": 1.701,
+    "revenueGrowth": 0.43
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "적자 상태이나 43%에 달하는 폭발적인 매출 성장세를 보이는 전형적인 고성장주.",
+      "profitability": "영업이익률 -12.2%, ROE -27.9%로 현재 수익성 부재. 성장을 위해 이익을 희생하는 '투자 단계'의 적자 구조.",
+      "cashflow_stability": "영업손실에도 불구하고 플러스(+) 잉여현금흐름을 창출하는 점은 긍정적이나, 총부채가 현금 보유액을 상회하여 레버리지 리스크 존재."
+    },
+    "macro_sensitivity": "미래 이익의 현재가치에 민감한 고성장 기술주로, 금리 인상 시기에 밸류에이션 부담이 가중되는 대표적인 금리 민감주. 반도체 산업 사이클에 따라 실적이 좌우되는 경기 순환주 특성도 강함.",
+    "technical_synergy": "펀더멘털이 적자 상태이므로 주가는 미래 기대감에 의존. 장기 이평선 지지(밥그릇 3번 자리)는 '턴어라운드' 스토리에 대한 시장의 신뢰가 형성되는 신호로, 성공 시 높은 주가 폭발력을 기대할 수 있으나 실적 개선이 없다면 신뢰도가 낮음.",
+    "business_moat": "통신, 데이터센터 등 인프라 시장의 핵심인 고성능 RF 및 혼합 신호 반도체 설계 기술이 핵심 해자임. 높은 기술 진입장벽과 고객사와의 긴밀한 관계로 한번 채택되면 쉽게 교체되기 어려운 특성을 가짐.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

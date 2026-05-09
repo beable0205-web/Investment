@@ -1,0 +1,34 @@
+{
+  "ticker": "TPR",
+  "lastUpdated": "2026-05-08T16:58:50.560Z",
+  "rawFinancials": {
+    "name": "Tapestry, Inc.",
+    "marketCap": 27486509056,
+    "trailingPE": 40.94817,
+    "forwardPE": 18.255388,
+    "priceToBook": 49.396835,
+    "totalRevenue": 7850800128,
+    "operatingMargins": 0.22259001,
+    "returnOnEquity": 0.60914004,
+    "freeCashflow": 1481087488,
+    "totalCash": 1068600000,
+    "totalDebt": 3923200000,
+    "currentRatio": 1.841,
+    "revenueGrowth": 0.212
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출이 21.2% 성장하고 순이익이 급증할 것으로 예상(선행 PER이 후행 PER의 절반 이하)되어 강력한 성장 회복 국면에 진입한 것으로 판단됨.",
+      "profitability": "22.3%에 달하는 높은 영업이익률과 60.9%의 경이적인 자기자본이익률(ROE)은 강력한 브랜드 파워에 기반한 독점적 가격 결정력을 보여줌.",
+      "cashflow_stability": "시가총액 대비 5%가 넘는 강력한 잉여현금흐름을 창출하고 있으며, 총 부채를 잉여현금흐름으로 3년 내에 상환 가능한 수준으로 재무 건전성이 우수함."
+    },
+    "macro_sensitivity": "코치, 케이트 스페이드 등 프리미엄 브랜드를 보유한 대표적인 경기소비재 기업으로, 경기 침체 및 금리 인상 시기에는 소비 심리 위축에 직접적인 영향을 받아 실적 변동성이 커지는 경기 민감주(Cyclical) 특성을 가짐.",
+    "technical_synergy": "이처럼 우량한 펀더멘털(높은 ROE, 강력한 현금흐름)을 가진 주식은 장기 이평선 지지 및 돌파와 같은 신뢰도 높은 기술적 매수 신호 발생 시, 단순한 기술적 반등을 넘어 장기적인 추세 상승으로 이어질 폭발력을 내재하고 있음. 펀더멘털이 가격의 하방 경직성을 확보해주기 때문임.",
+    "business_moat": "핵심 비즈니스 모델은 강력한 브랜드 포트폴리오를 기반으로 한 프리미엄 소비재 판매임. 경제적 해자는 수십 년간 구축해 온 브랜드 가치라는 무형자산에서 비롯되며, 이는 높은 마진과 고객 충성도를 유지하는 원동력임.",
+    "ai_system_tags": [
+      "Value",
+      "High-Growth",
+      "Cyclical"
+    ]
+  }
+}

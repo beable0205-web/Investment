@@ -1,0 +1,34 @@
+{
+  "ticker": "EMR",
+  "lastUpdated": "2026-05-08T14:50:09.150Z",
+  "rawFinancials": {
+    "name": "Emerson Electric Company",
+    "marketCap": 79030108160,
+    "trailingPE": 32.662037,
+    "forwardPE": 19.720835,
+    "priceToBook": 3.8925214,
+    "totalRevenue": 18315999232,
+    "operatingMargins": 0.24244,
+    "returnOnEquity": 0.12328,
+    "freeCashflow": 3272250112,
+    "totalCash": 1791000064,
+    "totalDebt": 14056999936,
+    "currentRatio": 0.868,
+    "revenueGrowth": 0.029
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출은 안정적 저성장 국면이나, 높은 선행 PER 할인율(Trailing PE 32.7 -> Forward PE 19.7)은 향후 마진 개선 또는 자사주 매입 등을 통한 주당이익(EPS)의 의미 있는 성장을 시사함.",
+      "profitability": "영업이익률 24.2%는 산업재 섹터 내에서 독보적인 수준으로, 강력한 가격 결정력과 운영 효율성을 증명하는 핵심 지표. 자기자본이익률(ROE) 12.3%는 양호한 수준.",
+      "cashflow_stability": "매출의 18%에 달하는 막대한 잉여현금흐름($3.27B)을 창출하나, 총부채($14.06B) 규모가 크고 유동비율(0.87)이 1 미만인 점은 잠재적 리스크. 단, 강력한 현금흐름이 부채 상환 능력을 뒷받침함."
+    },
+    "macro_sensitivity": "전방 산업의 설비투자에 직접적인 영향을 받는 경기 순환주(Cyclical). 금리 인상 및 경기 침체기에는 기업들의 투자 위축으로 실적이 둔화될 수 있으나, 자동화/효율화 투자는 장기적 메가트렌드로서 일부 방어력을 제공함.",
+    "technical_synergy": "견고한 펀더멘털이 주가 하방 경직성을 제공하므로, 장기 박스권을 돌파하는 '밥그릇 3번' 패턴의 신뢰도가 매우 높음. 이익 성장 가시화와 함께 패턴이 완성될 경우, '가치주'에서 '성장주'로의 시장 인식 전환(Re-rating)이 일어나며 폭발적인 시세 분출이 기대됨.",
+    "business_moat": "산업 자동화 솔루션 분야에서 수십 년간 쌓아온 기술적 리더십과 고객사의 생산 공정에 깊숙이 통합되어 발생하는 높은 전환 비용이 핵심 해자임. 이는 경쟁사가 쉽게 모방할 수 없는 독점적 이익률의 원천으로 작용함.",
+    "ai_system_tags": [
+      "Value",
+      "Dividend",
+      "Cyclical"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "ticker": "ABEV",
+  "lastUpdated": "2026-05-08T15:49:56.718Z",
+  "rawFinancials": {
+    "name": "Ambev S.A.",
+    "marketCap": 51267895296,
+    "trailingPE": 16.4355,
+    "forwardPE": 15.2371025,
+    "priceToBook": 2.89527,
+    "totalRevenue": 88209571840,
+    "operatingMargins": 0.26229,
+    "returnOnEquity": 0.17251,
+    "freeCashflow": 18203940864,
+    "totalCash": 19640588288,
+    "totalDebt": 3105732096,
+    "currentRatio": 1.028,
+    "revenueGrowth": -0.001
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "정체",
+      "profitability": "독점적 마진",
+      "cashflow_stability": "현금 창출력 우수"
+    },
+    "macro_sensitivity": "전형적인 경기 방어주. 필수 소비재인 주류 사업 특성상 경기 침체 시에도 수요가 안정적이며, 부채보다 현금이 월등히 많아 금리 인상 시기에도 재무적 타격이 거의 없음. 오히려 보유 현금을 통한 이자 수익 증가가 기대될 수 있음.",
+    "technical_synergy": "이 기업은 펀더멘털이 매우 견고하나 성장이 정체된 '우량주 함정'에 빠지기 쉬운 특성을 가짐. 따라서, 장기 이평선 돌파 및 지지와 같은 추세 전환 신호는 단순한 기술적 반등이 아닌, 시장이 동사의 잠재적 성장 촉매(신시장 개척, M&A 등)를 인지하기 시작했다는 높은 신뢰도의 시그널로 해석될 수 있음. 펀더멘털이 하방을 지지하므로, 기술적 신호의 성공 확률이 높음.",
+    "business_moat": "이 기업은 남미 시장을 지배하는 강력한 브랜드 포트폴리오와 독점적인 유통망을 통해 구축된 깊은 경제적 해자를 보유하고 있습니다. 이러한 브랜드 파워와 규모의 경제는 26%가 넘는 높은 영업이익률로 증명되며, 경쟁사들이 쉽게 넘볼 수 없는 진입 장벽으로 작용합니다.",
+    "ai_system_tags": [
+      "Value",
+      "Defensive",
+      "Dividend"
+    ]
+  }
+}

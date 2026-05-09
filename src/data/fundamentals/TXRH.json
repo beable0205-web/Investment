@@ -1,0 +1,34 @@
+{
+  "ticker": "TXRH",
+  "lastUpdated": "2026-05-08T20:32:55.681Z",
+  "rawFinancials": {
+    "name": "Texas Roadhouse, Inc.",
+    "marketCap": 11693802496,
+    "trailingPE": 28.290272,
+    "forwardPE": 23.188719,
+    "priceToBook": 8.007042,
+    "totalRevenue": 5878074880,
+    "operatingMargins": 0.06531,
+    "returnOnEquity": 0.29021,
+    "freeCashflow": 189807632,
+    "totalCash": 134708992,
+    "totalDebt": 976764032,
+    "currentRatio": 0.497,
+    "revenueGrowth": 0.031
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 성장률(3.1%)은 완만하나, 순이익 성장 기대감(후행 PE 대비 선행 PE 하락)이 높아 이익 중심의 안정적 성장을 보임.",
+      "profitability": "외식업 특성상 영업이익률(6.5%)은 낮지만, 매우 높은 자기자본이익률(29%)은 강력한 브랜드와 자본 효율성을 증명하는 독점적 수익 구조를 시사함.",
+      "cashflow_stability": "안정적인 잉여현금흐름 창출 능력은 긍정적이나, 총부채가 현금 보유액을 크게 상회하고 유동비율(0.5)이 낮아 재무 안정성 모니터링이 필요함."
+    },
+    "macro_sensitivity": "대표적인 경기민감 소비재 기업으로, 인플레이션으로 인한 원가 압박과 경기 침체 시 가계 소비 위축에 직접적인 영향을 받음. 금리 인상 시기에는 부채 부담이 가중될 수 있음.",
+    "technical_synergy": "높은 ROE로 대표되는 펀더멘털 우량주이므로, '단테의 밥그릇 3번 자리'와 같은 장기 추세 전환 신호 발생 시, 일시적 유행이 아닌 구조적 성장 재개의 신호로 해석될 수 있어 신뢰도가 매우 높음.",
+    "business_moat": "합리적인 가격에 푸짐한 양과 즐거운 경험을 제공하는 독보적인 가치 제안으로 강력한 고객 충성도를 확보함. 이를 바탕으로 한 규모의 경제와 효율적인 운영 노하우가 치열한 외식 시장에서의 핵심 해자임.",
+    "ai_system_tags": [
+      "Cyclical",
+      "Value",
+      "Dividend"
+    ]
+  }
+}

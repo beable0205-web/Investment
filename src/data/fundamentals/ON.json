@@ -1,0 +1,34 @@
+{
+  "ticker": "ON",
+  "lastUpdated": "2026-05-08T16:07:14.647Z",
+  "rawFinancials": {
+    "name": "ON Semiconductor Corporation",
+    "marketCap": 39836962816,
+    "trailingPE": 74.742645,
+    "forwardPE": 23.831854,
+    "priceToBook": 5.455375,
+    "totalRevenue": 6063000064,
+    "operatingMargins": 0.18232,
+    "returnOnEquity": 0.074939996,
+    "freeCashflow": 1282174976,
+    "totalCash": 2403599872,
+    "totalDebt": 3245799936,
+    "currentRatio": 4.873,
+    "revenueGrowth": 0.047
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "성장성 회복 기대. 최근 매출 성장률은 4.7%로 낮지만, Trailing PE(74.7) 대비 Forward PE(23.8)가 크게 낮아 향후 이익의 폭발적인 턴어라운드를 시장이 기대하고 있음을 시사함.",
+      "profitability": "견조한 영업이익률, 낮은 자기자본이익률. 영업이익률은 18.2%로 양호하나, ROE가 7.5%로 낮아 자본 효율성 개선이 필요한 상황. 이는 업황 둔화에 따른 일시적 현상일 가능성이 있음.",
+      "cashflow_stability": "압도적인 현금 창출력과 재무 안정성. 순부채(총부채-현금)를 1년치 잉여현금흐름으로 모두 상환 가능하며, 4.87에 달하는 높은 유동비율은 단기 파산 위험이 극히 낮음을 증명함."
+    },
+    "macro_sensitivity": "전형적인 경기 민감주(Cyclical). 자동차, 산업재 등 전방 산업의 경기에 직접적인 영향을 받으며, 금리 인상기에는 고객사들의 투자 위축으로 인한 수요 둔화에 민감하게 반응할 수 있음. 반대로, 경기 회복 및 금리 인하 국면에서는 가장 빠르게 실적이 개선되는 특성을 보임.",
+    "technical_synergy": "견고한 펀더멘털이 기술적 지지선의 신뢰도를 극대화함. 이처럼 압도적인 현금흐름과 재무 안정성을 가진 기업이 장기 이평선 지지(예: 단테의 밥그릇 3번 자리)를 형성할 경우, 이는 단순한 기술적 반등이 아닌 업황 턴어라운드에 베팅하는 '스마트 머니'의 유입 신호일 확률이 높음. 경기 회복 신호와 맞물릴 때 폭발적인 시세 분출로 이어질 잠재력이 매우 큼.",
+    "business_moat": "자동차 및 산업용 지능형 전력/센싱 반도체에 특화되어 높은 기술적 진입장벽을 보유함. 특히, 고객사의 핵심 제품 설계에 깊숙이 관여하여 발생하는 높은 전환 비용(Switching Cost)이 강력한 경제적 해자로 작용함.",
+    "ai_system_tags": [
+      "Cyclical",
+      "Turnaround",
+      "Value"
+    ]
+  }
+}

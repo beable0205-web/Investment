@@ -1,0 +1,34 @@
+{
+  "ticker": "QCOM",
+  "lastUpdated": "2026-05-08T13:39:56.395Z",
+  "rawFinancials": {
+    "name": "QUALCOMM Incorporated",
+    "marketCap": 222720737280,
+    "trailingPE": 22.721504,
+    "forwardPE": 19.929039,
+    "priceToBook": 9.836149,
+    "totalRevenue": 44486000640,
+    "operatingMargins": 0.22059,
+    "returnOnEquity": 0.36083,
+    "freeCashflow": 9589624832,
+    "totalCash": 9799000064,
+    "totalDebt": 15269999616,
+    "currentRatio": 2.366,
+    "revenueGrowth": -0.035
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "최근 매출 역성장을 겪었으나, Forward PE가 Trailing PE보다 낮아 향후 이익 성장이 기대되는 턴어라운드 국면에 진입했을 가능성이 높음.",
+      "profitability": "22%대의 높은 영업이익률과 36%에 달하는 경이로운 자기자본이익률(ROE)은 독점적 기술력에 기반한 강력한 가격 결정력과 수익성을 증명함.",
+      "cashflow_stability": "매출의 약 21%에 달하는 막대한 잉여현금흐름을 창출하며, 부채 대비 현금 보유량과 2.3배가 넘는 유동비율은 파산 위험이 극히 낮은 재무적 안정성을 보여줌."
+    },
+    "macro_sensitivity": "주력 사업인 스마트폰 칩셋 및 라이선스는 소비자 경기 순환에 민감하게 반응하나, 5G, 사물인터넷(IoT), 온디바이스 AI 등 차세대 기술의 핵심 플레이어로서 장기적인 기술 성장 사이클에 편승하여 경기 침체기 방어력을 일부 확보함.",
+    "technical_synergy": "이처럼 압도적인 수익성과 재무 안정성을 가진 기업이 경기 사이클 저점으로 인해 주가가 장기 조정을 거친 후 '단테의 밥그릇 3번 자리'를 형성할 경우, 이는 단순한 기술적 반등이 아닌 새로운 성장 사이클의 시작을 알리는 신호일 가능성이 높음. 강력한 펀더멘털이 상승의 신뢰도와 폭발력을 담보함.",
+    "business_moat": "모바일 통신 기술 분야의 핵심 표준특허(SEP)를 광범위하게 보유하여, 전 세계 스마트폰 제조사로부터 안정적인 로열티 수익을 창출함. 이는 모방이 거의 불가능한 강력한 지적재산권 해자(Moat)를 형성함.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Turnaround"
+    ]
+  }
+}

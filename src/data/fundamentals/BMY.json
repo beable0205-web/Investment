@@ -1,0 +1,34 @@
+{
+  "ticker": "BMY",
+  "lastUpdated": "2026-05-08T14:09:18.415Z",
+  "rawFinancials": {
+    "name": "Bristol-Myers Squibb Company",
+    "marketCap": 114345779200,
+    "trailingPE": 15.684874,
+    "forwardPE": 9.111545,
+    "priceToBook": 5.697497,
+    "totalRevenue": 48482000896,
+    "operatingMargins": 0.33040002,
+    "returnOnEquity": 0.38731998,
+    "freeCashflow": 9851750400,
+    "totalCash": 10485999616,
+    "totalDebt": 46428999680,
+    "currentRatio": 1.42,
+    "revenueGrowth": 0.026
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 저성장. 매출 성장률(2.6%)은 낮지만, 낮은 선행 PER(9.1)는 향후 이익 개선 또는 시장의 저평가 가능성을 시사함.",
+      "profitability": "독점적 마진. 33%에 달하는 높은 영업이익률과 38%의 경이적인 자기자본이익률(ROE)은 특허 기반 의약품의 강력한 가격 결정력을 증명함.",
+      "cashflow_stability": "강력한 현금 창출력, 부채 부담 상존. 연간 약 98억 달러의 잉여현금흐름은 우수하나, 총 부채(464억 달러)가 현금 보유액(104억 달러)을 크게 상회하여 재무 레버리지가 높은 편임."
+    },
+    "macro_sensitivity": "전형적인 경기 방어주. 의약품 수요는 경기 변동에 둔감하여 침체기에 강한 모습을 보임. 다만, 상당한 부채 규모로 인해 금리 인상 시기에는 이자 비용 증가에 대한 민감도가 존재함.",
+    "technical_synergy": "높은 신뢰도. 이처럼 압도적인 수익성과 현금흐름을 가진 기업이 장기 이평선 지지를 받으며 박스권을 돌파하는 '밥그릇 3번' 패턴을 형성할 경우, 이는 단순한 기술적 움직임을 넘어 새로운 성장 동력(신약 승인 등)에 대한 시장의 확신으로 해석될 수 있어 폭발적인 상승의 신뢰도가 매우 높음.",
+    "business_moat": "핵심 사업은 특허로 보호받는 혁신 의약품 개발 및 판매로, 강력한 가격 결정권과 높은 이익률을 보장하는 견고한 경제적 해자를 구축함. 지속적인 R&D 투자와 성공적인 신약 파이프라인이 해자의 지속 가능성을 결정하는 핵심 요소임.",
+    "ai_system_tags": [
+      "Value",
+      "Defensive",
+      "Dividend"
+    ]
+  }
+}

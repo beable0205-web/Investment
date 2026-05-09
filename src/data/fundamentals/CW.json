@@ -1,0 +1,33 @@
+{
+  "ticker": "CW",
+  "lastUpdated": "2026-05-08T17:10:01.324Z",
+  "rawFinancials": {
+    "name": "Curtiss-Wright Corporation",
+    "marketCap": 26786670592,
+    "trailingPE": 53.288177,
+    "forwardPE": 43.10783,
+    "priceToBook": 10.559023,
+    "totalRevenue": 3606414080,
+    "operatingMargins": 0.17557,
+    "returnOnEquity": 0.19691,
+    "totalCash": 343447008,
+    "totalDebt": 1148382976,
+    "currentRatio": 1.523,
+    "revenueGrowth": 0.134
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "우량 성장. 13.4%의 견조한 매출 성장률과 높은 자기자본이익률(ROE)이 동반되는 질적 성장을 보임.",
+      "profitability": "견고한 수익성 구조. 17%대의 높은 영업이익률과 20%에 육박하는 ROE는 강력한 가격 결정력과 효율적인 자본 활용 능력을 증명함.",
+      "cashflow_stability": "안정적 현금흐름 및 관리 가능한 부채. 보유 현금 대비 부채가 다소 있으나, 1.5 이상의 유동비율과 강력한 이익 창출 능력으로 재무 안정성은 우수함."
+    },
+    "macro_sensitivity": "정부 계약 기반의 경기 방어적 특성과 산업 경기 민감도를 동시에 보유. 방산 부문은 경기 침체기에도 안정적이나, 상업 항공 및 일반 산업 부문은 경기 사이클에 영향을 받아 금리 및 경기 변동에 중립적인 민감도를 보임.",
+    "technical_synergy": "견고한 펀더멘털(높은 ROE, 꾸준한 매출 성장)이 '단테의 밥그릇 3번 자리'와 같은 장기 추세 전환 패턴의 신뢰도를 극대화함. 단순한 기술적 반등이 아닌, 펀더멘털이 뒷받침되는 강력한 주도주로의 전환 가능성을 시사함.",
+    "business_moat": "항공우주, 방산 등 고도로 규제된 산업에 필수적인 고성능 부품 및 엔지니어링 솔루션을 공급합니다. 기술적 진입장벽과 고객사와의 장기적인 신뢰 관계가 대체 불가능한 경제적 해자를 구축합니다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Defensive",
+      "Cyclical"
+    ]
+  }
+}

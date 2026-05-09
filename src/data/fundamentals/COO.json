@@ -1,0 +1,34 @@
+{
+  "ticker": "COO",
+  "lastUpdated": "2026-05-08T19:49:09.082Z",
+  "rawFinancials": {
+    "name": "The Cooper Companies, Inc.",
+    "marketCap": 11717595136,
+    "trailingPE": 29.878109,
+    "forwardPE": 11.962051,
+    "priceToBook": 1.4008958,
+    "totalRevenue": 4151800064,
+    "operatingMargins": 0.20778999,
+    "returnOnEquity": 0.04868,
+    "freeCashflow": 367087488,
+    "totalCash": 124900000,
+    "totalDebt": 2776900096,
+    "currentRatio": 1.337,
+    "revenueGrowth": 0.062
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적인 매출 성장(6.2%)을 보이나, 낮은 선행 PER(11.96)는 향후 강력한 이익 성장이 기대됨을 시사하는 'GARP(합리적 가격의 성장주)' 유형.",
+      "profitability": "20%가 넘는 독점적인 영업이익률은 강력한 가격 결정력을 증명하지만, 낮은 자기자본이익률(4.87%)은 과거 M&A로 인한 무형자산 등 자본 구조의 비효율성을 내포함.",
+      "cashflow_stability": "매출의 약 9%에 달하는 견고한 잉여현금흐름을 창출하고 있으나, 현금 보유액 대비 부채(2.78B) 규모가 커 레버리지 리스크에 대한 지속적인 관찰이 필요함."
+    },
+    "macro_sensitivity": "콘택트렌즈, 의료기기 등 필수소비재적 성격이 강해 경기 침체에 강한 방어주. 단, 부채 수준이 높아 금리 인상기에는 이자 비용 증가로 인한 수익성 악화에 민감할 수 있음.",
+    "technical_synergy": "높은 영업이익률과 안정적 사업 모델이 주가의 하방 경직성을 제공하므로, '단테의 밥그릇 3번 자리'와 같은 장기 추세 전환 패턴의 신뢰도가 높음. 선행 PER에 반영된 이익 개선이 가시화될 때, 기술적 돌파는 강력한 추세 상승의 기폭제가 될 가능성이 큼.",
+    "business_moat": "콘택트렌즈(쿠퍼비전)와 여성헬스케어(쿠퍼서지컬) 분야에서 브랜드, 특허, 규제 승인을 통해 강력한 경제적 해자를 구축함. 의사의 처방과 높은 전환 비용에 기반한 사업 모델은 경기 변동에도 안정적인 현금 흐름을 보장함.",
+    "ai_system_tags": [
+      "Value",
+      "Defensive",
+      "Turnaround"
+    ]
+  }
+}

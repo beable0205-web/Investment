@@ -1,0 +1,34 @@
+{
+  "ticker": "TOL",
+  "lastUpdated": "2026-05-08T19:30:17.267Z",
+  "rawFinancials": {
+    "name": "Toll Brothers, Inc.",
+    "marketCap": 13007058944,
+    "trailingPE": 9.859296,
+    "forwardPE": 9.690878,
+    "priceToBook": 1.5477719,
+    "totalRevenue": 11253219328,
+    "operatingMargins": 0.10829,
+    "returnOnEquity": 0.17001,
+    "freeCashflow": 875731776,
+    "totalCash": 1202828032,
+    "totalDebt": 2854019072,
+    "currentRatio": 4.472,
+    "revenueGrowth": 0.154
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "경기 순환에 기반한 견실한 성장. 15%대의 높은 매출 성장을 기록 중이며, 낮은 선행 PER은 향후 이익 성장에 대한 시장의 긍정적 기대를 반영함.",
+      "profitability": "럭셔리 시장 지배력을 통한 우수한 수익성. 17%의 높은 자기자본이익률(ROE)과 10% 이상의 영업이익률은 동종 업계 대비 뛰어난 자본 효율성과 가격 결정력을 증명함.",
+      "cashflow_stability": "강력한 현금 창출력과 철옹성 같은 재무 안정성. 풍부한 잉여현금흐름과 낮은 부채비율, 특히 4.4배에 달하는 높은 유동비율은 극심한 경기 침체도 버텨낼 수 있는 방어력을 시사함."
+    },
+    "macro_sensitivity": "대표적인 금리 민감주이자 경기 순환주. 금리 인상 및 경기 침체 국면에서는 주택 수요 감소로 직접적인 타격을 받지만, 반대로 금리 인하 및 경기 확장기에는 가장 큰 수혜를 입는 업종 특성을 지님.",
+    "technical_synergy": "견고한 펀더멘털(낮은 밸류에이션, 우량한 재무)이 '안전마진' 역할을 하므로, 장기 이평선 돌파 및 지지 패턴의 신뢰도가 매우 높음. 금리 인하 등 거시경제 변수가 뒷받침될 경우, 밸류에이션 리레이팅(Re-rating)이 동반되며 폭발적인 시세 분출 가능성이 농후함.",
+    "business_moat": "미국 럭셔리 주택 건설 시장에 특화된 강력한 브랜드 파워가 핵심 해자임. 우량 입지의 토지를 선점하고 맞춤형 고급 주택을 공급하는 능력은 일반 주택 건설업체들이 쉽게 모방하기 어려운 경쟁 우위로 작용함.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Quality"
+    ]
+  }
+}

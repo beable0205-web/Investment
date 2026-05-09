@@ -1,0 +1,33 @@
+{
+  "ticker": "DOW",
+  "lastUpdated": "2026-05-08T16:56:12.487Z",
+  "rawFinancials": {
+    "name": "Dow Inc.",
+    "marketCap": 26948521984,
+    "forwardPE": 18.071182,
+    "priceToBook": 1.7672638,
+    "totalRevenue": 39331000320,
+    "operatingMargins": 0.0001,
+    "returnOnEquity": -0.15262,
+    "freeCashflow": -675875008,
+    "totalCash": 4329999872,
+    "totalDebt": 19634999296,
+    "currentRatio": 1.848,
+    "revenueGrowth": -0.061
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "역성장",
+      "profitability": "적자 늪",
+      "cashflow_stability": "레버리지 과다"
+    },
+    "macro_sensitivity": "글로벌 경기 회복 및 금리 인하 사이클에 매우 민감한 대표적인 경기 민감주. 경기 침체 시 실적이 급격히 악화되나, 경기 확장 국면에서는 강력한 이익 레버리지 효과를 기대할 수 있음.",
+    "technical_synergy": "현재와 같이 펀더멘털이 바닥을 다지는 국면에서 장기 이평선 돌파 및 지지 패턴은 시장이 경기 턴어라운드를 선반영하고 있다는 강력한 신호. 이익 레버리지가 매우 큰 사업 구조상, 해당 패턴의 신뢰도와 이후의 주가 폭발력은 시장 평균을 크게 상회할 잠재력이 있음.",
+    "business_moat": "Dow는 거대한 생산 규모와 글로벌 유통망을 통해 원가 경쟁력을 확보한 대표적인 소재 과학 기업입니다. 그러나 주력 사업이 원자재 가격과 경기 사이클에 민감한 범용 제품(Commodity) 비중이 높아, 경기 하강기에는 해자의 힘이 약화되는 경향이 있습니다.",
+    "ai_system_tags": [
+      "Cyclical",
+      "Turnaround",
+      "Value"
+    ]
+  }
+}

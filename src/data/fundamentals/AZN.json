@@ -1,0 +1,26 @@
+{
+  "ticker": "AZN",
+  "lastUpdated": "2026-05-08T13:07:57.883Z",
+  "rawFinancials": {
+    "name": "AstraZeneca PLC",
+    "marketCap": 282957742080,
+    "trailingPE": 27.487953,
+    "forwardPE": 20.9451,
+    "priceToBook": 5.9730997,
+    "totalRevenue": 60438999040,
+    "operatingMargins": 0.28166,
+    "returnOnEquity": 0.23482999,
+    "freeCashflow": 6538874880,
+    "totalCash": 7674999808,
+    "totalDebt": 34029000704,
+    "currentRatio": 0.909,
+    "revenueGrowth": 0.125
+  },
+  "analysis": {
+    "financialHealthScore": 75,
+    "valuationRating": "Fair",
+    "moatAndBusiness": "아스트라제네카는 항암, 심혈관, 호흡기 질환 분야의 전문의약품을 개발 및 상업화하는 글로벌 바이오 제약사입니다. 이 기업의 핵심 경제적 해자는 특허로 보호받는 강력한 신약 포트폴리오에서 비롯되며, 이는 강력한 가격 결정력과 시장 지배력을 부여합니다. 지속적인 R&D 투자와 전략적 인수를 통해 만료되는 특허를 새로운 블록버스터 신약으로 대체하며 장기적인 경쟁력을 유지합니다.",
+    "redFlags": [],
+    "isInvestable": true
+  }
+}

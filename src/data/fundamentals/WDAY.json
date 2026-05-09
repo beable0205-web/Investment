@@ -1,0 +1,34 @@
+{
+  "ticker": "WDAY",
+  "lastUpdated": "2026-05-08T16:37:40.913Z",
+  "rawFinancials": {
+    "name": "Workday, Inc.",
+    "marketCap": 31591464960,
+    "trailingPE": 48.851353,
+    "forwardPE": 10.165958,
+    "priceToBook": 4.200697,
+    "totalRevenue": 9552000000,
+    "operatingMargins": 0.120459996,
+    "returnOnEquity": 0.08231,
+    "freeCashflow": 3012750080,
+    "totalCash": 5442999808,
+    "totalDebt": 3820999936,
+    "currentRatio": 1.322,
+    "revenueGrowth": 0.145
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "견고한 두 자릿수 매출 성장과 함께, 순이익이 폭발적으로 증가하는 수익성 전환 국면에 진입했습니다.",
+      "profitability": "구독 기반 비즈니스 모델 특유의 높은 마진 구조를 갖추고 있으며, 규모의 경제 효과로 영업이익률이 꾸준히 개선되고 있습니다.",
+      "cashflow_stability": "매출의 30%가 넘는 막대한 잉여현금흐름을 창출하며, 보유 현금이 총 부채를 상회하는 극도로 건전한 재무 상태를 자랑합니다."
+    },
+    "macro_sensitivity": "고성장 기술주로서 금리 인상 시기에는 밸류에이션 부담이 있으나, 기업의 필수 운영(HR/재무) 솔루션이므로 경기 침체기에도 구독 해지율이 낮은 경기 방어적 특성을 동시에 지닙니다.",
+    "technical_synergy": "이처럼 압도적인 현금 창출력과 성장성을 가진 기업이 장기 이평선 지지를 받으며 바닥을 다지는 패턴을 보일 경우, 이는 단순한 기술적 반등이 아닌 새로운 성장 국면의 시작을 알리는 신호일 가능성이 높습니다. 펀더멘털의 신뢰도가 기술적 지표의 폭발력을 배가시킵니다.",
+    "business_moat": "기업의 핵심 인사(HR) 및 재무 시스템을 클라우드로 제공하며, 한번 도입하면 교체가 거의 불가능한 높은 '전환 비용(Switching Cost)'이 이 기업의 강력한 경제적 해자입니다. 이는 예측 가능하고 안정적인 반복 매출의 원천이 됩니다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Quality",
+      "Turnaround"
+    ]
+  }
+}

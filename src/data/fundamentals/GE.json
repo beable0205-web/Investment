@@ -1,0 +1,28 @@
+{
+  "ticker": "GE",
+  "lastUpdated": "2026-05-08T13:07:02.404Z",
+  "rawFinancials": {
+    "name": "GE Aerospace",
+    "marketCap": 316196782080,
+    "trailingPE": 37.59379,
+    "forwardPE": 34.89234,
+    "priceToBook": 16.993093,
+    "totalRevenue": 48312999936,
+    "operatingMargins": 0.20207001,
+    "returnOnEquity": 0.45428002,
+    "freeCashflow": 5667999744,
+    "totalCash": 10581000192,
+    "totalDebt": 21321000960,
+    "currentRatio": 1.008,
+    "revenueGrowth": 0.247
+  },
+  "analysis": {
+    "financialHealthScore": 68,
+    "valuationRating": "Overvalued",
+    "moatAndBusiness": "GE Aerospace는 상업용 및 군용 항공기 제트 엔진과 시스템을 판매하고, 특히 거대한 설치 기반을 바탕으로 한 장기적이고 수익성 높은 부품 및 서비스 사업을 통해 이익을 창출합니다. 이 기업의 해자는 수십 년간의 서비스 계약으로 고객을 묶어두는 높은 전환 비용과 진입이 거의 불가능한 기술적 전문성 및 지적 재산권에 기반합니다. 이러한 강력한 시장 지위는 항공기 엔진이라는 핵심 산업에서 안정적이고 예측 가능한 고마진 반복 매출을 보장합니다.",
+    "redFlags": [
+      "매우 낮은 유동비율 (1.008)"
+    ],
+    "isInvestable": true
+  }
+}

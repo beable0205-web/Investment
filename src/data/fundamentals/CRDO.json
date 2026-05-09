@@ -1,0 +1,33 @@
+{
+  "ticker": "CRDO",
+  "lastUpdated": "2026-05-08T16:34:02.947Z",
+  "rawFinancials": {
+    "name": "Credo Technology Group Holding ",
+    "marketCap": 34209929216,
+    "trailingPE": 101.349724,
+    "forwardPE": 33.625465,
+    "priceToBook": 18.48047,
+    "totalRevenue": 1068137984,
+    "operatingMargins": 0.36761,
+    "returnOnEquity": 0.27544,
+    "freeCashflow": 172241120,
+    "totalCash": 1301464064,
+    "totalDebt": 16277000,
+    "currentRatio": 10.815,
+    "revenueGrowth": 2.015
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "폭발적인 매출 성장세(YoY 101.5% 추정)와 높은 순이익 증가 기대감(선행 PER 급락)을 보이는 전형적인 고성장주.",
+      "profitability": "36%가 넘는 경이로운 영업이익률과 27%대의 높은 ROE는 강력한 기술적 해자에 기반한 독점적 마진 구조를 시사함.",
+      "cashflow_stability": "보유 현금이 총 부채의 약 80배에 달하는 사실상 무차입 경영 상태. 안정적인 잉여현금흐름을 창출하며 파산 위험은 제로에 가까움."
+    },
+    "macro_sensitivity": "미래 성장 가치에 대한 의존도가 높아 금리 인상기에 밸류에이션 부담이 크지만, AI 인프라 투자라는 거대한 순풍에 힘입어 경기 침체기에도 일정 수준의 방어력을 보일 수 있는 성장주. 금리 인하 시 가장 큰 수혜를 볼 업종 중 하나.",
+    "technical_synergy": "이처럼 압도적인 펀더멘털(성장성+수익성+안정성)을 갖춘 주식이 장기 이평선 지지를 받으며 박스권을 돌파하는 '단테의 밥그릇 3번 자리'와 같은 패턴을 형성할 경우, 기술적 신호의 신뢰도가 극대화됨. 기관 투자자의 매수세가 집중되며 폭발적인 추세 상승으로 이어질 잠재력이 매우 높음.",
+    "business_moat": "데이터센터와 AI 인프라의 핵심인 초고속 연결 솔루션(SerDes, DSP) 분야에서 독보적인 기술력을 보유하고 있습니다. 주요 고객사의 높은 기술 의존도와 교체 비용이 진입장벽으로 작용하는 강력한 기술적 해자를 구축했습니다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Cyclical"
+    ]
+  }
+}

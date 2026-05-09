@@ -1,0 +1,26 @@
+{
+  "ticker": "SNDK",
+  "lastUpdated": "2026-05-08T13:21:38.433Z",
+  "rawFinancials": {
+    "name": "Sandisk Corporation",
+    "marketCap": 198434340864,
+    "trailingPE": 45.873333,
+    "forwardPE": 7.9759,
+    "priceToBook": 19.417738,
+    "totalRevenue": 13184000000,
+    "operatingMargins": 0.69983,
+    "returnOnEquity": 0.39297,
+    "freeCashflow": 2259500032,
+    "totalCash": 3735000064,
+    "totalDebt": 207000000,
+    "currentRatio": 4.782,
+    "revenueGrowth": 2.51
+  },
+  "analysis": {
+    "financialHealthScore": 95,
+    "valuationRating": "Undervalued",
+    "moatAndBusiness": "Sandisk Corporation은 플래시 메모리 스토리지 솔루션 분야의 글로벌 리더로서, SSD와 메모리 카드 같은 제품을 소비자와 대형 전자제품 제조사에 판매하여 수익을 창출합니다. 이 기업의 경제적 해자는 메모리 기술 관련 특허 포트폴리오, 높은 브랜드 인지도, 그리고 대규모 생산 효율성에 기반을 두고 있습니다. 이러한 경쟁 우위는 역동적인 반도체 시장에서 혁신과 가격 경쟁력을 유지하는 원동력이 됩니다.",
+    "redFlags": [],
+    "isInvestable": true
+  }
+}

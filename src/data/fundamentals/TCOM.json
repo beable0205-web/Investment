@@ -1,0 +1,34 @@
+{
+  "ticker": "TCOM",
+  "lastUpdated": "2026-05-08T16:33:31.606Z",
+  "rawFinancials": {
+    "name": "Trip.com Group Limited",
+    "marketCap": 33399564288,
+    "trailingPE": 7.598854,
+    "forwardPE": 11.351794,
+    "priceToBook": 1.392924,
+    "totalRevenue": 62408998912,
+    "operatingMargins": 0.16457,
+    "returnOnEquity": 0.21125,
+    "freeCashflow": 2189499904,
+    "totalCash": 71854997504,
+    "totalDebt": 31613999104,
+    "currentRatio": 1.549,
+    "revenueGrowth": 0.208
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 성장률 20.8%의 고성장 구간에 있으나, 후행 P/E 대비 선행 P/E가 높은 점은 향후 성장 속도 둔화 가능성을 시사함. (고성장 후 안정화 국면 진입)",
+      "profitability": "ROE 21%의 최상위권 자본 효율성과 16%대의 견조한 영업이익률은 강력한 시장 지배력과 가격 결정력을 증명함. (독점적 마진 구조)",
+      "cashflow_stability": "총 부채의 2배가 넘는 압도적인 현금성 자산(Net Cash)을 보유하고 있으며, 풍부한 잉여현금흐름을 창출하여 파산 위험이 극히 낮음. (현금 창출력 우수)"
+    },
+    "macro_sensitivity": "여행/레저 산업의 특성상 소비 심리와 경기 변동에 직접적인 영향을 받는 대표적인 경기순환주(Cyclical). 금리 인상기에는 소비 위축으로 타격을 받을 수 있으나, 막대한 순현금 보유로 이자 비용 부담이 없어 재무적 방어력은 우수함.",
+    "technical_synergy": "가치(저P/E, 저P/B)와 성장(높은 매출 성장률, ROE)을 겸비한 'GARP'형 주식. 이러한 펀더멘털은 '단테의 밥그릇 3번 자리'와 같은 장기 추세 전환 신호 발생 시, 단순한 기술적 반등이 아닌 강력한 실적을 기반으로 한 추세 형성으로 이어질 신뢰도가 매우 높음.",
+    "business_moat": "중국 시장에서의 압도적인 지배력과 글로벌 네트워크 효과를 기반으로 한 강력한 브랜드 해자를 보유. 거대한 사용자 기반과 공급자 네트워크는 신규 경쟁자의 진입을 차단하는 핵심 경쟁 우위로 작용함.",
+    "ai_system_tags": [
+      "Value",
+      "High-Growth",
+      "Cyclical"
+    ]
+  }
+}

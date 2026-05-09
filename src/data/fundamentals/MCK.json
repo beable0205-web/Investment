@@ -1,0 +1,33 @@
+{
+  "ticker": "MCK",
+  "lastUpdated": "2026-05-08T14:22:34.000Z",
+  "rawFinancials": {
+    "name": "McKesson Corporation",
+    "marketCap": 93158449152,
+    "trailingPE": 19.79581,
+    "forwardPE": 15.221261,
+    "priceToBook": -72.07002,
+    "totalRevenue": 397957988352,
+    "operatingMargins": 0.01545,
+    "freeCashflow": 9158500352,
+    "totalCash": 2959000064,
+    "totalDebt": 8734999552,
+    "currentRatio": 0.876,
+    "revenueGrowth": 0.114
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "거대 기업임에도 11.4%의 견고한 매출 성장을 보이며, 순이익 성장 기대감(낮은 Forward PE)도 유효한 '안정 성장형' 기업.",
+      "profitability": "1%대의 극도로 낮은 영업이익률을 규모의 경제로 극복하는 전형적인 '박리다매' 구조. 수익성의 핵심은 비용 통제와 효율성.",
+      "cashflow_stability": "부채의 두 배에 가까운 막대한 잉여현금흐름(FCF)을 창출. 마이너스 장부가치(-PBR)와 낮은 유동비율은 공격적 자본정책(자사주 매입)의 결과일 뿐, 파산 위험은 매우 낮음."
+    },
+    "macro_sensitivity": "의약품 유통이라는 필수 소비재 산업에 속해 경기 침체에 대한 방어력이 매우 높은 '경기 방어주'. 다만, 박리다매 구조상 급격한 운송/인건비 인플레이션 발생 시 마진 압박에 단기적으로 취약할 수 있음.",
+    "technical_synergy": "이와 같은 초우량 현금흐름 기업이 장기 이평선 지지를 받는 패턴은 폭발력보다 '신뢰도'가 극도로 높음을 의미. AI 시스템은 이를 '저위험 고확률' 진입 신호로 해석해야 하며, 투기적 급등보다는 안정적 우상향을 기대하는 전략이 적합함.",
+    "business_moat": "미국 의약품 유통 시장을 3개 기업이 과점하는 구조의 핵심 플레이어. 신규 경쟁자가 모방 불가능한 거대한 물류 네트워크와 고객 관계가 그 자체로 강력한 경제적 해자이다.",
+    "ai_system_tags": [
+      "Value",
+      "Defensive",
+      "Dividend"
+    ]
+  }
+}

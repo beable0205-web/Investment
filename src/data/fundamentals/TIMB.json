@@ -1,0 +1,34 @@
+{
+  "ticker": "TIMB",
+  "lastUpdated": "2026-05-08T19:38:55.623Z",
+  "rawFinancials": {
+    "name": "TIM S.A.",
+    "marketCap": 11408279552,
+    "trailingPE": 13.19337,
+    "forwardPE": 11.469134,
+    "priceToBook": 12.360609,
+    "totalRevenue": 27037229056,
+    "operatingMargins": 0.24306999,
+    "returnOnEquity": 0.17724001,
+    "freeCashflow": 4539948544,
+    "totalCash": 5871318016,
+    "totalDebt": 16739472384,
+    "currentRatio": 0.916,
+    "revenueGrowth": 0.065
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 성장. 6.5%의 견조한 매출 성장률과 이익 증가가 예상되는 낮은 선행 PER(Forward PE)는 기업이 성숙기에도 꾸준히 확장하고 있음을 시사합니다.",
+      "profitability": "독점적 고수익 구조. 24%에 달하는 높은 영업이익률과 17%대의 자기자본이익률(ROE)은 강력한 가격 결정권과 효율적인 비용 통제를 바탕으로 한 해자(Moat)의 증거입니다.",
+      "cashflow_stability": "강력한 현금 창출력. 부채 규모가 현금 보유량보다 크지만, 연간 창출하는 막대한 잉여현금흐름(FCF)으로 4년 내 총 부채 상환이 가능한 수준이므로 재무 안정성은 우수합니다."
+    },
+    "macro_sensitivity": "경기 방어주이자 금리 민감주. 통신 서비스는 필수재이므로 경기 침체기에도 수요가 안정적이지만, 대규모 설비투자로 인한 부채가 많아 금리 인상 시 이자 비용 부담이 가중될 수 있습니다.",
+    "technical_synergy": "견고한 펀더멘털은 '장기 이평선 돌파 및 지지'와 같은 기술적 매수 신호의 신뢰도를 극대화합니다. 폭발적인 시세 분출보다는, 기관 투자자의 꾸준한 매수세를 기반으로 한 안정적인 우상향 추세를 형성할 가능성이 높습니다.",
+    "business_moat": "브라질 통신 시장을 과점하는 핵심 사업자로서, 막대한 초기 투자비가 필요한 전국적인 통신망 인프라 자체가 신규 경쟁자의 진입을 차단하는 강력한 경제적 해자입니다. 확고한 브랜드와 가입자 기반은 예측 가능한 현금흐름을 보장합니다.",
+    "ai_system_tags": [
+      "Value",
+      "Defensive",
+      "Dividend"
+    ]
+  }
+}

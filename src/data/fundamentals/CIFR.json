@@ -1,0 +1,32 @@
+{
+  "ticker": "CIFR",
+  "lastUpdated": "2026-05-09T08:40:46.978Z",
+  "rawFinancials": {
+    "name": "Cipher Digital Inc.",
+    "marketCap": 8405960192,
+    "forwardPE": 44.999672,
+    "priceToBook": 11.662883,
+    "totalRevenue": 209820992,
+    "operatingMargins": -2.49371,
+    "returnOnEquity": -1.21734,
+    "freeCashflow": -2948059648,
+    "totalCash": 715203008,
+    "totalDebt": 4746686976,
+    "currentRatio": 3.126,
+    "revenueGrowth": -0.288
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "역성장. 매출이 -28.8% 감소하고 있으며, 높은 선행 PER은 현재 펀더멘털이 아닌 미래의 막연한 턴어라운드 기대감만을 반영하고 있음.",
+      "profitability": "적자 늪. 영업이익률과 자기자본이익률 모두 심각한 마이너스 상태로, 매출 발생 과정에서 막대한 손실을 기록하며 주주가치를 파괴하고 있는 구조.",
+      "cashflow_stability": "레버리지 과다 및 현금 소진 위험. 매출액의 10배가 넘는 마이너스 현금흐름은 극심한 자금 유출을 의미하며, 과도한 부채는 금리 상승 시 파산 위험을 증폭시킴."
+    },
+    "macro_sensitivity": "경기 침체 및 금리 인상에 극도로 취약한 고위험 경기민감주. 부채 비용 증가와 자본 조달 시장 경색에 직접적인 타격을 받으며, 암호화폐 등 위험자산 가격 변동성에 운명이 좌우됨.",
+    "technical_synergy": "펀더멘털이 부재하여 '단테의 밥그릇 3번 자리'와 같은 기술적 상승 신호의 신뢰도가 극히 낮음. 단기적인 주가 폭발력은 투기적 수요에 기인할 수 있으나, 펀더멘털 개선 없이는 '불 트랩(Bull Trap)'으로 전락할 확률이 매우 높음.",
+    "business_moat": "암호화폐 채굴 사업 모델로 추정되며, 특정 디지털 자산의 가격 변동에 절대적으로 종속되어 있음. 뚜렷한 기술적, 구조적 해자가 부재하여 원가 경쟁력 외에는 방어 수단이 없는, 외부 변수에 완전히 노출된 비즈니스임.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

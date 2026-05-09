@@ -1,0 +1,34 @@
+{
+  "ticker": "MAA",
+  "lastUpdated": "2026-05-08T18:49:33.437Z",
+  "rawFinancials": {
+    "name": "Mid-America Apartment Communiti",
+    "marketCap": 15465925632,
+    "trailingPE": 39.275757,
+    "forwardPE": 33.318764,
+    "priceToBook": 2.6750739,
+    "totalRevenue": 2213555968,
+    "operatingMargins": 0.26567,
+    "returnOnEquity": 0.06711,
+    "freeCashflow": 909082496,
+    "totalCash": 71529000,
+    "totalDebt": 5680351232,
+    "currentRatio": 0.076,
+    "revenueGrowth": 0.008
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "성장 정체. 0.8%의 낮은 매출 성장은 시장 포화 또는 임대료 인상 한계를 시사하나, Trailing PE 대비 낮은 Forward PE는 비용 통제나 자산 매각 등을 통한 이익 개선 기대를 반영함.",
+      "profitability": "안정적 중수익성 구조. 26.6%의 영업이익률은 효율적인 자산 관리를 보여주지만, 6.7%의 낮은 자기자본이익률(ROE)은 높은 부채를 활용하는 리츠(REITs) 산업의 전형적인 자본 집약적 특성을 드러냄.",
+      "cashflow_stability": "현금 창출력 우수, 부채 리스크 상존. 매출의 41%에 달하는 막대한 잉여현금흐름은 비즈니스의 본질적인 힘을 증명함. 그러나 56억 달러가 넘는 총부채와 0.1 미만의 유동비율은 금리 변동에 취약한 재무구조임을 경고함."
+    },
+    "macro_sensitivity": "대표적인 금리 민감주이자 경기 방어주. 금리 인상 시 이자 비용 증가와 부동산 가치 평가 하락으로 주가에 직접적인 부담. 반면, 경기 침체 시에는 필수 주거 수요 덕분에 타 산업 대비 임대 수익이 안정적으로 유지되는 방어적 특성을 보임.",
+    "technical_synergy": "이 종목의 장기 이평선 지지 및 돌파 패턴은 단순한 수급 개선이 아닌, '금리 인상 사이클의 종료' 또는 '경기 연착륙'이라는 거시경제적 내러티브의 변화를 예고하는 신호일 가능성이 높다. 따라서, 해당 패턴의 신뢰도는 매우 높으며, 폭발적인 급등보다는 채권과 유사한 꾸준하고 안정적인 우상향 추세를 기대할 수 있다.",
+    "business_moat": "미국 선벨트(Sunbelt) 지역에 집중된 우량 주거용 아파트 포트폴리오가 핵심 해자이다. 특정 지역 내에서의 규모의 경제와 제한된 공급으로 인한 진입장벽은 안정적인 임대 수익을 보장하는 원천이 된다.",
+    "ai_system_tags": [
+      "Dividend",
+      "Defensive",
+      "Cyclical"
+    ]
+  }
+}

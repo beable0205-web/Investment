@@ -1,0 +1,34 @@
+{
+  "ticker": "KT",
+  "lastUpdated": "2026-05-09T07:57:42.044Z",
+  "rawFinancials": {
+    "name": "KT Corporation",
+    "marketCap": 10200815616,
+    "trailingPE": 8.680327,
+    "forwardPE": 6.423827,
+    "priceToBook": 0.8371098,
+    "totalRevenue": 28244160020480,
+    "operatingMargins": 0.03225,
+    "returnOnEquity": 0.098079994,
+    "freeCashflow": 831621890048,
+    "totalCash": 5020559867904,
+    "totalDebt": 12208777986048,
+    "currentRatio": 1.195,
+    "revenueGrowth": 0.041
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 저성장. 4%대의 낮은 매출 성장률을 보이나, 순이익 개선 기대감(Forward PE < Trailing PE)이 혼재된 성숙기 기업의 전형적 모습입니다.",
+      "profitability": "박리다매형 수익 구조. 3%대의 낮은 영업이익률은 통신 산업의 높은 경쟁 강도와 대규모 설비 투자 부담을 반영하며, 규모의 경제를 통해 이익을 창출합니다.",
+      "cashflow_stability": "안정적 현금흐름, 부채 부담 상존. 통신 구독 모델 기반의 예측 가능한 현금 창출력은 우수하나, 12조 원대의 총부채는 금리 상승 시 리스크 요인으로 작용할 수 있습니다."
+    },
+    "macro_sensitivity": "대표적인 경기 방어주. 통신 서비스는 필수재에 가까워 경기 침체기에도 수요가 안정적입니다. 다만, 부채 규모가 커 금리 인상 사이클에서는 이자 비용 증가로 인해 이익이 압박받을 수 있는 이중적 특성을 지닙니다.",
+    "technical_synergy": "폭발력보다 신뢰도. 이와 같은 저평가 가치주는 '밥그릇 3번 자리'에서 폭발적인 급등보다, 펀더멘털 가치를 재평가받는 과정에서 견고한 지지선을 형성하며 점진적이고 안정적인 우상향 추세를 보일 신뢰도가 높습니다. 즉, 패턴의 신뢰도는 높지만 기대수익률의 변동성은 낮습니다.",
+    "business_moat": "핵심 해자는 전국 통신망 구축에 필요한 막대한 자본적 지출(CAPEX)로 형성된 구조적 진입 장벽입니다. 이를 기반으로 한 수백만 가입자로부터 발생하는 반복적인 구독 매출은 안정적인 현금흐름의 원천이 됩니다.",
+    "ai_system_tags": [
+      "Value",
+      "Defensive",
+      "Dividend"
+    ]
+  }
+}

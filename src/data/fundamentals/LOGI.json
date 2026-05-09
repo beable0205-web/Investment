@@ -1,0 +1,34 @@
+{
+  "ticker": "LOGI",
+  "lastUpdated": "2026-05-08T18:57:12.173Z",
+  "rawFinancials": {
+    "name": "Logitech International S.A. - R",
+    "marketCap": 15608712192,
+    "trailingPE": 22.660416,
+    "forwardPE": 17.488684,
+    "priceToBook": 6.8344326,
+    "totalRevenue": 4840760832,
+    "operatingMargins": 0.12778,
+    "returnOnEquity": 0.32783002,
+    "freeCashflow": 762400768,
+    "totalCash": 1741545984,
+    "totalDebt": 0,
+    "currentRatio": 2.22,
+    "revenueGrowth": 0.074
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 성장. 한 자릿수 후반의 견조한 매출 성장과 순이익 증가가 예상되어, 폭발적이지는 않지만 꾸준한 확장 국면에 있음.",
+      "profitability": "고효율 수익 구조. 30%가 넘는 경이적인 자기자본이익률(ROE)은 투입된 자본으로 막대한 이익을 창출하는 능력을 증명하며, 12%대의 영업이익률은 안정적인 가격 결정력을 보여줌.",
+      "cashflow_stability": "무차입 경영 기반의 강력한 현금 창출력. 부채가 전혀 없고 막대한 현금을 보유한 '요새'와 같은 재무상태를 자랑하며, 파산 위험이 사실상 제로에 가까움."
+    },
+    "macro_sensitivity": "소비 경기 변동에 민감하나, 견고한 재무구조로 금리 인상기에도 방어력이 뛰어난 경기소비재. 경기 침체 시 제품 수요 감소 위험이 있으나, 무차입 경영 덕분에 금리 인상 충격은 거의 받지 않으며 오히려 보유 현금의 이자 수익 증가가 기대됨.",
+    "technical_synergy": "견고한 펀더멘털(무차입, 고ROE)이 장기 이평선 돌파와 같은 기술적 매수 신호의 신뢰도를 극대화함. 기관 투자자의 꾸준한 매수세 유입을 기대할 수 있어, 일시적 급등보다는 추세적 우상향의 폭발력을 보일 가능성이 높음.",
+    "business_moat": "강력한 브랜드 인지도와 글로벌 유통망을 기반으로 PC 주변기기 시장에서 확고한 지위를 구축함. 규모의 경제를 통해 다양한 가격대의 제품을 효율적으로 생산하며 시장 지배력을 유지함.",
+    "ai_system_tags": [
+      "Value",
+      "Defensive",
+      "Cyclical"
+    ]
+  }
+}

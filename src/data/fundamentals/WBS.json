@@ -1,0 +1,32 @@
+{
+  "ticker": "WBS",
+  "lastUpdated": "2026-05-08T20:06:29.676Z",
+  "rawFinancials": {
+    "name": "Webster Financial Corporation",
+    "marketCap": 11810111488,
+    "trailingPE": 11.949181,
+    "forwardPE": 9.95916,
+    "priceToBook": 1.2761301,
+    "totalRevenue": 2730213888,
+    "operatingMargins": 0.49473998,
+    "returnOnEquity": 0.10885999,
+    "totalCash": 2721363968,
+    "totalDebt": 5848527872,
+    "revenueGrowth": 0.087
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 성장. 8.7%의 견고한 매출 성장률과 후행 P/E 대비 낮은 선행 P/E는 향후 꾸준한 이익 증가를 시사함.",
+      "profitability": "독점적 마진. 50%에 육박하는 경이로운 영업이익률과 10%를 상회하는 자기자본이익률(ROE)은 뛰어난 가격 결정력과 효율적인 비용 통제 능력을 증명함.",
+      "cashflow_stability": "현금 창출력 우수. 은행업의 특성상 부채 규모는 크지만, 높은 수익성을 바탕으로 안정적인 순이자마진과 현금흐름을 창출하는 구조를 갖춤."
+    },
+    "macro_sensitivity": "전형적인 금리 인상 수혜주이자 경기 민감주. 금리 상승기에는 순이자마진(NIM) 확대로 수익성이 개선되지만, 경기 침체기에는 대손충당금 증가 리스크에 노출됨.",
+    "technical_synergy": "이처럼 펀더멘털이 견고한 가치주는 '단테의 밥그릇 3번 자리'와 같은 장기 저항선 돌파 패턴 형성 시, 투기적 급등보다는 기관 투자자의 꾸준한 매수세가 유입되며 신뢰도 높은 우상향 추세를 형성할 가능성이 매우 높음. 폭발력보다는 추세의 안정성에 더 큰 점수를 줄 수 있음.",
+    "business_moat": "미국 북동부 지역에 깊이 뿌리내린 고객 관계와 지역 경제에 대한 높은 이해도를 바탕으로 한 견고한 지역 기반 영업망을 보유하고 있습니다. 이는 대형 전국 은행 대비 차별화된 경쟁 우위, 즉 경제적 해자로 작용합니다.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Dividend"
+    ]
+  }
+}

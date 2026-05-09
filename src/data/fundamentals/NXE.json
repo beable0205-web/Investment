@@ -1,0 +1,31 @@
+{
+  "ticker": "NXE",
+  "lastUpdated": "2026-05-09T09:11:26.080Z",
+  "rawFinancials": {
+    "name": "Nexgen Energy Ltd.",
+    "marketCap": 8035276800,
+    "forwardPE": -73.169876,
+    "priceToBook": 6.0267034,
+    "operatingMargins": 0,
+    "returnOnEquity": -0.29612,
+    "freeCashflow": -280498752,
+    "totalCash": 1018352000,
+    "totalDebt": 721040000,
+    "currentRatio": 1.366
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "현재 매출 및 이익이 전무한 '개발 단계' 기업. 시장은 향후 광산 생산 개시에 따른 폭발적인 성장을 선반영하고 있음.",
+      "profitability": "탐사 및 개발 비용으로 인해 현재는 대규모 영업적자 및 순손실 상태. 향후 수익성은 전적으로 우라늄 가격과 생산 원가에 의해 결정될 것임.",
+      "cashflow_stability": "대규모 현금 유출(Negative FCF)이 지속되고 있으나, 10억 달러 이상의 현금 보유 및 부채보다 많은 현금(순현금 상태)을 바탕으로 단기 파산 위험은 매우 낮음."
+    },
+    "macro_sensitivity": "우라늄 가격 변동에 주가가 직결되는 대표적인 경기민감주(Cyclical). 글로벌 원전 정책, 지정학적 공급망 이슈, 인플레이션에 따른 원자재 가격 상승에 극도로 민감하게 반응함.",
+    "technical_synergy": "이러한 '스토리 기반' 기업이 장기 이평선을 돌파하고 지지하는 패턴은, 시장이 '개발'에서 '생산'으로의 전환이라는 펀더멘털의 질적 변화를 가격에 반영하기 시작했다는 신호일 수 있음. 보유 자산의 퀄리티가 높기 때문에, 기술적 신호의 신뢰도가 증폭되어 강력한 추세 형성 가능성이 높음.",
+    "business_moat": "세계 최고 수준의 고순도, 대규모 우라늄 매장량(Arrow 프로젝트)이 이 기업의 본질적인 경제적 해자임. 이는 향후 글로벌 시장에서 가장 낮은 생산원가를 달성할 잠재력을 의미하며, 강력한 가격 경쟁력으로 이어질 것임.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Cyclical",
+      "Turnaround"
+    ]
+  }
+}

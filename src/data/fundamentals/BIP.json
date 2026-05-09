@@ -1,0 +1,32 @@
+{
+  "ticker": "BIP",
+  "lastUpdated": "2026-05-08T18:34:58.455Z",
+  "rawFinancials": {
+    "name": "Brookfield Infrastructure Partn",
+    "marketCap": 16912890880,
+    "trailingPE": 55.469696,
+    "forwardPE": 27.21832,
+    "priceToBook": 3.6467779,
+    "totalRevenue": 24009000960,
+    "operatingMargins": 0.25186002,
+    "returnOnEquity": 0.0673,
+    "totalCash": 2457999872,
+    "totalDebt": 64492998656,
+    "revenueGrowth": 0.169
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 성장률 16.9%와 Trailing PE 대비 현저히 낮은 Forward PE는 향후 견조한 이익 성장을 시사하는 고성장 국면으로 판단됨.",
+      "profitability": "25%를 상회하는 높은 영업이익률은 독점적 자산에서 비롯된 강력한 가격 결정력을 보여주나, 6.73%의 낮은 자기자본이익률(ROE)은 거대한 자본 투하와 부채 부담을 반영함.",
+      "cashflow_stability": "인프라 자산의 특성상 현금 창출 능력은 안정적이나, 총 부채가 시가총액의 3배를 초과하는 과도한 레버리지 구조는 금리 상승기에 심각한 재무 리스크로 작용할 수 있음."
+    },
+    "macro_sensitivity": "부채 의존도가 높아 금리 변동에 매우 민감한 대표적인 금리 인하 수혜주. 서비스의 필수성으로 인해 경기 침체기에는 수요가 유지되는 경기 방어주의 특성도 동시에 지님.",
+    "technical_synergy": "이와 같은 고부채 경기 방어주는 거시경제 변수, 특히 금리 정책 전환기에 주가 변곡점을 형성하는 경향이 있음. 따라서 '단테의 밥그릇 3번 자리'와 같은 장기 추세 전환 패턴은 금리 인하 기대감이 최고조에 달할 때 나타날 가능성이 높으며, 이 경우 펀더멘털 개선 기대감과 기술적 분석이 시너지를 일으켜 매우 높은 신뢰도를 보임.",
+    "business_moat": "전 세계의 필수 인프라(유틸리티, 운송, 데이터 등) 자산을 소유 및 운영하며, 대체 불가능한 자산의 독점적 지위에서 경제적 해자를 찾음. 이를 통해 인플레이션에 연동되는 장기적이고 안정적인 현금흐름을 창출함.",
+    "ai_system_tags": [
+      "Defensive",
+      "Dividend",
+      "Cyclical"
+    ]
+  }
+}

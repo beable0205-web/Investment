@@ -1,0 +1,34 @@
+{
+  "ticker": "INCY",
+  "lastUpdated": "2026-05-08T18:02:32.267Z",
+  "rawFinancials": {
+    "name": "Incyte Corporation",
+    "marketCap": 19860344832,
+    "trailingPE": 14.040961,
+    "forwardPE": 10.974998,
+    "priceToBook": 3.8178816,
+    "totalRevenue": 5361019904,
+    "operatingMargins": 0.25552,
+    "returnOnEquity": 0.30823,
+    "freeCashflow": 558867008,
+    "totalCash": 4015824896,
+    "totalDebt": 39430000,
+    "currentRatio": 3.682,
+    "revenueGrowth": 0.209
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "고성장. 20%가 넘는 높은 매출 성장률과 순이익 증가가 예상되는(Forward PE < Trailing PE) 전형적인 성장주의 특성을 보임.",
+      "profitability": "독점적 마진. 25%를 상회하는 높은 영업이익률과 30%를 넘는 경이적인 자기자본이익률(ROE)은 강력한 특허 해자를 기반으로 한 독점적 가격 결정력을 시사함.",
+      "cashflow_stability": "현금 창출력 우수 및 사실상 무부채 구조. 막대한 현금 보유량(40억 달러)에 비해 부채는 거의 없어(3900만 달러) 파산 위험이 극히 낮으며, 재무적 안정성이 매우 뛰어남."
+    },
+    "macro_sensitivity": "경기 방어주. 제약/바이오 산업 특성상 경기 침체기에도 수요가 꾸준하며, 특히 이 기업은 막대한 현금과 낮은 부채를 바탕으로 금리 인상기에도 자금 조달 리스크 없이 R&D 투자를 지속할 수 있는 강력한 재무적 방어력을 갖춤.",
+    "technical_synergy": "이처럼 압도적인 펀더멘털을 가진 기업이 장기 이평선 지지를 받으며 박스권을 돌파하는 '단테의 밥그릇 3번 자리'와 같은 패턴을 형성할 경우, 단순한 기술적 반등을 넘어 새로운 성장 국면으로 진입하는 강력한 신호로 해석될 수 있어 신뢰도와 폭발력이 매우 높음.",
+    "business_moat": "핵심 의약품(Jakafi 등)에 대한 특허권이 강력한 가격 결정권과 독점적 이익 마진을 보장하는 핵심 해자입니다. 지속적인 R&D 투자를 통해 미래 성장 동력을 확보하며 해자를 더욱 강화하고 있습니다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Value",
+      "Defensive"
+    ]
+  }
+}

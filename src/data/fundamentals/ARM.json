@@ -1,0 +1,26 @@
+{
+  "ticker": "ARM",
+  "lastUpdated": "2026-05-08T13:15:14.280Z",
+  "rawFinancials": {
+    "name": "Arm Holdings plc",
+    "marketCap": 226961539072,
+    "trailingPE": 250.95293,
+    "forwardPE": 99.71345,
+    "priceToBook": 29.049435,
+    "totalRevenue": 4671000064,
+    "operatingMargins": 0.29597,
+    "returnOnEquity": 0.112679996,
+    "freeCashflow": 824750016,
+    "totalCash": 3600999936,
+    "totalDebt": 432000000,
+    "currentRatio": 5.427,
+    "revenueGrowth": 0.201
+  },
+  "analysis": {
+    "financialHealthScore": 95,
+    "valuationRating": "Overvalued",
+    "moatAndBusiness": "Arm Holdings는 에너지 효율적인 프로세서 아키텍처라는 핵심 지적 재산을 설계하고 라이선스를 부여하여 반도체 산업을 지배합니다. 회사는 스마트폰을 비롯한 수많은 기기에 탑재되는 칩에 대한 로열티로 수익을 창출하며, 이는 반복적이고 확장 가능한 수익 모델입니다. 이러한 압도적인 시장 점유율은 고객에게 매우 높은 전환 비용과 강력한 네트워크 효과를 발생시켜 막강한 경제적 해자를 구축합니다.",
+    "redFlags": [],
+    "isInvestable": false
+  }
+}

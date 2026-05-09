@@ -1,0 +1,25 @@
+{
+  "ticker": "RTNTF",
+  "lastUpdated": "2026-05-08T13:16:15.002Z",
+  "rawFinancials": {
+    "name": "Rio Tinto Ltd.",
+    "marketCap": 201644064768,
+    "trailingPE": 20.394737,
+    "priceToBook": 3.239205,
+    "totalRevenue": 57637998592,
+    "operatingMargins": 0.25318,
+    "returnOnEquity": 0.16399999,
+    "freeCashflow": 3495749888,
+    "totalCash": 9420000256,
+    "totalDebt": 23747999744,
+    "currentRatio": 1.445,
+    "revenueGrowth": 0.146
+  },
+  "analysis": {
+    "financialHealthScore": 85,
+    "valuationRating": "Fair",
+    "moatAndBusiness": "Rio Tinto is a global mining giant that profits from extracting and selling essential industrial commodities like iron ore and copper. The company's economic moat is built upon its portfolio of world-class, low-cost mining assets, which are nearly impossible for competitors to replicate. This scale and asset quality provide a durable cost advantage, allowing it to remain profitable even during downturns in the commodity cycle.",
+    "redFlags": [],
+    "isInvestable": true
+  }
+}

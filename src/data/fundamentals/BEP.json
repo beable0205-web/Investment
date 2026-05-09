@@ -1,0 +1,33 @@
+{
+  "ticker": "BEP",
+  "lastUpdated": "2026-05-08T17:48:58.202Z",
+  "rawFinancials": {
+    "name": "Brookfield Renewable Partners L",
+    "marketCap": 21981022208,
+    "forwardPE": -26.563118,
+    "priceToBook": 2.8063402,
+    "totalRevenue": 6341000192,
+    "operatingMargins": 0.0753,
+    "returnOnEquity": 0.01525,
+    "freeCashflow": -10644750336,
+    "totalCash": 2878000128,
+    "totalDebt": 37394001920,
+    "currentRatio": 0.748,
+    "revenueGrowth": -0.042
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "역성장. 매출이 감소하고 있으며, 순이익은 향후 적자가 예상되어 성장성에 심각한 의문이 제기되는 상태입니다.",
+      "profitability": "적자 늪. 영업이익률이 매우 낮고 자기자본이익률(ROE)은 거의 가치를 창출하지 못하는 수준이며, 막대한 현금 유출로 인해 수익성 구조가 붕괴되었습니다.",
+      "cashflow_stability": "레버리지 과다 및 현금 소진. 막대한 규모의 마이너스 잉여현금흐름은 심각한 유동성 위기를 암시하며, 과도한 부채와 1 미만의 유동비율은 파산 위험을 높이는 핵심 요인입니다."
+    },
+    "macro_sensitivity": "대표적인 금리 민감주. 막대한 부채 구조로 인해 금리 인상 시 이자 비용이 급증하여 재무 상태가 급격히 악화될 수 있으며, 반대로 금리 인하 시에는 가장 큰 수혜를 볼 수 있는 양날의 검과 같은 구조를 가집니다.",
+    "technical_synergy": "신뢰도 낮음. 이러한 취약한 펀더멘털을 가진 기업의 장기 이평선 돌파는 실적 개선보다는 금리 인하 기대감 같은 거시 변수에 기댄 투기적 움직임일 가능성이 높습니다. 따라서 기술적 신호의 신뢰도가 낮으며, 상승 폭발력보다는 '불 트랩(Bull Trap)'으로 이어질 위험이 큽니다.",
+    "business_moat": "이 기업의 해자는 전 세계에 분산된 대규모 신재생에너지 자산 포트폴리오와 장기 전력 구매 계약(PPA)에서 나옵니다. 그러나 자본 집약적 사업 모델의 특성상 막대한 부채와 현금 유출을 감수해야 하므로, 현재의 재무 구조는 이 해자의 안정성을 심각하게 위협하고 있습니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Cyclical",
+      "Dividend"
+    ]
+  }
+}

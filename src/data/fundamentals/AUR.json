@@ -1,0 +1,32 @@
+{
+  "ticker": "AUR",
+  "lastUpdated": "2026-05-08T19:33:43.770Z",
+  "rawFinancials": {
+    "name": "Aurora Innovation, Inc.",
+    "marketCap": 13944154112,
+    "forwardPE": -16.928572,
+    "priceToBook": 6.4519057,
+    "totalRevenue": 4000000,
+    "operatingMargins": -244,
+    "returnOnEquity": -0.44332,
+    "freeCashflow": -413750016,
+    "totalCash": 1224999936,
+    "totalDebt": 79000000,
+    "currentRatio": 9.493
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "초기 단계의 폭발적 성장 잠재력, 현재는 사실상 매출 부재 상태. 기업가치는 전적으로 미래 기술 상용화에 대한 기대감에 기반함.",
+      "profitability": "적자 늪. 기술 개발 및 상용화를 위한 막대한 R&D 비용으로 인해 영업이익률과 ROE가 극심한 마이너스 상태. 수익 모델이 아직 증명되지 않음.",
+      "cashflow_stability": "대규모 현금 소진. 매년 수억 달러의 현금을 소모하고 있으나, 보유 현금과 낮은 부채 비율 덕분에 단기적 파산 위험은 제한적. 지속적인 자금 조달 능력이 생존의 핵심."
+    },
+    "macro_sensitivity": "금리 인상에 극도로 취약한 대표적인 장기 성장주. 미래 현금흐름의 할인율에 민감하며, 경기 침체 시 투자 심리 위축과 자금 조달 리스크에 직접적으로 노출됨.",
+    "technical_synergy": "펀더멘털이 부재한 '스토리 주식'이므로, 장기 이평선 돌파와 같은 기술적 신호는 종종 기술적 이정표 달성이나 핵심 파트너십 발표 등 내러티브의 변화를 반영함. 따라서 해당 패턴의 신뢰도는 높으며, 성공 시 펀더멘털의 '중력'이 없어 폭발적인 주가 상승으로 이어질 잠재력이 큼.",
+    "business_moat": "자율주행 트럭 및 차량을 위한 통합 소프트웨어/하드웨어 시스템('Aurora Driver')을 개발하고 파트너사에 공급하는 사업 모델을 가짐. 경제적 해자는 수년간 축적된 독점 기술, 방대한 주행 데이터, 그리고 막대한 자본과 인재를 요구하는 극도로 높은 진입 장벽에서 비롯됨.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

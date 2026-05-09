@@ -1,0 +1,26 @@
+{
+  "ticker": "PEP",
+  "lastUpdated": "2026-05-08T13:16:44.723Z",
+  "rawFinancials": {
+    "name": "Pepsico, Inc.",
+    "marketCap": 213639184384,
+    "trailingPE": 24.496864,
+    "forwardPE": 17.075256,
+    "priceToBook": 9.99872,
+    "totalRevenue": 95448997888,
+    "operatingMargins": 0.16961999,
+    "returnOnEquity": 0.43879002,
+    "freeCashflow": 8746250240,
+    "totalCash": 10828000256,
+    "totalDebt": 52728000512,
+    "currentRatio": 0.897,
+    "revenueGrowth": 0.085
+  },
+  "analysis": {
+    "financialHealthScore": 75,
+    "valuationRating": "Fair",
+    "moatAndBusiness": "펩시코(PepsiCo)는 세계적으로 인정받는 스낵 및 음료 브랜드 포트폴리오를 판매하여 수익을 창출합니다. 이 기업의 핵심 경제적 해자는 강력한 브랜드 자산과 경쟁사가 복제하기 거의 불가능한 독보적인 글로벌 유통 네트워크에 기반합니다. 이러한 결합은 안정적인 수요와 상당한 가격 결정력을 보장하여 지속적인 현금 흐름을 창출합니다.",
+    "redFlags": [],
+    "isInvestable": true
+  }
+}

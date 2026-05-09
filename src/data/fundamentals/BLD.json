@@ -1,0 +1,34 @@
+{
+  "ticker": "BLD",
+  "lastUpdated": "2026-05-08T19:47:46.918Z",
+  "rawFinancials": {
+    "name": "TopBuild Corp.",
+    "marketCap": 11946909696,
+    "trailingPE": 23.903152,
+    "forwardPE": 20.234962,
+    "priceToBook": 5.116486,
+    "totalRevenue": 5621667840,
+    "operatingMargins": 0.12203,
+    "returnOnEquity": 0.22262,
+    "freeCashflow": 396199744,
+    "totalCash": 268847008,
+    "totalDebt": 3127400960,
+    "currentRatio": 1.997,
+    "revenueGrowth": 0.172
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "고성장. 17.2%의 높은 매출 성장률과 순이익 성장을 암시하는 선행 PER(Forward PE)을 고려할 때, 전형적인 성장주의 특성을 보임.",
+      "profitability": "우량한 수익성 구조. 22%를 상회하는 높은 자기자본이익률(ROE)은 강력한 수익 창출 능력을 증명하며, 12.2%의 영업이익률은 산업 내에서 효율적인 운영을 하고 있음을 시사함.",
+      "cashflow_stability": "현금 창출력 우수하나, 레버리지 활용도 높음. 잉여현금흐름(Free Cashflow)은 매우 견고하지만, 보유 현금 대비 총 부채 규모가 상당하여 재무 레버리지를 적극적으로 활용하는 전략을 구사함."
+    },
+    "macro_sensitivity": "대표적인 금리 인하 수혜주이자 경기 민감주. 주택 건설 및 리모델링 시장에 직접적인 영향을 받는 사업 모델로 인해, 금리 변동과 경기 사이클에 주가와 실적이 크게 연동되는 경향이 있음.",
+    "technical_synergy": "강력한 펀더멘털(높은 성장성, 고ROE)을 보유한 기업이므로, 장기 이평선 돌파 및 지지(단테의 밥그릇 3번 자리)와 같은 추세 전환 패턴 발생 시 신뢰도가 매우 높음. 실적 성장이 뒷받침되기에, 기술적 브레이크아웃 이후 장기적인 대세 상승으로 이어질 폭발력을 내재하고 있음.",
+    "business_moat": "미국 최대의 단열재 설치 및 유통 기업으로서, 규모의 경제를 통한 원가 경쟁력과 전국적인 유통망이 핵심적인 경제적 해자이다. 이는 신규 경쟁자의 진입을 어렵게 만들고 안정적인 시장 점유율을 유지하는 기반이 된다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Cyclical",
+      "Value"
+    ]
+  }
+}

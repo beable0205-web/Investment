@@ -1,0 +1,34 @@
+{
+  "ticker": "TEL",
+  "lastUpdated": "2026-05-08T15:19:59.423Z",
+  "rawFinancials": {
+    "name": "TE Connectivity plc",
+    "marketCap": 61010604032,
+    "trailingPE": 21.349846,
+    "forwardPE": 16.55841,
+    "priceToBook": 4.7270284,
+    "totalRevenue": 18695999488,
+    "operatingMargins": 0.20341,
+    "returnOnEquity": 0.22719999,
+    "freeCashflow": 2322249984,
+    "totalCash": 1110000000,
+    "totalDebt": 5861000192,
+    "currentRatio": 1.888,
+    "revenueGrowth": 0.145
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "14.5%의 견조한 매출 성장률과 시장의 이익 성장 기대를 반영하는 낮은 선행 PER(Forward PE)를 바탕으로 한 '우량 성장주(Quality Growth)'의 특성을 보임.",
+      "profitability": "20%를 상회하는 영업이익률(Operating Margin)과 자기자본이익률(ROE)은 독점적 시장 지위와 강력한 가격 결정권을 암시하며, 이는 '고수익 독점 기업'의 전형적인 구조임.",
+      "cashflow_stability": "매출의 12%가 넘는 막대한 잉여현금흐름(Free Cashflow)을 창출하고 있으며, 총 부채 대비 현금 창출 능력이 뛰어나고 유동비율(Current Ratio)이 안정적이어서 '현금 창출력이 우수한 저위험 기업'으로 분류됨."
+    },
+    "macro_sensitivity": "산업, 자동차, 통신 등 전방 산업의 경기에 영향을 받는 '경기 순환주(Cyclical)'의 특성을 가지나, 전기차, AI 데이터센터, 5G 등 구조적 성장 테마의 핵심 부품을 공급하여 경기 침체기에도 일정 수준의 수요를 유지하는 방어적 성격을 겸비함.",
+    "technical_synergy": "이처럼 강력한 펀더멘털은 주가의 하방 경직성을 제공하므로, '단테의 밥그릇 3번 자리'와 같은 장기 이평선 지지 및 돌파 패턴의 신뢰도를 극대화함. 긍정적 실적 발표가 기술적 분석의 신호와 결합될 경우, 기관 투자자의 매수세가 유입되며 추세의 폭발력을 강화하는 경향이 있음.",
+    "business_moat": "최종 제품 원가에서 차지하는 비중은 낮지만 고장 시 치명적인 결과를 초래하는 핵심 연결(Connectivity) 부품을 공급하여 고객사의 교체 비용을 극대화합니다. 이는 수십 년간 쌓아온 기술 표준과 신뢰 관계에 기반한 강력한 '기술적 해자(Technical Moat)'를 형성합니다.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "High-Growth"
+    ]
+  }
+}

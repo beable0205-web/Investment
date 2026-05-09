@@ -1,0 +1,32 @@
+{
+  "ticker": "DB",
+  "lastUpdated": "2026-05-08T15:24:51.899Z",
+  "rawFinancials": {
+    "name": "Deutsche Bank AG",
+    "marketCap": 61058621440,
+    "trailingPE": 8.625676,
+    "forwardPE": 5.8759418,
+    "priceToBook": 0.6563762,
+    "totalRevenue": 29824999424,
+    "operatingMargins": 0.37304002,
+    "returnOnEquity": 0.08653,
+    "totalCash": 622900019200,
+    "totalDebt": 519844986880,
+    "revenueGrowth": 0.012
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 성장률 1.2%로 외형 성장은 거의 정체 상태이나, 선행 PER이 후행 PER보다 낮아 비용 절감 및 수익성 개선을 통한 이익 증가는 기대되는 상황.",
+      "profitability": "PBR 0.65배로 순자산가치 대비 현저히 저평가. ROE 8.65%는 업계 최고 수준은 아니나, 저평가 국면을 감안하면 합리적인 수익성을 회복 중인 것으로 판단됨.",
+      "cashflow_stability": "은행업의 특성상 부채 규모가 크지만, 총 현금성 자산이 부채를 상회하는 등 유동성은 풍부함. 글로벌 시스템 중요 은행(G-SIB)으로서 파산 위험은 매우 제한적."
+    },
+    "macro_sensitivity": "대표적인 금리 인상 수혜주. 순이자마진(NIM) 확대를 통해 수익성 개선이 기대됨. 반면, 글로벌 투자은행(IB) 부문은 경기 침체 시 기업 활동 위축으로 실적이 둔화될 수 있는 경기 순환적 특성을 가짐.",
+    "technical_synergy": "깊은 가치주(Deep Value) 특성상 펀더멘털 개선 없이는 장기 소외될 수 있음. 그러나 실적 턴어라운드가 확인되며 '단테의 밥그릇 3번 자리'를 형성할 경우, 시장의 재평가가 시작되는 신호로 해석되어 기관 투자자 자금 유입과 함께 강력하고 신뢰도 높은 추세 상승을 기대할 수 있음.",
+    "business_moat": "독일을 대표하는 최대 은행이자 글로벌 시스템 중요 은행(G-SIB)으로서의 지위가 핵심 해자. 유럽 내 기업 및 투자 금융 부문에서 수십 년간 구축한 독보적인 네트워크와 브랜드는 신규 경쟁자가 넘볼 수 없는 진입 장벽으로 작용한다.",
+    "ai_system_tags": [
+      "Value",
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

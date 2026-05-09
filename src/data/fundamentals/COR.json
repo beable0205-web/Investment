@@ -1,0 +1,34 @@
+{
+  "ticker": "COR",
+  "lastUpdated": "2026-05-08T15:22:06.818Z",
+  "rawFinancials": {
+    "name": "Cencora, Inc.",
+    "marketCap": 51687092224,
+    "trailingPE": 20.3727,
+    "forwardPE": 13.480284,
+    "priceToBook": 27.08053,
+    "totalRevenue": 328680013824,
+    "operatingMargins": 0.01716,
+    "returnOnEquity": 1.0713401,
+    "freeCashflow": -318246112,
+    "totalCash": 2176496128,
+    "totalDebt": 15092111360,
+    "currentRatio": 0.947,
+    "revenueGrowth": 0.038
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 성장률은 3.8%로 낮지만, 선행 PER이 후행 PER보다 현저히 낮아 향후 이익 개선에 대한 시장의 기대감이 높음을 시사. 안정적 외형 성장 속 수익성 개선이 관건.",
+      "profitability": "1.7%의 초박리다매(high-volume, low-margin) 구조. 100%가 넘는 ROE는 높은 부채를 활용한 재무 레버리지 효과로, 실제 영업 수익성보다는 재무 구조의 특성을 반영.",
+      "cashflow_stability": "영업활동으로 인한 현금흐름(Free Cash Flow)이 마이너스이고, 총부채가 현금성 자산을 크게 상회하며 유동비율이 1 미만인 점은 재무 안정성에 대한 주요 위험 요인."
+    },
+    "macro_sensitivity": "의약품 유통이라는 핵심 사업은 경기에 둔감한 대표적인 경기 방어주 특성을 지님. 그러나, 부채 규모가 커 금리 인상 시기에는 이자 비용 증가로 인한 수익성 악화에 취약할 수 있음.",
+    "technical_synergy": "이와 같은 저마진 대형주는 펀더멘털 개선(마진율 회복, 부채 감축)이 확인될 때, 장기 이평선 지지 패턴(단테의 밥그릇 3번 자리)은 폭발적 급등보다는 기관 투자자의 꾸준한 매수세 유입을 동반하는 안정적이고 신뢰도 높은 추세 전환 신호로 작용할 가능성이 높음.",
+    "business_moat": "미국 의약품 유통 시장을 소수의 기업이 과점하는 구조의 핵심 플레이어로서, 거대한 유통망과 규모의 경제가 진입장벽으로 작용함. 이를 통해 제약사와 고객(병원, 약국) 양측에 대한 강력한 협상력을 확보함.",
+    "ai_system_tags": [
+      "Value",
+      "Defensive",
+      "Turnaround"
+    ]
+  }
+}

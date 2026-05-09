@@ -1,0 +1,34 @@
+{
+  "ticker": "EXE",
+  "lastUpdated": "2026-05-08T17:27:16.772Z",
+  "rawFinancials": {
+    "name": "Expand Energy Corporation",
+    "marketCap": 23157352448,
+    "trailingPE": 7.2023816,
+    "forwardPE": 9.82869,
+    "priceToBook": 1.1889993,
+    "totalRevenue": 12956000256,
+    "operatingMargins": 0.3404,
+    "returnOnEquity": 0.17568001,
+    "freeCashflow": 1695624960,
+    "totalCash": 2220000000,
+    "totalDebt": 5058999808,
+    "currentRatio": 1.111,
+    "revenueGrowth": 0.41
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "폭발적이지만 경기 순환에 따른 변동성이 큰 성장성. 최근 41%의 매출 성장은 지속 가능하기보다는 특정 사이클 정점의 결과일 가능성이 높음.",
+      "profitability": "원자재 가격 상승에 힘입은 독점적 수준의 고마진 구조. 34%의 영업이익률과 17.6%의 ROE는 업계 최상위권의 수익성을 증명함.",
+      "cashflow_stability": "강력한 잉여현금흐름 창출 능력 보유. 다만, 총 부채가 현금 보유액의 2배를 넘어 경기 하강 국면 진입 시 재무적 압박이 가중될 수 있음."
+    },
+    "macro_sensitivity": "인플레이션 및 원자재 가격 상승의 직접적 수혜주. 경기 침체로 인한 수요 감소에 매우 취약하며, 금리 변동보다는 실물 경기 사이클과 지정학적 리스크에 극도로 민감함.",
+    "technical_synergy": "경기 순환적 특성상, 장기 이평선 지지 및 돌파 패턴('단테의 밥그릇 3번 자리')은 새로운 상승 사이클의 시작을 알리는 강력한 신호일 수 있음. 폭발적인 이익 창출 능력이 뒷받침되므로, 패턴 완성 시 주가 상승의 폭발력과 신뢰도가 매우 높음.",
+    "business_moat": "저비용 생산이 가능한 핵심 에너지 자산을 보유하여, 원자재 가격 상승기에 막대한 이익을 창출하는 구조. 해자의 깊이는 거시 경제 및 원자재 가격 사이클에 따라 변동성이 큼.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "High-Growth"
+    ]
+  }
+}

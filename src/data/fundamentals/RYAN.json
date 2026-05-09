@@ -1,0 +1,34 @@
+{
+  "ticker": "RYAN",
+  "lastUpdated": "2026-05-09T09:09:08.430Z",
+  "rawFinancials": {
+    "name": "Ryan Specialty Holdings, Inc.",
+    "marketCap": 8265120256,
+    "trailingPE": 38.182926,
+    "forwardPE": 13.295907,
+    "priceToBook": 6.262,
+    "totalRevenue": 3101357056,
+    "operatingMargins": 0.17371,
+    "returnOnEquity": 0.22768,
+    "freeCashflow": 594974528,
+    "totalCash": 154650000,
+    "totalDebt": 3742665984,
+    "currentRatio": 1.023,
+    "revenueGrowth": 0.158
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출이 15.8% 성장하고 순이익은 폭발적 증가가 예상되어(선행 PER 13.3), 전형적인 고성장(High-Growth) 기업의 특성을 보임.",
+      "profitability": "17.4%의 높은 영업이익률과 22.8%의 탁월한 자기자본이익률(ROE)은 특정 시장에서의 강력한 가격 결정력과 효율적인 자본 활용을 증명하는 독점적 수익 구조를 시사함.",
+      "cashflow_stability": "시가총액 대비 7%가 넘는 강력한 잉여현금흐름(FCF)을 창출하나, 총부채가 현금 보유액을 크게 상회하고 유동비율이 1.02로 낮아 레버리지 리스크가 상존함."
+    },
+    "macro_sensitivity": "특수 보험 중개업의 특성상, 금리 인상기에는 보유 현금(플로트)의 운용 수익 증가로 수혜를 볼 수 있음. 경기 침체 시에도 기업의 필수적인 리스크 전가 수요는 유지되므로, 일반 경기민감주에 비해 방어적인 성격을 지님.",
+    "technical_synergy": "폭발적인 이익 성장이 기대되는 펀더멘털은 주가 상승의 강력한 '연료' 역할을 함. 만약 이 종목이 장기 이평선 돌파 후 지지받는 '밥그릇 3번 자리'와 같은 신뢰도 높은 기술적 패턴을 형성한다면, 펀더멘털과 기술적 요인이 공명하여 매우 폭발적인 시세 분출로 이어질 잠재력이 높음.",
+    "business_moat": "Ryan Specialty는 일반 보험사가 취급하기 어려운 사이버, 전문직 배상 책임 등 특수하고 복잡한 리스크를 전문적으로 인수하고 중개하는 도매 보험사입니다. 이들의 해자는 특정 분야에 대한 깊은 전문성과 광범위한 중개 네트워크, 그리고 규모의 경제에서 비롯되며, 이는 높은 진입장벽과 강력한 마진으로 이어집니다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Value",
+      "Defensive"
+    ]
+  }
+}

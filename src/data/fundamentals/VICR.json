@@ -1,0 +1,33 @@
+{
+  "ticker": "VICR",
+  "lastUpdated": "2026-05-08T20:02:44.362Z",
+  "rawFinancials": {
+    "name": "Vicor Corporation",
+    "marketCap": 11690263552,
+    "trailingPE": 86.06376,
+    "forwardPE": 48.789444,
+    "priceToBook": 16.31281,
+    "totalRevenue": 426702016,
+    "operatingMargins": 0.14946,
+    "returnOnEquity": 0.20486,
+    "freeCashflow": 9039375,
+    "totalCash": 404244992,
+    "totalDebt": 7146000,
+    "currentRatio": 14.296,
+    "revenueGrowth": 0.202
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "고성장. 20%가 넘는 매출 성장률과 Trailing PE 대비 현저히 낮은 Forward PE는 시장이 강력한 이익 성장을 기대하고 있음을 보여줌.",
+      "profitability": "기술 기반의 견고한 수익성. 15%에 가까운 영업이익률과 20%를 상회하는 자기자본이익률(ROE)은 특허 기술 등에 기반한 강력한 가격 결정력과 효율적인 자본 활용 능력을 증명함.",
+      "cashflow_stability": "철옹성 같은 재무안정성, 단 성장 투자로 인한 현금흐름 변동성 존재. 막대한 현금 보유량(4억 달러)과 거의 없는 부채(7백만 달러)로 파산 위험은 극히 낮으나, 성장을 위한 대규모 자본 지출로 인해 잉여현금흐름은 상대적으로 미미한 수준임."
+    },
+    "macro_sensitivity": "전형적인 금리 인상기 민감주이자 경기 순환주. 높은 밸류에이션은 미래 이익의 현재가치 할인율에 민감하여 금리 인상에 취약하며, 주력 사업 분야가 기업들의 자본적 지출(CAPEX)에 의존하므로 경기 침체 시 수요 둔화 위험이 존재함.",
+    "technical_synergy": "펀더멘털이 뒷받침되는 고베타 주식으로, 장기 이평선 지지 시 높은 신뢰도와 폭발력을 기대할 수 있음. 특히, 부채가 거의 없는 재무 상태는 기술적 지지 구간의 신뢰도를 높여주며, 성장성(실적)이 시장 기대치를 충족시킬 경우 급격한 주가 상승의 촉매제로 작용할 가능성이 큼.",
+    "business_moat": "고효율, 고밀도 전력 변환 모듈 분야에서 특허 기반의 강력한 기술적 해자를 보유하고 있음. 이는 AI, 데이터센터, 자율주행차 등 고성능 컴퓨팅 시장의 성장에 필수적인 부품을 공급하며 독점적 지위를 일부 확보하고 있음을 시사함.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Cyclical"
+    ]
+  }
+}

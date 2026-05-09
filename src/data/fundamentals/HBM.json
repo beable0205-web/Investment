@@ -1,0 +1,34 @@
+{
+  "ticker": "HBM",
+  "lastUpdated": "2026-05-09T08:45:23.708Z",
+  "rawFinancials": {
+    "name": "Hudbay Minerals Inc.",
+    "marketCap": 9937847296,
+    "trailingPE": 14.982037,
+    "forwardPE": 11.467911,
+    "priceToBook": 2.8125,
+    "totalRevenue": 2373400064,
+    "operatingMargins": 0.40037,
+    "returnOnEquity": 0.19476,
+    "freeCashflow": 545612480,
+    "totalCash": 1003800000,
+    "totalDebt": 1177200000,
+    "currentRatio": 1.356,
+    "revenueGrowth": 0.273
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "원자재 가격 상승 사이클에 힘입어 27.3%의 폭발적인 매출 성장을 기록 중. 미래 이익 성장에 대한 기대감(Forward PE < Trailing PE)이 높아 '고성장' 국면에 진입한 것으로 판단됨.",
+      "profitability": "40%에 달하는 경이적인 영업이익률과 20%에 육박하는 자기자본이익률(ROE)은 업계 최상위 수준. 이는 독점적인 원가 경쟁력을 갖춘 우량 자산을 보유했음을 시사하며, '독점적 마진' 구조를 보임.",
+      "cashflow_stability": "순부채(Total Debt - Total Cash) 규모를 상회하는 강력한 잉여현금흐름(FCF)을 창출하고 있으며, 유동비율(Current Ratio) 또한 안정적. 파산 위험은 극히 낮으며 '현금 창출력 우수' 기업으로 분류됨."
+    },
+    "macro_sensitivity": "구리 등 산업용 금속 가격에 실적이 직접적으로 연동되는 전형적인 '경기민감주(Cyclical)'. 글로벌 경기 확장 및 인플레이션 국면에서 강력한 수혜를 받지만, 경기 침체와 금리 인상 시기에는 수요 감소와 원자재 가격 하락으로 인한 실적 둔화 위험에 노출됨.",
+    "technical_synergy": "이처럼 강력한 펀더멘털(고성장, 고수익, 우량 현금흐름)을 가진 경기민감주가 장기 이평선 지지 후 상승 전환하는 '밥그릇 3번 자리' 패턴을 형성할 경우, 이는 단순한 기술적 반등이 아닌 새로운 실적 상승 사이클의 시작을 알리는 신호일 가능성이 높음. 따라서 패턴의 신뢰도와 이후의 상승 폭발력이 극대화될 수 있음.",
+    "business_moat": "핵심 비즈니스는 구리 중심의 비철금속 채굴 및 제련 사업임. 세계적 수준의 저비용 고품질 광산을 보유하여 원자재 가격 하락기에도 이익을 방어하고, 상승기에는 이익을 극대화하는 구조적 원가 우위가 이 기업의 핵심 경제적 해자임.",
+    "ai_system_tags": [
+      "Cyclical",
+      "High-Growth",
+      "Value"
+    ]
+  }
+}

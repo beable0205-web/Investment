@@ -1,0 +1,34 @@
+{
+  "ticker": "JBL",
+  "lastUpdated": "2026-05-08T16:23:00.191Z",
+  "rawFinancials": {
+    "name": "Jabil Inc.",
+    "marketCap": 37424947200,
+    "trailingPE": 47.871796,
+    "forwardPE": 24.353842,
+    "priceToBook": 27.929296,
+    "totalRevenue": 32667000832,
+    "operatingMargins": 0.046729997,
+    "returnOnEquity": 0.59696996,
+    "freeCashflow": 1203750016,
+    "totalCash": 1830000000,
+    "totalDebt": 4437000192,
+    "currentRatio": 1.013,
+    "revenueGrowth": 0.231
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "고성장. 23.1%의 높은 매출 성장률과 Trailing PE 대비 현저히 낮은 Forward PE는 향후 강력한 이익 성장을 시사함.",
+      "profitability": "박리다매형 고효율 구조. 4.7%의 낮은 영업이익률에도 불구하고, 60%에 육박하는 경이로운 자기자본이익률(ROE)을 기록하며 자본을 매우 효율적으로 활용하고 있음을 증명함.",
+      "cashflow_stability": "현금 창출력 양호, 부채 리스크 상존. 잉여현금흐름은 긍정적이나, 총부채가 총현금보다 2배 이상 많고 유동비율(1.013)이 낮아 레버리지 및 단기 유동성 리스크에 대한 관리가 필요함."
+    },
+    "macro_sensitivity": "경기 민감형 순환주. 글로벌 전자제품 및 산업재 수요에 직접적으로 연동되어 경기 확장 국면에서 수혜를 보지만, 경기 침체와 금리 인상 시기에는 전방 산업 위축과 부채 비용 증가로 인해 실적이 둔화될 위험이 큼.",
+    "technical_synergy": "성장주 모멘텀의 교과서. 높은 성장성과 ROE는 강력한 주가 상승 동력으로, '단테의 밥그릇 3번 자리'와 같이 장기 추세의 지지가 확인될 경우, 펀더멘털에 대한 신뢰가 더해져 폭발적인 시세 분출로 이어질 가능성이 매우 높음.",
+    "business_moat": "글로벌 생산 네트워크와 고객 잠금 효과(Lock-in)에 기반한 규모의 경제. 주요 고객사의 복잡한 공급망에 깊숙이 통합되어 있어 경쟁사가 대체하기 어려운 구조적 해자를 보유함.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Cyclical",
+      "Value"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "ticker": "PANW",
+  "lastUpdated": "2026-05-08T13:53:25.187Z",
+  "rawFinancials": {
+    "name": "Palo Alto Networks, Inc.",
+    "marketCap": 157755719680,
+    "trailingPE": 107.46962,
+    "forwardPE": 49.00106,
+    "priceToBook": 14.558791,
+    "totalRevenue": 9893499904,
+    "operatingMargins": 0.15496999,
+    "returnOnEquity": 0.16259001,
+    "freeCashflow": 2859225088,
+    "totalCash": 4536000000,
+    "totalDebt": 459000000,
+    "currentRatio": 1.045,
+    "revenueGrowth": 0.149
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "고성장. 15%에 가까운 견조한 매출 성장률과 함께, Trailing PE 대비 Forward PE가 절반 이하로 급감하며 폭발적인 이익 성장이 기대됨.",
+      "profitability": "견고한 수익성 구조. 성장 단계임에도 15%가 넘는 영업이익률과 16%대의 자기자본이익률(ROE)을 기록하며, 시장 지배력과 효율적인 비용 통제 능력을 증명함.",
+      "cashflow_stability": "최상급 현금 창출력. 총 부채의 약 10배에 달하는 현금을 보유하고 있으며, 매출의 약 29%를 잉여현금흐름으로 창출하는 압도적인 재무 건전성을 자랑함. 파산 위험은 거의 제로에 가까움."
+    },
+    "macro_sensitivity": "금리 민감도가 높은 경기 방어주. 사이버 보안은 기업의 필수 지출 항목이므로 경기 침체기에도 수요가 안정적이나, 높은 밸류에이션으로 인해 금리 인상기에는 할인율 상승에 따른 주가 조정 압력이 높음.",
+    "technical_synergy": "펀더멘털이 보증하는 기술적 신뢰도. 이처럼 압도적인 펀더멘털을 가진 기업이 장기 이평선을 돌파하고 지지하는 '밥그릇 3번 자리' 패턴을 형성할 경우, 이는 단순한 기술적 반등이 아닌 기관의 구조적 매수세 유입을 의미할 가능성이 높아, 패턴의 신뢰도와 추세의 폭발력이 극대화됨.",
+    "business_moat": "Palo Alto Networks는 네트워크, 클라우드, 보안 운영을 아우르는 통합 보안 플랫폼을 제공하는 사이버 보안 분야의 글로벌 리더입니다. 고객 이탈이 어려운 높은 전환 비용과 방대한 위협 데이터를 학습하는 네트워크 효과가 이 기업의 강력한 경제적 해자를 구축합니다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Defensive"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "ticker": "ARE",
+  "lastUpdated": "2026-05-09T09:24:08.586Z",
+  "rawFinancials": {
+    "name": "Alexandria Real Estate Equities",
+    "marketCap": 8061705728,
+    "forwardPE": -52.56818,
+    "priceToBook": 0.501915,
+    "totalRevenue": 2930149120,
+    "operatingMargins": 0.15890999,
+    "returnOnEquity": -0.04144,
+    "freeCashflow": 1408723072,
+    "totalCash": 418720000,
+    "totalDebt": 12878605312,
+    "currentRatio": 0.797,
+    "revenueGrowth": -0.115
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "역성장",
+      "profitability": "핵심 사업(임대)은 흑자이나, 과도한 부채 비용과 자산 감가상각으로 인해 순이익은 적자 상태",
+      "cashflow_stability": "순이익은 적자이나 비현금성 비용(감가상각)으로 인해 잉여현금흐름은 양호. 그러나 과도한 총부채와 1 미만의 유동비율은 재무적 압박 요인."
+    },
+    "macro_sensitivity": "대표적인 금리 민감주로, 금리 인상 시 이자 비용 증가와 자산 가치 하락의 이중 압박을 받음. 반대로 금리 인하 국면에서는 가장 큰 수혜를 기대할 수 있는 섹터에 속함.",
+    "technical_synergy": "P/B 0.5배의 극심한 저평가와 높은 부채 레버리지가 결합된 구조. 따라서 '밥그릇 3번 자리'와 같은 장기 추세 전환 신호 발생 시, 금리 인하 등 거시 환경 개선 기대감이 더해져 레버리지 효과에 기반한 폭발적인 주가 상승을 기대할 수 있음.",
+    "business_moat": "미국 핵심 혁신 클러스터 내 생명과학 및 기술 R&D 캠퍼스라는 대체 불가능한 자산을 독점적으로 소유. 높은 임차인 전환 비용과 제한된 공급으로 인해 발생하는 구조적인 해자를 보유하고 있음.",
+    "ai_system_tags": [
+      "Value",
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "ticker": "AG",
+  "lastUpdated": "2026-05-09T08:27:46.423Z",
+  "rawFinancials": {
+    "name": "First Majestic Silver Corp.",
+    "marketCap": 10793189376,
+    "trailingPE": 64.29412,
+    "forwardPE": 17.523046,
+    "priceToBook": 3.88968,
+    "totalRevenue": 1257156992,
+    "operatingMargins": 0.48963,
+    "returnOnEquity": 0.09327,
+    "freeCashflow": 503162496,
+    "totalCash": 973820992,
+    "totalDebt": 308739008,
+    "currentRatio": 2.598,
+    "revenueGrowth": 1.692
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "폭발적 성장. 100%가 넘는 매출 성장률과 후행 PER 대비 대폭 낮아진 선행 PER는 향후 이익의 급격한 팽창을 예고하고 있습니다.",
+      "profitability": "원자재 가격 연동형 고수익 구조. 50%에 육박하는 경이적인 영업이익률은 은(Silver) 가격 상승기에 막대한 이익을 창출하는 레버리지 효과를 보여줍니다.",
+      "cashflow_stability": "현금 창출력 우수 및 재무 건전성 최상. 총 부채의 3배가 넘는 현금을 보유하고 있으며, 강력한 잉여현금흐름을 바탕으로 파산 위험이 극히 낮은 '요새'와 같은 재무 상태를 갖추고 있습니다."
+    },
+    "macro_sensitivity": "인플레이션 및 금리 인하 시기에 높은 수혜를 받는 대표적인 원자재 경기민감주. 달러 약세, 실질금리 하락 국면에서 은 가격 상승과 함께 주가 민감도가 극대화되는 경향이 있습니다.",
+    "technical_synergy": "강력한 재무 건전성과 폭발적인 성장 잠재력은 장기 이평선 돌파와 같은 추세 전환 신호의 신뢰도를 극대화합니다. 거시경제 변수(은 가격)가 뒷받침될 경우, 펀더멘털이 주가 폭발의 강력한 촉매제로 작용하여 '단테의 밥그릇 3번 자리' 패턴의 파괴력을 배가시킬 수 있습니다.",
+    "business_moat": "핵심 경쟁력은 보유한 광산의 채굴 원가와 은 순도에 있으며, 이는 은 가격 변동기에도 안정적인 마진을 확보하는 경제적 해자로 작용합니다. 고품질의 광산 자산 자체가 타 기업이 모방하기 어려운 강력한 진입 장벽입니다.",
+    "ai_system_tags": [
+      "Cyclical",
+      "High-Growth",
+      "Turnaround"
+    ]
+  }
+}

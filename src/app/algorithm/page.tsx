@@ -16,6 +16,30 @@ export default function AlgorithmPage() {
       </header>
 
       <div style={{ display: 'flex', flexDirection: 'column', gap: '2rem' }}>
+
+        {/* AI 자가 진화 & 매크로 연동 시스템 */}
+        <div className="glass-panel" style={{ padding: '2.5rem', borderLeft: '6px solid #8b5cf6', position: 'relative', overflow: 'hidden', background: 'linear-gradient(145deg, rgba(139, 92, 246, 0.1), rgba(20, 20, 25, 0.8))' }}>
+          <div style={{ position: 'absolute', top: '-20px', right: '-20px', opacity: 0.05, transform: 'rotate(10deg)' }}>
+            <Activity size={200} />
+          </div>
+          <div style={{ position: 'relative', zIndex: 1 }}>
+            <div style={{ display: 'inline-flex', alignItems: 'center', gap: '0.5rem', background: 'rgba(139, 92, 246, 0.2)', color: '#c4b5fd', padding: '0.5rem 1rem', borderRadius: '999px', fontSize: '0.9rem', fontWeight: 'bold', marginBottom: '1rem' }}>
+              Core AI Engine
+            </div>
+            <h2 style={{ fontSize: '2rem', color: '#fff', margin: '0 0 1rem 0' }}>매크로 연동형 월간 AI 자가 진화 (Self-Evolution)</h2>
+            <p style={{ color: 'var(--text-secondary)', fontSize: '1.1rem', lineHeight: '1.7', marginBottom: '1.5rem' }}>
+              <strong>개념:</strong> 기술적 분석은 폭락장(거시경제 붕괴)에서 무용지물이 됩니다. 본 시스템은 매월 1회, <strong>미국 연준(FRED)의 실제 거시경제 데이터(장단기 금리차, 실업률 등)</strong>와 <strong>지난 한 달간의 포트폴리오 성과</strong>를 제미나이 AI가 스스로 복기하여 다음 달 매매 원칙을 진화시킵니다.
+            </p>
+            <div style={{ background: 'rgba(0,0,0,0.3)', padding: '1.5rem', borderRadius: '12px', border: '1px solid rgba(255,255,255,0.05)' }}>
+              <h4 style={{ margin: '0 0 0.75rem 0', color: '#a78bfa' }}>AI 딥러닝 룰 업데이트 프로세스</h4>
+              <ul style={{ margin: 0, paddingLeft: '1.5rem', color: '#d1d5db', lineHeight: '1.6' }}>
+                <li style={{ marginBottom: '0.5rem' }}><strong>월간 스크리닝 (Cooldown):</strong> 한 달에 딱 한 번만 스크리닝을 실행하며, <strong>올해 한 번이라도 추천된 종목은 연내 재추천을 전면 금지</strong>하여 중복 없는 신선한 50~100% 목표 타점만 발굴합니다.</li>
+                <li style={{ marginBottom: '0.5rem' }}><strong>거시경제 동기화:</strong> 실시간 장단기 금리차 역전 여부 및 실업률을 체크하여, 현재 시장이 Risk-On(강세장)인지 Risk-Off(침체기)인지 판단합니다.</li>
+                <li style={{ marginBottom: '0.5rem' }}><strong>자기 성찰 (Post-Mortem):</strong> 이번 달 발생한 손절/익절 내역을 AI가 분석하고, "매크로 침체기라 밥그릇 돌파가 번번이 실패했군. 다음 달엔 손절 라인을 -3%로 타이트하게 조이자"와 같이 <strong>스스로 진화 일지(Lesson)를 작성</strong>하고 시스템에 반영합니다.</li>
+              </ul>
+            </div>
+          </div>
+        </div>
         
         {/* 매수 기법 1 */}
         <div className="glass-panel" style={{ padding: '2.5rem', borderLeft: '6px solid #10b981', position: 'relative', overflow: 'hidden' }}>

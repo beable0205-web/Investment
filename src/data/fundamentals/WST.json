@@ -1,0 +1,33 @@
+{
+  "ticker": "WST",
+  "lastUpdated": "2026-05-08T17:46:55.610Z",
+  "rawFinancials": {
+    "name": "West Pharmaceutical Services, I",
+    "marketCap": 23098230784,
+    "trailingPE": 43.76841,
+    "forwardPE": 34.22374,
+    "priceToBook": 7.7516713,
+    "totalRevenue": 3220999936,
+    "operatingMargins": 0.21695,
+    "returnOnEquity": 0.19131,
+    "freeCashflow": 275662496,
+    "totalCash": 521400000,
+    "totalDebt": 321000000,
+    "currentRatio": 2.71,
+    "revenueGrowth": 0.21
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "고성장. 21%의 높은 매출 성장률과 이익 성장에 대한 시장의 기대를 반영하는 선행 PER(Forward PE)를 고려할 때, 명백한 고성장 기업으로 분류됩니다.",
+      "profitability": "독점적 마진. 21.7%에 달하는 높은 영업이익률과 19.1%의 우수한 자기자본이익률(ROE)은 강력한 가격 결정력과 경쟁 우위를 가진 독점적 수익 구조를 시사합니다.",
+      "cashflow_stability": "현금 창출력 우수. 총 부채(Total Debt)보다 많은 현금(Total Cash)을 보유한 넷 캐시(Net Cash) 상태이며, 2.71의 높은 유동비율은 파산 위험이 극히 낮은 최상위 수준의 재무 안정성을 증명합니다."
+    },
+    "macro_sensitivity": "경기 방어적 성장주. 제약 산업에 필수 부품을 공급하므로 경기 침체기에도 수요가 안정적인 경기 방어주의 특성을 지닙니다. 다만, 높은 밸류에이션(Trailing PE 43.8)으로 인해 금리 인상 시기에는 미래 현금흐름 할인율 상승에 따른 주가 조정 압력을 받을 수 있습니다.",
+    "technical_synergy": "이처럼 펀더멘털이 견고한 우량주가 장기 이평선 지지 후 상승하는 '단테의 밥그릇 3번 자리'와 같은 기술적 패턴을 형성할 경우, 그 신뢰도는 매우 높습니다. 기관 투자자들의 매수세가 유입되며, 단순한 기술적 반등을 넘어 장기적인 추세 상승으로 이어질 폭발적인 잠재력을 가집니다.",
+    "business_moat": "제약사에 필수적인 약물 포장 및 전달 시스템을 공급하며, 엄격한 규제 승인과 높은 고객 전환 비용으로 인해 강력한 경제적 해자를 구축했습니다. 이는 독점적인 가격 결정력과 안정적인 고객 관계의 기반이 됩니다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Defensive"
+    ]
+  }
+}

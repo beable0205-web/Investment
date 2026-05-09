@@ -1,0 +1,32 @@
+{
+  "ticker": "AGNC",
+  "lastUpdated": "2026-05-08T19:44:35.455Z",
+  "rawFinancials": {
+    "name": "AGNC Investment Corp.",
+    "marketCap": 12455032832,
+    "trailingPE": 8.476563,
+    "forwardPE": 7.168625,
+    "priceToBook": 1.2193753,
+    "totalRevenue": 1604999936,
+    "operatingMargins": 1.29825,
+    "returnOnEquity": 0.13248,
+    "totalCash": 18314999808,
+    "totalDebt": 88055996416,
+    "currentRatio": 0.19
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 구조가 금리 스프레드에 의존적이므로 전통적 성장성 평가가 무의미하며, 거시 환경에 따라 이익 변동성이 극심함",
+      "profitability": "높은 레버리지를 활용하여 순이자마진(NIM)을 극대화하는 고수익-고위험 구조. ROE(13.2%)는 양호하나, 이는 막대한 부채에 기반함",
+      "cashflow_stability": "부채비율이 극단적으로 높고(Debt: $88B vs Market Cap: $12.4B), 유동성 비율(Current Ratio: 0.19)이 매우 낮아 외부 충격에 취약함. 현금흐름은 금리 정책에 따라 급변하여 안정성이 매우 낮음"
+    },
+    "macro_sensitivity": "연준의 금리 정책 및 장단기 금리차(수익률 곡선)에 실적이 직결되는 대표적인 금리 민감주. 금리 급등 시 보유자산 가치 하락 및 자금조달 비용 증가라는 이중고를 겪으며, 경기 침체기 유동성 위기에 취약함",
+    "technical_synergy": "펀더멘털이 거시 변수에 종속적이므로, 기술적 패턴의 신뢰도는 독립적으로 높지 않음. 그러나 '금리 인하 기대감'과 같은 우호적 거시 환경 변화와 함께 장기 이평선 돌파 패턴이 나타날 경우, 급격한 장부 가치 회복 기대를 반영하며 강력한 시세 분출로 이어질 잠재력이 큼",
+    "business_moat": "AGNC는 정부 보증 모기지 증권(MBS)에 레버리지를 활용하여 투자하고, 자산과 부채의 금리 차이에서 수익을 창출합니다. 경제적 해자는 금리 변동성을 예측하고 헤지하는 경영진의 전문성에 있으나, 금리 리스크에 그대로 노출되는 본질적 한계를 가집니다.",
+    "ai_system_tags": [
+      "Dividend",
+      "Value",
+      "Cyclical"
+    ]
+  }
+}

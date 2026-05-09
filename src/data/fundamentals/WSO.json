@@ -1,0 +1,34 @@
+{
+  "ticker": "WSO",
+  "lastUpdated": "2026-05-08T18:30:50.093Z",
+  "rawFinancials": {
+    "name": "Watsco, Inc.",
+    "marketCap": 17119457280,
+    "trailingPE": 34.916252,
+    "forwardPE": 29.45905,
+    "priceToBook": 5.7877812,
+    "totalRevenue": 7241213952,
+    "operatingMargins": 0.0683,
+    "returnOnEquity": 0.18595,
+    "freeCashflow": 523657504,
+    "totalCash": 592678976,
+    "totalDebt": 476204000,
+    "currentRatio": 3.342,
+    "revenueGrowth": 0.001
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 성장 정체. 0.1%의 매출 성장은 사실상 제자리걸음이나, 순이익 성장 기대감(낮아지는 Forward PE)은 마진 개선 또는 자사주 매입을 통해 나타날 수 있음.",
+      "profitability": "안정적 마진과 높은 자본 효율성. 6.8%의 영업이익률은 유통업 특성상 평이하나, 18.6%의 높은 자기자본이익률(ROE)은 자본을 매우 효율적으로 사용하여 이익을 창출하고 있음을 증명함.",
+      "cashflow_stability": "현금 창출력 우수 및 재무 건전성 최상. 총부채보다 총현금이 많은 순현금 상태이며, 3.3배의 높은 유동비율과 강력한 잉여현금흐름은 파산 위험을 극도로 낮춤."
+    },
+    "macro_sensitivity": "건설 경기에 민감하나, 필수 교체 수요로 인해 경기 침체기에도 일정 수준의 방어력을 갖춘 경기 순환주. 금리 인상은 신규 주택 건설 시장에 부정적 영향을 줄 수 있으나, 노후 장비 교체 수요는 금리 변동에 상대적으로 둔감함.",
+    "technical_synergy": "견고한 펀더멘털이 주가의 하방 경직성을 확보해주므로, 성장성 회복과 같은 촉매제가 동반된 장기 이평선 돌파 패턴은 높은 신뢰도를 보임. 다만 높은 밸류에이션은 폭발적인 상승보다는 안정적인 우상향 추세를 기대하게 함.",
+    "business_moat": "미국 최대의 HVAC(냉난방 공조) 유통망을 기반으로 한 규모의 경제와 네트워크 효과가 핵심 해자임. 수만 개의 지역 설치업체에 필수적인 부품과 장비를 효율적으로 공급하며 강력한 시장 지배력을 구축함.",
+    "ai_system_tags": [
+      "Dividend",
+      "Defensive",
+      "Cyclical"
+    ]
+  }
+}

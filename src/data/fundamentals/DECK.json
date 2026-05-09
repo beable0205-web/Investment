@@ -1,0 +1,34 @@
+{
+  "ticker": "DECK",
+  "lastUpdated": "2026-05-08T19:12:52.111Z",
+  "rawFinancials": {
+    "name": "Deckers Outdoor Corporation",
+    "marketCap": 14284425216,
+    "trailingPE": 14.294034,
+    "forwardPE": 13.70126,
+    "priceToBook": 5.4887094,
+    "totalRevenue": 5374707200,
+    "operatingMargins": 0.31384,
+    "returnOnEquity": 0.39688,
+    "freeCashflow": 758731904,
+    "totalCash": 2086745984,
+    "totalDebt": 342881984,
+    "currentRatio": 2.856,
+    "revenueGrowth": 0.071
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 성장. 7.1%의 견조한 매출 성장을 보이며, 높은 이익률을 바탕으로 이익은 그 이상으로 성장하는 구조.",
+      "profitability": "독점적 마진. 30%가 넘는 경이로운 영업이익률과 40%에 육박하는 자기자본이익률(ROE)은 강력한 브랜드 파워를 증명함.",
+      "cashflow_stability": "현금 창출력 최상위, 사실상 무부채. 보유 현금이 총 부채의 6배를 초과하는 압도적인 재무 건전성을 바탕으로 파산 위험이 극히 낮음."
+    },
+    "macro_sensitivity": "소비재 경기 민감주이나, 강력한 브랜드 충성도와 초우량 재무구조 덕분에 경기 침체기에도 일정 수준의 방어력을 보유함. 금리 변동에 대한 직접적인 영향은 미미함.",
+    "technical_synergy": "견고한 펀더멘털(높은 이익률, 순현금)이 장기 이평선 지지 패턴의 신뢰도를 극대화함. 기술적 돌파 발생 시, 펀더멘털 가치에 대한 시장의 재평가가 동반되므로, 단순 모멘텀을 넘어선 강력하고 지속적인 상승 추세를 기대할 수 있음.",
+    "business_moat": "핵심 동력은 호카(HOKA)와 어그(UGG)라는 강력한 브랜드 자산으로, 이는 소비자에게 높은 가격을 전가할 수 있는 강력한 가격 결정력을 부여한다. 이러한 브랜드 충성도는 경쟁사들이 쉽게 모방할 수 없는 깊은 경제적 해자 역할을 한다.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Defensive"
+    ]
+  }
+}

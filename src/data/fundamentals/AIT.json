@@ -1,0 +1,34 @@
+{
+  "ticker": "AIT",
+  "lastUpdated": "2026-05-08T20:13:24.593Z",
+  "rawFinancials": {
+    "name": "Applied Industrial Technologies",
+    "marketCap": 11409410048,
+    "trailingPE": 29.177694,
+    "forwardPE": 26.186382,
+    "priceToBook": 6.1497703,
+    "totalRevenue": 4838729216,
+    "operatingMargins": 0.110190004,
+    "returnOnEquity": 0.21899,
+    "freeCashflow": 332143872,
+    "totalCash": 171576000,
+    "totalDebt": 365300000,
+    "currentRatio": 2.947,
+    "revenueGrowth": 0.073
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 성장. 7.3%의 견조한 매출 성장을 보이며, Trailing PE 대비 낮은 Forward PE는 향후 이익 증가에 대한 시장의 기대를 반영함.",
+      "profitability": "견고한 수익성 및 자본 효율성. 11%대의 안정적인 영업이익률과 21.9%에 달하는 높은 자기자본이익률(ROE)은 주주자본을 활용한 이익 창출 능력이 매우 뛰어남을 증명함.",
+      "cashflow_stability": "우수한 현금 창출력 및 낮은 부채 리스크. 총 부채를 1년 남짓한 기간의 잉여현금흐름으로 상환 가능할 정도로 현금 창출력이 뛰어나며, 3에 가까운 유동비율은 재무 안정성이 극도로 높음을 시사함."
+    },
+    "macro_sensitivity": "경기 순환적 성격을 띠나, 필수적인 MRO(유지보수) 사업부문이 경기 하방을 방어하는 구조. 산업 생산량에 연동되어 경기 확장기에 수혜를 입지만, 경기 침체기에도 기업들의 필수 유지보수 수요 덕분에 실적이 일정 수준 방어되는 특징을 가짐. 낮은 부채 비율로 금리 인상 시기에도 이자 비용 부담이 적음.",
+    "technical_synergy": "AIT와 같이 우량한 재무구조를 가진 기업이 장기 이평선 지지 패턴(단테의 밥그릇 3번 자리)을 형성할 경우, 이는 투기적 수급이 아닌 기관 투자자의 견고한 매수세가 뒷받침될 가능성이 높다. 따라서 패턴의 신뢰도가 높으며, 단기 급등보다는 꾸준하고 안정적인 우상향 추세를 기대할 수 있다.",
+    "business_moat": "광범위한 유통 네트워크와 기술 전문성을 기반으로 산업 현장에 필수적인 부품 및 솔루션을 공급하는 핵심적 역할을 수행한다. 규모의 경제와 오랜 고객 관계가 진입 장벽으로 작용하여 안정적인 경제적 해자를 구축한다.",
+    "ai_system_tags": [
+      "Cyclical",
+      "Value",
+      "Defensive"
+    ]
+  }
+}

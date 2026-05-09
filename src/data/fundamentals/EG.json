@@ -1,0 +1,34 @@
+{
+  "ticker": "EG",
+  "lastUpdated": "2026-05-08T19:14:09.382Z",
+  "rawFinancials": {
+    "name": "Everest Group, Ltd.",
+    "marketCap": 13904668672,
+    "trailingPE": 7.156416,
+    "forwardPE": 5.784071,
+    "priceToBook": 0.9249836,
+    "totalRevenue": 17336999936,
+    "operatingMargins": 0.20232001,
+    "returnOnEquity": 0.13822,
+    "freeCashflow": 3993250048,
+    "totalCash": 3638000128,
+    "totalDebt": 3588999936,
+    "currentRatio": 0.382,
+    "revenueGrowth": -0.047
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "최근 매출은 역성장(-4.7%)했으나, Trailing PE 대비 낮은 Forward PE는 향후 강력한 이익 턴어라운드에 대한 시장의 기대를 반영함. 성장 정체 국면에서 이익 개선으로 전환되는 시점.",
+      "profitability": "영업이익률 20.2%의 최상위권 수익성과 13.8%의 견조한 자기자본이익률(ROE)을 기록. 보험 본업에서 안정적으로 높은 마진을 창출하는 구조.",
+      "cashflow_stability": "시가총액의 28%에 달하는 압도적인 잉여현금흐름과 부채를 상회하는 현금 보유량은 파산 위험이 거의 없는 '철옹성' 수준의 재무 건전성을 증명함. 낮은 유동비율은 산업 특성상 오해의 소지가 있음."
+    },
+    "macro_sensitivity": "금리 인상 시기에는 보유 채권의 투자 수익률이 상승하여 직접적인 수혜를 입는 대표적인 금리 상승 수혜주. 보험 수요는 경기에 둔감하여 경기 방어적 성격을 띠지만, 인플레이션은 보험금 지급 비용을 증가시켜 수익성에 부담을 줄 수 있음.",
+    "technical_synergy": "깊은 가치(Deep Value)와 턴어라운드 스토리를 내포한 펀더멘털을 보유. 따라서 '단테의 밥그릇 3번 자리'와 같은 장기 추세 전환 신호가 나타날 경우, 펀더멘털 가치를 재평가받는 과정에서 단순한 기술적 반등을 넘어 매우 높은 신뢰도와 폭발적인 주가 상승을 기대할 수 있음.",
+    "business_moat": "글로벌 재보험 및 보험 시장에서의 규모의 경제와 리스크 관리 전문성을 바탕으로 한 강력한 브랜드 신뢰도가 핵심 해자임. 막대한 자본과 규제 장벽은 신규 경쟁자의 진입을 매우 어렵게 만듦.",
+    "ai_system_tags": [
+      "Value",
+      "Turnaround",
+      "Defensive"
+    ]
+  }
+}

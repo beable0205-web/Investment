@@ -1,0 +1,33 @@
+{
+  "ticker": "NLY",
+  "lastUpdated": "2026-05-08T18:38:59.034Z",
+  "rawFinancials": {
+    "name": "Annaly Capital Management Inc.",
+    "marketCap": 16535096320,
+    "trailingPE": 7.2790327,
+    "forwardPE": 7.575936,
+    "priceToBook": 1.1387264,
+    "totalRevenue": 2501053952,
+    "operatingMargins": 0.80999,
+    "returnOnEquity": 0.15042,
+    "totalCash": 795292032,
+    "totalDebt": 119637573632,
+    "currentRatio": 0.519,
+    "revenueGrowth": 0.488
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 성장률(48.8%)은 매우 높으나, 이는 금리 환경 및 포트폴리오 조정에 따른 변동성이 큰 특징을 보임. 낮은 PER(7.2배)은 전통적 성장주와는 다른 성격임을 시사.",
+      "profitability": "영업이익률(81%)은 금융업 특성상 매우 높으며, 순이자마진이 핵심 수익원임. ROE(15%)는 주주자본을 활용한 수익 창출 능력이 양호함을 의미하는 고마진 수익 구조.",
+      "cashflow_stability": "총부채(약 1,200억 달러)가 시가총액(약 165억 달러)을 압도하는 전형적인 고레버리지 사업 모델. 유동비율(0.52)이 낮아 금리 급등이나 신용 경색과 같은 외부 충격 발생 시 유동성 리스크에 취약함."
+    },
+    "macro_sensitivity": "금리 변동에 극도로 민감한 대표적인 금리 민감주. 장단기 금리차(수익률 곡선)가 순이자마진을 결정하며, 금리 인상기에는 차입 비용 증가와 보유 채권 가치 하락으로 이중고를 겪을 수 있음. 반대로 금리 인하 및 안정기에는 강력한 수혜가 기대됨.",
+    "technical_synergy": "펀더멘털이 거시경제 변수에 종속적이므로, '단테의 밥그릇 3번 자리'와 같은 장기 바닥 패턴의 신뢰도는 연준의 금리 정책 전환(Pivot) 시그널과 결합될 때 극대화됨. 기술적 신호와 거시적 촉매가 일치할 경우, 금리 하락 기대감이 주가에 폭발적으로 반영될 잠재력이 높음.",
+    "business_moat": "Annaly의 비즈니스 모델은 단기 차입금으로 정부 보증 주택저당증권(MBS)에 투자하여 금리 차이(Net Interest Spread)에서 수익을 창출하는 구조입니다. 경제적 해자는 자본 시장 접근성을 높이는 규모의 경제와 금리 변동 위험을 정교하게 관리하는 경영진의 헤지(Hedge) 운용 능력에 있습니다.",
+    "ai_system_tags": [
+      "Dividend",
+      "Cyclical",
+      "Value"
+    ]
+  }
+}

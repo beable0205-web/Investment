@@ -1,0 +1,34 @@
+{
+  "ticker": "SCMWY",
+  "lastUpdated": "2026-05-08T15:54:04.574Z",
+  "rawFinancials": {
+    "name": "Swisscom AG",
+    "marketCap": 44476313600,
+    "trailingPE": 28.095083,
+    "forwardPE": 21.785723,
+    "priceToBook": 2.8519776,
+    "totalRevenue": 14894999552,
+    "operatingMargins": 0.14337,
+    "returnOnEquity": 0.10398,
+    "freeCashflow": 3843869952,
+    "totalCash": 1096999936,
+    "totalDebt": 16384000000,
+    "currentRatio": 0.773,
+    "revenueGrowth": -0.041
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출이 -4.1% 감소하며 역성장 국면에 있으나, 시장은 순이익 개선을 기대(Forward PE < Trailing PE). 전형적인 저성장 성숙기 기업.",
+      "profitability": "영업이익률 14.3%, ROE 10.4%로 독점적이지는 않지만 매우 안정적인 수익 구조. 통신 인프라 기반의 예측 가능한 수익성을 보임.",
+      "cashflow_stability": "시가총액의 약 8.6%에 달하는 강력한 잉여현금흐름(FCF)을 창출하는 현금 젖소. 다만, 총부채가 현금 보유액의 10배를 초과하고 유동비율이 1 미만으로 부채 관리가 핵심 변수."
+    },
+    "macro_sensitivity": "통신 서비스는 필수재이므로 경기 침체에 강한 대표적인 '경기 방어주'. 그러나 높은 부채 수준으로 인해 금리 인상 시기에는 이자 비용 증가 및 배당 매력 감소로 주가에 부정적 압력을 받을 수 있음.",
+    "technical_synergy": "이와 같은 저성장 고배당주는 폭발적인 주가 상승을 기대하기 어려움. 따라서 '단테의 밥그릇 3번 자리'와 같은 장기 추세 전환 패턴이 나타날 경우, 이는 투기적 급등보다는 가치 및 배당 투자자들의 꾸준한 자금 유입을 의미하므로 패턴의 신뢰도가 매우 높고, 하방 경직성이 강한 안정적 우상향을 기대할 수 있음.",
+    "business_moat": "스위스 통신 시장의 지배적 사업자로서, 막대한 자본 투자가 필요한 네트워크 인프라가 강력한 진입 장벽으로 작용합니다. 높은 브랜드 인지도와 고착화된 고객 기반을 통해 안정적인 현금 흐름을 창출하는 전형적인 유틸리티형 해자를 보유하고 있습니다.",
+    "ai_system_tags": [
+      "Defensive",
+      "Value",
+      "Dividend"
+    ]
+  }
+}

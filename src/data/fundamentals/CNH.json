@@ -1,0 +1,34 @@
+{
+  "ticker": "CNH",
+  "lastUpdated": "2026-05-08T19:32:47.950Z",
+  "rawFinancials": {
+    "name": "CNH Industrial N.V.",
+    "marketCap": 13623957504,
+    "trailingPE": 34.335938,
+    "forwardPE": 14.913471,
+    "priceToBook": 1.7454329,
+    "totalRevenue": 18093000704,
+    "operatingMargins": 0.026919998,
+    "returnOnEquity": 0.0484,
+    "freeCashflow": 247250000,
+    "totalCash": 1348999936,
+    "totalDebt": 26257000448,
+    "currentRatio": 4.899,
+    "revenueGrowth": -0.001
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 정체(-0.1%) 상태이나, Trailing PE(34.3) 대비 현저히 낮은 Forward PE(14.9)는 향후 강력한 이익 개선(턴어라운드)에 대한 시장의 기대를 반영함. 성장성 자체보다는 이익 회복이 핵심 투자 포인트.",
+      "profitability": "영업이익률(2.7%)과 자기자본이익률(4.8%)이 매우 낮아, 전형적인 박리다매 또는 저수익성 산업 구조에 속해 있음. 대규모 매출에도 불구하고 최종 이익으로 연결하는 능력이 취약함.",
+      "cashflow_stability": "시가총액을 훌쩍 뛰어넘는 과도한 부채(262억 달러)는 심각한 재무 리스크. 긍정적인 영업현금흐름을 창출하고 있으나, 높은 레버리지는 금리 변동에 매우 취약한 구조를 만듦."
+    },
+    "macro_sensitivity": "농업 및 건설 장비 수요에 직접적으로 의존하는 대표적인 경기 민감주(Cyclical Stock). 금리 인상 시 부채 이자 부담이 가중되고, 경기 침체 시 전방 산업의 투자 위축으로 인해 직접적인 타격을 받음.",
+    "technical_synergy": "이와 같은 고부채, 저수익성 턴어라운드 기업이 '단테의 밥그릇 3번 자리'를 형성하는 것은 단순한 기술적 신호를 넘어 '펀더멘털 개선'에 대한 시장의 강력한 신뢰가 형성되고 있음을 의미함. 재무 레버리지가 높은 만큼, 턴어라운드 성공 시 주가 상승의 폭발력은 여타 우량주를 압도할 잠재력을 가짐.",
+    "business_moat": "Case IH, New Holland 등 오랜 역사의 브랜드와 전 세계에 걸친 딜러 및 부품 네트워크가 핵심 해자 역할을 함. 하지만 John Deere와 같은 강력한 경쟁자로 인해 독점적 지위를 누리지 못하며, 이는 낮은 수익성으로 증명됨.",
+    "ai_system_tags": [
+      "Cyclical",
+      "Turnaround",
+      "Value"
+    ]
+  }
+}

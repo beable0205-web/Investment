@@ -1,0 +1,31 @@
+{
+  "ticker": "ARES",
+  "lastUpdated": "2026-05-08T16:10:17.328Z",
+  "rawFinancials": {
+    "name": "Ares Management Corporation",
+    "marketCap": 41925763072,
+    "trailingPE": 74.16374,
+    "forwardPE": 17.061407,
+    "priceToBook": 9.997635,
+    "totalRevenue": 5909112832,
+    "operatingMargins": 0.18345,
+    "totalCash": 1447984000,
+    "totalDebt": 14222266368,
+    "revenueGrowth": 0.283
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출액 28% 성장 및 순이익 급증 전망(Forward PE 17)이 확인되는 고성장 국면",
+      "profitability": "18%대의 안정적인 영업이익률을 기록 중이나, PBR 10배는 시장이 무형자산과 미래 성장성에 높은 가치를 부여하고 있음을 시사",
+      "cashflow_stability": "총부채가 현금성 자산의 약 10배에 달하는 높은 레버리지 구조. 이는 금융업 특성이자 성장의 동력이지만, 잠재적 리스크 요인."
+    },
+    "macro_sensitivity": "금리 인하 시기에는 자산 가치 상승과 인수금융 비용 감소로 강력한 수혜가 기대되나, 경기 침체 시에는 투자 회수(Exit) 지연 및 운용자산 감소 리스크에 노출됨.",
+    "technical_synergy": "펀더멘털의 폭발력(고성장, 이익 개선)이 '밥그릇 3번 자리'와 같은 추세 전환 패턴의 성공 확률을 극적으로 높임. 단, 거시경제 변수(특히 금리)가 패턴의 완성 여부를 결정하는 핵심 키로 작용.",
+    "business_moat": "세계 최대 대체자산 운용사 중 하나로서, 막대한 AUM에서 발생하는 규모의 경제와 브랜드 평판이 핵심 해자임. 기관 투자자들의 자금이 집중되는 승자독식 구조의 수혜자.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Cyclical",
+      "Value"
+    ]
+  }
+}

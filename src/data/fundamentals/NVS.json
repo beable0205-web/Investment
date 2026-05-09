@@ -1,0 +1,28 @@
+{
+  "ticker": "NVS",
+  "lastUpdated": "2026-05-08T13:08:51.944Z",
+  "rawFinancials": {
+    "name": "Novartis AG",
+    "marketCap": 277417492480,
+    "trailingPE": 20.829514,
+    "forwardPE": 14.620155,
+    "priceToBook": 6.0140643,
+    "totalRevenue": 56577998848,
+    "operatingMargins": 0.30479,
+    "returnOnEquity": 0.34929,
+    "freeCashflow": 12024750080,
+    "totalCash": 6892000256,
+    "totalDebt": 46997999616,
+    "currentRatio": 0.848,
+    "revenueGrowth": -0.007
+  },
+  "analysis": {
+    "financialHealthScore": 85,
+    "valuationRating": "Fair",
+    "moatAndBusiness": "노바티스는 특허 의약품을 개발하고 판매하여 수익을 창출하는 선도적인 글로벌 제약사입니다. 이 기업의 경제적 해자는 강력한 지적 재산권(특허) 포트폴리오와 막강한 R&D 파이프라인에 기반하며, 이는 높은 진입 장벽을 형성하고 프리미엄 가격 책정을 가능하게 합니다. 또한, 거대한 규모와 확고한 유통망은 글로벌 헬스케어 시장에서 회사의 경쟁 우위를 더욱 공고히 합니다.",
+    "redFlags": [
+      "유동성 비율 1 미만"
+    ],
+    "isInvestable": true
+  }
+}

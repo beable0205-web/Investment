@@ -1,0 +1,32 @@
+{
+  "ticker": "ABVX",
+  "lastUpdated": "2026-05-09T08:20:42.567Z",
+  "rawFinancials": {
+    "name": "Abivax SA",
+    "marketCap": 9732199424,
+    "forwardPE": -43.066666,
+    "priceToBook": 18.053276,
+    "totalRevenue": 4570000,
+    "operatingMargins": -37.43365,
+    "returnOnEquity": -1.35583,
+    "freeCashflow": -118316624,
+    "totalCash": 530383008,
+    "totalDebt": 32093000,
+    "currentRatio": 8.747,
+    "revenueGrowth": -0.554
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "역성장 (임상 단계 바이오테크). 현재 매출은 미미하며, 신약 개발 성공 시 폭발적 성장이 기대되는 전형적인 R&D 중심 기업.",
+      "profitability": "적자 늪. 신약 개발을 위한 막대한 연구개발비 지출로 인해 영업이익, 순이익, 자기자본이익률 모두 심각한 마이너스 상태.",
+      "cashflow_stability": "현금 소진 중이나, 보유 현금(5.3억 달러)이 부채(0.32억 달러)를 압도하여 단기 파산 위험은 매우 낮음. 현재 현금 소진 속도 기준 약 4.5년의 활주로(runway)를 확보한 상태."
+    },
+    "macro_sensitivity": "금리 인상에 극도로 취약한 성장주. 기업 가치가 먼 미래에 발생할 이익에 의존하므로, 할인율(금리) 상승 시 현재가치가 급격히 하락하며, 지속적인 자금 조달 비용 증가에 노출됨.",
+    "technical_synergy": "펀더멘털이 아닌 임상 결과, FDA 승인 등 단일 이벤트(Binary Event)가 주가를 결정하는 구조. 따라서 '단테의 밥그릇 3번 자리'와 같은 장기적 매집 패턴은, 내부 정보나 긍정적 임상 결과에 대한 기대를 반영하는 강력한 신호일 수 있으며, 성공 시 폭발적 시너지를 기대할 수 있음.",
+    "business_moat": "이 기업의 해자는 신약 후보 물질에 대한 지적재산권(특허)에 기반한다. 신약 개발 성공 시, 특허 기간 동안 시장을 독점하며 경쟁사가 모방할 수 없는 초고마진의 이익을 창출할 수 있다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Turnaround"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "ticker": "AHR",
+  "lastUpdated": "2026-05-09T08:26:01.998Z",
+  "rawFinancials": {
+    "name": "American Healthcare REIT, Inc.",
+    "marketCap": 9921606656,
+    "trailingPE": 87.64407,
+    "forwardPE": 52.94521,
+    "priceToBook": 2.8951347,
+    "totalRevenue": 2370967040,
+    "operatingMargins": 0.06389,
+    "returnOnEquity": 0.0349,
+    "totalCash": 119380000,
+    "totalDebt": 1676674048,
+    "currentRatio": 0.806,
+    "revenueGrowth": 0.209
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "고성장. 20.9%의 높은 매출 성장을 기록하고 있으며, 선행 PER이 후행 PER보다 낮아 이익 성장 기대감이 주가에 반영되어 있음.",
+      "profitability": "성장 우선, 수익성 취약. 높은 매출 성장에도 불구하고 영업이익률(6.4%)과 자기자본이익률(3.5%)이 매우 낮아, 성장이 아직 실질적인 주주가치 창출로 이어지지 못하는 구조.",
+      "cashflow_stability": "레버리지 의존, 단기 유동성 리스크. 1.0 미만의 유동비율(0.806)은 단기 부채 상환 압박 가능성을 시사하며, 사업 모델이 상당한 부채(16.7억 달러)에 의존하고 있음."
+    },
+    "macro_sensitivity": "금리 변동에 민감하나, 인구 고령화에 따른 장기 수요로 경기 방어적 성격 보유. 금리 인상 시기에는 부채 비용 증가로 수익성이 악화될 수 있으나, 헬스케어 부동산 수요는 경기 침체에도 비교적 안정적으로 유지됨.",
+    "technical_synergy": "높은 성장 기대감(고 PER)이 펀더멘털(낮은 수익성)을 앞서가는 '스토리 주식'. 장기 이평선 돌파 및 지지 패턴은 미래 수익성 개선에 대한 시장의 강력한 신뢰를 나타내며, 기대감이 현실화될 경우 폭발적인 모멘텀을 유발할 수 있음.",
+    "business_moat": "미국 내 고령화 인구 증가에 필수적인 시니어 하우징, 전문 요양 시설 등 헬스케어 부동산 자산을 소유 및 운영함. 높은 자본 비용과 규제 장벽이 진입을 막고, 비경기민감성 수요가 안정적인 현금 흐름의 기반이 됨.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Defensive",
+      "Turnaround"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "ticker": "FTI",
+  "lastUpdated": "2026-05-08T16:51:22.048Z",
+  "rawFinancials": {
+    "name": "TechnipFMC plc",
+    "marketCap": 28335742976,
+    "trailingPE": 27.229885,
+    "forwardPE": 20.546104,
+    "priceToBook": 8.465753,
+    "totalRevenue": 10191699968,
+    "operatingMargins": 0.14057,
+    "returnOnEquity": 0.33407003,
+    "freeCashflow": 987449984,
+    "totalCash": 960800000,
+    "totalDebt": 1304099968,
+    "currentRatio": 1.127,
+    "revenueGrowth": 0.116
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "11.6%의 견조한 매출 성장률과 순이익 증가가 기대되는 안정적 성장 국면. Trailing PE 대비 낮은 Forward PE는 시장의 성장 기대를 반영함.",
+      "profitability": "14%대의 준수한 영업이익률과 33%에 달하는 경이적인 자기자본이익률(ROE)은 자본을 매우 효율적으로 활용하여 높은 수익을 창출하고 있음을 증명함. 이는 강력한 가격 결정력 또는 독보적인 기술력의 반증일 수 있음.",
+      "cashflow_stability": "연간 약 10억 달러에 달하는 풍부한 잉여현금흐름을 창출. 총부채가 현금성 자산을 소폭 상회하나, 1.5년 미만의 잉여현금흐름으로 전액 상환 가능한 수준으로 파산 위험은 매우 낮음."
+    },
+    "macro_sensitivity": "에너지 산업 설비 투자에 직접적인 영향을 받는 대표적인 경기 민감주(Cyclical). 유가 및 천연가스 가격, 글로벌 경기 사이클에 따라 실적 변동성이 크며, 금리 인상 시기에는 고객사의 투자 위축으로 인한 리스크가 존재함.",
+    "technical_synergy": "견고한 펀더멘털을 갖춘 경기민감주로서, 장기 침체 후 '밥그릇 3번 자리'와 같은 장기 이평선 돌파 및 지지 패턴 출현 시 신뢰도가 매우 높음. 강력한 현금흐름과 수익성이 기관 투자자의 유입을 촉진하며, 사이클 턴어라운드에 대한 기대를 폭발적인 주가 상승으로 연결시킬 잠재력이 큼.",
+    "business_moat": "해양 에너지 프로젝트에 필수적인 독점적 기술과 통합 프로젝트 관리(iEPCI™) 역량이 핵심 해자임. 고객사 입장에서 대체 불가능한 기술 전문성과 프로젝트 수행 능력은 높은 전환 비용을 유발하며 신규 경쟁자의 진입을 막는 장벽으로 작용함.",
+    "ai_system_tags": [
+      "Cyclical",
+      "Growth",
+      "Turnaround"
+    ]
+  }
+}

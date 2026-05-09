@@ -1,0 +1,34 @@
+{
+  "ticker": "FER",
+  "lastUpdated": "2026-05-08T15:44:18.859Z",
+  "rawFinancials": {
+    "name": "Ferrovial N.V.",
+    "marketCap": 50572341248,
+    "trailingPE": 49.661972,
+    "forwardPE": 47.854824,
+    "priceToBook": 7.3396735,
+    "totalRevenue": 9626999808,
+    "operatingMargins": 0.12369,
+    "returnOnEquity": 0.14317,
+    "freeCashflow": 321375008,
+    "totalCash": 4241999872,
+    "totalDebt": 10732000256,
+    "currentRatio": 1.131,
+    "revenueGrowth": 0.057
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 외형 성장, 단 높은 밸류에이션은 미래 이익 개선 기대감을 반영",
+      "profitability": "견고한 영업이익률과 자기자본이익률을 통해 인프라 자산의 우수한 수익성을 증명",
+      "cashflow_stability": "플러스(+) 현금흐름 창출 능력은 긍정적이나, 총 부채 규모가 현금 및 현금흐름 대비 과도하여 재무 안정성 저해 요인으로 작용"
+    },
+    "macro_sensitivity": "대표적인 금리 민감주로, 금리 인상 시기에는 부채 부담이 가중되나, 관리 자산의 가격(통행료 등)을 물가에 연동시켜 인플레이션 헤지(Hedge)가 가능한 이중적 특징 보유",
+    "technical_synergy": "펀더멘털의 무게감이 있어 단기 급등보다 장기 추세 형성에 유리. '단테의 밥그릇 3번 자리'와 같은 장기 지지선 확인 패턴은 금리 사이클 변곡점과 맞물릴 때, 폭발력보다는 높은 신뢰도의 꾸준한 상승 추세를 기대하게 함.",
+    "business_moat": "공항, 유료도로 등 필수 인프라 자산을 장기 계약 하에 운영하여 막대한 초기 투자비와 정부 규제라는 강력한 진입장벽을 구축함. 이는 경쟁자의 출현을 원천적으로 차단하고 안정적인 현금흐름을 보장하는 핵심 해자임.",
+    "ai_system_tags": [
+      "Defensive",
+      "Cyclical",
+      "Value"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "ticker": "HPE",
+  "lastUpdated": "2026-05-08T16:12:34.929Z",
+  "rawFinancials": {
+    "name": "Hewlett Packard Enterprise Comp",
+    "marketCap": 40316465152,
+    "forwardPE": 11.175352,
+    "priceToBook": 1.6299217,
+    "totalRevenue": 35742998528,
+    "operatingMargins": 0.07644,
+    "returnOnEquity": -0.00471,
+    "freeCashflow": 2551500032,
+    "totalCash": 4840999936,
+    "totalDebt": 21660999680,
+    "currentRatio": 1.035,
+    "revenueGrowth": 0.184
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 성장률(18.4%)은 높으나, 마이너스 자기자본이익률(ROE)에서 보이듯 아직 수익성으로 연결되지 못하는 '성장통' 단계에 있습니다.",
+      "profitability": "영업이익률(7.6%)은 양호하나, 순이익단에서 손실을 기록하며 주주가치 창출에 어려움을 겪고 있습니다. 이는 잠재적인 구조조정 비용이나 비경상적 손실을 시사합니다.",
+      "cashflow_stability": "마이너스 순이익에도 불구하고 강력한 잉여현금흐름(FCF)을 창출하는 것은 매우 긍정적입니다. 그러나 높은 총부채와 1에 가까운 유동비율은 재무 안정성에 대한 지속적인 관찰이 필요함을 의미합니다."
+    },
+    "macro_sensitivity": "기업의 IT 투자에 직접적인 영향을 받는 경기 순환주(Cyclical)입니다. 경기 침체나 고금리 환경에서는 투자 지연으로 인한 실적 둔화 리스크가 존재하지만, AI 및 하이브리드 클라우드 전환이라는 거대한 흐름의 수혜주이기도 합니다.",
+    "technical_synergy": "전형적인 '턴어라운드' 종목의 특성을 보입니다. 낮은 밸류에이션(Forward PE)과 강력한 현금흐름이 주가 하방을 지지하는 상황에서, 실적 개선이 확인되며 장기 이평선을 돌파하고 지지하는 '단테의 밥그릇 3번 자리' 패턴이 나타날 경우, 시장의 의심이 확신으로 바뀌며 매우 높은 신뢰도와 폭발적인 주가 상승을 기대할 수 있습니다.",
+    "business_moat": "HPE는 서버, 스토리지 등 전통적 하드웨어 시장에서의 오랜 고객 관계와 글로벌 유통망을 기반으로 합니다. 최근에는 서비스형 인프라(HPE GreenLake)를 통해 구독 기반의 안정적인 수익 모델로 전환하며 고객 락인(Lock-in) 효과를 강화하고 있습니다.",
+    "ai_system_tags": [
+      "Value",
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

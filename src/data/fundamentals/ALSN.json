@@ -1,0 +1,33 @@
+{
+  "ticker": "ALSN",
+  "lastUpdated": "2026-05-08T20:28:20.332Z",
+  "rawFinancials": {
+    "name": "Allison Transmission Holdings, ",
+    "marketCap": 10323010560,
+    "trailingPE": 19.312597,
+    "forwardPE": 10.888207,
+    "priceToBook": 5.5093164,
+    "totalRevenue": 3649999872,
+    "operatingMargins": 0.1835,
+    "returnOnEquity": 0.30437002,
+    "freeCashflow": 30375000,
+    "totalCash": 311000000,
+    "totalDebt": 4267000064,
+    "currentRatio": 1.846,
+    "revenueGrowth": 0.836
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "폭발적인 단기 매출 성장률(83.6%)과 함께, 낮은 선행 PER(10.9)는 향후 높은 이익 성장에 대한 시장의 기대를 반영함. 단, 성장률 데이터는 일시적 요인일 수 있음.",
+      "profitability": "18%대의 높은 영업이익률과 30%를 초과하는 경이로운 자기자본이익률(ROE)은 독점적 시장 지위와 강력한 가격 결정력을 시사하는 '고수익성' 구조임.",
+      "cashflow_stability": "총 부채(42.7억 달러)가 현금(3.1억 달러) 대비 상당히 높지만, 강력한 이익 창출 능력과 건전한 유동비율(1.85)을 바탕으로 레버리지를 효과적으로 관리하고 있음."
+    },
+    "macro_sensitivity": "상업용 차량 및 중장비 산업에 속하여 경기 사이클에 매우 민감한 대표적인 '경기민감주(Cyclical)'. 금리 인상 및 경기 침체 국면에서 수요 감소에 직접적인 타격을 받을 수 있음.",
+    "technical_synergy": "견고한 펀더멘털(고수익성)을 갖춘 경기민감주로서, 거시경제 개선 신호와 함께 장기 이평선 지지 및 돌파(예: 밥그릇 3번 자리) 패턴이 나타날 경우, 기관 투자자 유입과 함께 폭발적인 주가 상승을 기대할 수 있는 신뢰도 높은 조합임.",
+    "business_moat": "중대형 상용차용 자동 변속기 시장의 지배적 사업자임. OEM과의 깊은 관계, 높은 신뢰도의 브랜드, 그리고 고객사의 막대한 교체 비용이 강력한 경제적 해자를 구축함.",
+    "ai_system_tags": [
+      "Cyclical",
+      "Value"
+    ]
+  }
+}

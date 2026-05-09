@@ -1,0 +1,32 @@
+{
+  "ticker": "GLXY",
+  "lastUpdated": "2026-05-08T20:03:40.100Z",
+  "rawFinancials": {
+    "name": "Galaxy Digital Inc.",
+    "marketCap": 11797531648,
+    "forwardPE": 250.16551,
+    "priceToBook": 2.9786184,
+    "totalRevenue": 58713018368,
+    "operatingMargins": 0.95945,
+    "returnOnEquity": -0.06524,
+    "totalCash": 1534283008,
+    "totalDebt": 4640280064,
+    "currentRatio": 1.699,
+    "revenueGrowth": -0.206
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "역성장",
+      "profitability": "변동성 극심, 투자 손익 의존",
+      "cashflow_stability": "레버리지 과다, 현금흐름 변동성 극심"
+    },
+    "macro_sensitivity": "금리 및 유동성 사이클에 극도로 민감한 대표적인 위험자산(Risk-on) 관련주. 금리 인하 및 양적완화 시기에는 폭발적인 수혜를 기대할 수 있으나, 긴축 및 경기 침체 국면에서는 펀더멘털이 급격히 악화될 위험이 매우 높음.",
+    "technical_synergy": "펀더멘털의 취약성(매출 역성장, 순이익 적자)으로 인해 기술적 지지선에 대한 신뢰도는 낮다. 그러나, 암호화폐 시장의 긍정적 내러티브와 결합하여 '단테의 밥그릇 3번 자리' 같은 장기 추세 전환 패턴이 발생할 경우, 기존의 비관론을 뒤집는 강력한 숏 스퀴즈(Short Squeeze)를 동반하며 폭발적인 시세 분출을 일으킬 잠재력을 지님.",
+    "business_moat": "디지털 자산 분야의 초기 시장 선점자로서 기관 투자자 대상의 브랜드 인지도와 창업자의 명성을 확보하고 있습니다. 하지만 산업의 낮은 진입장벽과 극심한 변동성으로 인해 해자의 깊이는 얕고 지속 가능성은 아직 검증되지 않았습니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Cyclical",
+      "High-Growth"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "ticker": "PEN",
+  "lastUpdated": "2026-05-08T19:30:49.331Z",
+  "rawFinancials": {
+    "name": "Penumbra, Inc.",
+    "marketCap": 12666292224,
+    "trailingPE": 74.03219,
+    "forwardPE": 51.046318,
+    "priceToBook": 8.849442,
+    "totalRevenue": 1454283008,
+    "operatingMargins": 0.12711,
+    "returnOnEquity": 0.12733,
+    "totalCash": 615660032,
+    "totalDebt": 216175008,
+    "currentRatio": 6.024,
+    "revenueGrowth": 0.156
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "15.6%의 견조한 매출 성장을 기록 중이며, 선행 PER이 후행 PER보다 낮아 향후 이익 성장에 대한 시장의 높은 기대감을 반영하는 고성장 기업입니다.",
+      "profitability": "12%대의 안정적인 영업이익률과 자기자본이익률은 기술 기반 제품의 강력한 가격 결정력을 증명하며, 이는 우량한 수익 구조의 기반이 됩니다.",
+      "cashflow_stability": "총 부채의 약 3배에 달하는 현금을 보유하고 유동비율이 6을 초과하여, 파산 위험이 극히 낮은 최상위 수준의 재무 안정성을 확보하고 있습니다."
+    },
+    "macro_sensitivity": "의료기기 산업의 특성상 경기 침체기에도 수요가 꾸준한 경기 방어적 성격을 지닙니다. 그러나 높은 밸류에이션(고PER)으로 인해 금리 인상기에는 미래 이익 할인율 상승에 따른 주가 조정 압력이 커질 수 있습니다.",
+    "technical_synergy": "견고한 성장성과 재무 안정성은 장기 이평선 돌파와 같은 기술적 매수 신호에 높은 신뢰도를 부여합니다. 펀더멘털이 뒷받침되므로, 추세 형성 시 단순한 기술적 반등을 넘어 장기적인 주가 재평가(Re-rating)로 이어질 폭발력을 내재하고 있습니다.",
+    "business_moat": "뇌졸중 등 혈관 질환 치료를 위한 혁신 의료기기 분야에서 강력한 특허 포트폴리오와 FDA 승인이라는 진입장벽을 구축했습니다. 한번 익숙해지면 바꾸기 어려운 의료진의 시술 방식이 지속적인 수요를 창출하는 깊은 해자로 작용합니다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Defensive"
+    ]
+  }
+}

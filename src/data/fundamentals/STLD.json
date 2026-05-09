@@ -1,0 +1,34 @@
+{
+  "ticker": "STLD",
+  "lastUpdated": "2026-05-08T16:34:27.658Z",
+  "rawFinancials": {
+    "name": "Steel Dynamics, Inc.",
+    "marketCap": 33882793984,
+    "trailingPE": 25.155245,
+    "forwardPE": 13.70026,
+    "priceToBook": 3.8018415,
+    "totalRevenue": 19012243456,
+    "operatingMargins": 0.103369996,
+    "returnOnEquity": 0.15247,
+    "freeCashflow": -31788876,
+    "totalCash": 556526976,
+    "totalDebt": 4200793088,
+    "currentRatio": 3.13,
+    "revenueGrowth": 0.191
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "고성장. 19.1%의 높은 매출 성장률과 낮은 선행 PER(Forward PE)는 향후 이익 성장에 대한 시장의 강한 기대를 반영함.",
+      "profitability": "경기 순환형 고수익 구조. 철강업 특성상 경기 변동에 민감하지만, 10%대의 안정적인 영업이익률과 15%를 상회하는 자기자본이익률(ROE)은 동종업계 대비 뛰어난 수익성을 증명함.",
+      "cashflow_stability": "성장을 위한 전략적 현금 소진. 마이너스 잉여현금흐름(FCF)은 공격적인 설비투자의 결과로 보이며, 3.13의 높은 유동비율(Current Ratio)은 단기적인 재무 안정성이 매우 탄탄함을 시사함."
+    },
+    "macro_sensitivity": "대표적인 경기 민감주(Cyclical). 건설, 자동차, 제조업 경기에 직접적인 영향을 받으며, 경기 확장 국면에서 폭발적인 성장을 보이나 침체기에는 실적 둔화 위험이 큼. 인플레이션 시기에는 원자재 가격 상승을 제품 가격에 전가하는 능력이 수익성을 좌우하는 핵심 변수임.",
+    "technical_synergy": "강력한 펀더멘털이 기술적 분석의 신뢰도를 증폭시킴. 이와 같은 성장주가 장기 이평선 지지를 받으며 박스권을 돌파하는 '밥그릇 3번 자리' 패턴을 형성할 경우, 이는 단순한 기술적 반등이 아닌 새로운 성장 사이클의 시작을 알리는 신호일 가능성이 높음. 따라서, 패턴 완성 시 매우 폭발적이고 지속적인 주가 상승을 기대할 수 있음.",
+    "business_moat": "최신 전기로(미니밀) 기술을 기반으로 한 원가 경쟁력과 높은 운영 효율성이 핵심 경제적 해자입니다. 재활용 철스크랩을 주 원료로 사용하여 원가 변동에 유연하게 대응하고, 전략적인 공장 입지를 통해 물류 비용을 최소화합니다.",
+    "ai_system_tags": [
+      "Cyclical",
+      "Value",
+      "High-Growth"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "ticker": "PNC",
+  "lastUpdated": "2026-05-08T14:33:34.327Z",
+  "rawFinancials": {
+    "name": "PNC Financial Services Group, I",
+    "marketCap": 88163516416,
+    "trailingPE": 12.757119,
+    "forwardPE": 10.455588,
+    "priceToBook": 1.3872917,
+    "totalRevenue": 23042000896,
+    "operatingMargins": 0.36725,
+    "returnOnEquity": 0.12104,
+    "totalCash": 13921999872,
+    "totalDebt": 68487999488,
+    "revenueGrowth": 0.138
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "13.8%의 견조한 매출 성장을 보이며, 순이익 증가 기대감(낮은 선행 PER)이 공존하는 안정적 성장주(Stalwart)의 특성을 보임.",
+      "profitability": "36.7%의 높은 영업이익률과 12%를 상회하는 자기자본이익률(ROE)은 규모의 경제와 효율적인 리스크 관리를 통한 독점적 수익 구조를 증명함.",
+      "cashflow_stability": "핵심 사업인 예대마진을 통해 강력하고 예측 가능한 현금흐름을 창출함. 은행업의 특성상 부채 비율이 높지만, 견고한 수익성은 부채 리스크를 효과적으로 통제하고 있음을 시사함."
+    },
+    "macro_sensitivity": "금리 인상기에는 순이자마진(NIM) 확대로 수익성이 개선되는 대표적인 금리 수혜주. 단, 경기 침체 시에는 대출 부실 증가에 따른 대손충당금 설정 부담이 커지는 경기 민감주(Cyclical)의 특성을 가짐.",
+    "technical_synergy": "PNC와 같이 펀더멘털이 검증된 대형주는 '단테의 밥그릇 3번 자리'와 같은 장기적 바닥 형성 후 추세 전환 패턴의 신뢰도가 매우 높음. 이는 투기적 세력이 아닌 기관 투자자의 구조적 매수세가 유입되는 신호로, 한번 방향을 잡으면 안정적이고 긴 추세 상승으로 이어질 폭발력을 내포함.",
+    "business_moat": "미국 전역의 광범위한 고객 기반과 브랜드 신뢰도를 바탕으로 한 저비용 예금 조달 능력이 핵심 해자임. 다각화된 금융 서비스 포트폴리오는 경기 변동에 대한 방어력을 제공하며, 신규 진입이 어려운 규제 산업의 이점을 누림.",
+    "ai_system_tags": [
+      "Value",
+      "Dividend",
+      "Cyclical"
+    ]
+  }
+}

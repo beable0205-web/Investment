@@ -1,0 +1,33 @@
+{
+  "ticker": "LPLA",
+  "lastUpdated": "2026-05-08T17:13:09.626Z",
+  "rawFinancials": {
+    "name": "LPL Financial Holdings Inc.",
+    "marketCap": 24927459328,
+    "trailingPE": 28.02698,
+    "forwardPE": 10.983148,
+    "priceToBook": 4.6686444,
+    "totalRevenue": 17840070656,
+    "operatingMargins": 0.111260004,
+    "returnOnEquity": 0.20452,
+    "totalCash": 2725543936,
+    "totalDebt": 7521254912,
+    "currentRatio": 2.446,
+    "revenueGrowth": 0.35
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "고성장. 35%에 달하는 폭발적인 매출 성장률과 낮은 선행 PER(Forward PE)는 향후 이익의 급격한 증가를 시사함.",
+      "profitability": "자본 효율성이 뛰어난 고수익 구조. 20%를 상회하는 자기자본이익률(ROE)은 주주자본을 활용해 높은 이익을 창출하는 능력이 탁월함을 증명함.",
+      "cashflow_stability": "현금 창출력 우수, 관리 가능한 레버리지. 2.4배가 넘는 높은 유동비율(Current Ratio)은 단기 파산 위험이 매우 낮음을 의미하며, 사업 모델 특성상 안정적인 수수료 기반 현금흐름이 기대됨."
+    },
+    "macro_sensitivity": "금리 인상기 수혜주이자 경기 민감주. 금리 상승 시 고객 예탁금에서 발생하는 순이자이익이 증가하여 수익성이 개선되지만, 경기 침체로 인한 자산시장 위축 시에는 자산관리(AUM) 규모 및 거래 수수료 감소로 실적이 타격을 입을 수 있음.",
+    "technical_synergy": "강력한 이익 성장 모멘텀이 장기 이평선 돌파 및 지지 패턴(예: 밥그릇 3번 자리)의 신뢰도를 극대화함. 펀더멘털이 뒷받침되는 만큼, 기술적 매수 신호 발생 시 단순한 기술적 반등을 넘어 새로운 추세적 상승으로 이어질 폭발력이 높음.",
+    "business_moat": "미국 최대 독립 자문사 플랫폼으로서, 규모의 경제를 통해 구축한 기술 및 규제준수 인프라가 핵심 해자입니다. 플랫폼을 이용하는 자문사들에게 높은 전환 비용을 발생시켜, 한번 유입된 고객 기반으로부터 안정적인 수익을 창출합니다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Value",
+      "Cyclical"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "ticker": "OKTA",
+  "lastUpdated": "2026-05-08T19:17:32.986Z",
+  "rawFinancials": {
+    "name": "Okta, Inc.",
+    "marketCap": 14811711488,
+    "trailingPE": 63.91985,
+    "forwardPE": 19.792982,
+    "priceToBook": 2.121861,
+    "totalRevenue": 2919000064,
+    "operatingMargins": 0.0657,
+    "returnOnEquity": 0.03506,
+    "freeCashflow": 836124992,
+    "totalCash": 2552999936,
+    "totalDebt": 451000000,
+    "currentRatio": 1.427,
+    "revenueGrowth": 0.116
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 성장 및 수익성 전환기 진입. 매출은 11.6%의 견조한 성장을 보이고 있으며, 높은 Trailing PE(63.9) 대비 낮은 Forward PE(19.8)는 향후 이익의 폭발적인 증가를 시사함.",
+      "profitability": "수익성 개선 초기 국면. 영업이익률(6.57%)과 ROE(3.5%)는 아직 낮지만, 매출 대비 잉여현금흐름(FCF) 비율이 약 28%에 달해 실제 현금 창출 능력은 매우 뛰어남.",
+      "cashflow_stability": "압도적인 현금 창출력과 철옹성 같은 재무구조. 8억 3천만 달러가 넘는 잉여현금흐름과 부채(4.5억 달러)를 5배 이상 상회하는 현금(25.5억 달러)을 보유하여 파산 위험은 극히 낮음."
+    },
+    "macro_sensitivity": "금리 인상기에는 성장주 특성상 밸류에이션 부담이 존재하나, 기업의 필수 서비스인 ID 보안 솔루션 특성상 경기 침체기에는 상대적 방어력을 지님. 금리 인하 시 가장 큰 수혜를 볼 수 있는 유형.",
+    "technical_synergy": "펀더멘털이 '고비용 성장'에서 '수익성 중심 성장'으로 전환되는 변곡점에 위치함. 이러한 기업이 장기 이평선을 돌파하고 지지하는 '밥그릇 3번 자리' 패턴을 형성할 경우, 새로운 투자자 그룹(GARP)이 유입되며 기존의 성장주 투자자와 시너지를 일으켜 폭발적인 상승 잠재력을 가짐.",
+    "business_moat": "기업의 IT 인프라에 깊숙이 통합되는 ID 관리 솔루션으로 매우 높은 전환 비용을 구축합니다. 수천 개의 애플리케이션과의 연동 생태계(네트워크 효과)는 잠재적 경쟁자에 대한 강력한 진입 장벽으로 작용합니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "High-Growth",
+      "Value"
+    ]
+  }
+}

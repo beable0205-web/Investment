@@ -1,0 +1,26 @@
+{
+  "ticker": "MRK",
+  "lastUpdated": "2026-05-08T13:08:24.206Z",
+  "rawFinancials": {
+    "name": "Merck & Company, Inc.",
+    "marketCap": 277361295360,
+    "trailingPE": 31.633804,
+    "forwardPE": 11.792788,
+    "priceToBook": 5.282717,
+    "totalRevenue": 65768001536,
+    "operatingMargins": 0.38604,
+    "returnOnEquity": 0.18944,
+    "freeCashflow": 14049250304,
+    "totalCash": 5702000128,
+    "totalDebt": 49116999680,
+    "currentRatio": 1.299,
+    "revenueGrowth": 0.049
+  },
+  "analysis": {
+    "financialHealthScore": 85,
+    "valuationRating": "Fair",
+    "moatAndBusiness": "Merck는 특허로 보호받는 혁신적인 의약품과 백신을 개발 및 판매하여 수익을 창출하는 글로벌 제약사입니다. 이 기업의 핵심 경제적 해자는 블록버스터 항암제 '키트루다'와 같은 강력한 특허 포트폴리오에서 비롯되며, 이는 막강한 가격 결정권과 38%가 넘는 높은 영업이익률을 보장합니다. 또한, 연구개발, 생산, 유통망에서의 거대한 규모의 경제는 신규 경쟁자의 진입을 어렵게 만들어 장기적인 경쟁 우위를 공고히 합니다.",
+    "redFlags": [],
+    "isInvestable": true
+  }
+}

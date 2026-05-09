@@ -1,0 +1,32 @@
+{
+  "ticker": "SHG",
+  "lastUpdated": "2026-05-08T16:35:58.650Z",
+  "rawFinancials": {
+    "name": "Shinhan Financial Group Co Ltd",
+    "marketCap": 34171011072,
+    "trailingPE": 10.311278,
+    "forwardPE": 7.699918,
+    "priceToBook": 0.9069377,
+    "totalRevenue": 15980833013760,
+    "operatingMargins": 0.5145,
+    "returnOnEquity": 0.08635,
+    "totalCash": 131336098545664,
+    "totalDebt": 162376691220480,
+    "revenueGrowth": 0.066
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 성장",
+      "profitability": "견고한 이자마진 기반의 수익성",
+      "cashflow_stability": "예대마진 기반의 안정적 현금흐름, 단 레버리지 구조 내재"
+    },
+    "macro_sensitivity": "대표적인 금리 인상 수혜주이자 경기 민감주. 금리 상승기에는 순이자마진(NIM) 확대가 기대되나, 급격한 금리 인상으로 인한 경기 침체 발생 시 대손충당금 증가 리스크에 노출됨.",
+    "technical_synergy": "P/B 1배 미만의 저평가된 대형 금융주로서, 펀더멘털이 주가 하단을 강력히 지지함. '밥그릇 3번 자리'와 같은 장기 바닥 확인 후 상승 추세 전환 패턴 발생 시, 이는 단순한 기술적 반등이 아닌 거시경제(금리 사이클) 변화에 대한 기관 투자자의 베팅이 시작되었음을 의미. 폭발력은 기술주보다 낮지만, 추세의 신뢰도와 안정성은 매우 높음.",
+    "business_moat": "대한민국을 대표하는 금융그룹으로서, 강력한 브랜드 신뢰도와 전국적인 영업망이 핵심 해자임. 높은 고객 전환 비용과 정부의 엄격한 규제 장벽은 신규 경쟁자의 진입을 사실상 불가능하게 만들어 안정적인 시장 지위를 보장함.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Dividend"
+    ]
+  }
+}

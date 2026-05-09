@@ -1,0 +1,34 @@
+{
+  "ticker": "HRL",
+  "lastUpdated": "2026-05-08T20:08:17.928Z",
+  "rawFinancials": {
+    "name": "Hormel Foods Corporation",
+    "marketCap": 11242306560,
+    "trailingPE": 22.955057,
+    "forwardPE": 13.002387,
+    "priceToBook": 1.4159967,
+    "totalRevenue": 12144663552,
+    "operatingMargins": 0.11057,
+    "returnOnEquity": 0.061160002,
+    "freeCashflow": 381509632,
+    "totalCash": 574262976,
+    "totalDebt": 250000000,
+    "currentRatio": 2.662,
+    "revenueGrowth": -0.029
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "최근 매출은 역성장(-2.9%)했으나, 선행 PER(13.0)이 후행 PER(22.9)보다 현저히 낮아 시장은 강력한 이익 턴어라운드를 기대하고 있음",
+      "profitability": "식품업계에서 견조한 11%의 영업이익률을 보이지만, 자기자본이익률(ROE)이 6.1%로 낮아 자본 효율성 개선이 필요한 상태",
+      "cashflow_stability": "보유 현금(5.7억 달러)이 총 부채(2.5억 달러)를 초과하고 유동비율이 2.6배에 달하는 '철옹성' 재무구조를 바탕으로 파산 위험이 극히 낮음"
+    },
+    "macro_sensitivity": "제품 수요가 경기 변동에 둔감한 대표적인 '경기 방어주'. 다만, 원자재 가격 상승 등 인플레이션 시기에는 원가 압박으로 마진이 축소될 수 있음",
+    "technical_synergy": "극도로 안정적인 재무구조가 주가 하방 경직성을 제공하므로, '턴어라운드' 기대감이 실적으로 증명되며 장기 이평선을 돌파하고 지지하는 패턴이 나타날 경우, 가치 투자자와 모멘텀 투자자가 동시에 유입되며 높은 신뢰도의 장기 상승 추세가 시작될 가능성이 높음",
+    "business_moat": "스팸(Spam), 스키피(Skippy) 등 수십 년간 대중의 인지도를 쌓아온 강력한 브랜드 포트폴리오와 전국적인 유통망이 핵심적인 경제적 해자이다. 이를 통해 신규 경쟁자의 진입을 차단하고 꾸준한 시장 점유율을 확보한다.",
+    "ai_system_tags": [
+      "Value",
+      "Defensive",
+      "Turnaround"
+    ]
+  }
+}

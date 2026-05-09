@@ -1,0 +1,34 @@
+{
+  "ticker": "BR",
+  "lastUpdated": "2026-05-08T18:21:20.212Z",
+  "rawFinancials": {
+    "name": "Broadridge Financial Solutions,",
+    "marketCap": 17266626560,
+    "trailingPE": 15.949786,
+    "forwardPE": 14.38133,
+    "priceToBook": 6.127734,
+    "totalRevenue": 7322299904,
+    "operatingMargins": 0.18402,
+    "returnOnEquity": 0.42314,
+    "freeCashflow": 1187662464,
+    "totalCash": 305600000,
+    "totalDebt": 3407300096,
+    "currentRatio": 0.943,
+    "revenueGrowth": 0.078
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적인 한 자릿수 후반의 매출 성장과 이익 증가가 기대되는 견조한 성장세. 순이익 증가를 암시하는 선행 PER(Forward PE)이 후행 PER보다 낮음.",
+      "profitability": "18%대의 높은 영업이익률과 40%를 초과하는 경이로운 자기자본이익률(ROE)은 강력한 가격 결정력과 효율적인 자본 활용 능력을 증명함.",
+      "cashflow_stability": "총 부채가 잉여현금흐름의 3배 미만으로 매우 안정적이며, 막대한 현금 창출 능력은 재무적 유연성과 주주환원의 기반이 됨. 유동비율이 1 미만인 점은 효율적인 운전자본 관리를 시사함."
+    },
+    "macro_sensitivity": "필수적인 금융 인프라 서비스 제공으로 경기 침체기에도 안정적인 수요를 확보하는 대표적인 경기 방어주. 금리 변동에 대한 직접적인 민감도는 낮으며, 강력한 현금흐름은 금리 인상기에도 이자 비용 부담을 상쇄할 수 있는 방어력을 제공함.",
+    "technical_synergy": "견고한 펀더멘털과 경기 방어적 특성은 장기 이평선 지지 패턴(예: 단테의 밥그릇 3번 자리)의 신뢰도를 극대화함. 시장 불확실성 속에서도 '스마트 머니'가 꾸준히 유입될 수 있는 기반이 되므로, 해당 패턴 출현 시 투기적 급등보다는 안정적이고 지속적인 우상향 추세를 형성할 가능성이 매우 높음.",
+    "business_moat": "금융기관에 필수적인 투자자 커뮤니케이션 및 증권 처리 서비스를 제공하며, 높은 전환 비용과 규모의 경제를 통해 강력한 경제적 해자를 구축함. 규제 준수와 관련된 깊은 전문성은 신규 경쟁자의 진입을 막는 핵심적인 장벽으로 작용함.",
+    "ai_system_tags": [
+      "Defensive",
+      "Value",
+      "Dividend"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "KO",
+  "lastUpdated": "2026-05-08T13:03:50.501Z",
+  "rawFinancials": {
+    "name": "Coca-Cola Company (The)",
+    "marketCap": 337443684352,
+    "trailingPE": 24.66352,
+    "forwardPE": 22.547138,
+    "priceToBook": 10.034545,
+    "totalRevenue": 49284001792,
+    "operatingMargins": 0.35055,
+    "returnOnEquity": 0.43372002,
+    "freeCashflow": 3126125056,
+    "totalCash": 13820000256,
+    "totalDebt": 44646998016,
+    "currentRatio": 1.358,
+    "revenueGrowth": 0.121
+  },
+  "analysis": {
+    "financialHealthScore": 85,
+    "valuationRating": "Fair",
+    "moatAndBusiness": "The Coca-Cola Company generates revenue primarily by selling beverage concentrates and syrups to a global network of bottling partners. Its formidable economic moat is built upon its iconic brand name, which commands immense customer loyalty and pricing power. This is reinforced by an extensive and deeply entrenched global distribution system, creating significant barriers to entry for competitors.",
+    "redFlags": [],
+    "isInvestable": true
+  }
+}

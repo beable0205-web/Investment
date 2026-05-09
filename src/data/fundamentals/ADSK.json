@@ -1,0 +1,34 @@
+{
+  "ticker": "ADSK",
+  "lastUpdated": "2026-05-08T15:37:22.020Z",
+  "rawFinancials": {
+    "name": "Autodesk, Inc.",
+    "marketCap": 51650351104,
+    "trailingPE": 46.86207,
+    "forwardPE": 17.344261,
+    "priceToBook": 17.031261,
+    "totalRevenue": 7206000128,
+    "operatingMargins": 0.27236,
+    "returnOnEquity": 0.39675,
+    "freeCashflow": 2787000064,
+    "totalCash": 2596999936,
+    "totalDebt": 2734000128,
+    "currentRatio": 0.851,
+    "revenueGrowth": 0.194
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "고성장. 19.4%의 높은 매출 성장률과 함께, Trailing PE(46.8) 대비 현저히 낮은 Forward PE(17.3)는 향후 강력한 이익 성장이 기대됨을 시사함.",
+      "profitability": "독점적 마진. 27%가 넘는 영업이익률과 40%에 육박하는 자기자본이익률(ROE)은 강력한 가격 결정권과 효율적인 자본 활용 능력을 증명하는, 전형적인 해자 기업의 수익 구조임.",
+      "cashflow_stability": "현금 창출력 우수. 총 부채와 비슷한 규모의 현금을 보유하고 있으며, 연간 매출의 38% 이상을 잉여현금흐름(FCF)으로 창출함. 낮은 유동비율(0.85)은 구독 기반 비즈니스 모델의 특성으로, 파산 위험은 극히 낮음."
+    },
+    "macro_sensitivity": "금리 인하 및 경기 회복 국면에서 성장이 가속화되는 대표적인 경기 민감형 성장주. 핵심 고객층이 건설, 제조 산업에 집중되어 있어 경기 침체기에는 신규 계약이 둔화될 수 있으나, 구독 모델 전환으로 과거보다 안정성은 높아짐.",
+    "technical_synergy": "견고한 펀더멘털(고성장, 독점적 수익성)이 장기 이평선 지지 같은 기술적 신호의 신뢰도를 극대화함. 기관 투자자의 매수세가 유입될 명분이 확실하여, 패턴 완성 시 추세가 강력하고 지속적일 가능성이 높음.",
+    "business_moat": "업계 표준 소프트웨어(AutoCAD, Revit 등)를 통해 엔지니어링, 건축, 미디어 등 전문 산업에 깊숙이 침투하여 강력한 네트워크 효과를 구축함. 고객들은 높은 전환 비용과 학습 곡선 때문에 경쟁사 제품으로 쉽게 이전하지 못하는, 전형적인 '고객 락인(Lock-in)' 기반의 경제적 해자를 보유함.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Cyclical",
+      "Value"
+    ]
+  }
+}

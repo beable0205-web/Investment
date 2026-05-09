@@ -1,0 +1,26 @@
+{
+  "ticker": "TTE",
+  "lastUpdated": "2026-05-08T13:17:34.909Z",
+  "rawFinancials": {
+    "name": "TotalEnergies SE",
+    "marketCap": 196834934784,
+    "trailingPE": 13.164689,
+    "forwardPE": 8.545798,
+    "priceToBook": 1.6550709,
+    "totalRevenue": 183960993792,
+    "operatingMargins": 0.20353001,
+    "returnOnEquity": 0.12512,
+    "freeCashflow": 10052124672,
+    "totalCash": 29866000384,
+    "totalDebt": 64250998784,
+    "currentRatio": 1.076,
+    "revenueGrowth": 0.034
+  },
+  "analysis": {
+    "financialHealthScore": 85,
+    "valuationRating": "Undervalued",
+    "moatAndBusiness": "TotalEnergies SE is a global integrated energy giant, generating revenue from oil, gas, and a growing portfolio of renewable energy sources. The company's economic moat is built on its immense scale, valuable low-cost assets, and an integrated business model that mitigates commodity price volatility. Its strategic investments in electricity and renewables are diversifying its income streams and positioning it to thrive in the global energy transition.",
+    "redFlags": [],
+    "isInvestable": true
+  }
+}

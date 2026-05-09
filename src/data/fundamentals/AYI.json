@@ -1,0 +1,34 @@
+{
+  "ticker": "AYI",
+  "lastUpdated": "2026-05-09T08:48:16.186Z",
+  "rawFinancials": {
+    "name": "Acuity Inc.",
+    "marketCap": 8892347392,
+    "trailingPE": 21.50513,
+    "forwardPE": 13.785755,
+    "priceToBook": 3.128653,
+    "totalRevenue": 4587100160,
+    "operatingMargins": 0.13062,
+    "returnOnEquity": 0.1603,
+    "freeCashflow": 430212512,
+    "totalCash": 272500000,
+    "totalDebt": 808200000,
+    "currentRatio": 2.067,
+    "revenueGrowth": 0.049
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 외형 성장 속 이익 개선 가속화. 매출 성장은 4.9%로 완만하지만, Trailing PE(21.5) 대비 Forward PE(13.8)가 크게 낮아져 마진 개선 등을 통한 강력한 이익 성장이 기대됨.",
+      "profitability": "견고한 수익성 및 우수한 자본 효율성. 영업이익률 13.1%와 자기자본이익률(ROE) 16.0%는 업계 내 경쟁 우위와 효율적인 자본 운용 능력을 증명함.",
+      "cashflow_stability": "최상급 현금 창출력과 낮은 파산 위험. 추정 순이익을 상회하는 강력한 잉여현금흐름을 창출하며, 부채는 연간 잉여현금흐름의 2배 미만이고 유동비율은 2.0 이상으로 재무 안정성이 매우 뛰어남."
+    },
+    "macro_sensitivity": "건설 및 리모델링 경기에 연동되는 경기민감주(Cyclical) 성격을 가지나, 견고한 재무구조와 수익성으로 인해 금리 인상이나 경기 침체기에 동종업계 타 기업 대비 뛰어난 방어력을 보일 것으로 예상됨.",
+    "technical_synergy": "이처럼 펀더멘털이 견고한 기업이 장기 이평선의 지지를 받으며 박스권을 돌파하는 '밥그릇 3번 자리' 패턴을 형성할 경우, 이는 단순한 기술적 신호를 넘어 기관 투자자들의 본격적인 매수세 유입을 의미할 수 있어 매우 높은 신뢰도와 폭발적인 상승 잠재력을 가짐.",
+    "business_moat": "조명 및 빌딩 관리 솔루션 시장의 선두주자로서, 강력한 브랜드 인지도와 광범위한 유통망을 통해 구축한 규모의 경제가 핵심 해자이다. 또한, 스마트 조명 및 IoT 제어 기술에 대한 지속적인 혁신은 경쟁사 대비 기술적 우위를 제공하며 고객 락인(Lock-in) 효과를 강화한다.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Defensive"
+    ]
+  }
+}

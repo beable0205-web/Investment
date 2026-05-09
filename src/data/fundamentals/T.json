@@ -1,0 +1,30 @@
+{
+  "ticker": "T",
+  "lastUpdated": "2026-05-08T13:22:09.719Z",
+  "rawFinancials": {
+    "name": "AT&T Inc.",
+    "marketCap": 175515041792,
+    "trailingPE": 8.309211,
+    "forwardPE": 9.877103,
+    "priceToBook": 1.6083026,
+    "totalRevenue": 126527995904,
+    "operatingMargins": 0.22723,
+    "returnOnEquity": 0.18370001,
+    "freeCashflow": 8849000448,
+    "totalCash": 11964000256,
+    "totalDebt": 159750995968,
+    "currentRatio": 0.918,
+    "revenueGrowth": 0.029
+  },
+  "analysis": {
+    "financialHealthScore": 45,
+    "valuationRating": "Undervalued",
+    "moatAndBusiness": "AT&T는 광범위한 무선 및 유선 통신 네트워크를 통해 소비자 및 기업 고객에게 서비스를 제공하여 수익을 창출합니다. 이 기업의 경제적 해자는 경쟁사가 모방하기 어려운 막대한 자본이 투입된 전국적인 통신 인프라에서 비롯됩니다. 그러나 과도한 부채와 치열한 산업 경쟁은 이러한 해자의 강점을 약화시키는 주요 요인입니다.",
+    "redFlags": [
+      "과도한 부채",
+      "낮은 유동성 (유동비율 1 미만)",
+      "향후 이익 감소 예상"
+    ],
+    "isInvestable": false
+  }
+}

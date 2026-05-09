@@ -1,0 +1,34 @@
+{
+  "ticker": "AEE",
+  "lastUpdated": "2026-05-08T16:45:40.659Z",
+  "rawFinancials": {
+    "name": "Ameren Corporation",
+    "marketCap": 30199465984,
+    "trailingPE": 19.633095,
+    "forwardPE": 18.816927,
+    "priceToBook": 2.228119,
+    "totalRevenue": 8549000192,
+    "operatingMargins": 0.24449,
+    "returnOnEquity": 0.117469996,
+    "freeCashflow": -1858749952,
+    "totalCash": 13000000,
+    "totalDebt": 21304000512,
+    "currentRatio": 0.622,
+    "revenueGrowth": 0.079
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적인 매출 성장(연 7.9%)을 보이나, 폭발적인 성장은 아닌 유틸리티 산업의 전형적인 모습.",
+      "profitability": "정부 규제 하의 독점적 사업 구조로 인해 24%대의 높은 영업이익률을 기록하며, 안정적인 수익성을 확보.",
+      "cashflow_stability": "대규모 인프라 투자(CAPEX)로 인해 잉여현금흐름은 마이너스 상태이며, 높은 부채(213억 달러)를 통한 자금 조달은 금리 변동에 취약한 재무 구조를 형성."
+    },
+    "macro_sensitivity": "전기/가스 등 필수 서비스를 제공하여 경기 침체기에는 수요가 유지되는 대표적인 '경기 방어주'. 그러나 부채가 많고 배당 매력이 채권과 비교되므로, 금리 인상 시기에는 이자 비용 증가와 투자 매력 감소라는 이중고를 겪는 대표적인 '금리 민감주'이다.",
+    "technical_synergy": "AEE와 같이 펀더멘털이 안정적인 저변동성 주식이 장기 이평선 지지 후 상승 전환하는 패턴을 형성할 경우, 이는 투기적 급등보다는 금리 인하 기대감 등 거시 경제 변수의 근본적 변화를 반영하는 신호일 가능성이 높다. 따라서 폭발력은 낮지만 추세의 신뢰도는 매우 높게 평가할 수 있다.",
+    "business_moat": "정부로부터 허가받은 서비스 지역 내 독점적 전력 및 가스 공급 사업자로서, 막대한 초기 투자 비용과 규제 장벽이 강력한 경제적 해자 역할을 한다. 사실상 경쟁자가 없는 구조로 안정적인 현금 흐름 창출이 가능하다.",
+    "ai_system_tags": [
+      "Defensive",
+      "Dividend",
+      "Value"
+    ]
+  }
+}

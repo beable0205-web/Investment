@@ -1,0 +1,34 @@
+{
+  "ticker": "TSN",
+  "lastUpdated": "2026-05-08T17:26:54.228Z",
+  "rawFinancials": {
+    "name": "Tyson Foods, Inc.",
+    "marketCap": 24020506624,
+    "trailingPE": 53.712597,
+    "forwardPE": 14.856961,
+    "priceToBook": 1.3325845,
+    "totalRevenue": 55709999104,
+    "operatingMargins": 0.0364,
+    "returnOnEquity": 0.02619,
+    "freeCashflow": 1029000000,
+    "totalCash": 500000000,
+    "totalDebt": 8082999808,
+    "currentRatio": 1.83,
+    "revenueGrowth": 0.044
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "정체 속 실적 턴어라운드 기대. 낮은 한 자릿수 매출 성장률을 보이나, 높은 후행 PER과 낮은 선행 PER의 괴리는 향후 이익의 급격한 회복에 대한 시장의 기대를 반영함.",
+      "profitability": "전형적인 박리다매 구조. 3%대의 낮은 영업이익률과 2%대의 ROE는 최근 원가 압박 등으로 수익성이 크게 악화되었음을 시사하며, 이는 기업의 가장 큰 리스크 요인임.",
+      "cashflow_stability": "안정적 현금 창출력, 부채 수준은 관리 필요. 막대한 매출 규모를 바탕으로 꾸준한 영업현금흐름을 창출하고 있으나, 총 부채가 현금 보유액의 16배에 달해 금리 상승 시 이자 부담이 가중될 수 있음."
+    },
+    "macro_sensitivity": "경기 방어주 성격이나, 원자재 가격 인플레이션 및 금리 변동에 마진이 민감하게 반응. 식품이라는 필수소비재 특성상 경기 침체기에도 수요는 유지되지만, 곡물/육류 등 원자재 가격과 금리 변동이 수익성에 직접적인 영향을 미치는 구조.",
+    "technical_synergy": "펀더멘털 턴어라운드 기대감이 주가에 반영되는 신호로, 장기 바닥 형성 후 이평선 돌파 시 기관 투자자 유입과 함께 안정적이고 신뢰도 높은 추세 전환을 기대할 수 있음. 폭발적인 급등보다는 꾸준한 우상향 패턴의 가능성이 높음.",
+    "business_moat": "세계 최대 규모의 육류 가공 기업으로서, 규모의 경제를 통한 원가 경쟁력과 강력한 유통망이 핵심 해자이다. Tyson, Jimmy Dean 등 인지도 높은 브랜드를 다수 보유하여 소비자 시장에서 안정적인 점유율을 확보하고 있다.",
+    "ai_system_tags": [
+      "Value",
+      "Turnaround",
+      "Defensive"
+    ]
+  }
+}

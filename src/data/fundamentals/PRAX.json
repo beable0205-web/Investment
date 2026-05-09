@@ -1,0 +1,30 @@
+{
+  "ticker": "PRAX",
+  "lastUpdated": "2026-05-09T08:32:24.588Z",
+  "rawFinancials": {
+    "name": "Praxis Precision Medicines, Inc",
+    "marketCap": 9200552960,
+    "forwardPE": -38.435688,
+    "priceToBook": 9.468912,
+    "operatingMargins": 0,
+    "returnOnEquity": -0.35317,
+    "totalCash": 1447803008,
+    "totalDebt": 1435000,
+    "currentRatio": 29.888
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 부재 상태. 임상시험 성공 시 폭발적 성장이 기대되는 전형적인 R&D 중심 바이오 기업.",
+      "profitability": "영업이익 및 순이익 모두 대규모 적자. 신약 개발을 위한 막대한 R&D 비용 지출이 원인.",
+      "cashflow_stability": "영업활동 현금흐름은 마이너스이나, 부채가 거의 없고 시가총액의 15%가 넘는 막대한 현금을 보유하여 파산 위험은 극히 낮음. 장기간의 R&D를 감내할 수 있는 '재무적 활주로' 확보."
+    },
+    "macro_sensitivity": "전통적 경기 사이클에는 둔감하나 금리 변동에 매우 민감. 금리 상승은 미래 신약 가치의 할인율을 높여 주가에 치명적이며, 금리 인하 시 가장 큰 수혜를 볼 수 있는 섹터 중 하나.",
+    "technical_synergy": "주가는 펀더멘털보다 임상 데이터 발표 등 바이너리 이벤트에 의해 좌우됨. 그러나 '순현금'이라는 강력한 안전마진이 주가의 하방을 지지하므로, 장기 이평선 지지 구간에서 긍정적 촉매(catalyst)가 발생할 경우, 기술적 신뢰도와 상승 탄력이 극대화될 수 있음.",
+    "business_moat": "중추신경계 질환 치료를 위한 혁신 신약 파이프라인 개발이 핵심 비즈니스 모델. 특허로 보호받는 지적 재산권과, 장기간의 임상 비용을 외부 자금 조달 없이 감당할 수 있는 막대한 현금 보유량이 이중의 경제적 해자 역할을 함.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Turnaround",
+      "Defensive"
+    ]
+  }
+}

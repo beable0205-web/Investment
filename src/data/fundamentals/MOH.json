@@ -1,0 +1,34 @@
+{
+  "ticker": "MOH",
+  "lastUpdated": "2026-05-09T08:13:47.089Z",
+  "rawFinancials": {
+    "name": "Molina Healthcare Inc",
+    "marketCap": 9687474176,
+    "trailingPE": 49.71658,
+    "forwardPE": 20.957268,
+    "priceToBook": 2.3698096,
+    "totalRevenue": 43095998464,
+    "operatingMargins": 0.0171,
+    "returnOnEquity": 0.04482,
+    "freeCashflow": 757500032,
+    "totalCash": 9251000320,
+    "totalDebt": 3947000064,
+    "currentRatio": 1.628,
+    "revenueGrowth": -0.043
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 역성장(-4.3%) 상태이나, 선행 PER이 후행 PER의 절반 이하로 급감하여 강력한 이익 턴어라운드가 기대되는 국면.",
+      "profitability": "영업이익률 1.7%의 전형적인 박리다매 구조. 자기자본이익률(ROE)이 4.48%로 낮아 자본 효율성은 개선이 필요한 상태.",
+      "cashflow_stability": "총 부채의 2배가 넘는 막대한 현금(92.5억 달러)을 보유한 사실상의 순현금 기업. 파산 위험은 극히 낮으며 현금 창출력 또한 양호함."
+    },
+    "macro_sensitivity": "정부 주도 의료보험 사업 특성상 경기 변동에 둔감한 대표적인 경기 방어주. 금리 변동보다는 정부의 의료 정책, 의료 수가 변동, 의료비 인플레이션에 직접적인 영향을 받음.",
+    "technical_synergy": "견고한 재무구조가 주가의 하방 경직성을 확보하는 안전마진 역할을 함. 이런 종목이 장기 이평선 지지 후 상승 전환(단테의 밥그릇 3번 자리) 시, 시장이 이익 턴어라운드를 확신하기 시작했다는 신호로 해석 가능하여 패턴의 신뢰도가 매우 높음.",
+    "business_moat": "정부 지원 의료 프로그램(메디케이드, 메디케어) 시장에 특화된 사업 모델을 운영함. 주별로 다른 복잡한 규제 환경과 대규모 의료 서비스 제공자 네트워크 구축 자체가 신규 경쟁자의 진입을 막는 강력한 구조적 해자 역할을 함.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Defensive",
+      "Value"
+    ]
+  }
+}

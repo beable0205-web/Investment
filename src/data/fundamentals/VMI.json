@@ -1,0 +1,34 @@
+{
+  "ticker": "VMI",
+  "lastUpdated": "2026-05-09T08:04:45.940Z",
+  "rawFinancials": {
+    "name": "Valmont Industries, Inc.",
+    "marketCap": 9911640064,
+    "trailingPE": 28.411242,
+    "forwardPE": 20.124924,
+    "priceToBook": 6.108372,
+    "totalRevenue": 4163984896,
+    "operatingMargins": 0.15016,
+    "returnOnEquity": 0.22188999,
+    "freeCashflow": 187220000,
+    "totalCash": 160188992,
+    "totalDebt": 928097984,
+    "currentRatio": 2.376,
+    "revenueGrowth": 0.062
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 성장. 6.2%의 견조한 매출 성장을 보이며, 선행 PER(Forward PE)이 후행 PER(Trailing PE)보다 낮아 향후 이익 성장에 대한 시장의 긍정적 기대를 반영하고 있음.",
+      "profitability": "최상위권 수익성 구조. 15%에 달하는 높은 영업이익률과 22%를 초과하는 자기자본이익률(ROE)은 독점적 시장 지위 또는 뛰어난 운영 효율성을 통한 강력한 가격 결정력을 증명함.",
+      "cashflow_stability": "견고한 현금 창출력 및 재무 안정성. 부채 대비 현금 보유액은 적으나, 꾸준한 잉여현금흐름 창출 능력과 2.3배가 넘는 유동비율은 단기 파산 위험이 극히 낮음을 시사함."
+    },
+    "macro_sensitivity": "경기 순환적 성격을 띠나, 필수재 성격으로 방어력 보유. 인프라 투자 및 농업 경기에 영향을 받는 경기민감주(Cyclical)이지만, 전력망, 통신, 식량 생산 등 필수 산업에 속해 있어 경기 침체기에도 일정 수준의 수요가 유지되는 방어적 특성을 동시에 지님.",
+    "technical_synergy": "펀더멘털이 뒷받침되는 기술적 신호의 신뢰도 증폭. 이처럼 우량한 재무구조를 가진 기업이 장기 이평선 지지 후 상승 전환하는 '밥그릇 3번 자리' 패턴을 보일 경우, 이는 단순한 기술적 반등이 아닌 새로운 성장 사이클의 시작을 알리는 신호일 가능성이 높음. 펀더멘털 가치가 주가 하단을 지지해주므로, 패턴의 신뢰도와 상승 잠재력이 극대화됨.",
+    "business_moat": "필수 인프라 및 정밀 농업 분야의 지배적 사업자. Valley 브랜드로 대표되는 강력한 브랜드 파워와 글로벌 유통망이 핵심 해자이며, 높은 기술력과 고객과의 장기적 관계가 진입장벽을 구축함.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Quality"
+    ]
+  }
+}

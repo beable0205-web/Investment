@@ -1,0 +1,26 @@
+{
+  "ticker": "ADI",
+  "lastUpdated": "2026-05-08T13:21:06.143Z",
+  "rawFinancials": {
+    "name": "Analog Devices, Inc.",
+    "marketCap": 199441154048,
+    "trailingPE": 74.68373,
+    "forwardPE": 31.065332,
+    "priceToBook": 5.9028707,
+    "totalRevenue": 11756795904,
+    "operatingMargins": 0.33067,
+    "returnOnEquity": 0.07862,
+    "freeCashflow": 4139530752,
+    "totalCash": 4048847104,
+    "totalDebt": 8701080576,
+    "currentRatio": 1.756,
+    "revenueGrowth": 0.304
+  },
+  "analysis": {
+    "financialHealthScore": "90",
+    "valuationRating": "Overvalued",
+    "moatAndBusiness": "Analog Devices designs and manufactures high-performance analog semiconductors, which are critical components for converting real-world phenomena into digital data. The company profits by selling these specialized chips to diverse and growing end markets like automotive and industrial automation. Its economic moat is built on immense technological expertise, high customer switching costs, and a vast intellectual property portfolio, which allows it to command strong pricing power and high margins.",
+    "redFlags": [],
+    "isInvestable": true
+  }
+}

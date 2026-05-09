@@ -1,0 +1,33 @@
+{
+  "ticker": "WYNN",
+  "lastUpdated": "2026-05-08T20:17:32.848Z",
+  "rawFinancials": {
+    "name": "Wynn Resorts, Limited",
+    "marketCap": 10680694784,
+    "trailingPE": 29.346704,
+    "forwardPE": 17.688936,
+    "priceToBook": -38.10268,
+    "totalRevenue": 7137924096,
+    "operatingMargins": 0.1567,
+    "freeCashflow": 414476992,
+    "totalCash": 2065298048,
+    "totalDebt": 12292253696,
+    "currentRatio": 1.633,
+    "revenueGrowth": 0.015
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "최근 매출 성장은 1.5%로 정체 상태이나, 순이익 턴어라운드에 대한 시장 기대감이 높아(Forward PE < Trailing PE) 향후 이익 성장 잠재력이 부각됨.",
+      "profitability": "15.7%의 견고한 영업이익률은 브랜드 파워를 입증하나, 부채 과다로 인한 자본 잠식(PBR 음수) 상태는 심각한 재무적 취약점임.",
+      "cashflow_stability": "영업활동을 통해 현금을 창출하고 있고 단기 유동성(유동비율 1.63)은 양호하나, 123억 달러에 달하는 총부채는 현금 창출 능력 대비 과도하여 금리 상승 시 리스크가 증폭됨."
+    },
+    "macro_sensitivity": "소비 경기에 극도로 민감한 대표적인 시클리컬(경기민감주) 기업. 금리 인하, 가처분 소득 증가, 여행 수요 회복 국면에서 폭발적인 실적 개선이 기대되나, 경기 침체 시 가장 먼저 타격을 입는 특성을 지님.",
+    "technical_synergy": "높은 부채비율과 경기 민감성으로 인해 주가 변동성이 극심한 종목. 따라서 '밥그릇 3번 자리'와 같은 장기 추세 전환 신호는 거시경제의 순풍(금리 인하 등)과 결합될 때, 레버리지 효과에 힘입어 단기간에 폭발적인 시세 분출을 만들어낼 수 있는 신뢰도 높은 트리거로 작용함.",
+    "business_moat": "프리미엄 브랜드 파워와 정부의 엄격한 규제에 기반한 희소성 높은 카지노 라이선스를 통해 시장 지배력을 유지함. 수조 원에 달하는 초기 투자 비용은 잠재적 경쟁자의 시장 진입을 원천적으로 차단하는 강력한 해자 역할을 함.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Cyclical",
+      "Value"
+    ]
+  }
+}

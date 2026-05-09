@@ -1,0 +1,33 @@
+{
+  "ticker": "ONC",
+  "lastUpdated": "2026-05-08T16:35:28.803Z",
+  "rawFinancials": {
+    "name": "BeOne Medicines Ltd.",
+    "marketCap": 32696160256,
+    "trailingPE": 71.46032,
+    "forwardPE": 32.61377,
+    "priceToBook": 8.010066,
+    "totalRevenue": 5739191808,
+    "operatingMargins": 0.16511999,
+    "returnOnEquity": 0.12422,
+    "freeCashflow": 904293632,
+    "totalCash": 4791675904,
+    "totalDebt": 1148909056,
+    "currentRatio": 3.644,
+    "revenueGrowth": 0.355
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출이 35.5% 급증하고 순이익 전망치(Forward PE)가 현재(Trailing PE)의 절반 이하로 예상되는 전형적인 고성장(High-Growth) 기업.",
+      "profitability": "16.5%의 견고한 영업이익률과 12%대의 ROE를 기록하며, 폭발적인 외형 성장과 함께 안정적인 수익성을 동시에 확보하는 효율적인 구조를 갖춤.",
+      "cashflow_stability": "보유 현금이 총 부채의 4배를 초과하고 유동비율이 3.6에 달하는 최상위 수준의 재무 건전성을 자랑함. 강력한 잉여현금흐름(FCF) 창출 능력으로 파산 위험은 극히 낮음."
+    },
+    "macro_sensitivity": "사업 모델 자체는 경기에 둔감한 제약/바이오 분야로 '경기 방어주' 특성을 가지나, 높은 밸류에이션(P/E)으로 인해 금리 인상 시기에는 주가 변동성이 커질 수 있음. 대표적인 '금리 인하 수혜주'로 분류 가능.",
+    "technical_synergy": "강력한 성장성과 재무 안정성이라는 펀더멘털 '연료'를 가득 채운 상태. '단테의 밥그릇 3번 자리'와 같은 장기적 바닥 다지기 후 상승 추세 전환 패턴 발생 시, 시장의 신뢰가 더해져 폭발적인 주가 상승을 기대할 수 있는 이상적인 조합.",
+    "business_moat": "이 기업은 특허 기술이나 혁신적인 신약 파이프라인을 기반으로 한 강력한 지적 재산권을 경제적 해자로 보유하고 있는 것으로 보입니다. 이를 통해 경쟁이 치열한 제약 시장에서도 35%가 넘는 폭발적인 매출 성장을 달성하며 시장 점유율을 빠르게 확대하고 있습니다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Defensive"
+    ]
+  }
+}

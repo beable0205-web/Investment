@@ -1,0 +1,34 @@
+{
+  "ticker": "SARO",
+  "lastUpdated": "2026-05-09T09:01:18.669Z",
+  "rawFinancials": {
+    "name": "StandardAero, Inc.",
+    "marketCap": 8357088256,
+    "trailingPE": 28.568182,
+    "forwardPE": 14.591084,
+    "priceToBook": 3.1507707,
+    "totalRevenue": 6062513152,
+    "operatingMargins": 0.09327,
+    "returnOnEquity": 0.11007,
+    "freeCashflow": 150741504,
+    "totalCash": 289716992,
+    "totalDebt": 2456086016,
+    "currentRatio": 2.2,
+    "revenueGrowth": 0.135
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출이 13.5% 성장하고 순이익 개선 기대감(선행 PER 14.6)이 높아, '성장 가속화' 국면에 진입한 것으로 판단됨.",
+      "profitability": "영업이익률 9.3%와 자기자본이익률 11%는 업계 평균 수준의 안정적인 수익 구조를 보여주나, 폭발적인 마진을 가진 독점 기업은 아님.",
+      "cashflow_stability": "잉여현금흐름 창출 능력은 긍정적이나, 총부채(약 24.6억 달러)가 현금(약 2.9억 달러) 및 잉여현금흐름(약 1.5억 달러) 대비 상당히 높아 레버리지 리스크가 내재함. 단, 유동비율 2.2는 단기 파산 위험이 매우 낮음을 시사함."
+    },
+    "macro_sensitivity": "항공 및 방위 산업에 속하여 경기 확장기에 수혜를 입는 대표적인 '경기순환주'. 높은 부채 수준으로 인해 금리 인상 시 이자 비용 부담이 가중될 수 있어 금리 변동에 민감함.",
+    "technical_synergy": "견조한 성장 펀더멘털은 '장기 이평선 돌파 및 지지'와 같은 기술적 신호의 신뢰도를 극대화하는 촉매 역할을 함. 실적이 뒷받침되는 상승 추세는 단순 투기적 움직임보다 훨씬 더 강력하고 긴 생명력을 가질 가능성이 높음.",
+    "business_moat": "항공기 엔진 및 부품의 유지보수(MRO) 시장에서 활동하며, 정부의 엄격한 안전 인증과 수십 년간 축적된 기술 노하우가 강력한 진입 장벽을 형성함. 이는 단순 가격 경쟁을 넘어선 핵심적인 경제적 해자로 작용함.",
+    "ai_system_tags": [
+      "Growth",
+      "Cyclical",
+      "Value"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "ticker": "GEN",
+  "lastUpdated": "2026-05-08T19:52:16.703Z",
+  "rawFinancials": {
+    "name": "Gen Digital Inc.",
+    "marketCap": 13706170368,
+    "trailingPE": 23.329895,
+    "forwardPE": 6.8943033,
+    "priceToBook": 5.8809767,
+    "totalRevenue": 4727000064,
+    "operatingMargins": 0.35806,
+    "returnOnEquity": 0.26902,
+    "freeCashflow": 1316375040,
+    "totalCash": 616000000,
+    "totalDebt": 8473999872,
+    "currentRatio": 0.466,
+    "revenueGrowth": 0.258
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "고성장. 25.8%의 높은 매출 성장률과 Trailing PE 대비 현저히 낮은 Forward PE는 향후 이익의 폭발적인 증가에 대한 시장의 기대를 반영함.",
+      "profitability": "독점적 마진. 35.8%에 달하는 높은 영업이익률과 26.9%의 ROE는 강력한 가격 결정권과 효율적인 비용 구조를 갖춘 최상위 수익성 기업임을 증명함.",
+      "cashflow_stability": "현금 창출력 우수, 레버리지 과다. 막대한 잉여현금흐름을 창출하지만, 총 부채 규모가 과도하고 유동비율(0.466)이 매우 낮아 재무 안정성에 대한 리스크가 상존함."
+    },
+    "macro_sensitivity": "높은 부채 구조로 인해 금리 인상 시 이자 비용 부담이 가중되는 '금리 인상 피해주'의 특성을 가짐. 반면, 사이버 보안이라는 비즈니스의 필수 소비재적 성격은 경기 침체기에도 수요가 급격히 감소하지 않는 '경기 방어주'의 면모를 동시에 지니고 있음.",
+    "technical_synergy": "높은 성장성과 수익성에도 불구하고 부채 리스크로 주가가 억눌려 있을 가능성이 높음. 따라서 '단테의 밥그릇 3번 자리'와 같은 장기적 바닥 확인 및 추세 전환 신호는, 시장의 우려가 해소되고 기업의 본질 가치가 재평가되는 변곡점으로 작용하여 폭발적인 주가 상승의 신뢰도 높은 트리거가 될 수 있음.",
+    "business_moat": "Norton, Avast, LifeLock 등 강력한 브랜드 포트폴리오와 수억 명의 구독 기반 사용자로부터 발생하는 반복 매출이 핵심 해자임. 소비자의 높은 브랜드 충성도와 교체 기피 성향은 안정적인 현금 흐름과 독점적 이익 마진의 원천이 됨.",
+    "ai_system_tags": [
+      "Value",
+      "High-Growth",
+      "Turnaround"
+    ]
+  }
+}

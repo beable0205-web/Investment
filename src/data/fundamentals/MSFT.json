@@ -1,0 +1,34 @@
+{
+  "ticker": "MSFT",
+  "lastUpdated": "2026-05-08T13:25:23.964Z",
+  "rawFinancials": {
+    "name": "Microsoft Corporation",
+    "marketCap": 3125662449664,
+    "trailingPE": 25.06075,
+    "forwardPE": 21.740118,
+    "priceToBook": 7.5437903,
+    "totalRevenue": 318272995328,
+    "operatingMargins": 0.46326,
+    "returnOnEquity": 0.34013999,
+    "freeCashflow": 37011251200,
+    "totalCash": 78227996672,
+    "totalDebt": 125431996416,
+    "currentRatio": 1.283,
+    "revenueGrowth": 0.183
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "거대한 규모에도 불구하고 18%대의 높은 매출 성장을 기록 중이며, 선행 PER이 후행 PER보다 낮아 이익 성장세가 지속될 것으로 기대되는 '우량 고성장주(Blue-chip Growth)'의 전형입니다.",
+      "profitability": "46%에 달하는 경이적인 영업이익률과 34%의 높은 자기자본이익률(ROE)은 강력한 가격 결정권과 플랫폼 독점력을 증명하는 '독점적 마진' 구조를 보여줍니다.",
+      "cashflow_stability": "부채가 현금보다 많지만, 연간 370억 달러에 달하는 막대한 잉여현금흐름은 부채 상환 및 주주환원에 전혀 무리가 없는 '현금 창출력 우수' 기업임을 입증합니다."
+    },
+    "macro_sensitivity": "클라우드 및 기업용 소프트웨어의 필수적인 성격 덕분에 경기 침체에 대한 방어력이 높지만, 성장주로서의 높은 밸류에이션은 금리 인상 시기에는 할인율 부담으로 작용할 수 있는 '성장성을 겸비한 경기 방어주'입니다.",
+    "technical_synergy": "이처럼 압도적인 펀더멘털은 '단테의 밥그릇 3번 자리'와 같은 장기 추세 전환 패턴의 신뢰도를 극대화합니다. 기술적 돌파가 발생할 때, 펀더멘털 가치를 신뢰하는 장기 투자 자금의 유입이 지속되며 폭발적이고 안정적인 상승 추세를 만들 가능성이 매우 높습니다.",
+    "business_moat": "Microsoft의 경제적 해자는 기업 고객들이 쉽게 벗어날 수 없는 Azure 클라우드와 Office 365 생태계의 높은 전환 비용에서 비롯됩니다. 이러한 강력한 락인(Lock-in) 효과는 지속적인 현금 흐름과 독점적 가격 결정권을 보장하는 핵심 동력입니다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Defensive",
+      "Value"
+    ]
+  }
+}

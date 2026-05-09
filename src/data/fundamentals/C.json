@@ -1,0 +1,24 @@
+{
+  "ticker": "C",
+  "lastUpdated": "2026-05-08T13:13:59.394Z",
+  "rawFinancials": {
+    "name": "Citigroup, Inc.",
+    "marketCap": 225819590656,
+    "trailingPE": 15.956736,
+    "forwardPE": 10.375675,
+    "priceToBook": 1.1502887,
+    "totalRevenue": 78734000128,
+    "operatingMargins": 0.34078,
+    "returnOnEquity": 0.07649,
+    "totalCash": 1332288946176,
+    "totalDebt": 749207027712,
+    "revenueGrowth": 0.169
+  },
+  "analysis": {
+    "financialHealthScore": 75,
+    "valuationRating": "Fair",
+    "moatAndBusiness": "Citigroup operates as a global banking giant, earning money from a diverse range of services including consumer lending, corporate banking, and wealth management. Its primary economic moat is built on its immense scale, global network, and the high regulatory barriers inherent in the financial industry. These factors create a durable competitive advantage by fostering deep client relationships and providing services that are difficult for smaller players to match.",
+    "redFlags": [],
+    "isInvestable": false
+  }
+}

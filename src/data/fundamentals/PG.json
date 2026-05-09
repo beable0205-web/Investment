@@ -1,0 +1,26 @@
+{
+  "ticker": "PG",
+  "lastUpdated": "2026-05-08T13:04:10.172Z",
+  "rawFinancials": {
+    "name": "Procter & Gamble Company (The)",
+    "marketCap": 340115161088,
+    "trailingPE": 21.3538,
+    "forwardPE": 20.600178,
+    "priceToBook": 6.328149,
+    "totalRevenue": 86716997632,
+    "operatingMargins": 0.23047,
+    "returnOnEquity": 0.31112,
+    "freeCashflow": 12733750272,
+    "totalCash": 12305999872,
+    "totalDebt": 37026000896,
+    "currentRatio": 0.732,
+    "revenueGrowth": 0.074
+  },
+  "analysis": {
+    "financialHealthScore": "92",
+    "valuationRating": "Fair",
+    "moatAndBusiness": "Procter & Gamble generates revenue by selling a diverse portfolio of essential consumer household and personal care products under iconic brand names. Its formidable economic moat is built on intangible assets, specifically its world-renowned brands that foster deep customer loyalty and command premium pricing. This brand power, combined with immense scale in distribution and advertising, creates durable competitive advantages and consistent cash flow.",
+    "redFlags": [],
+    "isInvestable": true
+  }
+}

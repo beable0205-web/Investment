@@ -1,0 +1,34 @@
+{
+  "ticker": "SOBO",
+  "lastUpdated": "2026-05-09T09:31:27.608Z",
+  "rawFinancials": {
+    "name": "South Bow Corporation",
+    "marketCap": 7260422144,
+    "trailingPE": 17.183168,
+    "forwardPE": 17.667269,
+    "priceToBook": 2.6683578,
+    "totalRevenue": 1986000000,
+    "operatingMargins": 0.40557,
+    "returnOnEquity": 0.16281,
+    "freeCashflow": 257224992,
+    "totalCash": 549000000,
+    "totalDebt": 5793999872,
+    "currentRatio": 1.503,
+    "revenueGrowth": 0.031
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 저성장. 3.1%의 낮은 매출 성장률과 순이익 성장 기대치가 거의 없는 상태로, 피터 린치의 '느림보 성장주(Slow Grower)' 범주에 속함.",
+      "profitability": "독점적 마진. 40%를 상회하는 경이로운 영업이익률과 16%대의 높은 자기자본이익률(ROE)은 강력한 가격 결정권을 가진 비즈니스 모델을 의미함.",
+      "cashflow_stability": "현금 창출력 우수, 레버리지 과다. 잉여현금흐름은 견고하나, 총 부채가 잉여현금흐름의 20배를 초과하여 부채 상환 부담이 매우 큰 재무 구조임."
+    },
+    "macro_sensitivity": "금리 인상 최대 취약주. 과도한 부채 구조로 인해 금리 인상은 이자 비용을 급증시켜 순이익과 현금흐름을 직접적으로 잠식함. 경기 침체 시 신용 경색이 발생할 경우 유동성 리스크에 직면할 수 있음.",
+    "technical_synergy": "펀더멘털의 강점(독점적 수익성)과 약점(과도한 부채)이 명확하여, 차트가 장기 저항선을 돌파하고 지지하는 패턴은 부채 리스크 해소 또는 금리 인하 등 거시 환경 개선에 대한 시장의 강한 신뢰를 의미함. 이 경우, 억눌렸던 가치가 재평가되며 폭발적인 상승을 기대할 수 있어 기술적 신호의 신뢰도가 높음.",
+    "business_moat": "40%를 상회하는 경이로운 영업이익률은 강력한 가격 결정권이나 독점적 기술/라이선스를 기반으로 한 깊은 경제적 해자를 시사한다. 그러나 과도한 부채는 이러한 해자의 과실을 잠식하고 재무적 안정성을 위협하는 핵심 리스크 요인이다.",
+    "ai_system_tags": [
+      "Value",
+      "Turnaround",
+      "Defensive"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "ticker": "AVGO",
+  "lastUpdated": "2026-05-08T13:26:23.695Z",
+  "rawFinancials": {
+    "name": "Broadcom Inc.",
+    "marketCap": 1953334689792,
+    "trailingPE": 80.578125,
+    "forwardPE": 22.770788,
+    "priceToBook": 24.462496,
+    "totalRevenue": 68281999360,
+    "operatingMargins": 0.44943002,
+    "returnOnEquity": 0.33370999,
+    "freeCashflow": 25503750144,
+    "totalCash": 14174000128,
+    "totalDebt": 66056998912,
+    "currentRatio": 1.902,
+    "revenueGrowth": 0.295
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "고성장. 29.5%의 높은 매출 성장률과 Trailing PE 대비 현저히 낮은 Forward PE는 향후 폭발적인 이익 성장이 기대됨을 시사함.",
+      "profitability": "독점적 마진. 45%에 육박하는 경이로운 영업이익률과 33%가 넘는 자기자본이익률(ROE)은 강력한 가격 결정권과 시장 지배력을 증명함.",
+      "cashflow_stability": "현금 창출력 우수, M&A로 인한 레버리지 존재. 막대한 잉여현금흐름을 창출하나, 적극적인 인수를 위한 부채 규모가 상당함. 단, 현금흐름 대비 부채는 통제 가능한 수준임."
+    },
+    "macro_sensitivity": "경기 민감주이나, AI/클라우드 등 구조적 성장으로 방어력 보유. 금리 인상 시기에는 높은 부채와 성장주 특성상 부담이 있으나, 금리 인하 시에는 가장 큰 수혜를 볼 수 있는 구조. 경기 침체기에도 데이터센터 등 필수 인프라 수요로 인해 일정 수준의 방어력을 보임.",
+    "technical_synergy": "독점적 이익 구조와 폭발적인 성장 전망을 가진 펀더멘털은 장기 이평선 돌파와 같은 기술적 신호에 강력한 신뢰도를 부여함. 기관 투자자의 매수세가 집중되며, 단순한 기술적 반등을 넘어 장기 추세 전환의 시작점이 될 폭발력을 내재함.",
+    "business_moat": "반도체 및 인프라 소프트웨어 시장에서 핵심 기술을 보유한 기업들을 인수합병하여 지배적인 시장 지위를 구축함. 고객사 입장에서 대체 불가능한 독점적 기술 포트폴리오와 높은 전환 비용이 이 기업의 강력한 경제적 해자임.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Value",
+      "Cyclical"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "ticker": "EMA",
+  "lastUpdated": "2026-05-08T18:42:57.904Z",
+  "rawFinancials": {
+    "name": "Emera Incorporated",
+    "marketCap": 16154521600,
+    "trailingPE": 21.30242,
+    "forwardPE": 19.920214,
+    "priceToBook": 1.8158092,
+    "totalRevenue": 8775999488,
+    "operatingMargins": 0.13908,
+    "returnOnEquity": 0.08169,
+    "freeCashflow": -1922875008,
+    "totalCash": 349000000,
+    "totalDebt": 21583998976,
+    "currentRatio": 0.662,
+    "revenueGrowth": 0.138
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "부채를 활용한 외형 성장. 13.8%의 높은 매출 성장을 기록했으나, 이는 막대한 자본 지출과 부채 증가에 기인하며, 실제 현금 창출로 이어지지 못하고 있음.",
+      "profitability": "규제 산업 특유의 안정적 마진 구조. 그러나 8.17%의 낮은 자기자본이익률(ROE)은 대규모 자산과 부채로 인한 자본 효율성 저하를 시사함.",
+      "cashflow_stability": "심각한 현금흐름 악화 및 과도한 레버리지. 막대한 마이너스(-) 잉여현금흐름과 총 부채가 시가총액을 초과하는 점은 심각한 재무 리스크 요인임."
+    },
+    "macro_sensitivity": "전형적인 금리 민감형 경기 방어주. 전기/가스 수요의 비탄력성으로 경기 침체기에는 안정적이나, 막대한 부채 구조로 인해 금리 인상 시 이자 비용 부담이 가중되어 주가에 치명적일 수 있음.",
+    "technical_synergy": "이러한 펀더멘털을 가진 주식의 장기 이평선 돌파는 사업 자체의 폭발적 성장 신호라기보다, 금리 인하 기대감 등 거시 환경의 변화를 반영할 가능성이 높음. 따라서 폭발적인 랠리보다는, 배당을 기반으로 한 안정적이고 점진적인 상승을 기대하는 것이 합리적임.",
+    "business_moat": "규제된 유틸리티 사업자로서 지역적 독점권을 통해 강력한 경제적 해자를 구축함. 이는 높은 진입 장벽과 예측 가능한 수익을 보장하지만, 동시에 정부의 규제와 대규모 설비 투자가 성장의 한계로 작용함.",
+    "ai_system_tags": [
+      "Defensive",
+      "Dividend"
+    ]
+  }
+}

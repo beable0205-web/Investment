@@ -1,0 +1,34 @@
+{
+  "ticker": "STRL",
+  "lastUpdated": "2026-05-08T18:40:53.108Z",
+  "rawFinancials": {
+    "name": "Sterling Infrastructure, Inc.",
+    "marketCap": 25556641792,
+    "trailingPE": 74.36116,
+    "forwardPE": 38.555084,
+    "priceToBook": 23.05198,
+    "totalRevenue": 2884774912,
+    "operatingMargins": 0.17163,
+    "returnOnEquity": 0.36683,
+    "freeCashflow": 346893376,
+    "totalCash": 511857984,
+    "totalDebt": 342185984,
+    "currentRatio": 1.102,
+    "revenueGrowth": 0.916
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "폭발적인 매출 성장(91.6%)과 그에 따른 이익 증가 기대감이 주가에 반영된 전형적인 고성장 기업. 미래이익 성장률(Forward PE 기준)이 현재보다 2배 가까이 높을 것으로 예상되어 성장 모멘텀이 강력함.",
+      "profitability": "인프라 섹터 평균을 크게 상회하는 독점적 수준의 영업이익률(17.2%)과 경이로운 자기자본이익률(36.7%)을 기록, 자본을 매우 효율적으로 활용하는 수익성 구조를 갖춤.",
+      "cashflow_stability": "총 부채보다 많은 현금을 보유한 '순현금' 상태로 파산 위험이 극히 낮음. 순이익에 버금가는 강력한 잉여현금흐름을 창출하며 재무 건전성이 매우 우수함."
+    },
+    "macro_sensitivity": "순현금 상태로 금리 인상기에 이자 비용 부담이 없는 방어적 재무구조를 갖춤. 그러나 주력 사업이 대규모 자본 투자를 요하는 인프라 분야이므로, 극심한 경기 침체 시 고객사의 투자 위축에 따라 실적이 영향을 받을 수 있는 경기 민감주(Cyclical)의 특성도 동시에 지님.",
+    "technical_synergy": "폭발적인 성장성과 우량한 재무 상태라는 강력한 펀더멘털이 뒷받침되므로, 장기 이평선 돌파 및 지지 같은 기술적 매수 신호의 신뢰도가 매우 높음. 펀더멘털을 확인한 기관 투자자들의 매수세가 유입되며, 한번 추세를 타면 폭발적인 시세 분출로 이어질 가능성이 큼.",
+    "business_moat": "데이터 센터, 이커머스 물류창고 등 고성장 'E-Infrastructure' 분야에 특화된 사업 모델을 구축함. 업계 평균을 뛰어넘는 높은 수익성과 자본효율성은 특정 기술 분야에서의 독점적 지위 또는 탁월한 프로젝트 관리 능력에서 비롯된 강력한 경제적 해자를 시사함.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Cyclical",
+      "Defensive"
+    ]
+  }
+}

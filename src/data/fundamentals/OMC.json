@@ -1,0 +1,33 @@
+{
+  "ticker": "OMC",
+  "lastUpdated": "2026-05-08T17:41:49.420Z",
+  "rawFinancials": {
+    "name": "Omnicom Group Inc.",
+    "marketCap": 21996779520,
+    "forwardPE": 6.1681385,
+    "priceToBook": 2.330877,
+    "totalRevenue": 19824400384,
+    "operatingMargins": 0.11918,
+    "returnOnEquity": 0.02015,
+    "freeCashflow": 5066650112,
+    "totalCash": 4288100096,
+    "totalDebt": 11516600320,
+    "currentRatio": 0.912,
+    "revenueGrowth": 0.692
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "최근 높은 매출 성장을 보였으나, 낮은 Forward PE는 시장이 성장 지속성에 대해 의문을 가짐을 시사. 가치주 영역에서 나타나는 성장성 회복 국면으로 판단됨.",
+      "profitability": "11.9%의 안정적인 영업이익률은 견고하나, 2.0%대의 매우 낮은 자기자본이익률(ROE)은 우려 요인. 이는 비현금성 비용 등 회계적 요인에 의한 일시적 이익 왜곡일 가능성 존재.",
+      "cashflow_stability": "시가총액의 20%를 상회하는 압도적인 잉여현금흐름(FCF)을 창출하는 현금 젖소. 다만, 높은 부채 비율과 1 미만의 유동비율은 재무 안정성에 잠재적 리스크."
+    },
+    "macro_sensitivity": "광고 산업 특성상 경기 변동에 민감한 대표적인 경기 민감주. 기업들의 마케팅 예산 축소 시 직접적 타격을 받으며, 높은 부채 수준으로 인해 금리 인상 시기 이자 비용 부담 증가에 취약.",
+    "technical_synergy": "깊은 가치(저PER)와 강력한 현금흐름이 결합된 종목으로, 장기 이평선 지지(밥그릇 3번 자리) 확인 시 시장의 비관론이 걷히는 신호로 해석 가능. 펀더멘털이 뒷받침되므로 기술적 패턴의 신뢰도가 매우 높으며, 주가 재평가(re-rating) 시 폭발적인 상승 잠재력을 가짐.",
+    "business_moat": "세계 최대 광고/마케팅 그룹 중 하나로서, 글로벌 대기업 고객을 대상으로 한 서비스 규모의 경제와 높은 전환 비용이 핵심 해자. 수십 년간 구축한 최상위 크리에이티브 에이전시 포트폴리오는 모방 불가능한 무형자산임.",
+    "ai_system_tags": [
+      "Value",
+      "Dividend",
+      "Cyclical"
+    ]
+  }
+}

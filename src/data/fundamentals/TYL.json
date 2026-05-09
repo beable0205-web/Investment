@@ -1,0 +1,33 @@
+{
+  "ticker": "TYL",
+  "lastUpdated": "2026-05-08T19:15:09.759Z",
+  "rawFinancials": {
+    "name": "Tyler Technologies, Inc.",
+    "marketCap": 13697254400,
+    "trailingPE": 44.804134,
+    "forwardPE": 22.620913,
+    "priceToBook": 3.782811,
+    "totalRevenue": 2380677888,
+    "operatingMargins": 0.16268998,
+    "returnOnEquity": 0.08930001,
+    "freeCashflow": 541551744,
+    "totalCash": 346353984,
+    "totalDebt": 47960000,
+    "currentRatio": 1.001,
+    "revenueGrowth": 0.086
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적인 한 자릿수 후반의 매출 성장을 보이고 있으며, Trailing PE 대비 현저히 낮은 Forward PE는 향후 강력한 이익 성장이 기대됨을 시사함.",
+      "profitability": "16%대의 견고한 영업이익률을 기록하고 있으나, 9% 미만의 자기자본이익률(ROE)은 다소 아쉬운 부분으로, 자본 효율성 개선이 과제로 보임.",
+      "cashflow_stability": "부채가 거의 없는(Net Debt 음수) 재무구조 위에서 막대한 잉여현금흐름을 창출하는 전형적인 '현금 창출 기계' 모델로, 파산 위험은 극히 낮음."
+    },
+    "macro_sensitivity": "주요 고객이 경기 변동에 둔감한 정부 및 공공기관이므로 사업 모델 자체는 대표적인 경기 방어주 특성을 지님. 그러나 성장주로 분류되는 만큼, 금리 인상기에는 미래 현금흐름 할인율 상승으로 인한 밸류에이션 압박에 민감하게 반응할 수 있음.",
+    "technical_synergy": "이처럼 압도적인 재무 건전성을 가진 기업이 장기 이평선 지지(예: 단테의 밥그릇 3번 자리)를 형성할 경우, 이는 단순한 기술적 반등이 아닌 '펀더멘털이 검증된 저점'일 확률이 매우 높음. 따라서 해당 패턴의 신뢰도가 극대화되며, AI 시스템은 이를 강력한 매수 신호로 해석할 수 있음.",
+    "business_moat": "정부 및 공공 부문에 특화된 필수 업무용 소프트웨어를 공급하며, 한번 도입하면 교체가 극히 어려운 높은 전환 비용(Switching Cost)이 핵심적인 경제적 해자임. 이는 예측 가능하고 안정적인 반복 매출의 원천으로 작용함.",
+    "ai_system_tags": [
+      "Defensive",
+      "High-Growth"
+    ]
+  }
+}

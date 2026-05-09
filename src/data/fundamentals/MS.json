@@ -1,0 +1,25 @@
+{
+  "ticker": "MS",
+  "lastUpdated": "2026-05-08T13:06:31.327Z",
+  "rawFinancials": {
+    "name": "Morgan Stanley",
+    "marketCap": 299952275456,
+    "trailingPE": 17.209955,
+    "forwardPE": 14.970597,
+    "priceToBook": 2.9544644,
+    "totalRevenue": 73173999616,
+    "operatingMargins": 0.40616,
+    "returnOnEquity": 0.16388,
+    "totalCash": 663304994816,
+    "totalDebt": 579511975936,
+    "currentRatio": 1.961,
+    "revenueGrowth": 0.163
+  },
+  "analysis": {
+    "financialHealthScore": 88,
+    "valuationRating": "Fair",
+    "moatAndBusiness": "모건 스탠리는 기관 증권, 자산 관리, 투자 관리라는 세 가지 핵심 사업 부문을 통해 수익을 창출하는 글로벌 금융 서비스 기업입니다. 이 회사의 경제적 해자는 수십 년간 쌓아온 강력한 브랜드 명성과 광범위한 글로벌 네트워크에 기반하며, 이는 신규 경쟁자에게 높은 진입 장벽으로 작용합니다. 이러한 브랜드와 네트워크는 최고의 인재와 고액 자산가 고객을 유치하여 신뢰와 자본의 선순환을 만들어냅니다.",
+    "redFlags": [],
+    "isInvestable": true
+  }
+}

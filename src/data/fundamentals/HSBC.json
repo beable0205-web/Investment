@@ -1,0 +1,26 @@
+{
+  "ticker": "HSBC",
+  "lastUpdated": "2026-05-08T13:06:09.583Z",
+  "rawFinancials": {
+    "name": "HSBC Holdings, plc.",
+    "marketCap": 305135190016,
+    "trailingPE": 14.705785,
+    "forwardPE": 9.5643215,
+    "priceToBook": 6.8729243,
+    "totalRevenue": 63773999104,
+    "operatingMargins": 0.50684,
+    "returnOnEquity": 0.11611,
+    "totalCash": 1162820976640,
+    "totalDebt": 773452988416,
+    "revenueGrowth": 0.033
+  },
+  "analysis": {
+    "financialHealthScore": 85,
+    "valuationRating": "Overvalued",
+    "moatAndBusiness": "HSBC는 대출, 투자 서비스, 거래 수수료 등 광범위한 국제 네트워크를 활용하여 수익을 창출하는 글로벌 금융 대기업입니다. 이 기업의 경제적 해자는 신뢰받는 글로벌 브랜드, 비용 우위를 제공하는 거대한 규모, 그리고 기업 및 고액 자산 고객의 높은 전환 비용에 기반합니다. 특히 아시아를 중심으로 한 핵심 무역 경로에 대한 전략적 집중은 글로벌 금융에서 지속적인 경쟁 우위를 제공합니다.",
+    "redFlags": [
+      "매우 높은 주가순자산비율(PBR)"
+    ],
+    "isInvestable": false
+  }
+}

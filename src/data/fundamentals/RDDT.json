@@ -1,0 +1,33 @@
+{
+  "ticker": "RDDT",
+  "lastUpdated": "2026-05-08T16:39:08.804Z",
+  "rawFinancials": {
+    "name": "Reddit, Inc.",
+    "marketCap": 30362525696,
+    "trailingPE": 45.19198,
+    "forwardPE": 17.891073,
+    "priceToBook": 10.278936,
+    "totalRevenue": 2473555968,
+    "operatingMargins": 0.27571,
+    "returnOnEquity": 0.26221,
+    "freeCashflow": 564094656,
+    "totalCash": 2770631936,
+    "totalDebt": 21288000,
+    "currentRatio": 12.735,
+    "revenueGrowth": 0.691
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출이 69.1% 급증하고 순이익 전망치(Forward PE 17.9)가 크게 개선되는 등 폭발적인 성장 국면에 진입함.",
+      "profitability": "27.6%의 높은 영업이익률과 26.2%의 자기자본이익률(ROE)은 강력한 플랫폼 파워를 기반으로 한 우수한 수익성 구조를 증명함.",
+      "cashflow_stability": "총 부채 대비 현금 보유액이 130배에 달하며 유동비율이 12.7로 극도로 안정적. 사실상 무차입 경영으로 파산 위험이 제로에 가까움."
+    },
+    "macro_sensitivity": "고성장 기술주 특성상 금리 인상 시 밸류에이션 부담이 존재하나, 압도적인 현금 보유량 덕분에 경기 침체기에도 투자를 지속할 수 있는 강력한 방어력을 지님.",
+    "technical_synergy": "이처럼 펀더멘털이 완벽한 주식은 장기 바닥권 형성 후 거래량을 동반하며 상승 전환 시, 시장의 유동성을 흡수하며 폭발적인 추세 상승을 이끌어낼 잠재력이 매우 높음.",
+    "business_moat": "수많은 틈새 커뮤니티(서브레딧)를 기반으로 한 강력한 네트워크 효과가 핵심 해자입니다. 사용자가 생성하는 방대한 콘텐츠와 데이터는 AI 시대에 그 가치가 더욱 증폭될 잠재력을 가집니다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Value"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "ticker": "MFG",
+  "lastUpdated": "2026-05-08T14:19:12.482Z",
+  "rawFinancials": {
+    "name": "Mizuho Financial Group, Inc. Sp",
+    "marketCap": 106012778496,
+    "trailingPE": 16.10185,
+    "forwardPE": 6.2553954,
+    "priceToBook": 1.533606,
+    "totalRevenue": 4017829969920,
+    "operatingMargins": 0.36258,
+    "returnOnEquity": 0.09653,
+    "totalCash": 127258446528512,
+    "totalDebt": 73713189912576,
+    "revenueGrowth": 0.055
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 외형 성장(매출 성장률 5.5%)을 기반으로, 선행 PER(6.2배)이 후행 PER(16.1배) 대비 크게 낮아 향후 높은 이익 성장이 기대되는 국면",
+      "profitability": "ROE 9.65%로 은행업 평균을 상회하는 견실한 수익성을 보이며, 36%에 달하는 높은 영업이익률은 독점적 시장 지위와 효율적인 비용 관리를 시사함",
+      "cashflow_stability": "총 부채 대비 총 현금 비율이 1.7배를 초과하는 압도적인 유동성을 보유하여, 단기적 파산 위험은 극히 낮으며 최고 수준의 재무 안정성을 갖춤"
+    },
+    "macro_sensitivity": "대표적인 금리 인상 수혜주로, 순이자마진(NIM) 확대를 통해 수익성 개선이 기대됨. 단, 글로벌 경기 침체 시 대손충당금 증가 및 투자은행(IB) 부문 위축 가능성이 상존하는 경기 민감주.",
+    "technical_synergy": "가치(Value)와 이익 성장(Growth)의 특성을 동시에 가진 펀더멘털이므로, 장기 이평선 지지(단테의 밥그릇 3번 자리) 패턴은 단순한 기술적 반등이 아닌, 기관 투자자의 본격적인 매수세가 유입되는 신호로 해석될 수 있어 신뢰도가 매우 높음.",
+    "business_moat": "일본 3대 메가뱅크 중 하나로서, 거대한 자산 규모와 고객 기반이 형성하는 규모의 경제가 핵심 해자임. 정부의 암묵적 지원과 높은 진입장벽은 안정적인 독과점적 지위를 보장함.",
+    "ai_system_tags": [
+      "Value",
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

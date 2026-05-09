@@ -1,0 +1,24 @@
+{
+  "ticker": "MUFG",
+  "lastUpdated": "2026-05-08T13:19:42.822Z",
+  "rawFinancials": {
+    "name": "Mitsubishi UFJ Financial Group,",
+    "marketCap": 203176738816,
+    "trailingPE": 16.82243,
+    "forwardPE": 17.475729,
+    "priceToBook": 1.4946003,
+    "totalRevenue": 5848140087296,
+    "operatingMargins": 0.34842,
+    "returnOnEquity": 0.06113,
+    "totalCash": 141393209065472,
+    "totalDebt": 107226115080192,
+    "revenueGrowth": 0.117
+  },
+  "analysis": {
+    "financialHealthScore": "85",
+    "valuationRating": "Fair",
+    "moatAndBusiness": "Mitsubishi UFJ Financial Group은 일본 최대 금융 그룹으로서, 막대한 예금을 기반으로 한 대출 이자 마진과 자산 관리 및 투자 은행 수수료를 통해 수익을 창출합니다. 이 기업의 경제적 해자는 압도적인 자산 규모에서 오는 '대마불사'의 지위와 일본 주요 기업 및 개인 고객과의 깊고 오랜 관계에서 비롯됩니다. 이러한 강력한 네트워크는 저비용 자금 조달을 가능하게 하고 신규 경쟁자의 진입을 막는 높은 장벽으로 작용합니다.",
+    "redFlags": [],
+    "isInvestable": true
+  }
+}

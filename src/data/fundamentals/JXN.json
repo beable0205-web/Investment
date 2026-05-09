@@ -1,0 +1,33 @@
+{
+  "ticker": "JXN",
+  "lastUpdated": "2026-05-09T09:23:40.319Z",
+  "rawFinancials": {
+    "name": "Jackson Financial Inc.",
+    "marketCap": 7865627136,
+    "forwardPE": 4.3338585,
+    "priceToBook": 0.8000624,
+    "totalRevenue": 5910000128,
+    "operatingMargins": 0.44624,
+    "returnOnEquity": -0.032309998,
+    "freeCashflow": 537500032,
+    "totalCash": 5538999808,
+    "totalDebt": 5074999808,
+    "currentRatio": 1.667,
+    "revenueGrowth": -0.226
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "역성장",
+      "profitability": "고마진 구조이나 최종 수익성 악화 (마이너스 ROE)",
+      "cashflow_stability": "현금 창출력 양호, 재무 안정성 보유"
+    },
+    "macro_sensitivity": "대표적인 금리 인상 수혜주. 보유 자산 운용 수익률이 금리에 민감하게 반응하며, 경기 변동에 따라 실적이 좌우되는 경기 순환주(Cyclical)의 특성을 보임.",
+    "technical_synergy": "깊은 저평가(Low P/E, P/B) 상태에서 장기 이평선 돌파 및 지지 패턴이 나타날 경우, 이는 단순한 기술적 반등이 아닌 펀더멘털 턴어라운드(금리 환경 변화 등)에 대한 시장의 기대를 반영하는 강력한 신호일 수 있다. 따라서 패턴의 신뢰도와 이후 상승 폭발력이 매우 높을 잠재력을 가짐.",
+    "business_moat": "미국 연금(Annuity) 시장의 선두주자로서, 강력한 브랜드 인지도와 광범위한 판매 채널이 핵심 해자이다. 신규 경쟁자가 진입하기 어려운 규제 산업의 특성과 규모의 경제가 이들의 시장 지위를 공고히 한다.",
+    "ai_system_tags": [
+      "Value",
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

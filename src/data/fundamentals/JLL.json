@@ -1,0 +1,34 @@
+{
+  "ticker": "JLL",
+  "lastUpdated": "2026-05-08T19:01:29.035Z",
+  "rawFinancials": {
+    "name": "Jones Lang LaSalle Incorporated",
+    "marketCap": 15324726272,
+    "trailingPE": 17.75914,
+    "forwardPE": 12.816763,
+    "priceToBook": 2.0932295,
+    "totalRevenue": 26755700736,
+    "operatingMargins": 0.03287,
+    "returnOnEquity": 0.124280006,
+    "freeCashflow": 277175008,
+    "totalCash": 436200000,
+    "totalDebt": 3975500032,
+    "currentRatio": 1.124,
+    "revenueGrowth": 0.111
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "11.1%의 견실한 매출 성장을 보이고 있으며, 선행 PER이 후행 PER보다 낮아 향후 이익 개선에 대한 시장의 기대감이 존재함.",
+      "profitability": "3.3%의 낮은 영업이익률은 치열한 경쟁 환경을 시사하며, 높은 매출에 비해 수익성이 제한적인 박리다매형 구조를 가짐.",
+      "cashflow_stability": "영업활동으로 현금을 창출하고 있으나, 총 부채(약 40억 달러)가 현금성 자산(약 4.4억 달러)을 크게 상회하며 재무 레버리지가 높은 편임."
+    },
+    "macro_sensitivity": "상업용 부동산 서비스업의 특성상 금리 및 경기 사이클에 매우 민감한 대표적인 경기 민감주(Cyclical). 금리 인상 및 경기 침체기에는 거래량 감소로 실적이 악화되나, 금리 인하 및 경기 확장 국면에서는 강력한 실적 턴어라운드를 기대할 수 있는 금리 인하 수혜주.",
+    "technical_synergy": "경기 민감주이자 레버리지가 높은 특성상, 거시경제 턴어라운드(금리 인하 등) 시그널과 함께 장기 이평선 돌파 및 지지 패턴이 나타날 경우, 실적 개선 기대감이 증폭되며 강력한 추세 상승의 신호가 될 수 있음. 펀더멘털의 성장성이 기술적 신호의 신뢰도를 높여주는 시너지 효과를 기대할 수 있다.",
+    "business_moat": "JLL의 경제적 해자는 글로벌 네트워크와 강력한 브랜드 인지도에서 비롯되며, 대형 고객에게 종합 부동산 서비스를 제공하며 구축한 깊은 관계가 핵심이다. 이는 신규 경쟁사가 단기간에 모방하기 어려운 규모의 경제와 높은 전환 비용을 형성한다.",
+    "ai_system_tags": [
+      "Cyclical",
+      "Value",
+      "Turnaround"
+    ]
+  }
+}

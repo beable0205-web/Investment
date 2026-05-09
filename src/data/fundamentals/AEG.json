@@ -1,0 +1,34 @@
+{
+  "ticker": "AEG",
+  "lastUpdated": "2026-05-08T19:46:00.172Z",
+  "rawFinancials": {
+    "name": "Aegon Ltd. New York Registry Sh",
+    "marketCap": 12591773696,
+    "trailingPE": 11.892857,
+    "forwardPE": 8.99028,
+    "priceToBook": 1.4280963,
+    "totalRevenue": 12193000448,
+    "operatingMargins": 0.00271,
+    "returnOnEquity": 0.10421,
+    "freeCashflow": -204500000,
+    "totalCash": 603000000,
+    "totalDebt": 5406000128,
+    "currentRatio": 7.997,
+    "revenueGrowth": -0.137
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "역성장. 매출이 -13.7% 감소하며 성장 동력에 심각한 의문이 제기되는 상황.",
+      "profitability": "구조적 취약성. 영업이익률이 0.27%에 불과해 핵심 사업의 수익성이 매우 낮음. ROE(10.42%)는 양호해 보이나, 이는 영업 외 요인에 기인할 가능성이 높아 이익의 질이 낮음.",
+      "cashflow_stability": "현금흐름 불안정 및 과다 부채. 잉여현금흐름이 마이너스(-)로 현금 창출에 실패하고 있으며, 보유 현금 대비 부채(54억 달러)가 과도하여 재무 리스크가 높음."
+    },
+    "macro_sensitivity": "대표적인 금리 민감주이자 경기 순환주. 금리 상승기에는 보유 채권의 투자 수익 개선 기대감이 있으나, 경기 침체 시에는 자산 관리 수수료 감소 및 실적 악화에 직접적으로 노출됨. 거시 경제 변수에 대한 방어력이 낮음.",
+    "technical_synergy": "펀더멘털 취약성(매출 감소, 현금흐름 악화)으로 인해 '단테의 밥그릇 3번 자리' 같은 기술적 지지 패턴의 신뢰도가 낮음. 그러나 낮은 밸류에이션(PER)으로 인해, 만약 턴어라운드 성공 시그널과 함께 패턴이 나타난다면, 가치 재평가에 따른 폭발적인 주가 상승을 기대할 수 있는 '고위험 고수익' 시나리오.",
+    "business_moat": "보험, 연금, 자산운용 분야에서 오랜 역사와 글로벌 네트워크를 통해 규모의 경제를 구축함. 하지만 극심한 경쟁과 낮은 마진 구조는 강력한 가격 결정력을 확보하지 못했음을 시사하며, 해자가 점차 약화될 가능성이 존재함.",
+    "ai_system_tags": [
+      "Value",
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "ticker": "GD",
+  "lastUpdated": "2026-05-08T14:26:31.318Z",
+  "rawFinancials": {
+    "name": "General Dynamics Corporation",
+    "marketCap": 93463371776,
+    "trailingPE": 21.750156,
+    "forwardPE": 19.1331,
+    "priceToBook": 3.6417565,
+    "totalRevenue": 53808001024,
+    "operatingMargins": 0.10541,
+    "returnOnEquity": 0.17974001,
+    "freeCashflow": 5289500160,
+    "totalCash": 3654000128,
+    "totalDebt": 9831999488,
+    "currentRatio": 1.384,
+    "revenueGrowth": 0.103
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 성장. 거대 기업임에도 10%대의 견고한 매출 성장을 보이며, 순이익 성장 기대감(낮아지는 Forward PE)이 유효함.",
+      "profitability": "견고한 수익성 및 높은 자본효율성. 10%대의 안정적인 영업이익률과 18%에 육박하는 높은 자기자본이익률(ROE)은 워런 버핏이 선호하는 '주주를 위해 효율적으로 일하는 기업'의 전형임.",
+      "cashflow_stability": "압도적인 현금 창출력 및 낮은 부채 리스크. 순부채(총부채-현금)를 1년 남짓의 잉여현금흐름(FCF)으로 모두 상환 가능할 만큼 재무구조가 매우 안정적임. 파산 위험은 사실상 제로에 가까움."
+    },
+    "macro_sensitivity": "지정학적 리스크에 민감, 경기 침체에는 둔감한 대표적 경기 방어주. 금리나 일반적인 경기 사이클보다 국방 예산 및 국제 정세 변화가 주가에 직접적인 영향을 미침.",
+    "technical_synergy": "견고한 펀더멘털이 장기 이평선 지지의 신뢰도를 극대화하며, '단테의 밥그릇 3번 자리'와 같은 장기 바닥 형성 후 상승 패턴 출현 시, 이는 단순한 기술적 반등이 아닌 기업가치 재평가에 기반한 강력하고 안정적인 추세 상승일 가능성이 매우 높음.",
+    "business_moat": "미 해군 핵잠수함과 주력 전차 등 국가 안보의 핵심 자산을 사실상 독점적으로 생산하며, 기술적 진입장벽과 정부와의 장기 계약을 통해 대체 불가능한 경제적 해자를 구축함. 이는 경기 변동과 무관하게 안정적인 현금 흐름을 창출하는 원천이 됨.",
+    "ai_system_tags": [
+      "Defensive",
+      "Value",
+      "Dividend"
+    ]
+  }
+}

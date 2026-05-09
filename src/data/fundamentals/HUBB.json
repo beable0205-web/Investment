@@ -1,0 +1,34 @@
+{
+  "ticker": "HUBB",
+  "lastUpdated": "2026-05-08T17:05:02.229Z",
+  "rawFinancials": {
+    "name": "Hubbell Inc",
+    "marketCap": 25978603520,
+    "trailingPE": 29.07333,
+    "forwardPE": 22.625565,
+    "priceToBook": 6.804003,
+    "totalRevenue": 5996100096,
+    "operatingMargins": 0.17749001,
+    "returnOnEquity": 0.25822002,
+    "freeCashflow": 541449984,
+    "totalCash": 516900000,
+    "totalDebt": 2738700032,
+    "currentRatio": 1.579,
+    "revenueGrowth": 0.111
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "견조한 성장: 11%대의 안정적인 매출 성장률과 순이익 증가가 예상되는(Forward PE < Trailing PE) 우량 성장주의 특성을 보임.",
+      "profitability": "독점적 마진: 17%가 넘는 높은 영업이익률과 25%를 상회하는 경이로운 자기자본이익률(ROE)은 강력한 가격 결정권과 효율적인 자본 운용 능력을 증명함.",
+      "cashflow_stability": "현금 창출력 우수: 시가총액 대비 건전한 잉여현금흐름을 창출하고 있으며, 총부채가 연간 잉여현금흐름의 약 5배 수준으로 통제되고 있어 재무 안정성이 높음."
+    },
+    "macro_sensitivity": "경기 순환적 성격을 가지나, 전력망 현대화, 데이터센터, 전기차 충전 인프라 등 구조적 성장 테마에 깊이 연관되어 있어 경기 침체기에도 일정 수준의 방어력을 보유한 '구조적 성장주'. 인플레이션 시기에는 핵심 부품 공급자로서 원가 전가 능력이 뛰어남.",
+    "technical_synergy": "이처럼 견고한 펀더멘털을 가진 주식은 '단테의 밥그릇 3번 자리'와 같은 장기 추세 전환 패턴에서 높은 신뢰도를 보임. 단순한 기술적 반등이 아닌, 기업 가치에 대한 시장의 재평가가 시작되는 신호일 가능성이 높아, 패턴 완성 시 강력하고 지속적인 상승 추세를 기대할 수 있음.",
+    "business_moat": "Hubbell은 100년 이상의 업력을 통해 구축한 강력한 브랜드, 특허, 유통망을 바탕으로 전기 및 유틸리티 솔루션 시장에서 과점적 지위를 누리고 있습니다. 제품의 미션 크리티컬한 특성과 높은 교체 비용은 신규 경쟁자의 진입을 막는 견고한 해자 역할을 합니다.",
+    "ai_system_tags": [
+      "Value",
+      "Defensive",
+      "Cyclical"
+    ]
+  }
+}

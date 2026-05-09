@@ -1,0 +1,32 @@
+{
+  "ticker": "CFG",
+  "lastUpdated": "2026-05-08T17:06:24.741Z",
+  "rawFinancials": {
+    "name": "Citizens Financial Group, Inc.",
+    "marketCap": 26907979776,
+    "trailingPE": 15.0782,
+    "forwardPE": 9.952419,
+    "priceToBook": 1.1266334,
+    "totalRevenue": 7885000192,
+    "operatingMargins": 0.32051,
+    "returnOnEquity": 0.07739,
+    "totalCash": 13159999488,
+    "totalDebt": 12314000384,
+    "revenueGrowth": 0.138
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 성장률 13.8%와 낮은 선행 PER(9.95)로 볼 때, 향후 이익 개선이 기대되는 견조한 성장 국면에 위치함.",
+      "profitability": "32%의 양호한 영업이익률을 보이나, 자기자본이익률(ROE)이 7.7%로 다소 낮아 자본 활용 효율성은 개선이 필요한 상태임.",
+      "cashflow_stability": "은행업 고유의 높은 레버리지 구조를 가지고 있으나, 총 부채 대비 총 현금 보유량이 양호하여 단기 유동성 리스크는 제한적으로 판단됨."
+    },
+    "macro_sensitivity": "금리 인상 시 순이자마진(NIM) 개선으로 수익성 확대가 기대되나, 경기 침체 시 대손충당금 증가로 인한 실적 악화 위험이 큰 대표적인 경기민감주(Cyclical).",
+    "technical_synergy": "가치주(Value) 특성상 폭발적인 급등보다는, 거시경제 환경(금리 인상기, 경기 회복기) 개선과 맞물릴 때 장기 이평선 지지를 받으며 꾸준하고 신뢰도 높은 우상향 추세를 형성할 가능성이 높음. 펀더멘털이 주가 하방을 지지하는 역할을 함.",
+    "business_moat": "미국 대형 지역은행으로서, 광범위한 지점망과 고객 기반이 제공하는 저비용의 예금 조달 능력이 핵심 해자임. 규모의 경제와 규제 장벽을 통해 신규 경쟁자의 진입을 막고 안정적인 시장 지위를 유지함.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Dividend"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "TMUS",
+  "lastUpdated": "2026-05-08T13:17:10.777Z",
+  "rawFinancials": {
+    "name": "T-Mobile US, Inc.",
+    "marketCap": 210164137984,
+    "trailingPE": 20.615711,
+    "forwardPE": 13.921705,
+    "priceToBook": 3.6309924,
+    "totalRevenue": 90529996800,
+    "operatingMargins": 0.21548,
+    "returnOnEquity": 0.18024999,
+    "freeCashflow": 10791749632,
+    "totalCash": 3520000000,
+    "totalDebt": 122134003712,
+    "currentRatio": 1.087,
+    "revenueGrowth": 0.106
+  },
+  "analysis": {
+    "financialHealthScore": 65,
+    "valuationRating": "Fair",
+    "moatAndBusiness": "T-Mobile US는 미국 내 주요 무선 통신 사업자로서, 수백만 명의 가입자로부터 모바일 통화 및 데이터 서비스에 대한 월 사용료를 통해 반복적인 수익을 창출합니다. 이 기업의 핵심 경제적 해자는 전국적인 5G 네트워크를 구축하고 유지하는 데 필요한 막대한 자본 투자에서 비롯되며, 이는 신규 경쟁자에게 엄청난 진입 장벽으로 작용합니다. 이러한 인프라 우위는 강력한 브랜드 인지도와 고도로 통합된 산업 내에서의 규모의 경제를 통해 더욱 강화되어 지속적인 수익성을 가능하게 합니다.",
+    "redFlags": [
+      "과도한 부채 수준 (부채/자본 비율 > 200%)"
+    ],
+    "isInvestable": true
+  }
+}

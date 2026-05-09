@@ -1,0 +1,26 @@
+{
+  "ticker": "BHP",
+  "lastUpdated": "2026-05-08T13:20:07.821Z",
+  "rawFinancials": {
+    "name": "BHP Group Limited",
+    "marketCap": 209705500672,
+    "trailingPE": 20.483871,
+    "forwardPE": 15.5177355,
+    "priceToBook": 4.157015,
+    "totalRevenue": 53987999744,
+    "operatingMargins": 0.40728,
+    "returnOnEquity": 0.24712999,
+    "freeCashflow": 8137124864,
+    "totalCash": 13509000192,
+    "totalDebt": 29195999232,
+    "currentRatio": 1.649,
+    "revenueGrowth": 0.108
+  },
+  "analysis": {
+    "financialHealthScore": "88",
+    "valuationRating": "Fair",
+    "moatAndBusiness": "BHP는 철광석, 구리 등 핵심 원자재를 생산하는 세계 최대의 다각화된 광산 기업입니다. 이 기업의 경제적 해자는 경쟁사가 모방하기 불가능한 세계적 수준의 저비용, 장기 채굴 가능 자산을 소유한 것에서 나옵니다. 이러한 규모의 경제와 자산의 질은 강력한 가격 결정력과 비용 우위를 부여하여, 원자재 가격 변동 주기 속에서도 지속적으로 높은 영업이익률과 견고한 현금흐름을 창출하게 합니다.",
+    "redFlags": [],
+    "isInvestable": true
+  }
+}

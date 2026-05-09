@@ -1,0 +1,32 @@
+{
+  "ticker": "PODD",
+  "lastUpdated": "2026-05-08T19:52:42.589Z",
+  "rawFinancials": {
+    "name": "Insulet Corporation",
+    "marketCap": 10714205184,
+    "trailingPE": 36.141354,
+    "forwardPE": 19.175106,
+    "priceToBook": 7.1859612,
+    "totalRevenue": 2900800000,
+    "operatingMargins": 0.1603,
+    "returnOnEquity": 0.22997999,
+    "totalCash": 480400000,
+    "totalDebt": 1015800000,
+    "currentRatio": 2.487,
+    "revenueGrowth": 0.339
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 성장률 33.9%, 순이익 성장 기대감(낮은 Forward PE)이 매우 높은 고성장 국면에 진입한 기업.",
+      "profitability": "영업이익률 16%, 자기자본이익률(ROE) 23%에 달하는 견고한 수익성 구조를 갖추고 있어, 단순한 외형 성장을 넘어 질적 성장을 달성하고 있음.",
+      "cashflow_stability": "총부채가 현금보다 많으나, 2.487의 높은 유동비율은 단기 채무 상환 능력이 매우 안정적임을 시사함. 성장을 위한 전략적 레버리지를 활용하는 단계로 판단됨."
+    },
+    "macro_sensitivity": "의료기기(인슐린 펌프) 사업의 특성상 경기 침체기에도 수요가 꾸준한 경기 방어적 성격을 지님. 다만, 고성장주로 분류되어 높은 밸류에이션을 받고 있으므로, 금리 인상기에는 미래 현금흐름 할인율 상승으로 인한 주가 조정 압력에 민감할 수 있음.",
+    "technical_synergy": "강력한 성장성과 수익성이 펀더멘털의 '안전마진' 역할을 하므로, 장기 이평선 돌파 및 지지 같은 기술적 신호의 신뢰도가 매우 높음. 펀더멘털이 뒷받침되는 만큼, 패턴 완성 시 추세의 폭발력과 지속성이 클 것으로 기대됨.",
+    "business_moat": "독점적인 튜브리스 인슐린 펌프 기술과 관련 특허를 통해 강력한 기술적 해자를 구축함. 환자와 의료진의 높은 전환 비용 및 엄격한 규제 장벽은 신규 경쟁자의 진입을 막는 견고한 방어막으로 작용함.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Defensive"
+    ]
+  }
+}

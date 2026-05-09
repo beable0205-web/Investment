@@ -1,0 +1,33 @@
+{
+  "ticker": "SPXC",
+  "lastUpdated": "2026-05-08T20:34:21.507Z",
+  "rawFinancials": {
+    "name": "SPX Technologies, Inc.",
+    "marketCap": 10155152384,
+    "trailingPE": 38.78394,
+    "forwardPE": 22.399769,
+    "priceToBook": 4.5207157,
+    "totalRevenue": 2349299968,
+    "operatingMargins": 0.16636999,
+    "returnOnEquity": 0.13849,
+    "freeCashflow": 179162496,
+    "totalCash": 156500000,
+    "totalDebt": 674000000,
+    "currentRatio": 2.105,
+    "revenueGrowth": 0.174
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "고성장. 17.4%의 높은 매출 성장률과 Trailing PE 대비 현저히 낮은 Forward PE는 향후 강력한 이익 성장이 기대되는 전형적인 성장주의 모습을 보입니다.",
+      "profitability": "견고한 수익 구조. 16%대의 안정적인 영업이익률과 13%가 넘는 자기자본이익률(ROE)은 단순한 외형 성장을 넘어 내실 있는 수익 창출 능력을 확보했음을 증명합니다.",
+      "cashflow_stability": "안정적 현금흐름, 관리 가능한 부채. 잉여현금흐름(FCF)이 흑자를 기록하고 유동비율이 2.1배로 매우 안정적이나, 총 부채가 총 현금을 상회하여 레버리지 수준은 지속적인 관찰이 필요합니다."
+    },
+    "macro_sensitivity": "경기 민감형 성장주. 주력 사업인 HVAC 및 산업 솔루션은 건설 및 설비투자(CAPEX) 경기에 직접적인 영향을 받으므로 경기 확장 국면에서 수혜를 보지만, 경기 침체와 금리 인상 시기에는 실적 둔화 및 부채 부담이 가중될 수 있는 대표적인 경기 순환주(Cyclical)입니다.",
+    "technical_synergy": "펀더멘털이 뒷받침하는 기술적 신뢰도. 이처럼 강력한 실적 성장 모멘텀을 가진 기업이 장기 이평선 지지를 받으며 박스권을 돌파하는 '단테의 밥그릇 3번 자리'와 같은 패턴을 형성할 경우, 이는 단순한 수급을 넘어 기업 가치의 재평가가 시작된다는 신호로 해석될 수 있어 폭발력과 신뢰도가 매우 높습니다.",
+    "business_moat": "SPX Technologies는 HVAC 및 정밀 측정 장비 시장에서 고도로 설계된 제품을 공급하며, 기술적 전문성과 특정 산업 내에서의 확고한 시장 지위를 통해 경제적 해자를 구축합니다. 이는 신규 진입자가 단기간에 모방하기 어려운 엔지니어링 역량과 B2B 고객과의 깊은 신뢰 관계에 기반합니다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Cyclical"
+    ]
+  }
+}

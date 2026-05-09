@@ -1,0 +1,34 @@
+{
+  "ticker": "MPLX",
+  "lastUpdated": "2026-05-08T15:23:00.693Z",
+  "rawFinancials": {
+    "name": "MPLX LP",
+    "marketCap": 55769763840,
+    "trailingPE": 11.896104,
+    "forwardPE": 11.30413,
+    "priceToBook": 3.903409,
+    "totalRevenue": 11816999936,
+    "operatingMargins": 0.42880002,
+    "returnOnEquity": 0.34705,
+    "freeCashflow": 2002499968,
+    "totalCash": 2136999936,
+    "totalDebt": 26161999872,
+    "currentRatio": 1.229,
+    "revenueGrowth": 0.071
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 저성장",
+      "profitability": "독점적 고마진 구조",
+      "cashflow_stability": "높은 레버리지, 그러나 안정적 현금흐름"
+    },
+    "macro_sensitivity": "금리 변동에 민감한 경기 방어주. 파이프라인 등 인프라 자산의 특성상 높은 부채를 유지하므로 금리 인상 시 이자 부담이 가중될 수 있으나, 장기 계약 기반의 안정적인 수수료 매출 구조는 경기 침체기에도 상대적으로 견고한 실적을 유지하게 하는 방어적 성격을 지닌다.",
+    "technical_synergy": "펀더멘털이 지지하는 높은 신뢰도의 패턴. 폭발적인 성장주와 달리 주가 급등의 폭은 제한적일 수 있으나, 독점적 사업구조에서 나오는 안정적 현금흐름과 30%가 넘는 ROE는 장기 이평선 지지 패턴의 신뢰도를 극도로 높여준다. 이는 가치 및 배당 투자자들의 견고한 매수세를 유입시키는 트리거로 작용한다.",
+    "business_moat": "MPLX는 대체 불가능한 에너지 파이프라인 및 저장 시설 네트워크를 운영하며, 막대한 초기 투자 비용과 규제 장벽이 강력한 경제적 해자 역할을 합니다. 이는 원자재 가격 변동과 무관하게 안정적인 수수료 기반 수익을 창출하는 '에너지 고속도로' 비즈니스 모델의 핵심입니다.",
+    "ai_system_tags": [
+      "Value",
+      "Dividend",
+      "Defensive"
+    ]
+  }
+}

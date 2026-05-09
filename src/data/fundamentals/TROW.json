@@ -1,0 +1,34 @@
+{
+  "ticker": "TROW",
+  "lastUpdated": "2026-05-08T17:37:44.758Z",
+  "rawFinancials": {
+    "name": "T. Rowe Price Group, Inc.",
+    "marketCap": 22450855936,
+    "trailingPE": 11.24249,
+    "forwardPE": 10.916163,
+    "priceToBook": 2.1087587,
+    "totalRevenue": 7407900160,
+    "operatingMargins": 0.37183997,
+    "returnOnEquity": 0.18688999,
+    "freeCashflow": 1880349952,
+    "totalCash": 3729799936,
+    "totalDebt": 459600000,
+    "currentRatio": 5.545,
+    "revenueGrowth": 0.053
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 저성장. 매출 성장률은 5.3%로 폭발적이지 않으나, 시장 상황에 따라 꾸준한 성장을 보임.",
+      "profitability": "독점적 수준의 높은 마진. 37%에 달하는 영업이익률과 18%가 넘는 자기자본이익률(ROE)은 강력한 가격 결정권과 뛰어난 자본 효율성을 증명함.",
+      "cashflow_stability": "압도적인 현금 창출력과 무차입에 가까운 재무 건전성. 보유 현금(37.3억 달러)이 총 부채(4.6억 달러)를 8배 이상 상회하며, 파산 위험은 사실상 제로에 가까움."
+    },
+    "macro_sensitivity": "증시 강세에 편승하는 대표적인 경기 민감주. 금리 인하 및 유동성 확대 국면에서 AUM(운용자산) 증가로 인한 수혜가 기대되나, 경기 침체 및 약세장에서는 실적 변동성이 확대됨.",
+    "technical_synergy": "견고한 펀더멘털(높은 수익성, 순현금 자산)은 주가 하방 경직성을 제공함. 경기 회복 및 증시 상승 전환 시그널과 함께 장기 이평선 돌파 및 지지 패턴이 나타날 경우, 펀더멘털 가치와 시장 모멘텀이 결합되어 매우 높은 신뢰도와 폭발적인 주가 상승을 기대할 수 있음.",
+    "business_moat": "수십 년간 쌓아온 강력한 브랜드 신뢰도와 장기 운용 성과를 바탕으로 한 고객 락인(Lock-in) 효과가 핵심 해자이다. 이는 경기 변동에도 불구하고 안정적인 자산 유입을 유지하고 높은 수수료 마진을 방어하는 원동력이 된다.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Dividend"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "ticker": "GGB",
+  "lastUpdated": "2026-05-09T08:28:11.940Z",
+  "rawFinancials": {
+    "name": "Gerdau S.A.",
+    "marketCap": 9541899264,
+    "trailingPE": 28.529411,
+    "forwardPE": 8.408702,
+    "priceToBook": 0.89468753,
+    "totalRevenue": 69198856192,
+    "operatingMargins": 0.10481,
+    "returnOnEquity": 0.03066,
+    "freeCashflow": 2299379712,
+    "totalCash": 5589834752,
+    "totalDebt": 15374748672,
+    "currentRatio": 2.758,
+    "revenueGrowth": -0.038
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 역성장 국면이나, 현저히 낮은 선행 PER은 강력한 이익 턴어라운드를 시사함. 전형적인 경기 회복 기대주.",
+      "profitability": "낮은 자기자본이익률(ROE)은 자본집약적 산업의 특성을 보여주나, 0.89배의 낮은 PBR은 자산가치 대비 저평가 가능성을 내포함.",
+      "cashflow_stability": "상당한 총부채 규모에도 불구하고, 강력한 잉여현금흐름과 2.7배가 넘는 유동비율은 단기 파산 위험을 효과적으로 통제하고 있음을 증명함."
+    },
+    "macro_sensitivity": "글로벌 경기 회복, 인프라 투자 확대, 원자재 가격 안정 시 가장 큰 수혜를 받는 대표적인 경기민감주(Cyclical). 금리 인상 및 경기 침체 국면에서는 실적과 주가 변동성이 극대화되는 경향이 있음.",
+    "technical_synergy": "자산가치(PBR<1)가 주가의 하방 경직성을 제공하므로, 장기 이평선 지지를 받으며 바닥을 다지는 패턴의 신뢰도가 높음. 향후 이익 턴어라운드가 가시화되며 거래량을 동반한 장기 저항선 돌파 시, 펀더멘털 개선과 기술적 분석이 시너지를 일으켜 강력한 추세 상승을 기대할 수 있음.",
+    "business_moat": "남미 최대 철강 생산업체 중 하나로서, 규모의 경제를 통한 원가 경쟁력과 광범위한 유통망이 핵심 해자임. 그러나 철강은 본질적으로 차별화가 어려운 범용재(Commodity)이므로, 독점적 가격 결정력보다는 산업 사이클에 대한 의존도가 높음.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Turnaround"
+    ]
+  }
+}

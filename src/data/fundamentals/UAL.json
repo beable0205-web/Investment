@@ -1,0 +1,34 @@
+{
+  "ticker": "UAL",
+  "lastUpdated": "2026-05-08T16:56:41.590Z",
+  "rawFinancials": {
+    "name": "United Airlines Holdings, Inc.",
+    "marketCap": 32508905472,
+    "trailingPE": 8.958856,
+    "forwardPE": 7.1090264,
+    "priceToBook": 2.0617537,
+    "totalRevenue": 60465000448,
+    "operatingMargins": 0.043470003,
+    "returnOnEquity": 0.25726998,
+    "freeCashflow": 1647000064,
+    "totalCash": 14167000064,
+    "totalDebt": 30971000832,
+    "currentRatio": 0.698,
+    "revenueGrowth": 0.106
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "포스트-팬데믹 여행 수요 회복에 힘입은 견조한 매출 성장세를 보이나, 이는 기저효과를 포함하고 있어 지속 가능성 점검이 필요함.",
+      "profitability": "전형적인 항공 산업의 박리다매 수익 구조로, 높은 부채를 활용해 자기자본이익률(ROE)을 극대화하고 있으나 영업이익률은 매우 낮아 비용 통제 능력이 핵심.",
+      "cashflow_stability": "영업활동으로 현금을 창출하고 있으나, 막대한 부채와 1 미만의 유동비율은 금리 상승기 또는 수요 둔화 시 재무적 압박을 가중시킬 수 있는 핵심 리스크 요인."
+    },
+    "macro_sensitivity": "유가, 금리, 경기 사이클에 극도로 민감한 대표적인 경기민감주. 경기 확장과 유가 안정 시에는 이익이 폭발적으로 증가하지만, 경기 침체 시에는 가장 큰 타격을 입는 업종 중 하나.",
+    "technical_synergy": "펀더멘털의 양면성(저평가+고위험)으로 인해, 장기 이평선 지지 같은 신뢰도 높은 기술적 신호는 강력한 추세 전환의 시발점이 될 수 있음. 거시경제 지표 개선이 동반될 경우, 레버리지 효과로 인해 주가 상승 탄력이 극대화될 잠재력을 지님.",
+    "business_moat": "UAL은 막대한 자본과 규제로 형성된 높은 진입장벽과 함께, 주요 허브 공항을 중심으로 한 강력한 네트워크 및 고객 충성도 프로그램이라는 해자를 보유하고 있습니다. 하지만 유가 변동성과 치열한 가격 경쟁은 이러한 해자의 힘을 약화시키는 고질적인 약점입니다.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Turnaround"
+    ]
+  }
+}

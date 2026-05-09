@@ -1,0 +1,32 @@
+{
+  "ticker": "TD",
+  "lastUpdated": "2026-05-08T13:39:28.597Z",
+  "rawFinancials": {
+    "name": "Toronto Dominion Bank (The)",
+    "marketCap": 180833255424,
+    "trailingPE": 11.877753,
+    "forwardPE": 14.166853,
+    "priceToBook": 2.0295231,
+    "totalRevenue": 65979998208,
+    "operatingMargins": 0.35887,
+    "returnOnEquity": 0.17815,
+    "totalCash": 654254997504,
+    "totalDebt": 528488988672,
+    "revenueGrowth": 0.211
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "최근 21%의 높은 매출 성장을 기록했으나, 선행 PER이 후행 PER보다 높아 단기적인 이익 성장 둔화 가능성이 내재되어 있음",
+      "profitability": "35%를 상회하는 높은 영업이익률과 17%대의 우수한 자기자본이익률(ROE)은 과점적 시장 지위에 기반한 강력한 수익 창출 능력을 증명함",
+      "cashflow_stability": "핵심 예대마진 사업을 통해 막대한 현금을 안정적으로 창출하나, 은행업 고유의 높은 레버리지 구조는 경기 하강 시 잠재적 리스크 요인으로 작용함"
+    },
+    "macro_sensitivity": "금리 상승기에는 순이자마진(NIM) 확대로 이익이 증가하는 대표적인 금리 인상 수혜주이며, 반대로 경기 침체기에는 대손 비용 증가 우려로 주가가 민감하게 반응하는 경기 민감주(Cyclical) 특성을 가짐",
+    "technical_synergy": "펀더멘털이 견고한 초대형 우량주로서, 장기 이평선 돌파 및 지지 패턴은 투기적 급등보다는 기관의 구조적 매수세가 유입되는 신호일 가능성이 높음. 따라서 패턴의 신뢰도는 매우 높으나, 상승 속도는 상대적으로 완만할 수 있음",
+    "business_moat": "캐나다 금융 시장을 과점하는 '빅5' 은행 중 하나로, 강력한 브랜드 인지도와 높은 고객 전환 비용이 핵심 경제적 해자이다. 정부의 엄격한 규제와 막대한 자본 요건은 신규 경쟁자의 진입을 원천적으로 차단하는 역할을 한다.",
+    "ai_system_tags": [
+      "Value",
+      "Dividend",
+      "Cyclical"
+    ]
+  }
+}

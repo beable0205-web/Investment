@@ -1,0 +1,34 @@
+{
+  "ticker": "PH",
+  "lastUpdated": "2026-05-08T14:14:20.385Z",
+  "rawFinancials": {
+    "name": "Parker-Hannifin Corporation",
+    "marketCap": 112118538240,
+    "trailingPE": 32.764187,
+    "forwardPE": 26.114695,
+    "priceToBook": 7.842483,
+    "totalRevenue": 20987000832,
+    "operatingMargins": 0.21528,
+    "returnOnEquity": 0.24841999,
+    "freeCashflow": 2774481920,
+    "totalCash": 476000000,
+    "totalDebt": 9582000128,
+    "currentRatio": 1.129,
+    "revenueGrowth": 0.106
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 10.6%의 견조한 성장세와 순이익 증가 기대감(Trailing PE > Forward PE)을 보이는 성숙한 우량 기업.",
+      "profitability": "21.5%의 높은 영업이익률과 24.8%의 ROE는 강력한 가격 결정력과 효율적인 자본 활용을 증명하는 고수익성 구조.",
+      "cashflow_stability": "연간 27억 달러 이상의 강력한 잉여현금흐름을 창출하며, 총 부채는 현금흐름 대비 약 3.5년치 수준으로 충분히 관리 가능."
+    },
+    "macro_sensitivity": "산업재 섹터의 특성상 경기 확장기에 수혜를 입는 대표적인 경기 순환주. 단, 다양한 전방산업에 걸친 사업 포트폴리오가 경기 침체기 방어력을 일부 제공.",
+    "technical_synergy": "이처럼 견고한 펀더멘털을 가진 기업이 장기 이평선 지지(밥그릇 3번 자리)를 확인하며 상승 추세로 전환할 경우, 단순한 기술적 반등이 아닌 기관 투자자의 신규 자금 유입을 동반한 장기 추세의 시작일 가능성이 높아 신뢰도가 매우 높음.",
+    "business_moat": "다양한 산업에 필수적인 동작 및 제어 기술 분야의 선두주자. 고객사의 시스템에 깊숙이 통합된 제품 포트폴리오와 엔지니어링 전문성이 높은 전환 비용을 형성하여 강력한 경제적 해자를 구축함.",
+    "ai_system_tags": [
+      "Cyclical",
+      "Dividend",
+      "Value"
+    ]
+  }
+}

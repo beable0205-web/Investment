@@ -1,0 +1,34 @@
+{
+  "ticker": "KEYS",
+  "lastUpdated": "2026-05-08T15:17:58.626Z",
+  "rawFinancials": {
+    "name": "Keysight Technologies Inc.",
+    "marketCap": 61790633984,
+    "trailingPE": 63.431343,
+    "forwardPE": 34.86429,
+    "priceToBook": 9.95799,
+    "totalRevenue": 5677000192,
+    "operatingMargins": 0.16313,
+    "returnOnEquity": 0.17222999,
+    "freeCashflow": 1077250048,
+    "totalCash": 2177999872,
+    "totalDebt": 2772000000,
+    "currentRatio": 2.604,
+    "revenueGrowth": 0.233
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출이 23.3% 성장하는 고성장 기업이며, Trailing PE(63.4) 대비 현저히 낮은 Forward PE(34.9)는 향후 시장이 강력한 이익 성장을 기대하고 있음을 시사합니다.",
+      "profitability": "16%대의 안정적인 영업이익률과 17%를 상회하는 자기자본이익률(ROE)은 기술적 우위를 바탕으로 한 견조한 수익성과 효율적인 자본 활용 능력을 보여줍니다.",
+      "cashflow_stability": "매출의 약 19%에 달하는 강력한 잉여현금흐름을 창출하며, 2.6배의 높은 유동비율은 단기 부채 상환 능력이 매우 우수하여 파산 위험이 극히 낮음을 의미합니다."
+    },
+    "macro_sensitivity": "미래 성장 가치에 기반한 고평가 주식으로 금리 인상 시기에는 밸류에이션 부담이 있으나, 5G/6G, 자율주행, 반도체 등 필수 산업의 R&D 투자에 의존하므로 경기 침체에 대한 일정 수준의 방어력을 갖춘 경기 순환적 성장주(Cyclical Growth)의 특성을 보입니다.",
+    "technical_synergy": "강력한 성장성과 이익 창출 능력이 펀더멘털의 '안전마진' 역할을 하므로, 장기 이평선 돌파와 같은 기술적 매수 신호 발생 시, 단순 투기적 자금이 아닌 기관 투자자의 자금 유입을 동반하며 매우 높은 신뢰도와 폭발적인 상승 잠재력을 가집니다.",
+    "business_moat": "첨단 전자 산업의 설계 및 테스트 솔루션 시장을 선도하며, 수십 년간 축적된 독보적인 기술력과 지적재산권이 강력한 진입 장벽으로 작용합니다. 고객사들이 자사 제품 생태계에 깊이 종속되어 있어 높은 전환 비용이 발생하며, 이는 안정적인 반복 매출로 이어지는 핵심 해자입니다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Cyclical",
+      "Value"
+    ]
+  }
+}

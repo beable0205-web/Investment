@@ -1,0 +1,32 @@
+{
+  "ticker": "PNFP",
+  "lastUpdated": "2026-05-08T19:00:23.820Z",
+  "rawFinancials": {
+    "name": "Pinnacle Financial Partners, In",
+    "marketCap": 14735876096,
+    "trailingPE": 12.507652,
+    "forwardPE": 8.281332,
+    "priceToBook": 1.0669597,
+    "totalRevenue": 2643606016,
+    "operatingMargins": 0.46889,
+    "returnOnEquity": 0.061680004,
+    "totalCash": 5918000128,
+    "totalDebt": 6048999936,
+    "revenueGrowth": 1.559
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "고성장 국면 진입. 후행 PE 대비 선행 PE가 현저히 낮아 향후 높은 이익 성장이 기대되며, 매출 성장률 데이터는 폭발적 성장세를 시사함.",
+      "profitability": "고마진, 저효율의 이중적 수익구조. 46.9%의 높은 영업이익률은 뛰어난 비용 통제력을 보여주나, 6.17%의 낮은 자기자본이익률(ROE)은 자본 활용 효율성에 대한 의문을 제기함.",
+      "cashflow_stability": "레버리지 기반 현금흐름. 은행업 특성상 부채(예수금)를 기반으로 수익을 창출하며, 현재 현금과 부채 규모가 비슷하여 단기적 유동성 리스크는 제한적으로 보임."
+    },
+    "macro_sensitivity": "금리 변동에 극도로 민감한 대표적 경기민감주. 금리 인상기에는 순이자마진(NIM) 확대가 기대되나, 경기 침체 시 대손충당금 증가 리스크에 노출됨. 금리 사이클에 따른 주가 변동성이 큼.",
+    "technical_synergy": "가치(저PBR)와 성장(저Forward PE)을 겸비하여 '단테의 밥그릇 3번 자리'와 같은 장기 바닥권 탈출 패턴 형성 시 신뢰도가 매우 높음. 펀더멘털이 뒷받침되므로, 기술적 돌파가 발생할 경우 기관 투자자 유입과 함께 강력한 추세 형성 가능성이 큼.",
+    "business_moat": "미국 남동부 지역 사회에 깊이 뿌리내린 고객 관계와 브랜드 충성도가 핵심 해자임. 대형 은행이 모방하기 어려운 맞춤형 금융 서비스와 빠른 의사결정으로 중소기업(SMB) 대출 시장에서 강력한 경쟁 우위를 확보함.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Growth"
+    ]
+  }
+}

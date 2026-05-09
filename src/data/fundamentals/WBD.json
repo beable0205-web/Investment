@@ -1,0 +1,33 @@
+{
+  "ticker": "WBD",
+  "lastUpdated": "2026-05-08T15:07:29.626Z",
+  "rawFinancials": {
+    "name": "Warner Bros. Discovery, Inc. - ",
+    "marketCap": 68143976448,
+    "forwardPE": -1553.1428,
+    "priceToBook": 1.876683,
+    "totalRevenue": 37210001408,
+    "operatingMargins": 0.08590999,
+    "returnOnEquity": -0.049590003,
+    "freeCashflow": 18466875392,
+    "totalCash": 3296000000,
+    "totalDebt": 32465999872,
+    "currentRatio": 0.729,
+    "revenueGrowth": -0.01
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 역성장 및 순이익 적자 상태로, 합병 이후 성장 동력 확보에 어려움을 겪고 있음.",
+      "profitability": "높은 부채에 따른 이자 비용 부담으로 순이익단에서 적자를 기록 중이나, 영업이익률은 양호하며 핵심 자산의 수익성은 유지되고 있음.",
+      "cashflow_stability": "회계상 이익은 적자이나, 감가상각비 등 비현금성 비용으로 인해 막대한 잉여현금흐름(FCF)을 창출하는 '현금 부자, 장부상 적자' 구조. 단, 과도한 부채와 낮은 유동비율(Current Ratio)은 재무 안정성의 핵심 리스크."
+    },
+    "macro_sensitivity": "광고 및 콘텐츠 사업의 경기 민감도가 높고, 특히 막대한 부채로 인해 금리 인상기에 이자 비용 부담이 가중되는 구조. 대표적인 금리 인하 수혜주이자 경기 순환주로 분류 가능.",
+    "technical_synergy": "펀더멘털은 '부채를 갚아나가는 턴어라운드' 스토리에 기반함. 따라서 '단테의 밥그릇 3번 자리'와 같은 장기 저항선 돌파 및 지지 패턴은 시장이 드디어 이 기업의 부채 감소와 현금 창출 능력을 신뢰하기 시작했다는 강력한 신호. 펀더멘털 개선 기대감이 기술적 분석과 결합될 때, 주가의 폭발력과 추세의 신뢰도는 매우 높을 것으로 기대됨.",
+    "business_moat": "WBD의 핵심 해자는 HBO, 워너브라더스, DC 코믹스 등을 아우르는 방대하고 대체 불가능한 콘텐츠 라이브러리입니다. 이 독점적 지적 재산(IP)은 스트리밍 시대의 치열한 경쟁 속에서 구독자를 유치하고 가격 결정력을 확보하는 가장 강력한 무기입니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Value",
+      "Cyclical"
+    ]
+  }
+}

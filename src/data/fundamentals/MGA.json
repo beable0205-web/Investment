@@ -1,0 +1,34 @@
+{
+  "ticker": "MGA",
+  "lastUpdated": "2026-05-08T18:35:56.737Z",
+  "rawFinancials": {
+    "name": "Magna International, Inc.",
+    "marketCap": 17042617344,
+    "trailingPE": 26.415613,
+    "forwardPE": 8.226632,
+    "priceToBook": 1.4421461,
+    "totalRevenue": 42322001920,
+    "operatingMargins": 0.04277,
+    "returnOnEquity": 0.059660003,
+    "freeCashflow": 2071000064,
+    "totalCash": 1604999936,
+    "totalDebt": 6700000256,
+    "currentRatio": 1.217,
+    "revenueGrowth": 0.031
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 성장은 3.1%로 정체되어 있으나, Trailing PE(26.4) 대비 Forward PE(8.2)가 크게 낮은 점은 강력한 이익 턴어라운드를 시사함.",
+      "profitability": "영업이익률(4.28%)과 ROE(5.97%)가 낮아 전형적인 자동차 부품 산업의 박리다매 구조를 보임. 수익성 개선이 핵심 과제.",
+      "cashflow_stability": "매우 견조한 잉여현금흐름($2.07B)을 창출하고 있으며, 부채($6.7B) 규모는 현금 창출력 대비 관리 가능한 수준으로 파산 위험은 낮음."
+    },
+    "macro_sensitivity": "자동차 산업에 속한 대표적인 경기민감주(Cyclical). 소비 심리, 금리, 유가 변동에 실적이 직접적인 영향을 받으며, 경기 회복 국면에서 주가 탄력성이 높게 나타나는 경향이 있음.",
+    "technical_synergy": "이익 턴어라운드 기대감이 펀더멘털의 핵심인 만큼, '밥그릇 3번 자리'와 같은 장기 바닥 탈출 패턴의 신뢰도가 매우 높음. 견조한 현금흐름이 하방 리스크를 제한하는 안전마진 역할을 하므로, 기술적 추세 전환 시 경기 회복 사이클에 베팅하는 투자자들의 매수세가 강하게 유입될 수 있음.",
+    "business_moat": "세계 최대 규모의 자동차 부품 공급업체로서, 글로벌 OEM과의 깊은 신뢰 관계와 광범위한 제품 포트폴리오가 핵심 해자임. 규모의 경제를 통해 원가 경쟁력을 확보하고, 고객사의 R&D에 깊숙이 관여하여 높은 전환 비용을 구축함.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Turnaround"
+    ]
+  }
+}

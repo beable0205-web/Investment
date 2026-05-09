@@ -1,0 +1,33 @@
+{
+  "ticker": "CRL",
+  "lastUpdated": "2026-05-09T08:38:12.476Z",
+  "rawFinancials": {
+    "name": "Charles River Laboratories Inte",
+    "marketCap": 8555551744,
+    "forwardPE": 14.25183,
+    "priceToBook": 2.7623637,
+    "totalRevenue": 4027044096,
+    "operatingMargins": 0.15923999,
+    "returnOnEquity": -0.0587,
+    "freeCashflow": 510023744,
+    "totalCash": 191830000,
+    "totalDebt": 3064531968,
+    "currentRatio": 1.361,
+    "revenueGrowth": 0.012
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 성장률 1.2%로 성장 정체 국면에 진입했으나, 긍정적인 선행 PER(Forward PE)는 시장이 향후 이익 개선을 기대하고 있음을 시사하는 '턴어라운드' 잠재력을 내포하고 있음.",
+      "profitability": "15.9%의 견조한 영업이익률은 비즈니스 모델의 본원적 경쟁력을 보여주지만, 마이너스 자기자본이익률(ROE)은 일시적인 순이익단 악화 또는 회계적 이슈가 있었음을 암시함. 영업과 실제 현금흐름의 괴리 분석이 필수적.",
+      "cashflow_stability": "부채(약 30억 달러) 규모가 현금(약 1.9억 달러) 대비 상당히 높지만, 연간 5억 달러가 넘는 강력한 잉여현금흐름(FCF) 창출 능력은 부채 상환 및 이자 지급에 대한 우려를 상당 부분 상쇄하며 파산 위험을 낮추는 핵심 요소로 작용함."
+    },
+    "macro_sensitivity": "제약/바이오 기업의 R&D 지출에 의존하므로 본질적으로 경기 방어적 성격을 띠나, 고객사 대부분이 금리 인상 시 자금 조달에 어려움을 겪는 바이오테크 기업이라는 점에서 금리 인상기에는 간접적인 실적 압박을 받을 수 있는 이중적 특성을 지님.",
+    "technical_synergy": "강력한 현금흐름과 낮은 밸류에이션(선행 PER)을 가진 기업이 장기 이평선 지지 및 돌파(예: 단테의 밥그릇 3번 자리) 패턴을 형성할 경우, 이는 단순한 기술적 반등이 아닌 펀더멘털 재평가의 시작일 가능성이 높음. 따라서 패턴의 신뢰도가 매우 높으며, 투기적 급등보다는 안정적이고 지속적인 우상향 추세를 기대할 수 있음.",
+    "business_moat": "Charles River Laboratories는 제약 및 바이오 연구개발(R&D)에 필수적인 서비스를 제공하는 핵심 위탁연구기관(CRO)입니다. 오랜 기간 쌓아온 신뢰와 규제 전문성, 그리고 연구개발 파트너를 쉽게 교체하기 어려운 높은 전환 비용이 이 기업의 강력한 경제적 해자를 구성합니다.",
+    "ai_system_tags": [
+      "Value",
+      "Turnaround",
+      "Defensive"
+    ]
+  }
+}

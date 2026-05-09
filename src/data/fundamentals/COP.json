@@ -1,0 +1,34 @@
+{
+  "ticker": "COP",
+  "lastUpdated": "2026-05-08T13:50:46.109Z",
+  "rawFinancials": {
+    "name": "ConocoPhillips",
+    "marketCap": 138775871488,
+    "trailingPE": 19.30678,
+    "forwardPE": 13.067539,
+    "priceToBook": 2.1501784,
+    "totalRevenue": 59377999872,
+    "operatingMargins": 0.22051,
+    "returnOnEquity": 0.112840004,
+    "freeCashflow": 5289124864,
+    "totalCash": 6362999808,
+    "totalDebt": 23327000576,
+    "currentRatio": 1.289,
+    "revenueGrowth": -0.053
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "역성장 또는 경기 순환에 따른 변동성",
+      "profitability": "높은 운영 마진(22%)을 통한 강력한 수익성 구조",
+      "cashflow_stability": "안정적인 잉여현금흐름 창출력, 부채는 관리 가능한 수준"
+    },
+    "macro_sensitivity": "유가 및 천연가스 가격에 직접적으로 연동되는 대표적인 경기 순환주. 인플레이션 시기에는 가격 전가력을 통해 이익이 증가하는 경향이 있으나, 경기 침체로 인한 수요 감소에 매우 취약함.",
+    "technical_synergy": "강력한 펀더멘털(높은 마진, 현금 창출력)을 갖춘 대형주이므로, 유가 상승 등 거시적 순풍이 불 때 장기 이평선 돌파 및 지지 패턴은 높은 신뢰도를 보임. 펀더멘털이 기술적 신호를 강력하게 뒷받침하며, 기관 투자자 유입을 가속화하여 추세의 폭발력을 더할 수 있음.",
+    "business_moat": "전 세계에 분산된 저비용 대규모 유전/가스전 자산을 보유하여 규모의 경제를 통한 원가 경쟁력을 확보하고 있습니다. 오랜 업력을 통해 축적된 탐사 및 생산 기술력과 운영 효율성은 신규 경쟁자의 진입을 막는 강력한 해자로 작용합니다.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Dividend"
+    ]
+  }
+}

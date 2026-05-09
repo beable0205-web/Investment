@@ -1,0 +1,34 @@
+{
+  "ticker": "LDOS",
+  "lastUpdated": "2026-05-08T18:09:21.012Z",
+  "rawFinancials": {
+    "name": "Leidos Holdings, Inc.",
+    "marketCap": 16402423808,
+    "trailingPE": 11.930466,
+    "forwardPE": 9.904945,
+    "priceToBook": 3.2719424,
+    "totalRevenue": 17329000448,
+    "operatingMargins": 0.12227,
+    "returnOnEquity": 0.30579,
+    "freeCashflow": 1194749952,
+    "totalCash": 457000000,
+    "totalDebt": 6944000000,
+    "currentRatio": 1.397,
+    "revenueGrowth": 0.037
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 저성장. 3.7%의 낮은 매출 성장률을 보이나, 순이익 개선 기대감(Forward PE < Trailing PE)이 혼재된 성숙기 기업의 특징을 보임.",
+      "profitability": "극도로 높은 자본 효율성. 12%대의 준수한 영업이익률과 함께 30%를 상회하는 경이적인 자기자본이익률(ROE)은 투입 자본 대비 이익 창출 능력이 매우 뛰어남을 증명함.",
+      "cashflow_stability": "강력한 현금 창출력, 단 부채 레버리지 유의. 연간 12억 달러에 가까운 잉여현금흐름은 매우 안정적이나, 총부채(69억 달러) 규모가 현금성 자산(4.5억 달러) 대비 월등히 높아 재무 레버리지가 높은 편임."
+    },
+    "macro_sensitivity": "정부 계약 기반의 전형적인 경기 방어주. 핵심 비즈니스가 경기 변동에 둔감한 국방 및 정부 지출에 의존하여 경기 침체기에 방어력이 높음. 단, 높은 부채 수준으로 인해 금리 인상 시기에는 이자 비용 증가에 대한 민감도가 존재함.",
+    "technical_synergy": "견고한 펀더멘털(고 ROE, 저 PER)이 장기 이평선 지지를 강력하게 뒷받침하여, '단테의 밥그릇 3번 자리'와 같은 추세 전환 패턴 형성 시 투기적 급등보다는 기관 투자자 중심의 안정적이고 신뢰도 높은 추세 상승을 기대할 수 있음.",
+    "business_moat": "미국 정부(국방, 정보기관)와의 장기적이고 깊은 신뢰 관계를 기반으로 한 기술 및 서비스 공급자. 높은 수준의 보안 인가와 복잡한 시스템 통합 능력은 신규 경쟁자의 진입을 막는 강력한 해자 역할을 함.",
+    "ai_system_tags": [
+      "Value",
+      "Defensive",
+      "Dividend"
+    ]
+  }
+}

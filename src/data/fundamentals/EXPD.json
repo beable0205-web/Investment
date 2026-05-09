@@ -1,0 +1,34 @@
+{
+  "ticker": "EXPD",
+  "lastUpdated": "2026-05-08T18:13:40.191Z",
+  "rawFinancials": {
+    "name": "Expeditors International of Was",
+    "marketCap": 20459657216,
+    "trailingPE": 25.230644,
+    "forwardPE": 23.038086,
+    "priceToBook": 8.890594,
+    "totalRevenue": 11185552384,
+    "operatingMargins": 0.10594,
+    "returnOnEquity": 0.36641,
+    "freeCashflow": 783248512,
+    "totalCash": 1316497024,
+    "totalDebt": 564980992,
+    "currentRatio": 1.789,
+    "revenueGrowth": 0.044
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 저성장. 4.4%의 매출 성장은 높지 않으나, Forward PE가 Trailing PE보다 낮아 완만한 이익 증가는 기대되는 성숙기 기업의 전형.",
+      "profitability": "자본효율성이 극대화된 고수익 구조. 10%대의 준수한 영업이익률과 함께, 36%를 넘는 경이적인 자기자본이익률(ROE)은 이 기업이 투입 자본 대비 엄청난 이익을 창출하는, 강력한 해자를 가진 비즈니스임을 증명함.",
+      "cashflow_stability": "견고한 현금 창출력 및 무차입 경영에 가까운 재무 건전성. 부채보다 현금을 2배 이상 보유한 순현금 상태(Net Cash)이며, 강력한 잉여현금흐름을 바탕으로 파산 위험이 극히 낮음."
+    },
+    "macro_sensitivity": "글로벌 교역량에 민감한 경기 순환주. 경기 침체 시 물동량 감소로 실적이 직접적인 타격을 받지만, 막대한 순현금과 자산 경량화(asset-light) 모델이 현금흐름을 방어하며 경기 하강기의 생존력을 극대화함.",
+    "technical_synergy": "극도로 높은 ROE와 순현금 보유는 주가의 하방 경직성을 확보해줌. 따라서 장기 이평선 지지 및 돌파 패턴('단테의 밥그릇 3번 자리') 형성 시, 이는 단순한 기술적 반등이 아닌 경기 회복 사이클에 베팅하는 기관 투자자들의 자금 유입 신호로 해석될 수 있어 신뢰도가 매우 높음.",
+    "business_moat": "선박이나 항공기 등 운송 자산을 직접 소유하기보다, 전 세계에 걸친 물류 네트워크와 정보 시스템을 통해 화물 운송을 중개하는 자산 경량화 모델이 핵심임. 이는 높은 고객 충성도와 네트워크 효과를 창출하여 신규 경쟁자의 진입을 막는 강력한 경제적 해자로 작용함.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Dividend"
+    ]
+  }
+}

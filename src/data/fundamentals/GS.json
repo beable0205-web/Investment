@@ -1,0 +1,25 @@
+{
+  "ticker": "GS",
+  "lastUpdated": "2026-05-08T13:09:20.540Z",
+  "rawFinancials": {
+    "name": "Goldman Sachs Group, Inc. (The)",
+    "marketCap": 273138515968,
+    "trailingPE": 16.913956,
+    "forwardPE": 14.159547,
+    "priceToBook": 2.573534,
+    "totalRevenue": 61532999680,
+    "operatingMargins": 0.38599998,
+    "returnOnEquity": 0.14548,
+    "totalCash": 1142199943168,
+    "totalDebt": 839667023872,
+    "currentRatio": 1.5,
+    "revenueGrowth": 0.145
+  },
+  "analysis": {
+    "financialHealthScore": "85",
+    "valuationRating": "Fair",
+    "moatAndBusiness": "골드만삭스는 투자 은행, 글로벌 마켓, 자산 관리 부문을 통해 수익을 창출하는 세계 최고의 금융 기관입니다. 이 기업의 경제적 해자는 수십 년간 쌓아온 강력한 브랜드 명성과 전 세계 정부, 기업, 부유층과의 깊은 관계에서 비롯됩니다. 이러한 무형 자산은 복잡하고 규모가 큰 금융 거래를 독점적으로 유치하는 높은 진입 장벽으로 작용하여 지속적인 초과 이익을 가능하게 합니다.",
+    "redFlags": [],
+    "isInvestable": true
+  }
+}

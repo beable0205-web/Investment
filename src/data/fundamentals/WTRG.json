@@ -1,0 +1,32 @@
+{
+  "ticker": "WTRG",
+  "lastUpdated": "2026-05-08T20:27:04.039Z",
+  "rawFinancials": {
+    "name": "Essential Utilities, Inc.",
+    "marketCap": 10615390208,
+    "trailingPE": 17.031818,
+    "forwardPE": 15.629562,
+    "priceToBook": 1.5393149,
+    "totalRevenue": 2552748032,
+    "operatingMargins": 0.36047,
+    "returnOnEquity": 0.08342,
+    "totalDebt": 8423676928,
+    "currentRatio": 0.951,
+    "revenueGrowth": 0.1
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 성장. 유틸리티 섹터 평균을 상회하는 10%의 매출 성장을 보이고 있으며, 순이익 또한 꾸준히 증가할 것으로 예상됨(Forward PE < Trailing PE). 폭발적이진 않으나 예측 가능한 성장을 보임.",
+      "profitability": "독점적 고마진 구조. 36%에 달하는 높은 영업이익률은 규제 산업의 독점적 지위에서 비롯되나, 자본집약적 특성으로 인해 자기자본이익률(ROE)은 8.3%로 다소 낮은 수준.",
+      "cashflow_stability": "안정적 현금흐름 기반의 높은 레버리지 구조. 필수 서비스 제공으로 현금 창출 능력은 매우 안정적이나, 인프라 투자를 위한 막대한 부채(84억 달러)와 1 미만의 유동비율은 재무 리스크 요인."
+    },
+    "macro_sensitivity": "대표적인 금리 민감주 및 경기 방어주. 사업 모델 특성상 경기 침체기에는 수요가 유지되어 방어적 성격이 강하지만, 부채 비중이 높아 금리 인상 시 이자 비용 부담이 커지고 배당 매력이 감소하여 주가에 부정적.",
+    "technical_synergy": "안정적인 펀더멘털이 주가 하방을 지지하므로, 장기 이평선 돌파 및 지지 패턴('단테의 밥그릇 3번 자리') 발생 시 기술적 신뢰도가 매우 높음. 거시경제(금리 인하 기대 등) 변화와 맞물릴 경우, 저변동성 우상향 추세의 시작점일 가능성이 큼.",
+    "business_moat": "필수 공공 서비스(수도, 천연가스)를 제공하는 지역적 독점 사업자로서, 정부의 규제를 받는 대신 경쟁에서 자유로운 강력한 경제적 해자를 보유함. 이는 예측 가능하고 안정적인 현금 흐름의 원천이 됨.",
+    "ai_system_tags": [
+      "Defensive",
+      "Dividend",
+      "Value"
+    ]
+  }
+}

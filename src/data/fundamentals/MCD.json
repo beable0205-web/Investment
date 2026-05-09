@@ -1,0 +1,23 @@
+{
+  "ticker": "MCD",
+  "lastUpdated": "2026-05-08T13:18:25.128Z",
+  "rawFinancials": {
+    "name": "McDonald's Corporation",
+    "marketCap": 201661808640,
+    "trailingPE": 23.369028,
+    "forwardPE": 19.870802,
+    "priceToBook": -112.62406,
+    "totalRevenue": 27445999616,
+    "operatingMargins": 0.45312,
+    "revenueGrowth": 0.094
+  },
+  "analysis": {
+    "financialHealthScore": "65",
+    "valuationRating": "Fair",
+    "moatAndBusiness": "맥도날드는 전 세계적인 프랜차이즈 네트워크를 통해 로열티와 임대료 수입을 창출하는 강력한 비즈니스 모델을 가지고 있습니다. 세계 최고 수준의 브랜드 인지도, 핵심 상권을 장악한 부동산, 그리고 표준화된 운영 시스템이 결합하여 막강한 경제적 해자를 구축합니다. 이러한 구조는 45%가 넘는 경이로운 영업이익률을 가능하게 하며, 경쟁사가 쉽게 모방할 수 없는 지속 가능한 경쟁 우위를 제공합니다.",
+    "redFlags": [
+      "자본잠식"
+    ],
+    "isInvestable": true
+  }
+}

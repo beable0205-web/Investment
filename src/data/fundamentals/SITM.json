@@ -1,0 +1,32 @@
+{
+  "ticker": "SITM",
+  "lastUpdated": "2026-05-08T18:55:40.613Z",
+  "rawFinancials": {
+    "name": "SiTime Corporation",
+    "marketCap": 21893529600,
+    "forwardPE": 95.226616,
+    "priceToBook": 18.865864,
+    "totalRevenue": 379912992,
+    "operatingMargins": -0.04156,
+    "returnOnEquity": -0.02619,
+    "totalCash": 788664000,
+    "totalDebt": 0,
+    "currentRatio": 12.476,
+    "revenueGrowth": 0.883
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "폭발적인 매출 성장(YoY 88.3%)을 기록 중이나, 아직 영업이익 및 순이익은 적자 상태. 성장을 위해 수익성을 희생하는 전형적인 고성장 기술주.",
+      "profitability": "현재 영업이익률(-4.2%)과 ROE(-2.6%) 모두 마이너스로, 수익성 확보가 시급한 과제. 향후 매출 규모의 경제를 통해 흑자 전환이 가능한지가 핵심 관건.",
+      "cashflow_stability": "무부채 경영과 막대한 현금 보유(약 7.9억 달러)를 바탕으로 재무 안정성이 극도로 높음. 현재의 적자 구조를 충분히 감내할 수 있는 현금 완충력을 확보."
+    },
+    "macro_sensitivity": "미래 현금흐름에 대한 기대가 주가에 크게 반영된 고성장주로서, 금리 인상에 매우 취약함. 경기 침체 시 전방 산업(데이터센터, 5G, IoT)의 투자 위축에 따라 매출 성장세가 둔화될 위험이 존재.",
+    "technical_synergy": "폭발적 성장성과 극단적 고평가가 공존하여 변동성이 큼. 장기 이평선 지지 후 상승 전환(예: 밥그릇 3번 자리) 패턴은 '성장 스토리에 대한 시장의 확신'으로 해석될 수 있으며, 무부채의 재무적 안정성이 신뢰도를 더해 폭발적인 추세 형성으로 이어질 잠재력이 높음.",
+    "business_moat": "기존 쿼츠(Quartz) 기술을 대체하는 MEMS 타이밍 솔루션 분야의 선두주자. 독점적인 반도체 공정 기술과 지적재산권(IP)이 강력한 기술적 해자를 형성하며, 고객사의 제품 설계에 깊숙이 통합되어 높은 전환 비용을 유발함.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

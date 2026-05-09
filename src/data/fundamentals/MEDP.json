@@ -1,0 +1,34 @@
+{
+  "ticker": "MEDP",
+  "lastUpdated": "2026-05-08T19:51:50.396Z",
+  "rawFinancials": {
+    "name": "Medpace Holdings, Inc.",
+    "marketCap": 12083889152,
+    "trailingPE": 26.593966,
+    "forwardPE": 22.794626,
+    "priceToBook": 20.19618,
+    "totalRevenue": 2678267904,
+    "operatingMargins": 0.20025998,
+    "returnOnEquity": 0.77252996,
+    "freeCashflow": 490738880,
+    "totalCash": 652681024,
+    "totalDebt": 146094000,
+    "currentRatio": 0.847,
+    "revenueGrowth": 0.265
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "연 26.5%의 높은 매출 성장률과 순이익 증가 기대를 바탕으로 한 전형적인 고성장 기업.",
+      "profitability": "20%의 높은 영업이익률과 77%라는 경이적인 자기자본이익률(ROE)은 독점적인 가격 결정력과 뛰어난 운영 효율성을 증명하는 구조.",
+      "cashflow_stability": "총 부채를 상회하는 현금 보유고(Net Cash)와 강력한 잉여현금흐름 창출 능력으로 재무 안정성이 매우 우수함. 낮은 유동비율은 사업 모델 특성(선수금)에 기인한 것으로 파산 위험은 극히 낮음."
+    },
+    "macro_sensitivity": "제약/바이오 기업의 R&D 지출에 기반하므로 일반 소비재보다 경기 변동에 둔감한 경기 방어적 성격을 지님. 단, 금리 인상 시기에는 주 고객층인 소형 바이오텍의 자금 조달이 어려워져 신규 수주가 둔화될 잠재적 리스크 존재.",
+    "technical_synergy": "견고한 펀더멘털(고성장, 고수익성)이 뒷받침되므로, 장기 이평선 돌파 및 지지(예: 밥그릇 3번 자리)와 같은 기술적 매수 신호 발생 시 시장의 신뢰가 더해져 폭발적인 추세 상승으로 이어질 가능성이 매우 높음. 펀더멘털이 기술적 분석의 신뢰도를 증폭시키는 전형적인 사례.",
+    "business_moat": "Medpace는 임상시험수탁기관(CRO)으로서, 복잡한 질병 분야에 대한 깊은 과학적 전문성과 규제 승인 성공 기록을 통해 강력한 브랜드 신뢰를 구축했습니다. 높은 전환 비용과 고객과의 장기적인 관계는 경쟁사들이 쉽게 넘볼 수 없는 견고한 경제적 해자 역할을 합니다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Defensive",
+      "Value"
+    ]
+  }
+}

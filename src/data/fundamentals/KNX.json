@@ -1,0 +1,34 @@
+{
+  "ticker": "KNX",
+  "lastUpdated": "2026-05-09T08:14:11.930Z",
+  "rawFinancials": {
+    "name": "Knight-Swift Transportation Hol",
+    "marketCap": 10407741440,
+    "trailingPE": 305.00003,
+    "forwardPE": 19.883217,
+    "priceToBook": 1.4753306,
+    "totalRevenue": 7495549952,
+    "operatingMargins": 0.0124699995,
+    "returnOnEquity": 0.00478,
+    "freeCashflow": 491691360,
+    "totalCash": 222774000,
+    "totalDebt": 2662731008,
+    "currentRatio": 0.703,
+    "revenueGrowth": 0.014
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 성장은 1.4%로 정체 상태이나, Trailing PE(305)와 Forward PE(19.88)의 극심한 괴리는 시장이 향후 강력한 이익 회복(Turnaround)을 기대하고 있음을 시사함.",
+      "profitability": "영업이익률(1.25%)과 자기자본이익률(0.48%)이 극히 낮아, 경쟁이 치열한 운송업의 특성을 반영하는 전형적인 박리다매 구조. 현재 수익성은 심각하게 악화된 상태.",
+      "cashflow_stability": "낮은 수익성에도 불구하고 잉여현금흐름은 양호하나, 부채 규모가 크고 유동비율(0.703)이 1 미만인 점은 단기 유동성 리스크를 내포함."
+    },
+    "macro_sensitivity": "전형적인 경기 순환주(Cyclical Stock)로, 경기 침체 시 물동량 감소로 직접적인 타격을 받음. 유가, 인플레이션, 금리 인상 등 거시경제 변수에 매우 민감하게 반응하며, 경기 회복 국면에서 수혜가 기대됨.",
+    "technical_synergy": "이와 같은 턴어라운드형 경기 순환주는 펀더멘털 개선 기대감이 주가에 선반영되는 경향이 있음. 따라서 '단테의 밥그릇 3번 자리'와 같은 장기 이평선 돌파 및 지지 패턴은 단순한 기술적 신호를 넘어, 경기 회복 사이클에 진입했다는 강력한 펀더멘털 시그널로 해석될 수 있어 높은 신뢰도와 폭발력을 가질 수 있음.",
+    "business_moat": "북미 최대 규모의 운송 네트워크를 통한 규모의 경제가 핵심 해자이나, 산업의 파편화와 치열한 경쟁으로 인해 가격 결정력은 제한적임. 이는 낮은 이익률로 증명됨.",
+    "ai_system_tags": [
+      "Cyclical",
+      "Turnaround",
+      "Value"
+    ]
+  }
+}

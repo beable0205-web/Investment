@@ -1,0 +1,31 @@
+{
+  "ticker": "EW",
+  "lastUpdated": "2026-05-08T15:45:58.974Z",
+  "rawFinancials": {
+    "name": "Edwards Lifesciences Corporatio",
+    "marketCap": 46731931648,
+    "trailingPE": 43.870274,
+    "forwardPE": 24.131853,
+    "priceToBook": 4.5590386,
+    "totalRevenue": 6303499776,
+    "operatingMargins": 0.31219998,
+    "totalCash": 4226299904,
+    "totalDebt": 705400000,
+    "revenueGrowth": 0.167
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "16.7%의 높은 매출 성장률과 순이익 급증(Trailing PE 대비 Forward PE 급락)이 기대되는 고성장 국면",
+      "profitability": "31.2%에 달하는 경이적인 영업이익률은 강력한 가격 결정권과 기술적 우위를 증명하는 독점적 수익 구조",
+      "cashflow_stability": "총 부채(약 7억 달러)를 6배 이상 상회하는 막대한 현금(약 42억 달러)을 보유, 파산 위험이 거의 없는 최상위 수준의 재무 안정성"
+    },
+    "macro_sensitivity": "핵심 사업이 필수 의료 서비스에 속해 경기 침체에 강한 방어적 성격을 띠나, 고성장주 특성상 금리 인상기에는 밸류에이션 부담으로 인한 주가 변동성 확대 가능성 상존",
+    "technical_synergy": "최상급 펀더멘털은 장기 박스권 돌파나 이평선 정배열 초기 국면과 같은 기술적 매수 신호의 신뢰도를 극대화함. 실적이 뒷받침되므로, '가짜 돌파'의 가능성이 낮고 기관 투자자의 자금 유입이 가속화되어 강력한 추세 형성으로 이어질 확률이 매우 높음.",
+    "business_moat": "경피적 대동맥판막 치환술(TAVR) 시장을 선도하는 독점적 기술 특허와 의료계의 높은 브랜드 충성도를 통해 강력한 해자를 구축했다. 신규 경쟁자는 넘기 힘든 임상 및 규제 장벽과 기존 의료진의 높은 교체 비용으로 인해 이 기업의 시장 지배력은 장기간 유지될 가능성이 높다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Defensive",
+      "Value"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "ticker": "CBOE",
+  "lastUpdated": "2026-05-08T16:24:47.689Z",
+  "rawFinancials": {
+    "name": "Cboe Global Markets, Inc.",
+    "marketCap": 35944386560,
+    "trailingPE": 29.30546,
+    "forwardPE": 23.831083,
+    "priceToBook": 6.6904316,
+    "totalRevenue": 4792000000,
+    "operatingMargins": 0.39723,
+    "returnOnEquity": 0.2514,
+    "freeCashflow": 1003075008,
+    "totalCash": 2136199936,
+    "totalDebt": 1584600064,
+    "currentRatio": 1.385,
+    "revenueGrowth": 0.065
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 성장. 6.5%의 견조한 매출 성장을 보이며, 이익 성장 기대감(Trailing PE > Forward PE)이 존재하는 성숙기 기업의 특성을 보임.",
+      "profitability": "독점적 마진. 약 40%에 달하는 경이적인 영업이익률과 25%를 넘는 자기자본이익률(ROE)은 강력한 가격 결정권과 네트워크 효과에 기반한 독점적 시장 지위를 증명함.",
+      "cashflow_stability": "현금 창출력 우수 및 무부채 수준의 재무 건전성. 보유 현금이 총 부채를 상회하는 순현금 상태로, 파산 위험이 거의 없으며 막대한 잉여현금흐름을 통해 주주환원 및 미래 투자를 위한 실탄이 충분함."
+    },
+    "macro_sensitivity": "대표적인 시장 변동성 확대 수혜주. 금리 인상이나 경기 침체 우려로 불확실성이 커질 때, VIX 등 독점적 파생상품 거래량이 급증하며 오히려 실적이 개선되는 경기 방어적 특성을 보임.",
+    "technical_synergy": "독점적 사업구조와 압도적인 수익성을 바탕으로 한 '우량주'의 전형. 장기 이평선 지지를 받으며 박스권을 돌파하는 '단테의 밥그릇 3번 자리'와 같은 신뢰도 높은 기술적 패턴 발생 시, 펀더멘털이 주가 상승의 강력한 명분이 되어주므로 거짓 돌파(False Breakout)의 가능성이 낮고 추세의 지속력이 높을 것으로 기대됨.",
+    "business_moat": "CBOE는 VIX 지수와 같은 독점적 금융 상품과 거래소 비즈니스의 강력한 네트워크 효과를 통해 경제적 해자를 구축했습니다. 이는 신규 경쟁자의 진입을 극도로 어렵게 만들고, 시장 변동성을 수익으로 전환하는 독보적인 가격 결정력을 부여합니다.",
+    "ai_system_tags": [
+      "Defensive",
+      "Dividend",
+      "Cyclical"
+    ]
+  }
+}

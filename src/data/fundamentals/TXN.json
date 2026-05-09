@@ -1,0 +1,26 @@
+{
+  "ticker": "TXN",
+  "lastUpdated": "2026-05-08T13:10:09.066Z",
+  "rawFinancials": {
+    "name": "Texas Instruments Incorporated",
+    "marketCap": 259594862592,
+    "trailingPE": 48.758972,
+    "forwardPE": 31.00519,
+    "priceToBook": 15.471063,
+    "totalRevenue": 18438000640,
+    "operatingMargins": 0.37824002,
+    "returnOnEquity": 0.32347,
+    "freeCashflow": 1068249984,
+    "totalCash": 5103000064,
+    "totalDebt": 14049999872,
+    "currentRatio": 4.456,
+    "revenueGrowth": 0.186
+  },
+  "analysis": {
+    "financialHealthScore": 90,
+    "valuationRating": "Overvalued",
+    "moatAndBusiness": "Texas Instruments generates revenue by designing and manufacturing essential analog and embedded semiconductors for a wide range of industries. The company's powerful economic moat is built on its vast product portfolio, proprietary manufacturing technology, and economies of scale, creating high switching costs for its diverse customer base. This dominant market position allows for consistently high profitability and strong pricing power.",
+    "redFlags": [],
+    "isInvestable": true
+  }
+}

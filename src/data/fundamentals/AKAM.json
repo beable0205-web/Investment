@@ -1,0 +1,34 @@
+{
+  "ticker": "AKAM",
+  "lastUpdated": "2026-05-08T18:48:42.723Z",
+  "rawFinancials": {
+    "name": "Akamai Technologies, Inc.",
+    "marketCap": 21860413440,
+    "trailingPE": 48.36645,
+    "forwardPE": 20.212297,
+    "priceToBook": 4.317052,
+    "totalRevenue": 4208175104,
+    "operatingMargins": 0.13822,
+    "returnOnEquity": 0.091730006,
+    "freeCashflow": 578661888,
+    "totalCash": 1186532992,
+    "totalDebt": 5675387904,
+    "currentRatio": 2.363,
+    "revenueGrowth": 0.074
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적인 한 자릿수 매출 성장률을 보이나, Trailing PE 대비 현저히 낮은 Forward PE는 향후 강력한 이익 턴어라운드 또는 성장이 기대됨을 시사합니다.",
+      "profitability": "13.8%의 견고한 영업이익률은 일정 수준의 가격 결정력을 보여주지만, 9.2%의 자기자본이익률(ROE)은 자본 효율성 측면에서 개선의 여지가 있음을 나타냅니다.",
+      "cashflow_stability": "매출액 대비 13%가 넘는 잉여현금흐름(FCF)을 창출하는 능력은 탁월하나, 보유 현금 대비 순부채 규모가 커서 재무 레버리지에 대한 모니터링이 필요합니다."
+    },
+    "macro_sensitivity": "기업의 필수 서비스(CDN, 보안)는 경기 침체에 상대적으로 강한 방어적 성격을 가지지만, 부채 규모로 인해 금리 인상기에는 이자 비용 증가에 대한 민감도가 높아질 수 있습니다.",
+    "technical_synergy": "견고한 현금흐름이 주가의 하방 경직성을 제공하는 상황에서, 예상되는 이익 성장이 현실화될 경우 '장기 이평선 돌파 및 지지' 패턴의 신뢰도는 매우 높을 것입니다. 이는 펀더멘털 개선이 기술적 매수 신호를 뒷받침하는 강력한 시너지로 작용할 수 있습니다.",
+    "business_moat": "전 세계에 분산된 방대한 엣지 네트워크 인프라는 신규 경쟁자가 모방하기 어려운 강력한 진입 장벽을 구축합니다. 또한, 핵심 고객들의 높은 전환 비용은 안정적인 반복 매출을 보장하는 해자 역할을 합니다.",
+    "ai_system_tags": [
+      "Value",
+      "Turnaround",
+      "Defensive"
+    ]
+  }
+}

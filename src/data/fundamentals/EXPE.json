@@ -1,0 +1,34 @@
+{
+  "ticker": "EXPE",
+  "lastUpdated": "2026-05-08T16:53:46.160Z",
+  "rawFinancials": {
+    "name": "Expedia Group, Inc.",
+    "marketCap": 28253186048,
+    "trailingPE": 23.99591,
+    "forwardPE": 10.273541,
+    "priceToBook": 22.457537,
+    "totalRevenue": 14732999680,
+    "operatingMargins": 0.1545,
+    "returnOnEquity": 0.48672,
+    "freeCashflow": 2934000128,
+    "totalCash": 5733000192,
+    "totalDebt": 6487000064,
+    "currentRatio": 0.732,
+    "revenueGrowth": 0.114
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "견조한 성장. 11.4%의 매출 성장률과 현저히 낮은 선행 PER(10.3)은 향후 강력한 이익 성장이 기대됨을 시사합니다.",
+      "profitability": "고효율 수익 구조. 15.5%의 준수한 영업이익률과 48.7%에 달하는 경이적인 자기자본이익률(ROE)은 자본을 활용해 이익을 창출하는 능력이 극대화되었음을 증명합니다.",
+      "cashflow_stability": "최상급 현금 창출력. 29억 달러가 넘는 잉여현금흐름과 낮은 순부채 비율은 재무적 안정성이 매우 높다는 것을 의미합니다. 1 미만의 유동비율은 선결제를 받는 비즈니스 모델의 특징으로, 파산 위험과는 거리가 멉니다."
+    },
+    "macro_sensitivity": "대표적인 경기민감주(Cyclical). 소비자 신뢰지수, 실업률 등 경기 순환에 따라 실적이 크게 좌우됩니다. 경기 침체 시 여행 수요 감소에 직접적인 타격을 받으나, 경기 회복 및 확장 국면에서는 가장 빠르게 반등하는 특성을 보입니다.",
+    "technical_synergy": "펀더멘털이 뒷받침하는 기술적 신뢰도. 강력한 현금흐름과 저평가된 미래 이익(낮은 선행 PER)은 주가에 견고한 하방 경직성을 제공합니다. 따라서 장기 이평선 돌파 및 지지 같은 기술적 매수 신호 발생 시, 이는 단순한 투기적 움직임이 아닌 가치 재평가에 기반한 장기 추세 전환의 시작일 확률이 매우 높습니다.",
+    "business_moat": "익스피디아의 경제적 해자는 전 세계 여행 공급자와 수억 명의 소비자를 잇는 강력한 양면 네트워크 효과에 기반합니다. Expedia.com, Hotels.com, Vrbo 등 인지도 높은 브랜드 포트폴리오는 고객 충성도를 강화하고 신규 경쟁자의 진입을 막는 견고한 장벽으로 작용합니다.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Turnaround"
+    ]
+  }
+}

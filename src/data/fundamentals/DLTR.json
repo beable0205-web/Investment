@@ -1,0 +1,33 @@
+{
+  "ticker": "DLTR",
+  "lastUpdated": "2026-05-08T18:14:07.359Z",
+  "rawFinancials": {
+    "name": "Dollar Tree, Inc.",
+    "marketCap": 18729662464,
+    "trailingPE": 16.19276,
+    "forwardPE": 13.014557,
+    "priceToBook": 5.0848484,
+    "totalRevenue": 19411800064,
+    "operatingMargins": 0.13514,
+    "returnOnEquity": 0.31693,
+    "freeCashflow": 1284562560,
+    "totalCash": 717800000,
+    "totalDebt": 7055600128,
+    "currentRatio": 1.067,
+    "revenueGrowth": 0.09
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 성장",
+      "profitability": "독점적 원가 관리 능력에 기반한 고수익성 구조",
+      "cashflow_stability": "강력한 현금 창출력, 다소 높은 부채 부담"
+    },
+    "macro_sensitivity": "인플레이션 및 경기 침체 시기에 수요가 증가하는 대표적인 경기 방어주",
+    "technical_synergy": "견고한 펀더멘털과 경기 방어적 특성으로 인해, 장기 이평선 돌파 및 지지 패턴 형성 시 높은 신뢰도와 꾸준한 상승을 기대할 수 있음",
+    "business_moat": "초저가 상품을 대량으로 판매하여 가격에 민감한 소비자층을 공략하는 비즈니스 모델을 가짐. 거대한 규모의 경제를 통해 압도적인 가격 협상력을 확보하고, 이를 통해 경쟁사가 모방하기 어려운 원가 우위 기반의 강력한 경제적 해자를 구축함.",
+    "ai_system_tags": [
+      "Value",
+      "Defensive"
+    ]
+  }
+}

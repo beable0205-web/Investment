@@ -1,0 +1,34 @@
+{
+  "ticker": "BSX",
+  "lastUpdated": "2026-05-08T14:36:14.688Z",
+  "rawFinancials": {
+    "name": "Boston Scientific Corporation",
+    "marketCap": 82240036864,
+    "trailingPE": 23.150627,
+    "forwardPE": 14.699866,
+    "priceToBook": 3.1795197,
+    "totalRevenue": 20614000640,
+    "operatingMargins": 0.20603001,
+    "returnOnEquity": 0.14661,
+    "freeCashflow": 2807124992,
+    "totalCash": 1452999936,
+    "totalDebt": 11029000192,
+    "currentRatio": 1.9,
+    "revenueGrowth": 0.116
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 고성장. 11.6%의 견조한 매출 성장률과 후행 PE(23.1) 대비 크게 낮은 선행 PE(14.7)는 향후 강력한 이익 성장이 기대되는 'GARP(Growth at a Reasonable Price)'의 전형을 보여줌.",
+      "profitability": "독점적 마진. 20%가 넘는 높은 영업이익률과 14%대의 준수한 자기자본이익률(ROE)은 특허, 브랜드, 규제 장벽에 기반한 강력한 가격 결정력을 시사함. 이는 박리다매가 아닌 기술 기반의 고수익 사업 구조임을 증명함.",
+      "cashflow_stability": "현금 창출력 우수. 연간 28억 달러에 달하는 강력한 잉여현금흐름을 창출하고 있으며, 1.9의 유동비율은 단기 부채 상환 능력이 매우 안정적임을 나타냄. 총 부채 규모는 존재하지만, 현재의 현금 창출 능력으로 충분히 관리 가능한 수준임."
+    },
+    "macro_sensitivity": "대표적인 경기 방어주. 의료기기 산업의 특성상 경기 침체기에도 수요가 꾸준하여 매출 방어력이 뛰어남. 다만, 부채를 활용한 성장을 하므로 금리 인상기에는 이자 비용 증가에 대한 민감도가 일부 존재하나, 강력한 이익 창출 능력으로 충분히 상쇄 가능함.",
+    "technical_synergy": "이처럼 펀더멘털이 견고한 우량주는 '단테의 밥그릇 3번 자리'와 같은 장기 정배열 초기 패턴에서 높은 신뢰도를 보임. 이는 단순한 투기적 수급이 아닌, 기관 투자자의 구조적 매수세가 유입되는 신호일 가능성이 높으며, 한번 추세가 형성되면 변동성은 낮고 상승 추세는 길게 이어지는 폭발력을 기대할 수 있음.",
+    "business_moat": "Boston Scientific은 특허 기술과 높은 규제 장벽을 기반으로 심혈관, 내시경 등 필수 의료 분야에서 핵심 의료기기를 공급합니다. 의사와 병원의 높은 전환 비용(Switching Costs)과 강력한 브랜드 인지도는 경쟁사가 넘보기 힘든 견고한 경제적 해자를 구축합니다.",
+    "ai_system_tags": [
+      "Defensive",
+      "High-Growth",
+      "Value"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ticker": "WFC",
+  "lastUpdated": "2026-05-08T13:11:26.898Z",
+  "rawFinancials": {
+    "name": "Wells Fargo & Company",
+    "marketCap": 242244599808,
+    "trailingPE": 12.234931,
+    "forwardPE": 10.0742855,
+    "priceToBook": 1.4881378,
+    "totalRevenue": 81135001600,
+    "operatingMargins": 0.29447,
+    "returnOnEquity": 0.12028,
+    "totalCash": 461199998976,
+    "totalDebt": 469223997440,
+    "revenueGrowth": 0.057
+  },
+  "analysis": {
+    "financialHealthScore": 85,
+    "valuationRating": "Fair",
+    "moatAndBusiness": "Wells Fargo는 주로 고객 예금과 대출 사이의 이자 마진을 통해 수익을 창출하는 다각화된 금융 서비스 기업입니다. 이 회사의 경제적 해자는 막대한 규모, 광범위한 지점 네트워크, 그리고 개인 및 기업 고객과의 깊은 관계에서 비롯되며, 이는 높은 진입 장벽과 전환 비용을 형성합니다. 이러한 규모의 경제는 저비용의 안정적인 예금 기반을 확보하게 하여 다양한 경제 주기 속에서도 꾸준한 수익성을 보장합니다.",
+    "redFlags": [],
+    "isInvestable": true
+  }
+}

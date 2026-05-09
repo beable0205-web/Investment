@@ -1,0 +1,34 @@
+{
+  "ticker": "MOG-A",
+  "lastUpdated": "2026-05-09T08:18:07.102Z",
+  "rawFinancials": {
+    "name": "Moog Inc.",
+    "marketCap": 9950857216,
+    "trailingPE": 35.44921,
+    "forwardPE": 27.329126,
+    "priceToBook": 4.8273954,
+    "totalRevenue": 4171013120,
+    "operatingMargins": 0.11733,
+    "returnOnEquity": 0.14403,
+    "freeCashflow": 221396880,
+    "totalCash": 307552992,
+    "totalDebt": 1457777024,
+    "currentRatio": 1.677,
+    "revenueGrowth": 0.126
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적인 두 자릿수 매출 성장(12.6%)과 순이익 증가 기대감(Forward PE < Trailing PE)이 공존하는 성장주",
+      "profitability": "11%대의 견고한 영업이익률과 14%를 상회하는 자기자본이익률(ROE)을 바탕으로 한, 우량 제조업의 전형적인 수익 구조",
+      "cashflow_stability": "영업활동을 통해 꾸준히 잉여현금흐름(FCF)을 창출하고 있으나, 총 부채 규모가 현금 보유액을 크게 상회하여 레버리지 관리가 필요한 상태"
+    },
+    "macro_sensitivity": "항공우주 및 방위산업 경기, 산업 설비 투자 등 거시 경제 사이클에 직접적인 영향을 받는 대표적인 경기 순환주. 금리 인상 시기에는 부채 조달 비용 증가로 인해 수익성에 부담이 될 수 있음.",
+    "technical_synergy": "이처럼 펀더멘털이 뒷받침되는 경기 순환주는 '단테의 밥그릇 3번 자리'와 같은 장기 침체 후 회복 패턴에서 폭발적인 시너지를 냄. 단순한 기술적 반등이 아니라, 경기 회복과 맞물린 실적 턴어라운드의 시작을 알리는 신호로 해석될 수 있어 신뢰도가 매우 높음.",
+    "business_moat": "항공우주, 방위산업, 정밀 산업기계에 사용되는 초정밀 제어 시스템을 설계 및 제조함. 수십 년간 축적된 기술적 전문성, 고객사 시스템과의 깊은 통합에 따른 높은 전환 비용, 그리고 엄격한 산업 인증 요구사항이 강력한 경제적 해자를 구축함.",
+    "ai_system_tags": [
+      "Cyclical",
+      "Growth",
+      "Quality"
+    ]
+  }
+}

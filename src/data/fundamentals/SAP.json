@@ -1,0 +1,26 @@
+{
+  "ticker": "SAP",
+  "lastUpdated": "2026-05-08T13:18:00.633Z",
+  "rawFinancials": {
+    "name": "SAP  SE",
+    "marketCap": 205971275776,
+    "trailingPE": 23.932877,
+    "forwardPE": 18.610285,
+    "priceToBook": 3.8973985,
+    "totalRevenue": 37341999104,
+    "operatingMargins": 0.30025998,
+    "returnOnEquity": 0.16350001,
+    "freeCashflow": 8143750144,
+    "totalCash": 10044999680,
+    "totalDebt": 7862000128,
+    "currentRatio": 1.069,
+    "revenueGrowth": 0.06
+  },
+  "analysis": {
+    "financialHealthScore": 92,
+    "valuationRating": "Fair",
+    "moatAndBusiness": "SAP is a dominant global provider of enterprise resource planning (ERP) software, which is critical for managing the core business functions of large corporations. The company's primary economic moat is built on extremely high switching costs, as its software is deeply integrated into clients' operations, making it prohibitively expensive and disruptive to replace. This entrenched position allows SAP to generate substantial recurring revenue, high operating margins, and strong, predictable free cash flow from its large and stable customer base.",
+    "redFlags": [],
+    "isInvestable": true
+  }
+}

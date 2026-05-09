@@ -1,0 +1,34 @@
+{
+  "ticker": "SQM",
+  "lastUpdated": "2026-05-08T17:14:10.964Z",
+  "rawFinancials": {
+    "name": "Sociedad Quimica y Minera S.A.",
+    "marketCap": 25881643008,
+    "trailingPE": 43.98544,
+    "forwardPE": 16.681057,
+    "priceToBook": 4.5475535,
+    "totalRevenue": 4576224256,
+    "operatingMargins": 0.28328,
+    "returnOnEquity": 0.09669,
+    "freeCashflow": 429625760,
+    "totalCash": 2721751040,
+    "totalDebt": 4764290048,
+    "currentRatio": 3.268,
+    "revenueGrowth": 0.233
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출이 23.3% 성장하고, 선행 PER이 후행 PER의 절반 이하로 급감하는 등 폭발적인 이익 성장이 기대되는 전형적인 고성장주(High-Growth)의 특성을 보임.",
+      "profitability": "28.3%에 달하는 높은 영업이익률은 원자재 시장에서의 강력한 가격 결정력을 시사하며, 이는 독점적 마진 구조에 가까움. 다만, 자본집약적 산업 특성상 자기자본이익률(ROE)은 9.7%로 다소 평이한 수준.",
+      "cashflow_stability": "3.27의 높은 유동비율과 상당한 현금 보유고를 바탕으로 단기 재무 안정성이 매우 우수함. 부채가 현금보다 많지만, 강력한 영업이익률과 현금 창출 능력으로 충분히 관리 가능한 수준."
+    },
+    "macro_sensitivity": "리튬 가격에 실적이 직접적으로 연동되는 경기 민감주(Cyclical). 글로벌 경기, 전기차 시장 성장률, 금리 변동에 따라 주가 변동성이 크지만, 전기차 전환이라는 거대한 구조적 성장(Secular Growth)의 최대 수혜주 중 하나로 장기적인 방어력을 가짐.",
+    "technical_synergy": "경기민감주 특성상 주가 변동성이 크지만, '전기차 침투율'이라는 강력한 펀더멘털 스토리를 보유하고 있음. 따라서 장기 이평선 지지 후 상승 전환하는 '밥그릇 3번 자리'와 같은 추세 전환 패턴 발생 시, 펀더멘털이 뒷받침되는 강력한 시세 분출로 이어질 신뢰도가 매우 높음.",
+    "business_moat": "세계 최고 품질의 리튬을 가장 저렴하게 생산할 수 있는 칠레 아타카마 염호 광산이 이 기업의 핵심 경제적 해자이다. 이는 타의 추종을 불허하는 원가 경쟁력으로 이어지며, 전기차 배터리 공급망 내에서 필수적인 위치를 확보하게 한다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Cyclical",
+      "Value"
+    ]
+  }
+}

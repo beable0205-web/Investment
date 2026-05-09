@@ -1,0 +1,26 @@
+{
+  "ticker": "SHEL",
+  "lastUpdated": "2026-05-08T13:10:38.121Z",
+  "rawFinancials": {
+    "name": "Shell PLC",
+    "marketCap": 234870341632,
+    "trailingPE": 13.121495,
+    "forwardPE": 8.9524355,
+    "priceToBook": 1.38121,
+    "totalRevenue": 263458996224,
+    "operatingMargins": 0.12126,
+    "returnOnEquity": 0.09809,
+    "freeCashflow": 13703374848,
+    "totalCash": 23117000704,
+    "totalDebt": 75645001728,
+    "currentRatio": 1.275,
+    "revenueGrowth": -0.036
+  },
+  "analysis": {
+    "financialHealthScore": 78,
+    "valuationRating": "Undervalued",
+    "moatAndBusiness": "Shell operates as a global integrated energy giant, profiting from the entire oil and gas value chain from exploration to retail sales. Its economic moat is built on its immense scale, which creates significant cost advantages, and a powerful, globally recognized brand with an irreplaceable distribution network. This integration provides resilience against the volatile swings of commodity prices.",
+    "redFlags": [],
+    "isInvestable": true
+  }
+}

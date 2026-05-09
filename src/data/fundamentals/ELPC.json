@@ -1,0 +1,34 @@
+{
+  "ticker": "ELPC",
+  "lastUpdated": "2026-05-09T08:23:49.251Z",
+  "rawFinancials": {
+    "name": "Companhia Paranaense de Energia",
+    "marketCap": 9355776000,
+    "trailingPE": 17.260275,
+    "forwardPE": 17.64706,
+    "priceToBook": 7.9932494,
+    "totalRevenue": 27292471296,
+    "operatingMargins": 0.20304,
+    "returnOnEquity": 0.10787,
+    "freeCashflow": 3101875200,
+    "totalCash": 5175925760,
+    "totalDebt": 23617048576,
+    "currentRatio": 1.372,
+    "revenueGrowth": 0.2
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "20%의 높은 매출 성장을 기록 중이나, 선행 PER이 후행 PER보다 소폭 높아 향후 성장 둔화 가능성을 내포함. 유틸리티 섹터 내에서는 단연 돋보이는 성장성.",
+      "profitability": "20%를 상회하는 독점적 영업이익률은 강력한 가격 결정력을 시사함. 단, 높은 주가순자산비율(P/B) 대비 자기자본이익률(ROE)은 평이한 수준으로, 자본 효율성 개선이 과제.",
+      "cashflow_stability": "매출의 상당 부분을 현금으로 전환하는 탁월한 현금 창출력을 보유함. 그러나 부채 규모가 현금 보유량과 잉여현금흐름 대비 상당히 높아, 재무 레버리지 리스크가 상존함."
+    },
+    "macro_sensitivity": "전력 수요의 비탄력성에 기반한 대표적인 경기 방어주. 단, 자본집약적 산업 특성상 부채 비중이 높아 금리 인상 시 이자 비용 증가로 인한 수익성 악화에 민감함.",
+    "technical_synergy": "견고한 펀더멘털이 주가의 하방 경직성을 제공하므로, '밥그릇 3번 자리'와 같은 장기 바닥 형성 후 추세 전환 패턴의 신뢰도가 매우 높음. 안정성과 성장성을 겸비하여, 지지선 확인 시 기관 투자자들의 자금 유입이 가속화되며 폭발적인 시세 분출로 이어질 잠재력이 큼.",
+    "business_moat": "브라질 파라나 주(州)의 핵심 전력 사업자로서, 규제에 의해 보호받는 지역 독점적 지위를 누리고 있습니다. 이는 신규 경쟁자의 진입을 원천적으로 차단하는 강력한 경제적 해자로 작용하며, 안정적인 현금 흐름의 원천이 됩니다.",
+    "ai_system_tags": [
+      "Defensive",
+      "Growth",
+      "Value"
+    ]
+  }
+}

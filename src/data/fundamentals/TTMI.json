@@ -1,0 +1,34 @@
+{
+  "ticker": "TTMI",
+  "lastUpdated": "2026-05-08T18:39:26.900Z",
+  "rawFinancials": {
+    "name": "TTM Technologies, Inc.",
+    "marketCap": 15690704896,
+    "trailingPE": 81.670265,
+    "forwardPE": 30.022852,
+    "priceToBook": 8.863142,
+    "totalRevenue": 3103653120,
+    "operatingMargins": 0.08599,
+    "returnOnEquity": 0.114029996,
+    "freeCashflow": -55001000,
+    "totalCash": 414279008,
+    "totalDebt": 1049308032,
+    "currentRatio": 1.885,
+    "revenueGrowth": 0.304
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출이 30% 이상 급증하는 전형적인 고성장 국면에 있으나, 높은 후행 PER은 이익의 질이 매출 성장을 따라가지 못하고 있음을 시사함. 순이익 성장이 본격화되는지를 확인해야 함.",
+      "profitability": "8.6%의 낮은 영업이익률과 11.4%의 평범한 ROE는 산업 내 치열한 경쟁과 낮은 가격 결정력을 의미함. 성장을 위해 수익성을 일부 희생하는 구조로 보임.",
+      "cashflow_stability": "영업활동으로 현금을 창출하지 못하는 마이너스(-) 자유현금흐름은 가장 심각한 리스크 요인임. 총 부채가 현금 보유액의 2.5배에 달해, 성장을 외부 차입에 의존하는 불안정한 재무구조를 가짐."
+    },
+    "macro_sensitivity": "금리 인상에 매우 취약한 구조. 부채 비용 증가와 성장 투자 위축의 이중고를 겪을 수 있음. 경기 침체 시 전방 산업의 수요 감소에 직접적인 타격을 받는 대표적인 경기민감주(Cyclical)로 분류됨.",
+    "technical_synergy": "펀더멘털의 취약성(특히 현금흐름)에도 불구하고 성장 스토리가 시장의 기대를 모을 때, '단테의 밥그릇 3번 자리'와 같은 장기 추세 전환 신호는 폭발적인 시세 분출의 기폭제가 될 수 있음. 다만, 재무적 안정성이 낮아 기술적 지지선 붕괴 시 투매 현상이 나타날 위험이 크므로, 신뢰도는 중하 수준임.",
+    "business_moat": "글로벌 상위권의 인쇄회로기판(PCB) 생산 규모와 항공우주, 자동차 등 다각화된 고객 기반이 해자의 원천임. 그러나 기술 의존도가 높고 경쟁이 심해 독점적 지위를 통한 초과 이윤 창출 능력은 제한적임.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Cyclical",
+      "Turnaround"
+    ]
+  }
+}
