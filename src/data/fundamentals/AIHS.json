@@ -1,0 +1,31 @@
+{
+  "ticker": "AIHS",
+  "lastUpdated": "2026-05-11T12:33:08.756Z",
+  "rawFinancials": {
+    "name": "Senmiao Technology Limited",
+    "marketCap": 5377837,
+    "priceToBook": 13.563218,
+    "totalRevenue": 3132462,
+    "operatingMargins": -3.05725,
+    "returnOnEquity": -1.3566499,
+    "freeCashflow": -4550194,
+    "totalCash": 3508226,
+    "totalDebt": 199504,
+    "currentRatio": 2.237,
+    "revenueGrowth": -0.205
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "심각한 역성장 및 사업 규모 축소",
+      "profitability": "극심한 적자 구조, 수익성 전무",
+      "cashflow_stability": "막대한 현금 소진으로 유동성 위기 직면, 낮은 부채에도 불구하고 파산 위험 매우 높음"
+    },
+    "macro_sensitivity": "경기 침체, 고금리, 인플레이션 등 모든 거시경제 악재에 극도로 취약하며, 외부 충격에 대한 방어력이 전무하여 생존 자체가 위협받을 수 있는 고위험군.",
+    "technical_synergy": "펀더멘털이 극도로 취약하고 사업 모델이 붕괴 직전이므로, '단테의 밥그릇 3번 자리'와 같은 기술적 패턴은 신뢰할 수 없음. 이러한 패턴이 나타나더라도 단기적 투기성 움직임일 가능성이 높으며, 장기적인 추세 전환이나 지지력으로 해석하기에는 근본적인 결함이 너무 많음.",
+    "business_moat": "현재 재무 지표는 이 기업이 어떠한 경제적 해자도 보유하고 있지 않으며, 오히려 사업 모델 자체가 심각한 위기에 처해 있음을 명확히 보여준다. 경쟁 우위는 전무하며, 지속적인 현금 소진은 사업의 존속 가능성마저 의심하게 한다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

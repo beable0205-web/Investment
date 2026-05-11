@@ -9,55 +9,44 @@ dotenv.config({ path: path.join(process.cwd(), '.env.local') });
 // 우리가 쓸 자체 알고리즘 모듈
 import { getStockData, evaluateRules } from '../src/lib/screener';
 
-async function fetchUSMajorTickers() {
-  console.log('미국 증시 우량주(S&P 500) 티커 리스트를 수집하는 중...');
+async function fetchFundamentallyVettedTickers() {
+  console.log('1번 봇이 구축한 펀더멘털 AI 데이터베이스(JSON)를 로드하는 중...');
   
+  const fundamentalsDir = path.join(process.cwd(), 'src', 'data', 'fundamentals');
   let allStocks: any[] = [];
 
-  try {
-    // 위키피디아 S&P 500 목록 크롤링 (가장 확실하고 무료인 방법)
-    const res = await fetch('https://en.wikipedia.org/wiki/List_of_S%26P_500_companies');
-    const html = await res.text();
-    const $ = cheerio.load(html);
-
-    $('#constituents tbody tr').each((i, row) => {
-      if (i === 0) return; // 헤더 제외
-      const columns = $(row).find('td');
-      if (columns.length > 0) {
-        let ticker = $(columns[0]).text().trim();
-        // 위키피디아는 BRK.B 를 BRK.B 또는 BRK-B로 표기함. 야후 파이낸스는 BRK-B 사용.
-        ticker = ticker.replace('.', '-');
-        const name = $(columns[1]).text().trim();
-        
-        if (ticker) {
-          allStocks.push({ ticker, name });
-        }
-      }
-    });
-    
-    console.log(`총 ${allStocks.length}개의 S&P 500 미국 주식 티커를 로드했습니다.`);
-  } catch (error) {
-    console.error('S&P 500 티커 목록을 가져오는데 실패했습니다:', error);
-    // 실패 시 예비용 하드코딩 티커 일부 사용
-    allStocks = [
-      { ticker: 'AAPL', name: 'Apple Inc.' },
-      { ticker: 'MSFT', name: 'Microsoft' },
-      { ticker: 'TSLA', name: 'Tesla' },
-      { ticker: 'NVDA', name: 'Nvidia' },
-      { ticker: 'AMZN', name: 'Amazon' }
-    ];
+  if (!fs.existsSync(fundamentalsDir)) {
+    console.error(`경고: 펀더멘털 데이터 폴더(${fundamentalsDir})가 존재하지 않습니다.`);
+    return allStocks;
   }
 
+  const files = fs.readdirSync(fundamentalsDir).filter(f => f.endsWith('.json'));
+  
+  for (const file of files) {
+    try {
+      const data = JSON.parse(fs.readFileSync(path.join(fundamentalsDir, file), 'utf-8'));
+      if (data.isInvestable !== false) {
+        allStocks.push({ 
+          ticker: data.ticker, 
+          name: data.rawFinancials?.name || data.ticker 
+        });
+      }
+    } catch (e) {
+      // 파일 파싱 에러 무시
+    }
+  }
+
+  console.log(`총 ${allStocks.length}개의 펀더멘털 통과 종목을 로드했습니다. (쓰레기통 제외)`);
   return allStocks;
 }
 
 export async function runDailyScreener() {
   console.log('============================================');
-  console.log('🚀 미국 주요 종목(S&P 500) 백그라운드 스캐닝 시작...');
+  console.log('🚀 2번 봇(기술적 스캐너): 단테 타점 백그라운드 스캐닝 시작...');
   console.log('============================================');
 
-  // API Key 문제(FMP Legacy 에러)를 우회하기 위해 무료 퍼블릭 데이터(S&P 500) 스크래핑 사용
-  const stocks = await fetchUSMajorTickers();
+  // 1번 봇의 데이터베이스 연동
+  const stocks = await fetchFundamentallyVettedTickers();
   const matchedStocks: any[] = [];
   const CHUNK_SIZE = 10; // Rate limit 방지를 위해 10개씩
 

@@ -1,0 +1,31 @@
+{
+  "ticker": "BKYI",
+  "lastUpdated": "2026-05-11T12:27:22.609Z",
+  "rawFinancials": {
+    "name": "BIO-key International, Inc.",
+    "marketCap": 5664806,
+    "priceToBook": 0.7387489,
+    "totalRevenue": 6095117,
+    "operatingMargins": -1.3238499,
+    "returnOnEquity": -0.80247,
+    "freeCashflow": -2806292,
+    "totalCash": 2694663,
+    "totalDebt": 703626,
+    "currentRatio": 1.486,
+    "revenueGrowth": -0.151
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "심각한 역성장 및 수익성 악화. 매출은 감소하고 있으며, 영업이익은 막대한 손실을 기록 중입니다.",
+      "profitability": "영업 마진이 -132%에 달하는 적자 늪에 빠져 있습니다. 주주 자본 수익률 또한 -80%로, 기업 가치를 파괴하고 있습니다.",
+      "cashflow_stability": "막대한 마이너스 잉여현금흐름으로 현금을 빠르게 소진 중입니다. 단기 유동성은 현재 양호하나, 지속적인 현금 소진은 파산 위험을 가중시킵니다."
+    },
+    "macro_sensitivity": "이 기업은 본질적으로 취약한 재무 구조를 가지고 있어, 금리 인상, 인플레이션, 경기 침체 등 모든 거시경제 악화 요인에 극도로 민감합니다. 경기 방어력은 전무하며, 외부 충격에 매우 취약한 투기적 자산입니다.",
+    "technical_synergy": "펀더멘털이 심각하게 훼손된 상태이므로, '단테의 밥그릇 3번 자리'와 같은 기술적 패턴이 나타나더라도 그 신뢰도는 극히 낮습니다. 이러한 패턴은 일시적인 투기적 매수세에 의한 것일 가능성이 높으며, 지속적인 상승 추세로 이어지기 어렵습니다. 펀더멘털 개선 없이는 기술적 분석만으로 투자하기 매우 위험합니다.",
+    "business_moat": "BIO-key International은 생체 인식 및 신원 확인 솔루션 분야에서 사업을 영위합니다. 그러나 현재의 심각한 적자와 매출 감소는 이 기업이 강력한 경제적 해자를 구축하지 못했거나, 경쟁 우위를 상실하여 시장에서 고전하고 있음을 명확히 보여줍니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

@@ -75,7 +75,7 @@ ${JSON.stringify(financialData, null, 2)}
 
   try {
     const response = await ai.models.generateContent({
-      model: 'gemini-2.5-pro',
+      model: 'gemini-2.5-flash',
       contents: prompt,
       config: {
         responseMimeType: 'application/json',
@@ -123,6 +123,14 @@ export async function runFundamentalCrawler() {
       
       // 2. 최대한 많은 재무 데이터 확보 (Quote, Financials, Statistics, Insights)
       const quote = await (yahooFinance as any).quote(ticker);
+
+      // 장외주식(OTC) 필터링: 나스닥, 뉴욕증권거래소, 아멕스 등 주요 거래소가 아니면 스킵
+      const validExchanges = ['NYQ', 'NMS', 'NGM', 'NCM', 'ASE', 'BATS', 'NYSE', 'NASDAQ', 'AMEX'];
+      if (!validExchanges.includes(quote.exchange)) {
+        console.log(`⏩ [${ticker}] 장외주식/기타거래소(${quote.exchange}) 제외 (스킵)`);
+        continue;
+      }
+
       const quoteSummary = await (yahooFinance as any).quoteSummary(ticker, { 
         modules: ['financialData', 'defaultKeyStatistics'] 
       });
