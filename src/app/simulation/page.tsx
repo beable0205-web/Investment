@@ -1,160 +1,83 @@
-'use client';
+import fs from 'fs';
+import path from 'path';
 
-import React, { useEffect, useState } from 'react';
-import Link from 'next/link';
-import { Activity, TrendingUp, RefreshCw, BarChart2 } from 'lucide-react';
-
-export default function SimulationDashboard() {
-  const [portfolio, setPortfolio] = useState<any>(null);
-  const [loading, setLoading] = useState(true);
-
-  useEffect(() => {
-    fetch('/api/simulation')
-      .then(res => res.json())
-      .then(data => {
-        setPortfolio(data);
-        setLoading(false);
-      })
-      .catch(err => {
-        console.error(err);
-        setLoading(false);
-      });
-  }, []);
-
-  if (loading) {
-    return (
-      <div className="container" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', height: '80vh' }}>
-        <RefreshCw className="animate-spin" size={48} color="var(--accent-color)" style={{ marginBottom: '1rem' }} />
-        <h2 className="title-gradient animate-fade-in">모의투자 엔진 로딩 중...</h2>
-      </div>
-    );
+export default async function SimulationPage() {
+  const dbPath = path.join(process.cwd(), 'src', 'data', 'simulation', 'portfolio.json');
+  let p = { cash: 500000, totalEquity: 500000, positions: [], history: [] };
+  
+  if (fs.existsSync(dbPath)) {
+    p = JSON.parse(fs.readFileSync(dbPath, 'utf-8'));
   }
 
-  if (!portfolio) {
-    return (
-      <div className="container">
-        <div className="glass-panel" style={{ borderColor: 'var(--danger-color)' }}>
-          <h2 style={{ color: 'var(--danger-color)' }}>오류가 발생했습니다</h2>
-          <p>포트폴리오 데이터를 불러올 수 없습니다.</p>
-        </div>
-      </div>
-    );
-  }
-
-  const initialCash = 100000;
-  const totalReturn = ((portfolio.totalEquity - initialCash) / initialCash) * 100;
+  const roi = ((p.totalEquity - 500000) / 500000) * 100;
 
   return (
-    <div className="container animate-fade-in">
-      <header style={{ marginBottom: '3rem', display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end' }}>
-        <div>
-          <h1 className="title-gradient" style={{ fontSize: '2.5rem', display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
-            <Activity size={36} color="var(--accent-color)" />
-            단테 실전 모의투자 엔진
-          </h1>
-          <p style={{ color: 'var(--text-secondary)', fontSize: '1.125rem' }}>
-            단테 기법 기반 알고리즘 자동 매매 (Paper Trading)
-          </p>
-        </div>
-        <div style={{ display: 'flex', gap: '1rem' }}>
-          <Link href="/" className="btn">
-            홈으로 돌아가기
-          </Link>
-        </div>
-      </header>
+    <div style={{ minHeight: '100vh', backgroundColor: '#0f172a', color: '#f8fafc', padding: '3rem 2rem', fontFamily: 'sans-serif' }}>
+      <div style={{ maxWidth: '1200px', margin: '0 auto' }}>
+        <h1 style={{ fontSize: '2.5rem', marginBottom: '2.5rem', background: 'linear-gradient(to right, #10b981, #3b82f6)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent', fontWeight: 800 }}>
+          자율주행 투자 포트폴리오 (Automated Portfolio)
+        </h1>
 
-      {/* Top Stats */}
-      <div className="glass-panel" style={{ marginBottom: '2rem' }}>
-        <h3 style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: '1.5rem' }}>
-          <BarChart2 size={24} color="var(--accent-color)" /> 가상 계좌 현황
-        </h3>
-        <div className="grid-3">
-          <div className="metric-card">
-            <span className="metric-label">총 자산 (Total Equity)</span>
-            <span className="metric-value">${portfolio.totalEquity.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}</span>
+        {/* 요약 카드 */}
+        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '1.5rem', marginBottom: '3rem' }}>
+          <div style={{ background: 'rgba(255,255,255,0.05)', backdropFilter: 'blur(10px)', borderRadius: '16px', padding: '1.5rem', border: '1px solid rgba(255,255,255,0.1)', boxShadow: '0 4px 6px rgba(0,0,0,0.1)' }}>
+            <h3 style={{ color: '#94a3b8', fontSize: '0.95rem', marginBottom: '0.5rem', textTransform: 'uppercase', letterSpacing: '1px' }}>총 자산 (Total Equity)</h3>
+            <p style={{ fontSize: '2.5rem', fontWeight: 'bold' }}>${p.totalEquity.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}</p>
           </div>
-          <div className="metric-card">
-            <span className="metric-label">가용 예수금 (Cash)</span>
-            <span className="metric-value">${portfolio.cash.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}</span>
+          <div style={{ background: 'rgba(255,255,255,0.05)', backdropFilter: 'blur(10px)', borderRadius: '16px', padding: '1.5rem', border: '1px solid rgba(255,255,255,0.1)', boxShadow: '0 4px 6px rgba(0,0,0,0.1)' }}>
+            <h3 style={{ color: '#94a3b8', fontSize: '0.95rem', marginBottom: '0.5rem', textTransform: 'uppercase', letterSpacing: '1px' }}>가용 현금 (Available Cash)</h3>
+            <p style={{ fontSize: '2.5rem', fontWeight: 'bold', color: '#10b981' }}>${p.cash.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}</p>
           </div>
-          <div className="metric-card">
-            <span className="metric-label">누적 수익률 (Total Return)</span>
-            <span className={`metric-value ${totalReturn >= 0 ? 'metric-positive' : 'metric-negative'}`}>
-              {totalReturn >= 0 ? '+' : ''}{totalReturn.toFixed(2)}%
-            </span>
+          <div style={{ background: 'rgba(255,255,255,0.05)', backdropFilter: 'blur(10px)', borderRadius: '16px', padding: '1.5rem', border: '1px solid rgba(255,255,255,0.1)', boxShadow: '0 4px 6px rgba(0,0,0,0.1)' }}>
+            <h3 style={{ color: '#94a3b8', fontSize: '0.95rem', marginBottom: '0.5rem', textTransform: 'uppercase', letterSpacing: '1px' }}>총 수익률 (Total Return)</h3>
+            <p style={{ fontSize: '2.5rem', fontWeight: 'bold', color: roi >= 0 ? '#ef4444' : '#3b82f6' }}>
+              {roi > 0 ? '+' : ''}{roi.toFixed(2)}%
+            </p>
           </div>
         </div>
-      </div>
 
-      {/* Main Content Grid */}
-      <div className="grid-2">
-        {/* Open Positions */}
-        <div className="glass-panel">
-          <h3 style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: '1.5rem' }}>
-            <TrendingUp size={24} color="var(--success-color)" /> 현재 보유 종목 ({portfolio.positions?.length || 0}/5)
-          </h3>
-          
-          {portfolio.positions?.length === 0 ? (
-            <p style={{ color: 'var(--text-secondary)', fontStyle: 'italic' }}>현재 보유 중인 종목이 없습니다. 밥그릇 3번 자리 타점 대기 중...</p>
-          ) : (
-            <div style={{ display: 'flex', flexDirection: 'column', gap: '1rem' }}>
-              {portfolio.positions.map((pos: any, idx: number) => (
-                <div key={idx} style={{ background: 'rgba(255,255,255,0.02)', padding: '1rem', borderRadius: '8px', border: '1px solid var(--surface-border)', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-                  <div>
-                    <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
-                      <span style={{ fontWeight: 'bold', fontSize: '1.1rem', color: '#fff' }}>{pos.ticker}</span>
-                      <span style={{ fontSize: '0.8rem', background: 'rgba(79, 70, 229, 0.2)', color: '#c7d2fe', padding: '0.1rem 0.5rem', borderRadius: '12px' }}>
-                        {pos.companyName}
-                      </span>
-                    </div>
-                    <p style={{ fontSize: '0.85rem', color: 'var(--text-secondary)', marginTop: '0.25rem' }}>{pos.rule}</p>
-                    <p style={{ fontSize: '0.85rem', color: '#e2e8f0', marginTop: '0.5rem' }}>
-                      진입가: ${pos.entryPrice.toFixed(2)} | 수량: {pos.quantity}주
-                    </p>
-                  </div>
-                  <div style={{ textAlign: 'right' }}>
-                    <p style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>현재가</p>
-                    <p style={{ fontFamily: 'monospace', fontSize: '1.1rem', color: '#fff' }}>${(pos.currentPrice || pos.entryPrice).toFixed(2)}</p>
-                    <p style={{ fontSize: '1rem', fontWeight: 'bold', color: pos.roi >= 0 ? 'var(--success-color)' : 'var(--danger-color)', marginTop: '0.25rem' }}>
-                      {pos.roi > 0 ? '+' : ''}{pos.roi.toFixed(2)}%
-                    </p>
-                  </div>
-                </div>
-              ))}
-            </div>
-          )}
-        </div>
-
-        {/* Trade History */}
-        <div className="glass-panel">
-          <h3 style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: '1.5rem' }}>
-            📜 최근 매매 내역
-          </h3>
-          
-          {portfolio.history?.length === 0 ? (
-            <p style={{ color: 'var(--text-secondary)', fontStyle: 'italic' }}>아직 매매 내역이 없습니다.</p>
-          ) : (
-            <div style={{ display: 'flex', flexDirection: 'column', gap: '1rem', maxHeight: '500px', overflowY: 'auto', paddingRight: '0.5rem' }}>
-              {[...portfolio.history].reverse().map((trade: any, idx: number) => (
-                <div key={idx} style={{ background: 'rgba(0,0,0,0.3)', padding: '1rem', borderRadius: '8px', border: '1px solid var(--surface-border)' }}>
-                  <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginBottom: '0.5rem' }}>
-                    <div>
-                      <span style={{ fontWeight: 'bold', fontSize: '1rem', color: '#fff' }}>{trade.ticker}</span>
-                      <p style={{ fontSize: '0.8rem', color: 'var(--text-secondary)', marginTop: '0.25rem' }}>{trade.reason}</p>
-                    </div>
-                    <div style={{ textAlign: 'right', color: trade.profit >= 0 ? 'var(--success-color)' : 'var(--danger-color)' }}>
-                      <p style={{ fontWeight: 'bold' }}>{trade.profit >= 0 ? '+' : ''}${trade.profit.toFixed(2)}</p>
-                      <p style={{ fontSize: '0.85rem' }}>{trade.roi >= 0 ? '+' : ''}{trade.roi.toFixed(2)}%</p>
-                    </div>
-                  </div>
-                  <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '0.8rem', color: 'var(--text-secondary)', borderTop: '1px solid var(--surface-border)', paddingTop: '0.5rem', marginTop: '0.5rem' }}>
-                    <span>진입: {trade.entryDate} (${trade.entryPrice.toFixed(2)})</span>
-                    <span>청산: {trade.exitDate} (${trade.exitPrice.toFixed(2)})</span>
-                  </div>
-                </div>
-              ))}
-            </div>
-          )}
+        {/* 보유 종목 리스트 */}
+        <h2 style={{ fontSize: '1.5rem', marginBottom: '1.5rem', borderBottom: '1px solid rgba(255,255,255,0.1)', paddingBottom: '0.5rem', color: '#f1f5f9' }}>현재 보유 종목 (Active Positions)</h2>
+        <div style={{ overflowX: 'auto', background: 'rgba(0,0,0,0.2)', borderRadius: '16px', padding: '1rem', border: '1px solid rgba(255,255,255,0.05)' }}>
+          <table style={{ width: '100%', borderCollapse: 'collapse', textAlign: 'left', minWidth: '800px' }}>
+            <thead>
+              <tr style={{ color: '#94a3b8', borderBottom: '1px solid rgba(255,255,255,0.1)', textTransform: 'uppercase', fontSize: '0.85rem', letterSpacing: '1px' }}>
+                <th style={{ padding: '1.2rem 1rem' }}>종목명 (Ticker)</th>
+                <th style={{ padding: '1.2rem 1rem' }}>매입일 (Entry Date)</th>
+                <th style={{ padding: '1.2rem 1rem' }}>매입가 (Entry Price)</th>
+                <th style={{ padding: '1.2rem 1rem' }}>현재가 (Current Price)</th>
+                <th style={{ padding: '1.2rem 1rem' }}>수익률 (ROI)</th>
+                <th style={{ padding: '1.2rem 1rem' }}>평가금액 (Value)</th>
+              </tr>
+            </thead>
+            <tbody>
+              {p.positions.length === 0 ? (
+                <tr>
+                  <td colSpan={6} style={{ padding: '3rem', textAlign: 'center', color: '#64748b', fontSize: '1.1rem' }}>현재 편입된 종목이 없습니다. 현금 대기 중입니다.</td>
+                </tr>
+              ) : (
+                p.positions.map((pos: any, i: number) => {
+                  const currentVal = pos.quantity * (pos.currentPrice || pos.entryPrice);
+                  const isProfit = (pos.roi || 0) >= 0;
+                  return (
+                    <tr key={i} style={{ borderBottom: '1px solid rgba(255,255,255,0.05)' }}>
+                      <td style={{ padding: '1.2rem 1rem', fontWeight: 'bold', color: '#f8fafc', fontSize: '1.1rem' }}>
+                        {pos.ticker}
+                        <div style={{ fontSize: '0.8rem', color: '#94a3b8', fontWeight: 'normal', marginTop: '0.2rem' }}>{pos.companyName}</div>
+                      </td>
+                      <td style={{ padding: '1.2rem 1rem', color: '#cbd5e1' }}>{pos.entryDate}</td>
+                      <td style={{ padding: '1.2rem 1rem' }}>${pos.entryPrice.toFixed(2)}</td>
+                      <td style={{ padding: '1.2rem 1rem' }}>${(pos.currentPrice || pos.entryPrice).toFixed(2)}</td>
+                      <td style={{ padding: '1.2rem 1rem', color: isProfit ? '#ef4444' : '#3b82f6', fontWeight: 'bold' }}>
+                        {isProfit ? '+' : ''}{(pos.roi || 0).toFixed(2)}%
+                      </td>
+                      <td style={{ padding: '1.2rem 1rem', fontWeight: '600' }}>${currentVal.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}</td>
+                    </tr>
+                  )
+                })
+              )}
+            </tbody>
+          </table>
         </div>
       </div>
     </div>

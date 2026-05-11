@@ -39,35 +39,11 @@ export default function RootLayout({
           gap: '1rem',
           flexWrap: 'wrap'
         }}>
-          <Link href="/" style={{ color: '#fff', textDecoration: 'none', fontSize: '0.9rem', fontWeight: 600, padding: '0.4rem 0.6rem', borderRadius: '8px', transition: 'all 0.2s' }}>
-            🌍 매크로 ETF 대시보드
-          </Link>
-          <Link href="/company" style={{ color: '#fff', textDecoration: 'none', fontSize: '0.9rem', fontWeight: 600, padding: '0.4rem 0.6rem', borderRadius: '8px', transition: 'all 0.2s' }}>
-            🔍 개별 기업 딥다이브
-          </Link>
-          <Link href="/ib-briefing" style={{ color: '#fff', textDecoration: 'none', fontSize: '0.9rem', fontWeight: 600, padding: '0.4rem 0.6rem', borderRadius: '8px', transition: 'all 0.2s' }}>
-            📰 글로벌 IB 브리핑
-          </Link>
-          <Link href="/archive" style={{ color: '#fff', textDecoration: 'none', fontSize: '0.9rem', fontWeight: 600, padding: '0.4rem 0.6rem', borderRadius: '8px', transition: 'all 0.2s' }}>
-            📂 과거 아카이브
-          </Link>
-          <Link href="/screener" style={{ color: '#fff', textDecoration: 'none', fontSize: '0.9rem', fontWeight: 600, padding: '0.4rem 0.6rem', borderRadius: '8px', transition: 'all 0.2s', borderBottom: '2px solid var(--accent-color)' }}>
-            🎯 기술적 종목 스크리너
-          </Link>
-          <Link href="/tracking" style={{ color: '#fff', textDecoration: 'none', fontSize: '0.9rem', fontWeight: 600, padding: '0.4rem 0.6rem', borderRadius: '8px', transition: 'all 0.2s', borderBottom: '2px solid #ef4444' }}>
-            📈 수익률 트래킹
-          </Link>
-          <Link href="/backtest" style={{ color: '#fff', textDecoration: 'none', fontSize: '0.9rem', fontWeight: 600, padding: '0.4rem 0.6rem', borderRadius: '8px', transition: 'all 0.2s' }}>
-            🧪 백테스팅
-          </Link>
           <Link href="/simulation" style={{ color: '#10b981', textDecoration: 'none', fontSize: '0.9rem', fontWeight: 600, padding: '0.4rem 0.6rem', borderRadius: '8px', transition: 'all 0.2s', borderBottom: '2px solid #10b981' }}>
-            💼 모의투자 대시보드
+            💼 포트폴리오 (대시보드)
           </Link>
-          <Link href="/auto-trade" style={{ color: '#8b5cf6', textDecoration: 'none', fontSize: '0.9rem', fontWeight: 600, padding: '0.4rem 0.6rem', borderRadius: '8px', transition: 'all 0.2s', borderBottom: '2px solid #8b5cf6' }}>
-            🤖 퀀트 매매 봇
-          </Link>
-          <Link href="/algorithm" style={{ color: '#fff', textDecoration: 'none', fontSize: '0.9rem', fontWeight: 600, padding: '0.4rem 0.6rem', borderRadius: '8px', transition: 'all 0.2s' }}>
-            📖 알고리즘 명세서
+          <Link href="/archive" style={{ color: '#fff', textDecoration: 'none', fontSize: '0.9rem', fontWeight: 600, padding: '0.4rem 0.6rem', borderRadius: '8px', transition: 'all 0.2s', borderBottom: '2px solid #3b82f6' }}>
+            📝 SMIC 리서치 보관소
           </Link>
         </nav>
         <main>

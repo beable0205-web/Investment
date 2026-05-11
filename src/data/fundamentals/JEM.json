@@ -1,0 +1,32 @@
+{
+  "ticker": "JEM",
+  "lastUpdated": "2026-05-11T13:19:24.043Z",
+  "rawFinancials": {
+    "name": "707 Cayman Holdings Limited",
+    "marketCap": 2359661,
+    "priceToBook": 0.26510927,
+    "totalRevenue": 106909248,
+    "operatingMargins": -0.71571,
+    "returnOnEquity": -1.3340801,
+    "freeCashflow": 10767883,
+    "totalCash": 41196132,
+    "totalDebt": 3978694,
+    "currentRatio": 2.815,
+    "revenueGrowth": 0.235
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출은 23.5%의 높은 성장률을 보이나, 이익은 심각한 적자 상태입니다.",
+      "profitability": "영업 마진이 -71.57%에 달하며 ROE도 -133.4%로 극심한 적자 늪에 빠져 있어 수익성 구조가 매우 취약합니다.",
+      "cashflow_stability": "심각한 적자에도 불구하고 긍정적인 잉여현금흐름(FCF)을 창출하고 있으며, 총 현금이 총 부채의 10배 이상, 유동비율 2.8로 재무 건전성은 매우 양호합니다. 파산 위험은 낮습니다."
+    },
+    "macro_sensitivity": "현재 심각한 적자 상태이므로 경기 침체 시 수요 감소로 인한 매출 타격과 자금 조달 어려움에 취약할 수 있습니다. 그러나 풍부한 현금 보유량과 낮은 부채는 단기적인 거시경제 충격에 대한 방어력을 제공합니다. 금리 인하 시 성장 투자 비용 감소로 긍정적 영향을 받을 수 있는 잠재적 성장주입니다.",
+    "technical_synergy": "매출 고성장과 긍정적 FCF에도 불구하고 극심한 저평가(P/B 0.26) 상태이므로, '단테의 밥그릇 3번 자리'와 같은 장기 이평선 돌파 패턴 발생 시 시장의 펀더멘털 재평가(Turnaround) 기대감으로 폭발적인 주가 상승을 기대할 수 있습니다. 특히, 수익성 개선의 초기 신호가 동반된다면 신뢰도는 더욱 높아질 것입니다.",
+    "business_moat": "높은 매출 성장률을 보이지만 아직 수익성 확보에 실패한 사업 모델입니다. 풍부한 현금과 낮은 부채를 바탕으로 시장 점유율 확대 또는 기술 개발에 투자하며 미래의 경제적 해자를 구축하려는 단계로 추정됩니다.",
+    "ai_system_tags": [
+      "Value",
+      "Turnaround",
+      "High-Growth"
+    ]
+  }
+}

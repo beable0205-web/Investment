@@ -170,6 +170,36 @@ export function evaluateRules(ticker: string, data: any[], companyName?: string)
     }
   }
 
+  // ---------------------------------------------------------
+  // Rule 4: 일일 강력한 돌파 (밥그릇 3번 자리 + 당일 거래량 폭발 + 과매수 방지)
+  // ---------------------------------------------------------
+  if (currentSMA224 !== null) {
+    const diff224 = (currentClose - currentSMA224) / currentSMA224;
+    // 1. 주가가 224일선 근처 또는 막 돌파한 상태 (-3% ~ +15%)
+    if (diff224 >= -0.03 && diff224 <= 0.15) {
+      
+      // 2. 과거 1번, 2번 자리(장기 하락 및 횡보) 검증
+      let daysBelow224 = 0;
+      for (let i = Math.max(0, lastIdx - 120); i < lastIdx - 20; i++) {
+        if (closePrices[i] < sma224[i]!) daysBelow224++;
+      }
+      const isBowlPattern = daysBelow224 > 50;
+
+      // 3. 오늘(또는 전일) 거래량 폭발 (20일 평균 대비 3배 이상)
+      const vMA = volMA20[lastIdx];
+      const prevVol = volumes[lastIdx - 1];
+      const isVolumeSpike = vMA && (currentVol > vMA * 3 || prevVol > vMA * 3);
+
+      // 4. 과매수 방지 (이격도 제한): 20일선 대비 15% 이상 떠있지 않을 것
+      const diff20 = sma20[lastIdx] ? (currentClose - sma20[lastIdx]!) / sma20[lastIdx]! : 0;
+      const isNotOverextended = diff20 <= 0.15;
+
+      if (isBowlPattern && isVolumeSpike && isNotOverextended) {
+        matchReasons.push("Rule 4: [일일 특화] 밥그릇 3번 자리 초입 + 거래량 300% 폭발 + 이격도 안전 (오늘의 강력 매수 타점)");
+      }
+    }
+  }
+
   if (matchReasons.length > 0) {
     return {
       ticker,

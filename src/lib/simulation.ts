@@ -37,7 +37,7 @@ export interface Portfolio {
 const DATA_DIR = path.join(process.cwd(), 'src', 'data', 'simulation');
 const DB_PATH = path.join(DATA_DIR, 'portfolio.json');
 
-export function initPortfolio(initialCash = 100000): Portfolio {
+export function initPortfolio(initialCash = 500000): Portfolio {
   if (!fs.existsSync(DATA_DIR)) {
     fs.mkdirSync(DATA_DIR, { recursive: true });
   }
@@ -63,14 +63,16 @@ export function savePortfolio(p: Portfolio) {
 }
 
 // 매수 실행
-export function executeBuy(p: Portfolio, ticker: string, companyName: string, price: number, rule: string, date: string) {
-  // 포트당 최대 5개 종목 유지, 종목목당 20% 비중
-  const maxPositions = 5;
-  if (p.positions.length >= maxPositions) return false;
+export function executeBuy(p: Portfolio, ticker: string, companyName: string, price: number, rule: string, date: string, targetInvestAmount?: number) {
+  // 포트당 최대 편입 한도 $100,000
+  const maxAllocation = 100000;
   if (p.positions.find(pos => pos.ticker === ticker)) return false; // 이미 보유 중
 
-  const allocation = 100000 / maxPositions; // 고정 비중 2만불
-  let investAmount = Math.min(p.cash, allocation);
+  let requestedAmount = targetInvestAmount !== undefined ? targetInvestAmount : maxAllocation;
+  // 최대 한도 $100,000 제한
+  requestedAmount = Math.min(requestedAmount, maxAllocation);
+  
+  let investAmount = Math.min(p.cash, requestedAmount);
   
   if (investAmount < price) return false; // 돈 부족
 

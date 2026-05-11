@@ -23,7 +23,7 @@ async function runMonthlyEvolution() {
   const macroData = await getMacroIndicators();
   const portfolio = initPortfolio();
   
-  const initialCash = 100000;
+  const initialCash = 500000;
   const totalReturn = ((portfolio.totalEquity - initialCash) / initialCash) * 100;
   const winCount = portfolio.history.filter(h => h.roi > 0).length;
   const lossCount = portfolio.history.filter(h => h.roi <= 0).length;
@@ -39,7 +39,7 @@ async function runMonthlyEvolution() {
 현재 시장의 거시경제(Macro) 데이터가 주어집니다.
 
 [포트폴리오 성과 요약]
-- 총 자산: $${portfolio.totalEquity.toFixed(2)} (초기 자본: $100,000)
+- 총 자산: $${portfolio.totalEquity.toFixed(2)} (초기 자본: $500,000)
 - 누적 수익률: ${totalReturn.toFixed(2)}%
 - 총 매매 횟수: ${portfolio.history.length} (익절: ${winCount}, 손절: ${lossCount}, 승률: ${winRate.toFixed(2)}%)
 - 최근 손절 내역:

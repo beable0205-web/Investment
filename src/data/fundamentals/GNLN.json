@@ -1,0 +1,33 @@
+{
+  "ticker": "GNLN",
+  "lastUpdated": "2026-05-11T13:07:01.559Z",
+  "rawFinancials": {
+    "name": "Greenlane Holdings, Inc.",
+    "marketCap": 3142861,
+    "forwardPE": -0.90562606,
+    "priceToBook": 0.044383563,
+    "totalRevenue": 4355000,
+    "operatingMargins": -27.135931,
+    "returnOnEquity": -2.3127902,
+    "freeCashflow": 3932750,
+    "totalCash": 32513000,
+    "totalDebt": 166000,
+    "currentRatio": 5.007,
+    "revenueGrowth": -0.18
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "심각한 역성장 (Severe Negative Growth). 매출은 18% 감소했으며, 영업이익과 순이익 모두 깊은 적자를 기록하고 있어 사업의 축소 및 가치 파괴가 진행 중입니다.",
+      "profitability": "적자 늪 (Loss-making Swamp). 영업이익률 -27%, ROE -231%는 사업 모델의 근본적인 수익성 부재를 나타내며, 현재로서는 이익 창출 능력이 전무합니다. 이는 기업의 지속 가능성에 심각한 의문을 제기합니다.",
+      "cashflow_stability": "단기 유동성 우수하나 사업 현금 흐름 불안정 (Excellent Short-term Liquidity but Unstable Business Cash Flow). 5.0의 높은 유동비율과 3,250만 달러의 현금 보유액은 단기 파산 위험을 낮추는 중요한 완충재입니다. 그러나 핵심 사업의 지속적인 적자로 인해 이 현금은 빠르게 소진될 수 있으며, 긍정적인 FCF는 일시적이거나 비핵심 자산 매각 등에서 기인했을 가능성이 높아 지속적인 현금 창출력은 매우 불안정합니다."
+    },
+    "macro_sensitivity": "이 기업은 현재의 심각한 펀더멘털 약점으로 인해 거시경제 변동에 대한 방어력이 거의 없습니다. 금리 인상, 인플레이션, 경기 침체 등 어떤 부정적 거시경제 환경에서도 취약하며, 특히 소비 심리 위축 시 매출 회복은 더욱 어려울 것입니다. 사실상 거시경제보다는 기업 자체의 생존 여부가 더 큰 문제입니다.",
+    "technical_synergy": "이러한 극도로 취약한 펀더멘털을 가진 기업이 '단테의 밥그릇 3번 자리'와 같은 강력한 기술적 반등 패턴을 보인다면, 이는 대부분 투기적 매수세, 숏 스퀴즈, 혹은 근거 없는 루머에 기반할 가능성이 높습니다. 지속 가능한 상승 추세로 이어질 신뢰도는 매우 낮으며, 펀더멘털 개선 없이는 언제든 급락할 수 있는 고위험 투기성 움직임으로 해석해야 합니다. 이는 진정한 가치 투자의 영역이 아닌, 단기 트레이딩의 영역입니다.",
+    "business_moat": "Greenlane Holdings는 현재 명확한 경제적 해자를 찾기 어려우며, 심각한 역성장과 적자로 인해 경쟁 우위가 침식되었을 가능성이 높습니다. 이는 지속적인 수익성 악화와 시장 점유율 하락으로 이어질 수 있으며, 사업 모델의 근본적인 재편이 시급합니다. 현재로서는 '해자'보다는 '구멍'에 가깝습니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Distressed Value",
+      "Speculative"
+    ]
+  }
+}
