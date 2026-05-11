@@ -1,0 +1,32 @@
+{
+  "ticker": "PDYN",
+  "lastUpdated": "2026-05-10T13:19:44.012Z",
+  "rawFinancials": {
+    "name": "Palladyne AI Corp.",
+    "marketCap": 288662208,
+    "forwardPE": -8.605635,
+    "priceToBook": 4.1283784,
+    "totalRevenue": 7074000,
+    "operatingMargins": -3.36885,
+    "returnOnEquity": -0.51577,
+    "freeCashflow": -17763000,
+    "totalCash": 43678000,
+    "totalDebt": 10530000,
+    "currentRatio": 7.846,
+    "revenueGrowth": 1.069
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "고성장 (매출 106.9% 성장으로 폭발적인 탑라인 확장)",
+      "profitability": "적자 늪 (영업 마진, ROE, 선행 P/E 모두 마이너스로 심각한 적자 구조)",
+      "cashflow_stability": "현금 소진 심화, 단기 유동성 우수 (마이너스 잉여현금흐름으로 현금 소진이 빠르나, 높은 유동비율과 충분한 현금 보유로 단기 부채 리스크는 낮음)"
+    },
+    "macro_sensitivity": "금리 인상에 매우 취약하며, 경기 침체 시 성장 둔화 및 자금 조달 어려움에 직면할 수 있는 고위험 성장주입니다. 금리 인하 및 유동성 확대 시 가장 큰 수혜를 볼 수 있는 전형적인 고성장 기술주 특성을 가집니다.",
+    "technical_synergy": "폭발력은 높으나 신뢰도는 낮습니다. 펀더멘털상 적자 기업이 '단테의 밥그릇 3번 자리'와 같은 장기 이평선 돌파 및 지지 패턴을 만들 때, 이는 시장이 미래 성장 잠재력에 강하게 베팅하고 있음을 시사합니다. 그러나 현금 소진 속도와 수익성 개선 여부에 따라 언제든 신뢰도가 급락할 수 있는 고위험-고수익 패턴으로 해석해야 하며, 펀더멘털 개선 없이는 지속 가능성이 낮습니다.",
+    "business_moat": "Palladyne AI Corp.는 폭발적인 매출 성장을 보이는 AI 기술 기업으로 보이나, 현재 심각한 적자와 현금 소진을 겪고 있습니다. 독점적 기술이나 강력한 네트워크 효과 등 지속 가능한 경제적 해자 구축 여부가 불분명하여 장기적인 경쟁 우위 확보가 관건입니다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Turnaround"
+    ]
+  }
+}

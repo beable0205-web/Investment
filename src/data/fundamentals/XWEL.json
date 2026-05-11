@@ -1,0 +1,32 @@
+{
+  "ticker": "XWEL",
+  "lastUpdated": "2026-05-11T11:28:20.595Z",
+  "rawFinancials": {
+    "name": "XWELL, Inc.",
+    "marketCap": 11652346,
+    "forwardPE": -0.55893534,
+    "priceToBook": -1.3387978,
+    "totalRevenue": 29210000,
+    "operatingMargins": -0.45066002,
+    "freeCashflow": -5100500,
+    "totalCash": 2624000,
+    "totalDebt": 12487000,
+    "currentRatio": 0.458,
+    "revenueGrowth": -0.042
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 역성장 및 이익 감소 심화 (Revenue decline and deepening profit losses)",
+      "profitability": "심각한 적자 늪, 영업 마진이 -45%에 달하며 수익성 구조가 완전히 붕괴됨 (Deep loss swamp, operating margins at -45%, complete collapse of profitability structure)",
+      "cashflow_stability": "현금 소진 심각 (Free Cash Flow -5.1M), 부채 리스크 과다 (Total Debt 12.48M vs Total Cash 2.62M), 유동성 위기 (Current Ratio 0.458) (Severe cash burn, excessive debt risk, liquidity crisis)"
+    },
+    "macro_sensitivity": "금리 인상 및 경기 침체에 극도로 취약하며, 이미 심각한 재무 상태를 더욱 악화시켜 생존 자체가 위협받을 수 있는 고위험군. 경기 방어 능력은 전무함. (Extremely vulnerable to interest rate hikes and economic downturns, which would further exacerbate its already severe financial condition, potentially threatening its very survival. Possesses no defensive capabilities.)",
+    "technical_synergy": "이 기업의 심각한 펀더멘털 약점을 고려할 때, '단테의 밥그릇 3번 자리'와 같은 기술적 패턴은 신뢰도가 매우 낮으며, 일시적인 투기적 반등일 가능성이 높다. 장기적인 추세 전환의 신호로 보기 어렵고, 오히려 펀더멘털을 무시한 투기적 매매의 함정이 될 수 있다. (Given the severe fundamental weaknesses of this company, technical patterns like 'Dante's Bowl Position 3' would have very low reliability and are likely to be temporary speculative bounces. It's difficult to see them as signals of a long-term trend reversal, and they could instead be a trap for speculative trading that ignores fundamentals.)",
+    "business_moat": "이 기업은 심각한 적자와 매출 감소를 겪고 있으며, 이는 어떠한 형태의 경제적 해자도 존재하지 않음을 시사한다. 오히려 경쟁 우위 상실과 사업 모델의 근본적인 취약성을 드러내고 있어, 지속 가능한 경쟁력이 전무한 상태이다. (This company is experiencing severe losses and revenue decline, suggesting the absence of any economic moat. Instead, it reveals a loss of competitive advantage and fundamental weaknesses in its business model, indicating a complete lack of sustainable competitive advantage.)",
+    "ai_system_tags": [
+      "Distressed",
+      "Bankruptcy Risk",
+      "Speculative"
+    ]
+  }
+}

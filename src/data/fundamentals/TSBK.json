@@ -1,0 +1,31 @@
+{
+  "ticker": "TSBK",
+  "lastUpdated": "2026-05-10T12:52:51.909Z",
+  "rawFinancials": {
+    "name": "Timberland Bancorp, Inc.",
+    "marketCap": 321024352,
+    "trailingPE": 10.515384,
+    "priceToBook": 1.2039456,
+    "totalRevenue": 84601000,
+    "operatingMargins": 0.45182,
+    "returnOnEquity": 0.118,
+    "totalCash": 300643008,
+    "totalDebt": 22937000,
+    "revenueGrowth": 0.044
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 성장 (매출 4.4% 증가로 꾸준한 확장세)",
+      "profitability": "우수한 마진, 견고한 수익성 (45% 이상의 높은 영업마진과 11.8%의 ROE는 효율적인 자산 운용을 시사)",
+      "cashflow_stability": "견고한 유동성, 낮은 명목 부채 위험 (막대한 현금 보유량과 낮은 총부채는 재무 건전성을 뒷받침하나, 은행 특성상 예금 부채의 관리가 중요)"
+    },
+    "macro_sensitivity": "금리 인상 시 순이자마진(NIM) 개선으로 직접적인 수혜를 입는 전형적인 금리 민감주입니다. 그러나 경기 침체 시에는 대출 부실 위험 증가로 자산 건전성 악화 가능성이 있어, 경기 사이클에 대한 방어력은 중간 수준입니다.",
+    "technical_synergy": "이처럼 견고한 펀더멘털과 합리적인 밸류에이션(P/E 10.5, P/B 1.2)을 가진 기업이 '단테의 밥그릇 3번 자리'와 같은 장기 이평선 돌파 패턴을 보일 경우, 이는 단순한 기술적 반등을 넘어 시장의 가치 재평가가 시작되었음을 알리는 신뢰도 높은 신호로 해석될 수 있습니다. 펀더멘털이 하방 경직성을 제공하여 추세 전환의 지속 가능성이 높습니다.",
+    "business_moat": "지역 기반의 은행으로서, TSBK는 충성도 높은 고객 관계와 효율적인 운영을 통해 안정적인 예대마진을 확보하고 있습니다. 이는 지역 사회 내에서 경쟁 우위를 점하는 미시적 해자로 작용하며, 규제 장벽 또한 진입 장벽으로 기능합니다.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Financials"
+    ]
+  }
+}

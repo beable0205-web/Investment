@@ -1,0 +1,34 @@
+{
+  "ticker": "VNO",
+  "lastUpdated": "2026-05-09T11:56:17.309Z",
+  "rawFinancials": {
+    "name": "Vornado Realty Trust",
+    "marketCap": 6586110976,
+    "trailingPE": 8.810959,
+    "forwardPE": 110.89655,
+    "priceToBook": 1.2509724,
+    "totalRevenue": 1854104064,
+    "operatingMargins": 0.13672,
+    "returnOnEquity": 0.12604,
+    "freeCashflow": 1209429120,
+    "totalCash": 1106999040,
+    "totalDebt": 8462876160,
+    "currentRatio": 6.212,
+    "revenueGrowth": -0.022
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "역성장. 매출이 감소하고 있으며, Trailing PE 대비 극단적으로 높은 Forward PE는 향후 순이익의 급격한 악화를 시사함.",
+      "profitability": "수익성 악화 우려. 현재의 영업이익률과 ROE는 준수해 보이나, 미래 이익 전망이 매우 비관적이어서 현재의 수익 구조를 유지하기 어려울 것으로 보임.",
+      "cashflow_stability": "현금 창출력 우수, 레버리지 과다. 막대한 부채는 리스크 요인이지만, 이를 상쇄하는 강력한 현금흐름과 매우 높은 유동비율(Current Ratio)은 단기적 파산 위험을 제어함."
+    },
+    "macro_sensitivity": "대표적인 금리 인상 피해주이자 경기 민감주. 부채 비중이 높아 금리 변동에 순이익이 직접적인 영향을 받으며, 오피스/리테일 부동산 경기는 경기 침체 시 공실률 증가와 임대료 하락에 매우 취약함.",
+    "technical_synergy": "펀더멘털에 대한 극심한 비관론이 주가에 선반영된 상태이므로, '단테의 밥그릇 3번 자리'와 같은 장기 바닥 형성 후 추세 전환 패턴의 신뢰도가 매우 높을 수 있음. 금리 인하 기대감 등 거시적 변수와 맞물릴 경우, 깊은 골짜기에서 벗어나는 강력한 주가 폭발력을 기대할 수 있는 유형임.",
+    "business_moat": "뉴욕 맨해튼 중심의 대체 불가능한 A급 부동산 포트폴리오가 핵심 경제적 해자입니다. 그러나 원격 근무 및 전자상거래 확산이라는 구조적 역풍으로 인해 자산 가치와 임대 수요가 심각한 위협을 받고 있습니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Value",
+      "Cyclical"
+    ]
+  }
+}

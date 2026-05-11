@@ -1,0 +1,33 @@
+{
+  "ticker": "CKX",
+  "lastUpdated": "2026-05-10T20:51:57.966Z",
+  "rawFinancials": {
+    "name": "CKX Lands, Inc.",
+    "marketCap": 22296980,
+    "trailingPE": 7.387755,
+    "priceToBook": 1.039732,
+    "totalRevenue": 838543,
+    "operatingMargins": -0.21742001,
+    "returnOnEquity": 0.15039,
+    "freeCashflow": 6626378,
+    "totalCash": 18010108,
+    "totalDebt": 0,
+    "currentRatio": 24.73,
+    "revenueGrowth": -0.326
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "역성장 (매출 급감). 이는 자산 매각 등 비경상적 활동의 결과일 수 있으며, 핵심 사업의 유기적 성장성 부재를 나타냅니다.",
+      "profitability": "핵심 사업은 적자 마진을 기록하나, 높은 ROE와 강력한 잉여현금흐름은 자산 매각 등 비경상적 이익 및 현금 창출에 기인한 것으로 보입니다. 운영 효율성은 매우 낮습니다.",
+      "cashflow_stability": "부채가 전혀 없고, 시가총액에 육박하는 막대한 현금 보유량과 강력한 잉여현금흐름을 바탕으로 재무 안정성이 극도로 높습니다. 파산 위험은 거의 없으며, 유동성이 매우 풍부합니다."
+    },
+    "macro_sensitivity": "부동산 자산을 보유한 기업으로, 금리 변동 및 인플레이션에 민감할 수 있으나, 무부채 및 막대한 현금 보유로 경기 침체기에도 매우 높은 방어력을 가집니다. 오히려 자산 가치 상승 시 인플레이션 헤지 효과를 기대할 수 있습니다.",
+    "technical_synergy": "극도로 견고한 재무 상태(무부채, 막대한 현금, FCF)와 자산 가치 대비 저평가된 특성상, '단테의 밥그릇 3번 자리'와 같은 장기 추세 전환 패턴 발생 시, 시장의 재평가(re-rating)에 따른 강력한 상승 폭발력을 기대할 수 있습니다. 이는 단순한 기술적 반등이 아닌, 내재가치 회복에 기반한 신뢰도 높은 움직임으로 해석될 수 있습니다.",
+    "business_moat": "CKX Lands는 부동산 자산 보유 및 관리에서 가치를 창출하는 기업으로 보입니다. 핵심 해자는 보유한 토지 자산의 내재가치와 무부채 경영을 통한 압도적인 재무 안정성입니다.",
+    "ai_system_tags": [
+      "Value",
+      "Defensive",
+      "Asset Play"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "ticker": "CNNE",
+  "lastUpdated": "2026-05-10T09:41:51.326Z",
+  "rawFinancials": {
+    "name": "Cannae Holdings, Inc.",
+    "marketCap": 627488960,
+    "forwardPE": -8.548193,
+    "priceToBook": 0.6473245,
+    "totalRevenue": 423600000,
+    "operatingMargins": -0.00678,
+    "returnOnEquity": -0.30433,
+    "freeCashflow": -22362500,
+    "totalCash": 182000000,
+    "totalDebt": 209000000,
+    "currentRatio": 2.069,
+    "revenueGrowth": -0.06
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 역성장 및 이익 감소 (현재 마이너스 성장)",
+      "profitability": "적자 늪 (영업 마진 및 ROE 모두 마이너스, 수익성 매우 취약)",
+      "cashflow_stability": "현금 소진 (자유 현금 흐름 마이너스, 부채 리스크 존재하나 단기 유동성은 양호)"
+    },
+    "macro_sensitivity": "경기 침체 및 금리 인상에 매우 취약하며, 자본 조달 비용 증가에 민감. 현재의 취약한 펀더멘털로 인해 거시경제 악화 시 방어력이 극히 낮음.",
+    "technical_synergy": "현재의 취약한 펀더멘털을 고려할 때, '단테의 밥그릇 3번 자리'와 같은 강력한 기술적 패턴이 나타나더라도 그 신뢰도는 매우 낮을 것으로 판단됨. 이는 단기적인 투기적 매수나 턴어라운드 기대감에 기반한 움직임일 가능성이 크며, 펀더멘털 개선 없이는 지속적인 상승 동력을 얻기 어려울 것임.",
+    "business_moat": "Cannae Holdings는 다양한 사업에 투자하는 지주회사로 보이나, 현재 재무 상태는 핵심 사업에서 뚜렷한 경제적 해자를 창출하거나 활용하지 못하고 있음을 시사한다. 수익성 악화와 역성장은 해자가 부재하거나 약화되었음을 나타낸다.",
+    "ai_system_tags": [
+      "Value",
+      "Turnaround"
+    ]
+  }
+}

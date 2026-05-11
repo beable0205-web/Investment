@@ -1,0 +1,33 @@
+{
+  "ticker": "LCUT",
+  "lastUpdated": "2026-05-10T15:51:19.404Z",
+  "rawFinancials": {
+    "name": "Lifetime Brands, Inc.",
+    "marketCap": 135073088,
+    "forwardPE": 7.5769234,
+    "priceToBook": 0.66188824,
+    "totalRevenue": 647932992,
+    "operatingMargins": 0.10897,
+    "returnOnEquity": -0.12465,
+    "freeCashflow": 3516625,
+    "totalCash": 4267000,
+    "totalDebt": 243639008,
+    "currentRatio": 2.848,
+    "revenueGrowth": -0.052
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "역성장 국면에 진입했으며, 매출 감소와 심각한 순손실로 인해 기업의 성장 동력이 크게 훼손된 상태입니다.",
+      "profitability": "영업마진은 존재하나, 과도한 부채로 인한 이자 비용 부담이 커 순이익은 적자 늪에 빠져 있습니다. 자본 효율성이 극도로 낮습니다.",
+      "cashflow_stability": "미약하나마 긍정적인 잉여현금흐름을 창출하고 있으나, 시장 가치를 훨씬 상회하는 막대한 총부채로 인해 재무적 레버리지 리스크가 매우 높습니다."
+    },
+    "macro_sensitivity": "소비재 기업으로서 경기 침체 및 인플레이션에 매우 취약한 경기 민감주입니다. 특히, 높은 부채는 금리 인상 환경에서 이자 비용 부담을 가중시켜 기업의 생존을 위협할 수 있습니다.",
+    "technical_synergy": "펀더멘털이 이처럼 취약한 기업이 '단테의 밥그릇 3번 자리'와 같은 기술적 강세 패턴을 형성한다면, 이는 단기적인 투기적 매수세나 시장 전반의 유동성 효과에 기인한 것일 가능성이 큽니다. 기업의 내재 가치 개선에 기반한 신뢰할 수 있는 장기 추세 전환으로 보기 어려우며, '가치 함정(Value Trap)'의 초기 신호일 수 있습니다.",
+    "business_moat": "Lifetime Brands는 경쟁이 치열한 주방 및 가정용품 시장에서 운영되며, 뚜렷한 브랜드 충성도나 독점적 유통망, 비용 우위와 같은 강력한 경제적 해자를 찾아보기 어렵습니다. 현재의 역성장과 낮은 수익성은 기존의 해자가 약화되었거나, 애초에 견고한 해자가 없었음을 방증합니다.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Turnaround"
+    ]
+  }
+}

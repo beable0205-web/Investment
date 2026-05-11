@@ -1,0 +1,33 @@
+{
+  "ticker": "EVC",
+  "lastUpdated": "2026-05-10T12:10:12.527Z",
+  "rawFinancials": {
+    "name": "Entravision Communications Corp",
+    "marketCap": 659000512,
+    "forwardPE": -37.68421,
+    "priceToBook": 11.873963,
+    "totalRevenue": 552713984,
+    "operatingMargins": 0.111260004,
+    "returnOnEquity": -0.22748,
+    "freeCashflow": 55175624,
+    "totalCash": 71144000,
+    "totalDebt": 210111008,
+    "currentRatio": 1.404,
+    "revenueGrowth": 1.144
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "Entravision exhibits explosive top-line expansion with a staggering 114.4% revenue growth, indicating aggressive market penetration or strategic acquisitions. However, this growth has yet to translate into sustainable bottom-line profitability.",
+      "profitability": "Despite a respectable 11.1% operating margin, the company suffers from a deeply negative Return on Equity (-22.75%) and a negative forward P/E, signaling significant net losses and a failure to generate shareholder value from its operations. The high Price-to-Book ratio (11.87) in light of negative ROE is a major red flag.",
+      "cashflow_stability": "The firm generates positive free cash flow ($55.1M), which is a crucial sign of operational health. Short-term liquidity is adequate with a current ratio of 1.404. However, total debt ($210M) significantly outweighs total cash ($71M), posing a medium-term solvency concern if profitability doesn't improve to service debt more comfortably."
+    },
+    "macro_sensitivity": "As a communications and advertising-centric entity, Entravision is inherently highly cyclical. Its revenue growth is acutely sensitive to corporate advertising budgets, making it vulnerable during economic downturns or recessions. Furthermore, its substantial debt load means rising interest rates could materially impact its cost of capital and further erode already negative net profitability, making it a 'rate-sensitive' and 'recession-vulnerable' play.",
+    "technical_synergy": "For a company with such a dichotomy – explosive revenue growth juxtaposed with deep unprofitability – a technical pattern like '단테의 밥그릇 3번 자리' (long-term moving average breakout and support) would likely attract speculative capital. While the positive free cash flow offers a floor, the lack of fundamental earnings power means any such technical rally would be highly susceptible to profit-taking and require immediate, tangible evidence of a path to profitability to be considered a reliable, sustained uptrend rather than a short-term trading opportunity.",
+    "business_moat": "Entravision's aggressive revenue expansion suggests a focus on capturing market share, potentially in the digital advertising or local media space. However, the persistent unprofitability indicates that any nascent economic moat – be it through network effects, brand strength, or unique platform technology – is not yet robust enough to confer pricing power or sustainable competitive advantage, leaving it exposed to intense competition.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

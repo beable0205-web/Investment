@@ -1,0 +1,32 @@
+{
+  "ticker": "SILA",
+  "lastUpdated": "2026-05-10T05:24:31.265Z",
+  "rawFinancials": {
+    "name": "Sila Realty Trust, Inc.",
+    "marketCap": 1689272704,
+    "trailingPE": 44.97059,
+    "priceToBook": 1.2605112,
+    "totalRevenue": 201944992,
+    "operatingMargins": 0.41234002,
+    "returnOnEquity": 0.02782,
+    "totalCash": 30778000,
+    "totalDebt": 728956992,
+    "currentRatio": 1.266,
+    "revenueGrowth": 0.091
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출은 9.1%로 완만한 성장세를 보이나, 매우 낮은 ROE(2.78%)와 높은 PER(44.97)은 수익성 있는 성장이 정체되어 있음을 시사합니다.",
+      "profitability": "41.23%의 높은 영업 마진을 기록하고 있으나, 순이익률과 ROE가 극히 낮아 영업외 비용(특히 이자 비용) 부담이 크거나 자산 효율성이 매우 떨어진다고 판단됩니다.",
+      "cashflow_stability": "양호한 유동비율(1.266)에도 불구하고, 총 부채가 총 현금의 약 24배에 달하며 낮은 수익성으로 인해 장기적인 현금 흐름 창출 및 부채 상환 능력에 압박이 있을 수 있습니다."
+    },
+    "macro_sensitivity": "부동산 투자 신탁(REIT)으로서 금리 인상에 매우 취약하며, 경기 침체 시 임대 수익 감소 및 자산 가치 하락 위험이 높습니다. 반대로 금리 인하 시 가장 큰 수혜를 볼 수 있는 대표적인 금리 민감주입니다.",
+    "technical_synergy": "현재 낮은 ROE와 높은 부채 수준을 고려할 때, '단테의 밥그릇 3번 자리'와 같은 강력한 기술적 패턴이 나타난다면, 이는 시장이 금리 인하 또는 자산 가치 상승과 같은 펀더멘털 개선을 선반영하고 있음을 시사할 수 있습니다. 그러나 펀더멘털 개선이 뒷받침되지 않는다면, 기술적 돌파의 신뢰도는 낮을 수 있습니다.",
+    "business_moat": "Sila Realty Trust는 다양한 상업용 부동산 포트폴리오를 통해 안정적인 임대 수익을 창출합니다. 핵심 자산의 입지적 우위와 장기 임대 계약이 잠재적 경제적 해자를 형성할 수 있습니다.",
+    "ai_system_tags": [
+      "Cyclical",
+      "Dividend",
+      "Turnaround"
+    ]
+  }
+}

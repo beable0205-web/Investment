@@ -1,0 +1,32 @@
+{
+  "ticker": "EDIT",
+  "lastUpdated": "2026-05-10T13:14:11.331Z",
+  "rawFinancials": {
+    "name": "Editas Medicine, Inc.",
+    "marketCap": 304488512,
+    "forwardPE": -3.5303597,
+    "priceToBook": 69.11111,
+    "totalRevenue": 38693000,
+    "operatingMargins": -8.83186,
+    "returnOnEquity": -3.26073,
+    "freeCashflow": -73816000,
+    "totalCash": 123648000,
+    "totalDebt": 17297000,
+    "currentRatio": 3.219,
+    "revenueGrowth": -0.392
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "심각한 역성장 및 수익성 전무. 매출은 급감하고 있으며, 이익은 만성적인 적자 상태.",
+      "profitability": "만성적 적자 구조로, 영업 마진과 자기자본이익률 모두 깊은 음수를 기록. 수익성 개선이 기업 생존의 핵심 과제.",
+      "cashflow_stability": "매우 빠른 현금 소진 속도를 보이며, 현재 보유 현금 대비 유동성 위험이 높음. 추가 자금 조달 없이는 지속 불가능한 구조."
+    },
+    "macro_sensitivity": "고금리 환경 및 투자 심리 위축에 극도로 취약하며, 자금 조달 비용 상승은 치명적. 금리 인하 및 유동성 확대 시 잠재적 수혜를 기대할 수 있으나, 근본적인 사업 모델의 변화가 선행되어야 함.",
+    "technical_synergy": "펀더멘털이 취약한 기업의 '단테의 밥그릇 3번 자리'와 같은 강력한 기술적 패턴은 단기적 투기 심리나 특정 이벤트(임상 결과, M&A 루머)에 기인할 가능성이 높음. 펀더멘털 개선 없이는 패턴의 신뢰도와 지속성은 매우 낮으며, 급격한 변동성 동반 가능성으로 장기 투자에는 부적합.",
+    "business_moat": "CRISPR 유전자 편집 기술이라는 강력한 잠재적 해자를 보유하고 있으나, 아직 상업적 성공으로 이어지지 않아 재무적 해자는 미약함. 기술력의 시장 지배력 확보와 성공적인 상용화가 미래 가치를 결정할 핵심 요소.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Turnaround"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "KBON",
+  "lastUpdated": "2026-05-10T12:29:53.645Z",
+  "rawFinancials": {
+    "name": "Karbon Capital Partners Corp.",
+    "marketCap": 344525184,
+    "priceToBook": -38.544064,
+    "operatingMargins": 0,
+    "totalDebt": 28020,
+    "currentRatio": 4.964
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "수익성 없는 운영으로 성장 동력 부재 (정체 또는 심각한 역성장)",
+      "profitability": "심각한 적자 구조, 자본 잠식 상태 (적자 늪)",
+      "cashflow_stability": "운영 현금 흐름 부재, 높은 유동성 비율(Current Ratio)은 일시적일 수 있으며, 장기적 부채 상환 능력 및 파산 위험 상존"
+    },
+    "macro_sensitivity": "극심한 거시경제 민감도. 현재 수익성 부재와 자본 잠식 상태로 인해 금리 인상 및 경기 침체 시 자금 조달 어려움이 가중되고 파산 위험이 증대됩니다. 경기 방어력은 전무합니다.",
+    "technical_synergy": "이러한 부실한 펀더멘털을 가진 기업이 '단테의 밥그릇 3번 자리'와 같은 강력한 기술적 패턴을 형성한다면, 이는 단기적인 투기적 움직임일 가능성이 높습니다. 펀더멘털 개선 없이 형성된 패턴은 신뢰도가 매우 낮아 '불 트랩(Bull Trap)'으로 작용할 위험이 크며, 장기적인 관점에서는 폭발력보다는 급락 위험이 더 큽니다.",
+    "business_moat": "현재 재무 데이터(0% 영업이익률, 마이너스 주가순자산비율)만으로는 어떠한 경제적 해자도 식별하기 어렵습니다. 오히려 수익성 부재와 자본 잠식은 경쟁 우위가 없거나 심각하게 훼손되었음을 시사합니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Value"
+    ]
+  }
+}

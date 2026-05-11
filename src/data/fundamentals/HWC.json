@@ -1,0 +1,31 @@
+{
+  "ticker": "HWC",
+  "lastUpdated": "2026-05-09T13:27:16.820Z",
+  "rawFinancials": {
+    "name": "Hancock Whitney Corporation",
+    "marketCap": 5580422144,
+    "trailingPE": 14.148149,
+    "forwardPE": 10.055396,
+    "priceToBook": 1.2625549,
+    "totalRevenue": 1385019008,
+    "operatingMargins": 0.22083001,
+    "returnOnEquity": 0.09519,
+    "totalDebt": 1554236032,
+    "revenueGrowth": -0.209
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "최근 매출이 -20.9%로 역성장했으나, 선행 PER(10.1)이 후행 PER(14.1)보다 낮아 향후 이익 턴어라운드에 대한 시장의 기대감이 존재함.",
+      "profitability": "영업이익률 22%, 자기자본이익률(ROE) 9.5%로 업계 평균 수준의 안정적인 수익성을 유지하고 있음. 독점적 지위는 아니나 견고한 이익 창출 구조를 갖춤.",
+      "cashflow_stability": "은행업 특성상 부채 비율이 높지만, 꾸준한 순이자마진을 통해 안정적인 현금을 창출함. 다만, 신용 사이클과 금리 변동에 따른 현금흐름 변동성 리스크가 내재됨."
+    },
+    "macro_sensitivity": "금리 변동에 순이자마진(NIM)이 직접적인 영향을 받는 대표적인 금리 민감주. 경기 침체 시에는 대출 부실 증가로 인한 대손충당금 설정 부담이 커지는 경기 순환주 특성을 보임.",
+    "technical_synergy": "펀더멘털이 안정과 회복에 초점을 맞추고 있으므로, '단테의 밥그릇 3번 자리'와 같은 장기 추세 전환 패턴은 폭발적 급등보다는 안정적이고 신뢰도 높은 상승 추세의 시작을 알리는 신호일 가능성이 높음. 금리 인하 기대감 등 거시적 촉매와 결합될 때 패턴의 신뢰도가 극대화됨.",
+    "business_moat": "미국 걸프 사우스 지역에 집중된 견고한 고객 기반과 저비용 예금 조달 능력이 핵심적인 경제적 해자임. 특정 지역 내에서의 브랜드 인지도와 관계 금융을 통해 경쟁 우위를 확보함.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Turnaround"
+    ]
+  }
+}

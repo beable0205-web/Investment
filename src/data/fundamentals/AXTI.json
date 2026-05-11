@@ -1,0 +1,32 @@
+{
+  "ticker": "AXTI",
+  "lastUpdated": "2026-05-09T09:47:42.289Z",
+  "rawFinancials": {
+    "name": "AXT Inc",
+    "marketCap": 7612641792,
+    "forwardPE": 154.73405,
+    "priceToBook": 22.865002,
+    "totalRevenue": 95894000,
+    "operatingMargins": -0.058870003,
+    "returnOnEquity": -0.05032,
+    "totalCash": 107144000,
+    "totalDebt": 70180000,
+    "currentRatio": 2.593,
+    "revenueGrowth": 0.391
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "폭발적인 매출 성장(39.1%)을 보이고 있으나, 영업이익과 순이익은 적자 상태. 미래 수익성을 담보로 한 전형적인 고성장-고위험(High-Growth, High-Risk) 투자 단계에 있음.",
+      "profitability": "현재 심각한 적자 늪에 빠져 있음(-5.9% 영업이익률). 높은 매출 성장세가 향후 규모의 경제를 통한 흑자 전환으로 이어질 수 있을지가 투자의 핵심 관건.",
+      "cashflow_stability": "영업 활동으로 현금을 창출하지 못하고 있으나, 총 부채보다 많은 현금을 보유(Net Cash)하고 있으며 유동비율(2.59)도 매우 안정적. 단기 파산 위험은 낮음."
+    },
+    "macro_sensitivity": "전형적인 금리 민감주. 미래 성장 가치에 대한 의존도가 높아 금리 인상 시기에는 밸류에이션 부담이 가중되고, 금리 인하 시기에는 기대감이 증폭됨. 경기 침체 시 전방 산업의 수요 감소에 직접적인 타격을 받는 경기 순환적 특성을 보임.",
+    "technical_synergy": "펀더멘털은 '턴어라운드' 스토리에 대한 기대감에 의존하므로, '밥그릇 3번 자리'와 같은 장기 바닥 확인 후 추세 전환 패턴의 신뢰도가 매우 높음. 흑자 전환 같은 실질적 펀더멘털 개선이 동반될 경우, 높은 공매도 비율과 맞물려 폭발적인 숏 스퀴즈(Short Squeeze)를 유발할 잠재력이 큼.",
+    "business_moat": "고성능 화합물 반도체 기판(Substrate)을 생산하는 기술 집약적 기업. 독자적인 수직 구배 동결(VGF) 성장 기술이 핵심 해자로, 진입 장벽이 높은 첨단 소재 시장에서 핵심적 위치를 차지하고 있음.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

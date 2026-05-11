@@ -1,0 +1,34 @@
+{
+  "ticker": "BSET",
+  "lastUpdated": "2026-05-10T16:24:50.812Z",
+  "rawFinancials": {
+    "name": "Bassett Furniture Industries, I",
+    "marketCap": 122098944,
+    "trailingPE": 22.774193,
+    "forwardPE": 10.945737,
+    "priceToBook": 0.74268883,
+    "totalRevenue": 333457984,
+    "operatingMargins": 0.01365,
+    "returnOnEquity": 0.03237,
+    "freeCashflow": 5010000,
+    "totalCash": 50952000,
+    "totalDebt": 85036000,
+    "currentRatio": 1.95,
+    "revenueGrowth": -0.022
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "현재 역성장 국면이나, 미래 PER은 현저히 낮아 시장은 턴어라운드를 기대하는 모습. 그러나 실질적인 성장 동력은 아직 불분명.",
+      "profitability": "매우 낮은 영업 마진(1.37%)과 ROE(3.24%)는 치열한 경쟁 환경과 제한적인 가격 결정력을 반영. 수익성 개선이 시급한 과제.",
+      "cashflow_stability": "양호한 유동성(유동비율 1.95)과 긍정적인 잉여현금흐름을 보유하나, 총 부채가 현금성 자산보다 많아 수익성 대비 재무 레버리지 부담은 존재."
+    },
+    "macro_sensitivity": "가구 산업 특성상 경기 침체, 금리 인상, 소비 심리 위축에 매우 취약한 경기 민감주. 낮은 마진 구조는 인플레이션으로 인한 원가 압박에 대한 방어력을 더욱 약화시킴.",
+    "technical_synergy": "이러한 펀더멘털을 가진 기업이 '단테의 밥그릇 3번 자리'를 형성한다면, 이는 시장이 예상하는 턴어라운드(낮은 Forward PE)에 대한 기대감이 반영된 것일 수 있다. 그러나 낮은 수익성과 역성장 추세로 인해, 강력한 펀더멘털 개선(예: 비용 절감, 신제품 성공, 거시경제 회복)이 동반되지 않는다면 기술적 신호의 신뢰도는 낮으며, '가치 함정'으로 이어질 위험이 상존.",
+    "business_moat": "Bassett Furniture는 오랜 역사를 가진 브랜드이나, 낮은 영업 마진과 역성장 추세는 강력한 경제적 해자가 부재함을 시사한다. 브랜드 인지도는 있으나, 차별화된 디자인, 유통망, 또는 비용 우위와 같은 독점적 경쟁 우위는 약해 보인다.",
+    "ai_system_tags": [
+      "Value",
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "ticker": "DCH",
+  "lastUpdated": "2026-05-10T06:37:06.868Z",
+  "rawFinancials": {
+    "name": "Dauch Corporation",
+    "marketCap": 1571999232,
+    "forwardPE": 6.6994915,
+    "priceToBook": 1.2314539,
+    "totalRevenue": 6804299776,
+    "operatingMargins": 0.027409999,
+    "returnOnEquity": -0.12077,
+    "freeCashflow": 438649984,
+    "totalCash": 1008200000,
+    "totalDebt": 5341899776,
+    "currentRatio": 1.396,
+    "revenueGrowth": 0.686
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출은 68.6%의 높은 성장률을 보이나, 영업이익률이 2.74%로 매우 낮고 자기자본이익률(ROE)이 -12.08%로 적자를 기록하여 이익 성장성은 부진합니다.",
+      "profitability": "매우 낮은 영업이익률과 마이너스 ROE는 독점적 마진이 아닌 박리다매를 넘어선 수익성 압박을 시사하며, 현재 적자 늪에 빠져있음을 보여줍니다.",
+      "cashflow_stability": "4.38억 달러의 견조한 잉여현금흐름을 창출하고 유동비율도 1.396으로 단기 유동성은 양호하나, 53.4억 달러에 달하는 과도한 총부채는 심각한 재무 리스크로 작용합니다."
+    },
+    "macro_sensitivity": "높은 부채와 낮은 수익성으로 인해 금리 인상에 매우 취약하며, 경기 침체 시 수요 감소와 비용 압박으로 인해 재무 건전성이 급격히 악화될 수 있는 고위험군 기업입니다. 경기 방어력은 매우 낮습니다.",
+    "technical_synergy": "68.6%의 높은 매출 성장률과 6.7배의 낮은 Forward P/E는 기술적 돌파 시 강한 모멘텀을 유발할 수 있으나, 낮은 수익성과 과도한 부채는 기술적 신뢰도를 저해합니다. '단테의 밥그릇 3번 자리'와 같은 패턴이 나타나더라도, 펀더멘털 개선 시그널이 동반되지 않으면 단기적 투기적 매수세에 그칠 가능성이 높습니다.",
+    "business_moat": "높은 매출 성장에도 불구하고 낮은 마진과 수익성 악화는 Dauch Corporation이 강력한 경제적 해자를 보유하고 있지 않음을 시사합니다. 이는 경쟁이 치열한 산업에서 가격 결정력이 부족하거나 비용 통제에 어려움을 겪고 있음을 나타냅니다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Turnaround",
+      "High-Debt"
+    ]
+  }
+}

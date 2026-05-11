@@ -1,0 +1,34 @@
+{
+  "ticker": "SRPT",
+  "lastUpdated": "2026-05-10T04:05:20.449Z",
+  "rawFinancials": {
+    "name": "Sarepta Therapeutics, Inc.",
+    "marketCap": 2106773504,
+    "trailingPE": 57.014286,
+    "forwardPE": 6.817421,
+    "priceToBook": 1.3996633,
+    "totalRevenue": 2184184064,
+    "operatingMargins": 0.49046,
+    "returnOnEquity": 0.04914,
+    "freeCashflow": 204779632,
+    "totalCash": 653188992,
+    "totalDebt": 1047046016,
+    "currentRatio": 4.627,
+    "revenueGrowth": -0.019
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "현재 매출은 소폭 역성장(-1.9%)하나, 예상 이익 성장률이 매우 높아(Trailing PE 57.01 vs. Forward PE 6.82) 시장은 강력한 턴어라운드 및 고성장을 기대하고 있음.",
+      "profitability": "독점적 지위를 시사하는 매우 높은 영업이익률(약 49%)을 보유하여 강력한 가격 결정력과 효율성을 보여주나, 자기자본이익률(4.91%)은 상대적으로 낮음.",
+      "cashflow_stability": "긍정적인 잉여현금흐름(2.05억 달러)과 매우 높은 유동비율(4.63)로 현금 창출력과 단기 유동성이 우수하며, 부채는 관리 가능한 수준."
+    },
+    "macro_sensitivity": "희귀 질환 치료제 개발사로서 경기 침체나 인플레이션에 대한 수요 민감도는 낮아 경기 방어적 특성을 가지나, R&D 및 확장을 위한 자본 조달 비용 측면에서 금리 인상에 일부 민감할 수 있음.",
+    "technical_synergy": "강력한 영업이익률과 예상되는 이익 성장을 가진 기업이 '단테의 밥그릇 3번 자리'를 형성할 경우, 이는 단순한 기술적 반등이 아닌 펀더멘털 개선에 기반한 신뢰도 높은 장기 상승 추세의 시작을 알리는 신호로 해석될 수 있음. 견고한 해자가 뒷받침되어 폭발력과 지속성이 기대됨.",
+    "business_moat": "Sarepta Therapeutics는 희귀 유전 질환 치료제 개발에 특화되어 있으며, 이는 높은 R&D 비용, 엄격한 규제 승인, 그리고 특허 보호를 통해 강력한 진입 장벽을 구축합니다. 이러한 요소들은 독점적 시장 지위와 가격 결정력을 부여하여 견고한 경제적 해자를 형성합니다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Turnaround",
+      "Defensive"
+    ]
+  }
+}

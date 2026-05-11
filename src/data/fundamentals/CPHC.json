@@ -1,0 +1,32 @@
+{
+  "ticker": "CPHC",
+  "lastUpdated": "2026-05-10T17:39:50.982Z",
+  "rawFinancials": {
+    "name": "Canterbury Park Holding Corpora",
+    "marketCap": 81500944,
+    "priceToBook": 0.96619856,
+    "totalRevenue": 59567584,
+    "operatingMargins": 0.03096,
+    "returnOnEquity": -0.0063,
+    "freeCashflow": 2575063,
+    "totalCash": 17064854,
+    "totalDebt": 117181,
+    "currentRatio": 2.601,
+    "revenueGrowth": 0.039
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "저성장 및 수익성 정체",
+      "profitability": "매우 낮은 마진과 적자 전환",
+      "cashflow_stability": "양호한 현금 창출력과 극히 낮은 부채 리스크로 파산 위험은 낮으나, 수익성 악화가 지속될 경우 현금 흐름 압박 가능성"
+    },
+    "macro_sensitivity": "소비자 재량 지출에 크게 의존하는 사업 모델로, 경기 침체 및 인플레이션 환경에서 매출 및 마진 압박이 심화될 수 있습니다. 금리 인상 자체의 직접적인 부채 부담은 미미하나, 소비 심리 위축을 통해 간접적인 영향을 받습니다. 전형적인 경기 민감주.",
+    "technical_synergy": "CPHC와 같이 낮은 P/B, 극히 낮은 부채, 양호한 현금 흐름을 가졌으나 수익성이 악화된 기업이 '단테의 밥그릇 3번 자리' 패턴을 형성한다면, 이는 시장이 일시적인 수익성 악화를 넘어선 턴어라운드 가능성이나 자산 가치를 재평가하기 시작했다는 강력한 신호일 수 있습니다. 특히, 펀더멘털 개선의 초기 징후(예: 마진 개선, ROE 흑자 전환)가 동반될 경우, 기술적 돌파의 신뢰도와 폭발력은 매우 높을 것입니다. 반대로, 펀더멘털 개선 없이 기술적 패턴만 나타난다면 '가치 함정'일 가능성도 배제할 수 없습니다.",
+    "business_moat": "이 기업은 'Canterbury Park'라는 특정 지역 기반의 레저/엔터테인먼트 사업을 영위하며, 사업 특성상 진입 장벽이 높은 규제 라이선스(예: 경마장, 카지노)를 통해 제한적인 지역 독점권을 가질 수 있습니다. 그러나 낮은 마진과 수익성 악화는 이러한 해자가 강력한 가격 결정력이나 압도적인 경쟁 우위로 이어지지 못하고 있음을 시사합니다.",
+    "ai_system_tags": [
+      "Value",
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

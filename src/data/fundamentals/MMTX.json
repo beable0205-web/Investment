@@ -1,0 +1,26 @@
+{
+  "ticker": "MMTX",
+  "lastUpdated": "2026-05-10T17:21:48.930Z",
+  "rawFinancials": {
+    "name": "Miluna Acquisition Corp",
+    "marketCap": 88898968,
+    "priceToBook": 10069.999,
+    "operatingMargins": 0,
+    "totalDebt": 288850,
+    "currentRatio": 14.818
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "현재 운영 매출 및 이익은 없으며, 합병 대상 기업 발굴 및 합병 성공 여부에 따라 미래 성장성이 결정되는 정체 상태입니다.",
+      "profitability": "운영 마진은 0으로, 현재 수익성은 전무합니다. 합병 전까지는 비용만 발생하는 구조입니다.",
+      "cashflow_stability": "매우 높은 유동성(Current Ratio 14.818)으로 단기 부채 상환 능력은 우수하나, 자체적인 현금 창출 능력은 없습니다. 부채(Total Debt 288,850)는 미미하여 파산 위험은 매우 낮습니다."
+    },
+    "macro_sensitivity": "SPAC 특성상 시장의 위험 선호도와 유동성 환경에 극도로 민감합니다. 금리 인상기에는 투기적 자금 유출로 취약하며, 경기 침체 시에는 신규 상장 및 고위험 투자에 대한 심리 위축으로 강한 하방 압력을 받을 수 있습니다. 금리 인하 및 유동성 확대 시 수혜를 기대할 수 있습니다.",
+    "technical_synergy": "이 기업의 펀더멘털은 합병 전까지는 거의 없으므로, '단테의 밥그릇 3번 자리'와 같은 기술적 패턴은 합병 발표 또는 합병 후 신사업 가치에 대한 시장의 강한 기대감을 반영할 때 나타날 가능성이 높습니다. 이때는 투기적 매수세가 유입되어 폭발적인 상승을 보일 수 있으나, 펀더멘털 기반의 신뢰도보다는 이벤트 드리븐(event-driven) 성격이 강해 변동성이 매우 클 것입니다.",
+    "business_moat": "Miluna Acquisition Corp은 자체적인 운영 비즈니스 모델이나 경제적 해자를 보유하고 있지 않습니다. 그 가치는 유망한 비상장 기업을 발굴하고 성공적으로 합병을 완료하는 경영진의 역량과 시장의 기대감에 전적으로 의존합니다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Cyclical"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "ticker": "ADTN",
+  "lastUpdated": "2026-05-10T06:43:18.490Z",
+  "rawFinancials": {
+    "name": "ADTRAN Holdings, Inc.",
+    "marketCap": 1210111488,
+    "forwardPE": 19.511303,
+    "priceToBook": 8.752196,
+    "totalRevenue": 1122148992,
+    "operatingMargins": 0.02276,
+    "returnOnEquity": -0.04936,
+    "freeCashflow": 45972500,
+    "totalCash": 88270000,
+    "totalDebt": 243364992,
+    "currentRatio": 1.766,
+    "revenueGrowth": 0.155
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출은 견조하게 성장하나, 수익성 악화로 이익은 역성장하는 '무수익 성장' 단계.",
+      "profitability": "2%대의 극히 낮은 영업마진과 마이너스 ROE는 독점적 지위 부재와 심각한 수익성 문제를 명확히 보여준다.",
+      "cashflow_stability": "긍정적인 잉여현금흐름은 고무적이나, 낮은 마진 대비 상당한 부채는 재무적 유연성을 제한할 수 있다."
+    },
+    "macro_sensitivity": "낮은 마진 구조와 부채는 금리 인상 및 인플레이션 환경에서 비용 부담을 가중시켜 수익성을 더욱 압박한다. 또한, 통신 및 기업 CAPEX 주기에 민감하여 경기 침체 시 실적 둔화 위험이 크다.",
+    "technical_synergy": "이 기업의 '단테의 밥그릇 3번 자리' 패턴은 시장이 미래 수익성 개선에 대한 강한 기대를 반영하는 투기적 신호일 가능성이 높다. 펀더멘털 개선이 뒷받침되지 않는다면, 이러한 기술적 돌파는 신뢰도가 낮고 변동성이 커 '덫'이 될 수 있다. 장기적 관점보다는 단기 모멘텀 트레이딩에 적합하다.",
+    "business_moat": "경쟁이 치열한 통신 장비 시장에서 ADTN은 뚜렷한 경제적 해자를 구축하지 못한 것으로 보인다. 2%대의 영업마진은 가격 결정력 부재와 차별화된 경쟁 우위의 결여를 명확히 시사한다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Growth",
+      "Cyclical"
+    ]
+  }
+}

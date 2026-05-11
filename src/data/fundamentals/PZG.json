@@ -1,0 +1,30 @@
+{
+  "ticker": "PZG",
+  "lastUpdated": "2026-05-10T16:38:04.330Z",
+  "rawFinancials": {
+    "name": "Paramount Gold Nevada Corp.",
+    "marketCap": 120691072,
+    "forwardPE": -13.09091,
+    "priceToBook": 4.0111423,
+    "operatingMargins": 0,
+    "returnOnEquity": -0.44352,
+    "freeCashflow": -1361185,
+    "totalCash": 3536859,
+    "totalDebt": 18735256,
+    "currentRatio": 1.007
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "심각한 역성장 및 자본 소진 단계에 있으며, 미래 이익에 대한 기대치가 극도로 낮습니다. (Forward PE 음수, ROE -44%)",
+      "profitability": "현재 수익성이 전무하며, 영업 마진 0%와 심각한 적자 구조를 보입니다. 이는 사업 모델의 근본적인 취약성을 시사합니다.",
+      "cashflow_stability": "지속적인 현금 소진(Free Cashflow 음수)과 과도한 부채(총 부채가 현금의 5배 이상)로 인해 재무적 안정성이 매우 취약합니다. 유동성 비율(Current Ratio 1.007) 또한 아슬아슬하여 파산 위험이 상존합니다."
+    },
+    "macro_sensitivity": "금 탐사 기업으로서 금 가격 변동에 절대적으로 민감하며, 인플레이션, 실질 금리, 글로벌 불확실성 등 거시경제 변수에 따라 가치가 크게 요동칩니다. 높은 부채는 금리 인상 시 재무적 압박을 가중시킵니다.",
+    "technical_synergy": "극도로 취약한 펀더멘털을 가진 기업이 '단테의 밥그릇 3번 자리'와 같은 기술적 패턴을 형성한다면, 이는 본질 가치 회복보다는 투기적 매수세나 단기적 뉴스(예: 탐사 성공 발표)에 의한 일시적 현상일 가능성이 높습니다. 폭발력은 있을 수 있으나, 장기적 신뢰도는 매우 낮아 펀더멘털 투자자에게는 위험 신호로 해석됩니다.",
+    "business_moat": "이 기업은 금 탐사 및 개발에 집중하는 비즈니스 모델을 가지고 있으나, 현재로서는 수익성 부재와 막대한 자본 소진으로 인해 어떠한 경제적 해자도 발견하기 어렵습니다. 오히려 탐사 성공 여부와 금 가격에 전적으로 의존하는 고위험 사업입니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

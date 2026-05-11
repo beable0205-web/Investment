@@ -1,0 +1,31 @@
+{
+  "ticker": "CURR",
+  "lastUpdated": "2026-05-10T11:48:55.945Z",
+  "rawFinancials": {
+    "name": "Currenc Group Inc.",
+    "marketCap": 501900000,
+    "forwardPE": -17.88,
+    "priceToBook": -60.405403,
+    "totalRevenue": 37813324,
+    "operatingMargins": -0.46548998,
+    "freeCashflow": -50775208,
+    "totalCash": 75244408,
+    "totalDebt": 16974444,
+    "currentRatio": 1.119,
+    "revenueGrowth": -0.218
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "역성장 (매출 21.8% 감소, 심각한 영업 손실)",
+      "profitability": "적자 늪 (영업 마진 -46.55%, 핵심 사업에서 막대한 손실 발생)",
+      "cashflow_stability": "현금 소진 심각, 파산 위험 높음 (연간 5천만 달러 이상 현금 소진, 보유 현금 대비 소진율 매우 높음. 현재 현금 흐름으로는 1.5년 내 자금 고갈 예상)"
+    },
+    "macro_sensitivity": "금리 인상 및 경기 침체에 극도로 취약. 자금 조달 환경 악화 시 생존 자체가 위협받을 수 있으며, 이미 약화된 수요는 거시경제 악화 시 더욱 심화될 것임.",
+    "technical_synergy": "펀더멘털이 극도로 취약하여 '단테의 밥그릇 3번 자리'와 같은 기술적 반등 패턴이 나타나더라도 그 신뢰도는 매우 낮음. 이는 단기적인 투기적 움직임이나 숏 스퀴즈에 불과할 가능성이 크며, 장기적인 폭발력이나 지속 가능한 상승 동력으로 이어지기 어려움.",
+    "business_moat": "현재 재무 지표상 경제적 해자는 전혀 관찰되지 않음. 오히려 매출 감소와 막대한 손실은 경쟁 우위 상실 및 사업 모델의 근본적인 취약성을 강력하게 시사한다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

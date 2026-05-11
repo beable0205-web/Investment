@@ -1,0 +1,33 @@
+{
+  "ticker": "DSU",
+  "lastUpdated": "2026-05-10T09:33:48.069Z",
+  "rawFinancials": {
+    "name": "Blackrock Debt Strategies Fund,",
+    "marketCap": 623646528,
+    "trailingPE": 14.362319,
+    "priceToBook": 0.97779965,
+    "totalRevenue": 52325244,
+    "operatingMargins": 0.91733,
+    "returnOnEquity": 0.06552,
+    "freeCashflow": 31063258,
+    "totalCash": 2286112,
+    "totalDebt": 113000000,
+    "currentRatio": 0.083,
+    "revenueGrowth": -0.039
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "역성장 (매출액 -3.9% 감소로 성장 동력 부재)",
+      "profitability": "안정적이나 성장 정체 (91.7%의 높은 영업이익률은 펀드 특성상 구조적이나, ROE 6.55%는 평이하며 성장성 측면에서 매력 부족)",
+      "cashflow_stability": "레버리지 과다 및 유동성 위험 (총 부채 1.13억 달러 대비 현금 228만 달러, 특히 0.083의 극히 낮은 유동비율은 심각한 단기 유동성 압박 가능성을 시사)"
+    },
+    "macro_sensitivity": "금리 인상 및 경기 침체에 매우 취약. 채권 포트폴리오의 가치 하락 및 차입 비용 증가로 직접적인 타격을 받을 수 있으며, 경기 둔화 시 부실 채권 위험이 증대됨.",
+    "technical_synergy": "이러한 펀더멘털을 가진 기업이 '단테의 밥그릇 3번 자리' 같은 차트 패턴을 만들 경우, 단기적 모멘텀은 가능하나 높은 레버리지와 거시경제 민감성으로 인해 지속적인 상승 신뢰도는 낮음. 펀더멘털 개선 신호(NAV 상승, 분배금 증가)가 동반되지 않는다면 기술적 반등은 제한적일 수 있음.",
+    "business_moat": "BlackRock의 브랜드와 운용 전문성을 바탕으로 다양한 채권 시장에 투자하여 수익을 추구합니다. 그러나 특정 투자 전략 자체보다는 운용사의 규모와 명성이 주요 해자이며, 이는 개별 펀드의 성과를 보장하지 않습니다.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Leveraged"
+    ]
+  }
+}

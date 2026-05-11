@@ -1,0 +1,33 @@
+{
+  "ticker": "PINE",
+  "lastUpdated": "2026-05-10T12:28:43.025Z",
+  "rawFinancials": {
+    "name": "Alpine Income Property Trust, I",
+    "marketCap": 343612224,
+    "forwardPE": 40.333336,
+    "priceToBook": 1.0193766,
+    "totalRevenue": 64732000,
+    "operatingMargins": 0.38194,
+    "returnOnEquity": 0.0025099998,
+    "freeCashflow": -90671128,
+    "totalCash": 5106000,
+    "totalDebt": 382888992,
+    "currentRatio": 36.088,
+    "revenueGrowth": 0.296
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출은 높은 성장세를 보이나, 이익 및 현금 흐름 창출 능력은 극히 미미하여 '수익성 없는 성장'의 전형을 보여줍니다.",
+      "profitability": "양호한 영업 마진에도 불구하고, 높은 부채 비용 및 기타 비영업성 지출로 인해 순이익률과 자기자본이익률(ROE)이 거의 제로에 가깝습니다. 이는 자본 효율성이 극도로 낮음을 의미합니다.",
+      "cashflow_stability": "심각한 마이너스 잉여현금흐름(FCF)과 막대한 총부채는 기업의 현금 소진 속도가 빠르고 재무 구조가 매우 취약함을 나타냅니다. 파산 위험이 상존하는 '레버리지 과다' 상태입니다."
+    },
+    "macro_sensitivity": "부동산 투자 신탁(REIT)의 특성상 금리 인상에 매우 취약하며, 높은 부채로 인해 이자 비용 부담이 가중될 것입니다. 인플레이션과 경기 침체는 임대 수익 감소 및 자산 가치 하락으로 이어져 기업의 생존을 위협할 수 있는 '극단적 경기 민감주'입니다.",
+    "technical_synergy": "이처럼 근본적으로 취약한 재무 구조를 가진 기업은 '단테의 밥그릇 3번 자리'와 같은 기술적 강세 패턴이 나타나더라도 그 신뢰도가 현저히 떨어집니다. 이는 일시적인 기술적 반등에 불과할 가능성이 높으며, 펀더멘털 개선 없이는 언제든 급락할 수 있는 '기술적 함정'으로 간주해야 합니다. 장기적인 추세 전환을 기대하기 어렵습니다.",
+    "business_moat": "Alpine Income Property Trust는 특정 상업용 부동산 포트폴리오를 운영하지만, 현재의 극심한 재무적 어려움은 강력한 경제적 해자(Moat)가 부재하거나 심각하게 훼손되었음을 시사합니다. 경쟁 우위가 부족하여 지속적인 수익 창출 능력이 결여되어 있습니다.",
+    "ai_system_tags": [
+      "High-Risk",
+      "Distressed",
+      "Cyclical"
+    ]
+  }
+}

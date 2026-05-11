@@ -1,0 +1,32 @@
+{
+  "ticker": "GRAN",
+  "lastUpdated": "2026-05-10T20:40:22.511Z",
+  "rawFinancials": {
+    "name": "Grande Group Limited",
+    "marketCap": 22418116,
+    "priceToBook": 2.4196236,
+    "totalRevenue": 2882713,
+    "operatingMargins": -4.08725,
+    "returnOnEquity": -0.058130004,
+    "freeCashflow": 558167,
+    "totalCash": 11689937,
+    "totalDebt": 1949812,
+    "currentRatio": 4.693,
+    "revenueGrowth": -0.832
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "극심한 역성장 (매출 83% 감소)",
+      "profitability": "심각한 적자 구조 (영업 마진 및 ROE 모두 음수)",
+      "cashflow_stability": "단기 유동성은 우수하나, 본업의 현금 창출력은 전무하며 장기적 지속 가능성 의문"
+    },
+    "macro_sensitivity": "본업의 붕괴 수준 역성장과 적자 구조로 인해 거시경제 변동에 극도로 취약하며, 경기 침체 시 생존 자체가 위협받을 수 있음. 금리 인상기에는 자산 매각 압박이 가중될 수 있으나, 현재 현금 보유량이 많아 단기적 영향은 제한적일 수 있음.",
+    "technical_synergy": "펀더멘털이 심각하게 훼손된 기업이므로, '단테의 밥그릇 3번 자리'와 같은 기술적 패턴은 대부분 '죽은 고양이의 반등(Dead Cat Bounce)'이거나 단기 투기 세력의 유입으로 해석해야 합니다. 본업의 근본적인 턴어라운드 시그널(예: 신규 사업 성공, 경영진 교체, 대규모 자산 매각 후 재투자) 없이는 이러한 기술적 패턴의 신뢰도는 제로에 가까우며, 장기 투자자에게는 치명적인 함정이 될 수 있습니다.",
+    "business_moat": "현재 기업은 심각한 매출 감소와 영업 손실을 겪고 있어, 어떠한 형태의 경제적 해자도 존재하지 않습니다. 오히려 기존 사업 모델이 시장 경쟁력을 완전히 상실했음을 명확히 보여주며, 이는 피터 린치가 경계하는 '경쟁 우위 상실 기업'의 전형적인 모습입니다.",
+    "ai_system_tags": [
+      "Distressed",
+      "Turnaround (Speculative)",
+      "Asset Play"
+    ]
+  }
+}

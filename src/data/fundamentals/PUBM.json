@@ -1,0 +1,33 @@
+{
+  "ticker": "PUBM",
+  "lastUpdated": "2026-05-10T10:38:35.670Z",
+  "rawFinancials": {
+    "name": "PubMatic, Inc.",
+    "marketCap": 498801280,
+    "forwardPE": 21.48,
+    "priceToBook": 1.9178572,
+    "totalRevenue": 282926016,
+    "operatingMargins": 0.11776,
+    "returnOnEquity": -0.053579997,
+    "freeCashflow": 50818876,
+    "totalCash": 145518000,
+    "totalDebt": 44207000,
+    "currentRatio": 1.391,
+    "revenueGrowth": -0.064
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "현재 역성장 국면, 매출 감소세 뚜렷.",
+      "profitability": "양호한 영업마진에도 불구하고 ROE는 적자 전환, 수익성 압박 심화.",
+      "cashflow_stability": "견고한 잉여현금흐름 창출 및 순현금 포지션 유지, 재무 건전성 양호."
+    },
+    "macro_sensitivity": "광고 시장의 경기 민감성으로 인해 경기 침체 및 고금리 환경에서 광고 예산 축소에 직접적인 타격. 인플레이션은 운영 비용 증가 압박.",
+    "technical_synergy": "현재 펀더멘털은 약하나, 견고한 현금흐름과 재무구조는 '단테의 밥그릇' 같은 바닥 다지기 패턴 형성 시 신뢰도를 높임. 다만, 성장 모멘텀 부재로 폭발적인 상승보다는 점진적 턴어라운드 기대.",
+    "business_moat": "프로그래매틱 광고 기술 플랫폼으로서 네트워크 효과와 데이터 기반 최적화가 핵심 해자이나, 치열한 경쟁과 거시경제 역풍으로 해자가 시험대에 오름.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Cyclical",
+      "Cash-Rich"
+    ]
+  }
+}

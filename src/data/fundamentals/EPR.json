@@ -1,0 +1,33 @@
+{
+  "ticker": "EPR",
+  "lastUpdated": "2026-05-10T01:35:34.675Z",
+  "rawFinancials": {
+    "name": "EPR Properties",
+    "marketCap": 4458866688,
+    "trailingPE": 17.987654,
+    "forwardPE": 18.773958,
+    "priceToBook": 1.9053847,
+    "totalRevenue": 720195008,
+    "operatingMargins": 0.54447,
+    "returnOnEquity": 0.1169,
+    "totalCash": 68465000,
+    "totalDebt": 3131494912,
+    "currentRatio": 0.293,
+    "revenueGrowth": 0.036
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "완만한 성장",
+      "profitability": "독점적 마진 구조",
+      "cashflow_stability": "높은 운영 마진에도 불구하고 과도한 부채와 극히 낮은 유동성 비율은 재무적 취약성을 내포하며, 특히 단기 부채 상환 능력에 대한 우려를 제기합니다."
+    },
+    "macro_sensitivity": "부동산 투자 신탁(REIT)으로서 EPR은 금리 변동에 극도로 민감합니다. 금리 인상은 차입 비용을 증가시키고 배당 매력을 감소시켜 주가에 부정적 영향을 미칩니다. 또한, 체험형 자산의 특성상 경기 침체 시 소비 심리 위축으로 인한 임대 수익 감소 위험이 존재하며, 이는 경기 순환적 특성을 강화합니다.",
+    "technical_synergy": "견고한 운영 마진과 안정적인 사업 모델은 '단테의 밥그릇 3번 자리'와 같은 장기 이평선 돌파 패턴 발생 시 기술적 신뢰도를 높일 수 있습니다. 그러나 높은 부채 비율과 낮은 유동성은 거시경제적 역풍, 특히 금리 인상기에는 이러한 기술적 신호의 지속 가능성을 심각하게 저해할 수 있습니다. 금리 인하 기대감과 맞물린 기술적 돌파는 강력한 매수 신호로 해석될 여지가 있습니다.",
+    "business_moat": "EPR Properties는 엔터테인먼트 및 체험형 부동산이라는 특정 니치 시장에 집중하여 높은 진입 장벽과 독점적 자산 포트폴리오를 구축했습니다. 장기 임대 계약과 높은 운영 마진은 안정적인 현금 흐름을 보장하며, 이는 강력한 경제적 해자로 작용합니다.",
+    "ai_system_tags": [
+      "Value",
+      "Dividend",
+      "Cyclical"
+    ]
+  }
+}

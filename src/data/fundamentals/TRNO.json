@@ -1,0 +1,34 @@
+{
+  "ticker": "TRNO",
+  "lastUpdated": "2026-05-09T09:49:27.973Z",
+  "rawFinancials": {
+    "name": "Terreno Realty Corporation",
+    "marketCap": 6999547904,
+    "trailingPE": 16.14878,
+    "forwardPE": 43.357822,
+    "priceToBook": 1.6538855,
+    "totalRevenue": 490403008,
+    "operatingMargins": 0.40737,
+    "returnOnEquity": 0.103599995,
+    "freeCashflow": 225374752,
+    "totalCash": 87874000,
+    "totalDebt": 945100032,
+    "currentRatio": 0.931,
+    "revenueGrowth": 0.127
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "12.7%의 견조한 매출 성장세를 보이나, 선행 PER이 후행 PER보다 높아 단기 이익 변동성에 대한 관찰이 필요함.",
+      "profitability": "40%를 상회하는 높은 영업이익률은 독점적인 자산 포트폴리오와 효율적인 운영 능력을 증명하며, 10%대의 ROE는 주주 자본을 효과적으로 활용하고 있음을 시사함.",
+      "cashflow_stability": "매출액의 46%에 달하는 강력한 잉여현금흐름을 창출하고 있음. 총부채 규모는 현금 대비 높지만, 안정적인 현금흐름과 자산가치 덕분에 부채 리스크는 통제 가능한 수준임."
+    },
+    "macro_sensitivity": "REIT로서 금리 인상 시 이자 비용 증가와 밸류에이션 하락 압력에 직접적으로 노출됨. 그러나, 전자상거래 및 물류 공급망의 구조적 성장에 기반한 산업용 부동산 수요는 경기 침체기에도 임대료 하방 경직성을 제공하는 방어적 특성을 지님.",
+    "technical_synergy": "우량한 펀더멘털(매출 성장, 높은 수익성)을 보유하고 있어, 장기 이평선 지지를 받으며 전고점을 돌파하는 '밥그릇 3번 자리'와 같은 신뢰도 높은 기술적 패턴이 나타날 경우, 일시적 급등이 아닌 장기적인 추세 상승으로 이어질 폭발력이 내재되어 있음.",
+    "business_moat": "공급이 제한된 미국 주요 해안 물류 거점의 산업용 부동산을 선점하여 구축한 지리적 해자가 핵심 경쟁력임. 이는 전자상거래 성장에 따른 지속적인 임대 수요와 결합하여 강력한 임대료 인상 능력을 부여함.",
+    "ai_system_tags": [
+      "Dividend",
+      "High-Growth",
+      "Cyclical"
+    ]
+  }
+}

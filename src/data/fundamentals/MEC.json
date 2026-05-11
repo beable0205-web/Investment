@@ -1,0 +1,32 @@
+{
+  "ticker": "MEC",
+  "lastUpdated": "2026-05-10T10:56:50.070Z",
+  "rawFinancials": {
+    "name": "Mayville Engineering Company, I",
+    "marketCap": 557436992,
+    "forwardPE": 20.811176,
+    "priceToBook": 2.2957463,
+    "totalRevenue": 555688000,
+    "operatingMargins": -0.04244,
+    "returnOnEquity": -0.06764,
+    "freeCashflow": 13590500,
+    "totalCash": 2066000,
+    "totalDebt": 244394000,
+    "currentRatio": 1.641,
+    "revenueGrowth": 0.068
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "완만한 성장 (6.8% 매출 성장률은 고성장으로 보기 어려움)",
+      "profitability": "적자 구조, 수익성 심각한 압박 (영업이익률 및 ROE 모두 마이너스)",
+      "cashflow_stability": "긍정적 FCF에도 불구, 과도한 부채와 낮은 현금 보유량으로 재무적 취약성 내포"
+    },
+    "macro_sensitivity": "금리 인상 및 경기 침체에 매우 취약한 구조. 특히 높은 부채로 인해 금리 변동에 민감하며, 경기 둔화 시 수익성 악화 및 부채 상환 능력 저하 위험이 큼.",
+    "technical_synergy": "펀더멘털이 취약하고 부채가 높은 기업이 '단테의 밥그릇 3번 자리' 패턴을 형성한다면, 이는 단기적 투기 심리나 잠재적 턴어라운드 기대감에 기인할 가능성이 높다. 장기적 신뢰도는 낮으며, 폭발력은 턴어라운드 성공 여부에 따라 극심한 변동성을 보일 것이다.",
+    "business_moat": "이 기업은 현재 마이너스 영업 마진을 기록하며 강력한 가격 결정력이나 비용 우위를 보여주지 못하고 있다. 특정 산업 분야의 전문성이나 고객 관계에 의존할 수 있으나, 재무제표상 명확하고 지속 가능한 경제적 해자는 관찰되지 않는다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

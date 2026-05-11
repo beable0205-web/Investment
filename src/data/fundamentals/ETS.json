@@ -1,0 +1,32 @@
+{
+  "ticker": "ETS",
+  "lastUpdated": "2026-05-11T11:37:42.444Z",
+  "rawFinancials": {
+    "name": "Elite Express Holding Inc.",
+    "marketCap": 9210886,
+    "priceToBook": 0.69835234,
+    "totalRevenue": 2779103,
+    "operatingMargins": -0.38152,
+    "returnOnEquity": -0.28738,
+    "freeCashflow": -13282210,
+    "totalCash": 68065,
+    "totalDebt": 36063,
+    "currentRatio": 44.748,
+    "revenueGrowth": 0.163
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "외형 성장은 16.3%로 긍정적이나, 심각한 영업 손실과 마이너스 ROE로 인해 실질적인 이익 성장 없이 자본을 소각하는 역성장 구조입니다.",
+      "profitability": "영업 마진 -38.15%, ROE -28.74%로 심각한 적자 늪에 빠져 있으며, 지속 가능한 수익 모델을 찾지 못하고 있습니다. 독점적 마진은 전무합니다.",
+      "cashflow_stability": "자유 현금 흐름이 -1,328만 달러로 매출액을 훨씬 초과하는 현금 소각이 발생하고 있습니다. 보유 현금은 6.8만 달러에 불과하여 파산 위험이 매우 높습니다. 부채는 낮으나 유동성 위기가 임박했습니다."
+    },
+    "macro_sensitivity": "내부적 생존이 최우선 과제이나, 금리 인상 및 신용 경색 시 자금 조달이 극도로 어려워져 파산 위험이 급증할 것입니다. 경기 침체 시 수요 위축으로 인해 이미 취약한 사업 기반이 더욱 흔들릴 수 있는 고위험군입니다.",
+    "technical_synergy": "이러한 심각한 펀더멘털 악화 기업의 '단테의 밥그릇 3번 자리'와 같은 기술적 패턴은 극히 투기적이며, 장기적 신뢰도는 전무합니다. 단기적 기술적 반등은 가능하나, 펀더멘털 개선 없이는 언제든 급락할 수 있는 '덫'이 될 가능성이 높습니다.",
+    "business_moat": "제공된 재무 데이터만으로는 이 기업의 핵심 비즈니스 모델이나 경제적 해자를 파악하기 어렵습니다. 현재로서는 심각한 적자와 현금 소각으로 인해 어떠한 지속 가능한 경쟁 우위도 존재하지 않는 것으로 판단됩니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Speculative",
+      "Distressed"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "ticker": "RAIL",
+  "lastUpdated": "2026-05-10T15:51:37.775Z",
+  "rawFinancials": {
+    "name": "Freightcar America, Inc.",
+    "marketCap": 152523536,
+    "trailingPE": 11.069444,
+    "forwardPE": 8.302083,
+    "priceToBook": -1.4166371,
+    "totalRevenue": 500991008,
+    "operatingMargins": 0.05967,
+    "freeCashflow": 22501876,
+    "totalCash": 63793000,
+    "totalDebt": 152363008,
+    "currentRatio": 1.869,
+    "revenueGrowth": -0.088
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 역성장 (Revenue Growth: -8.8%)",
+      "profitability": "영업 마진은 보통 수준이나, Price-to-Book이 음수(-1.41)로 심각한 자본 잠식 상태를 시사하며 재무 구조가 매우 취약함.",
+      "cashflow_stability": "긍정적인 잉여현금흐름과 양호한 유동비율에도 불구하고, 총 부채가 현금 대비 과도하며 음의 Price-to-Book으로 인해 장기적인 레버리지 리스크와 파산 위험이 높음."
+    },
+    "macro_sensitivity": "화물차 제조업은 경기 순환에 매우 민감한 산업으로, 경기 침체 시 수요 급감에 직접적인 타격을 받습니다. 금리 인상 시 차입 비용 증가 및 고객사의 투자 위축으로 이중고를 겪을 수 있는 전형적인 경기 민감주입니다.",
+    "technical_synergy": "이 기업의 심각한 펀더멘털 약점(음의 P/B, 역성장, 높은 부채)을 고려할 때, '단테의 밥그릇 3번 자리'와 같은 강력한 기술적 패턴이 나타나더라도 장기적인 신뢰도는 매우 낮습니다. 이는 단기적인 투기적 반등이나 시장 심리 변화를 나타낼 수 있으나, 근본적인 재무 위험이 언제든 재부각될 수 있어 고위험 단기 트레이딩 기회로만 해석해야 합니다.",
+    "business_moat": "화물차 제조 산업은 자본 집약적이고 경쟁이 치열하며, 이 기업은 현재 매출 역성장과 심각한 자본 잠식 상태를 보이고 있어 경제적 해자가 부재하거나 심각하게 훼손된 것으로 판단됩니다. 지속 가능한 경쟁 우위를 찾기 어렵습니다.",
+    "ai_system_tags": [
+      "Cyclical",
+      "Turnaround",
+      "High-Risk"
+    ]
+  }
+}

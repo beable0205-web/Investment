@@ -1,0 +1,33 @@
+{
+  "ticker": "LAKE",
+  "lastUpdated": "2026-05-10T17:14:23.458Z",
+  "rawFinancials": {
+    "name": "Lakeland Industries, Inc.",
+    "marketCap": 104885960,
+    "forwardPE": 15.647059,
+    "priceToBook": 0.80801946,
+    "totalRevenue": 192648000,
+    "operatingMargins": 0.07835,
+    "returnOnEquity": -0.18358,
+    "freeCashflow": 109125,
+    "totalCash": 12515000,
+    "totalDebt": 47293000,
+    "currentRatio": 3.535,
+    "revenueGrowth": -0.017
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 역성장 및 순이익 적자 전환으로 성장 동력 상실.",
+      "profitability": "양호한 영업 마진에도 불구하고 높은 비용 구조 또는 비영업 손실로 인해 ROE가 크게 악화된 상태.",
+      "cashflow_stability": "뛰어난 단기 유동성(높은 유동비율)을 보유하나, 미미한 잉여현금흐름과 상당한 부채는 장기적인 현금 창출력과 재무 건전성에 대한 우려를 제기."
+    },
+    "macro_sensitivity": "보호복 산업의 본질적 특성상 경기 방어적 요소가 일부 존재하나, 현재의 역성장과 높은 부채는 금리 인상 시 이자 비용 부담을 가중시키고, 인플레이션 환경에서는 원가 압박으로 마진이 추가적으로 축소될 위험이 있음. 산업 전반의 설비 투자(CAPEX) 사이클에 민감하게 반응할 가능성.",
+    "technical_synergy": "현재 펀더멘털이 약한 상황에서 '단테의 밥그릇 3번 자리'와 같은 강력한 기술적 반등 신호가 나타난다면, 이는 시장이 기업의 턴어라운드를 강하게 확신하거나 바닥을 형성했다고 해석될 수 있음. 특히 장부가치 대비 낮은 주가(PBR 0.808)는 기술적 반등 시 가치 재평가 폭발력을 높일 수 있으나, 펀더멘털 개선의 실질적 증거가 동반되어야 신뢰도가 확보됨.",
+    "business_moat": "Lakeland Industries는 산업용 보호복이라는 전문 분야에 집중하지만, 데이터상으로는 강력한 브랜드, 독점 기술 또는 높은 전환 비용과 같은 명확한 경제적 해자를 찾기 어렵습니다. 경쟁 우위 확보를 위한 지속적인 혁신과 비용 효율성 관리가 필수적입니다.",
+    "ai_system_tags": [
+      "Value",
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "ticker": "VLGEA",
+  "lastUpdated": "2026-05-10T09:24:23.052Z",
+  "rawFinancials": {
+    "name": "Village Super Market, Inc.",
+    "marketCap": 659118080,
+    "trailingPE": 11.696336,
+    "priceToBook": 1.2756968,
+    "totalRevenue": 2386895104,
+    "operatingMargins": 0.03661,
+    "returnOnEquity": 0.11441,
+    "freeCashflow": 42965248,
+    "totalCash": 160104992,
+    "totalDebt": 329143008,
+    "currentRatio": 1.225,
+    "revenueGrowth": 0.069
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 성장",
+      "profitability": "박리다매형 효율적 수익 구조",
+      "cashflow_stability": "견고한 현금 창출력과 관리 가능한 부채"
+    },
+    "macro_sensitivity": "필수 소비재 섹터의 특성상 경기 침체기에 강한 방어력을 제공하는 전형적인 경기 방어주입니다. 인플레이션 환경에서는 가격 전가 능력에 따라 마진 압박이 발생할 수 있으나, 지역 내 지배력을 바탕으로 일정 부분 상쇄 가능성이 있습니다.",
+    "technical_synergy": "이러한 견고한 펀더멘털을 가진 기업이 '단테의 밥그릇 3번 자리'와 같은 기술적 패턴을 형성할 경우, 이는 단순한 기술적 반등을 넘어선 기관 투자자들의 장기적인 가치 인식을 반영할 가능성이 높습니다. 폭발적인 상승보다는 꾸준하고 신뢰도 높은 우상향 추세를 기대할 수 있으며, 하방 경직성이 강해 변동성 장세에서도 안정적인 흐름을 보일 것입니다.",
+    "business_moat": "Village Super Market은 지역 사회에 깊이 뿌리내린 브랜드 인지도와 효율적인 공급망 관리를 통해 강력한 고객 충성도를 구축하고 있습니다. 이는 경쟁사 진입 장벽으로 작용하며, 필수 소비재 유통이라는 본질적 특성상 경기 변동에 덜 민감한 안정적인 수요를 확보합니다.",
+    "ai_system_tags": [
+      "Value",
+      "Defensive"
+    ]
+  }
+}

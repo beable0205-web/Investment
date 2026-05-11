@@ -1,0 +1,34 @@
+{
+  "ticker": "WTM",
+  "lastUpdated": "2026-05-10T00:42:28.375Z",
+  "rawFinancials": {
+    "name": "White Mountains Insurance Group",
+    "marketCap": 5271344128,
+    "trailingPE": 5.263106,
+    "forwardPE": 23.648888,
+    "priceToBook": 0.9598737,
+    "totalRevenue": 2823300096,
+    "operatingMargins": 0.0027200002,
+    "returnOnEquity": 0.19666,
+    "freeCashflow": 246350000,
+    "totalCash": 1634700032,
+    "totalDebt": 834800000,
+    "currentRatio": 1.589,
+    "revenueGrowth": -0.108
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출액이 역성장 추세(-10.8%)를 보이며, 낮은 Trailing PE 대비 높은 Forward PE는 향후 이익 감소를 시사합니다. 전반적으로 성장 동력이 정체되거나 약화된 상태입니다.",
+      "profitability": "매우 낮은 영업 마진(0.27%)에도 불구하고 높은 자기자본이익률(ROE 19.67%)을 기록하는 독특한 수익 구조를 가집니다. 이는 핵심 영업 외 투자 수익이나 효율적인 자본 활용에 크게 의존함을 시사하며, 박리다매형 또는 자산 운용형 수익 모델에 가깝습니다.",
+      "cashflow_stability": "견고한 양의 잉여현금흐름을 창출하며, 총 현금 보유액이 총 부채를 크게 상회하고 유동비율(1.589)도 양호합니다. 재무 건전성이 우수하며 부채 리스크는 낮은 수준입니다."
+    },
+    "macro_sensitivity": "보험 산업 특성상 금리 인상 시 투자 수익 증대 가능성이 있어 수혜를 볼 수 있으며, 낮은 P/B 비율과 견고한 재무 구조는 경기 침체기에도 상대적으로 방어적인 특성을 가질 수 있습니다. 다만, 보험 수요 감소나 손해율 증가 시 영향은 불가피합니다.",
+    "technical_synergy": "이러한 펀더멘털을 가진 기업이 '단테의 밥그릇 3번 자리' 패턴을 형성한다면, 이는 시장이 기업의 내재가치(낮은 P/B, 견고한 재무구조)를 재평가하기 시작했음을 나타내는 신뢰도 높은 신호로 해석될 수 있습니다. 폭발적인 성장 모멘텀보다는, 저평가 해소와 안정적인 가치 회복을 기대할 수 있는 '가치 회복' 시그널로 활용될 가능성이 높습니다.",
+    "business_moat": "White Mountains Insurance Group은 보험 및 자산 운용을 통해 수익을 창출하며, 낮은 P/B와 높은 ROE는 자산 효율성과 잠재적 가치에 대한 기대를 갖게 합니다. 그러나 매우 낮은 영업 마진과 역성장하는 매출은 핵심 보험 사업 자체의 강력한 해자보다는, 자본 배분 및 투자 역량에 더 큰 경쟁 우위가 있음을 시사합니다.",
+    "ai_system_tags": [
+      "Value",
+      "Defensive",
+      "Turnaround"
+    ]
+  }
+}

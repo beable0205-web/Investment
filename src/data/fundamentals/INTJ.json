@@ -1,0 +1,32 @@
+{
+  "ticker": "INTJ",
+  "lastUpdated": "2026-05-11T11:00:04.091Z",
+  "rawFinancials": {
+    "name": "Intelligent Group Limited",
+    "marketCap": 15067500,
+    "priceToBook": 1.307463,
+    "totalRevenue": 18481148,
+    "operatingMargins": -1.8515899,
+    "returnOnEquity": -0.2347,
+    "freeCashflow": -16184301,
+    "totalCash": 67468224,
+    "totalDebt": 2673340,
+    "currentRatio": 27.278,
+    "revenueGrowth": 0.035
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출은 소폭 성장(3.5%)하나, 영업이익과 순이익은 심각한 적자를 기록하며 역성장 상태입니다.",
+      "profitability": "영업이익률과 ROE가 모두 깊은 음수를 기록, 사업 모델의 근본적인 수익성 문제에 직면한 '적자 늪' 기업입니다.",
+      "cashflow_stability": "운영 현금 흐름은 심각한 적자이나, 시장 가치(15M)를 훨씬 상회하는 막대한 순현금(64M)을 보유하고 부채가 극히 낮아 단기 파산 위험은 매우 낮습니다."
+    },
+    "macro_sensitivity": "경기 침체 시 수요 감소와 투자 심리 위축에 매우 취약하며, 금리 인상 환경에서는 자본 조달 비용 증가 및 미래 현금 흐름 할인율 상승으로 가치 평가에 부정적 영향을 받습니다. 다만, 막대한 현금 보유량은 단기적인 거시경제 충격에 대한 강력한 방어력을 제공합니다.",
+    "technical_synergy": "이러한 펀더멘털을 가진 기업이 '단테의 밥그릇 3번 자리'를 형성한다면, 이는 시장의 단기적인 기대감이나 투기적 매수세에 의한 기술적 반등일 가능성이 높습니다. 근본적인 수익성 개선 없이는 장기적인 신뢰도를 확보하기 어려우며, 폭발력은 있을 수 있으나 지속 가능성은 낮습니다.",
+    "business_moat": "현재 재무 데이터만으로는 뚜렷한 사업적 경제적 해자를 파악하기 어렵습니다. 다만, 시장 가치보다 훨씬 많은 순현금을 보유하고 있어, 이는 기업이 사업을 재편하거나 새로운 기회를 모색할 수 있는 '재무적 해자'로 기능합니다.",
+    "ai_system_tags": [
+      "Value",
+      "Turnaround",
+      "Speculative"
+    ]
+  }
+}

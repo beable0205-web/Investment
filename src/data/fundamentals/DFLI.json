@@ -1,0 +1,32 @@
+{
+  "ticker": "DFLI",
+  "lastUpdated": "2026-05-10T20:40:58.619Z",
+  "rawFinancials": {
+    "name": "Dragonfly Energy Holdings Corp",
+    "marketCap": 25147980,
+    "forwardPE": -5.0487804,
+    "priceToBook": 2.1675391,
+    "totalRevenue": 58630000,
+    "operatingMargins": -0.57684,
+    "returnOnEquity": -5.73694,
+    "freeCashflow": -20377876,
+    "totalCash": 18270000,
+    "totalDebt": 32711000,
+    "currentRatio": 2.54,
+    "revenueGrowth": 0.069
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 성장률은 미미하며, 심각한 영업 손실과 자기자본 수익률 악화로 인해 실질적인 성장 동력은 정체 상태입니다.",
+      "profitability": "영업 마진이 -57%를 넘고 자기자본 수익률이 -573%에 달하는 '적자 늪'에 빠져 있으며, 수익성 개선의 징후가 전혀 보이지 않습니다.",
+      "cashflow_stability": "매년 2천만 달러 이상의 잉여현금흐름 적자를 기록하며 현금을 소진하고 있으며, 총 부채가 총 현금을 크게 상회하여 높은 부채 리스크를 안고 있습니다."
+    },
+    "macro_sensitivity": "금리 인상, 인플레이션, 경기 침체 등 거시경제 악화 시 자금 조달 비용 증가 및 투자 심리 위축으로 인해 파산 위험이 급증할 수 있는 고위험 종목입니다. 금리 인하 및 유동성 확대에 대한 민감도가 매우 높습니다.",
+    "technical_synergy": "이러한 취약한 펀더멘털을 가진 기업이 '단테의 밥그릇 3번 자리'와 같은 기술적 패턴을 만들 경우, 단기적인 투기적 움직임은 가능하나 펀더멘털 개선 없이는 장기적인 신뢰도와 지속적인 상승 동력을 기대하기 어렵습니다.",
+    "business_moat": "현재 재무 지표상 독점적 지위나 강력한 가격 결정력을 시사하는 경제적 해자는 관찰되지 않습니다. 오히려 심각한 적자는 경쟁 우위 확보에 어려움을 겪고 있음을 나타냅니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

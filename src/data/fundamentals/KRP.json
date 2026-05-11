@@ -1,0 +1,34 @@
+{
+  "ticker": "KRP",
+  "lastUpdated": "2026-05-10T05:23:47.730Z",
+  "rawFinancials": {
+    "name": "Kimbell Royalty Partners",
+    "marketCap": 1587478016,
+    "trailingPE": 31.630434,
+    "forwardPE": 19.530201,
+    "priceToBook": 2.5553215,
+    "totalRevenue": 321739008,
+    "operatingMargins": 0.42316002,
+    "returnOnEquity": 0.12177,
+    "freeCashflow": -14724625,
+    "totalCash": 43977000,
+    "totalDebt": 446228992,
+    "currentRatio": 8.64,
+    "revenueGrowth": 0.088
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "중간 성장세이나, 마이너스 잉여현금흐름이 우려됨.",
+      "profitability": "로열티 기반의 독점적 사업 모델로 매우 높은 영업 마진(42.3%)을 유지하나, ROE는 보통 수준.",
+      "cashflow_stability": "마이너스 잉여현금흐름과 높은 부채(총 부채 4.4억 달러)로 현금 창출력에 대한 우려가 크며, 재무 레버리지 리스크가 존재함. 높은 유동비율은 단기 유동성을 나타내나, FCF와의 괴리가 있음."
+    },
+    "macro_sensitivity": "원유 및 천연가스 가격 변동에 직접적으로 연동되는 고도의 경기 민감주. 인플레이션 시 원자재 가격 상승으로 수혜를 볼 수 있으나, 금리 인상 시 높은 부채로 인한 이자 비용 증가와 경기 침체 시 에너지 수요 감소로 인한 실적 악화에 매우 취약함.",
+    "technical_synergy": "높은 영업 마진은 잠재적 폭발력을 제공하지만, 지속적인 마이너스 잉여현금흐름과 상당한 부채는 기술적 돌파의 신뢰도를 약화시킬 수 있습니다. '단테의 밥그릇 3번 자리'와 같은 장기 이평선 돌파 패턴 발생 시, 단기적 모멘텀은 강할 수 있으나, 펀더멘털(특히 FCF 턴어라운드) 개선이 동반되지 않으면 장기적 지지력은 제한적일 것입니다.",
+    "business_moat": "KRP는 유전 및 가스전의 영구적인 로열티 지분을 소유하여 생산 비용 없이 매출의 일정 부분을 확보하는 고마진 비즈니스 모델을 가집니다. 이는 강력한 경제적 해자이나, 원자재 가격 변동성과 자산 취득 경쟁에 지속적으로 노출되어 있습니다.",
+    "ai_system_tags": [
+      "Cyclical",
+      "Turnaround",
+      "Leveraged"
+    ]
+  }
+}

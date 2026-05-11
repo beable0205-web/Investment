@@ -1,0 +1,33 @@
+{
+  "ticker": "SLGN",
+  "lastUpdated": "2026-05-10T01:42:38.710Z",
+  "rawFinancials": {
+    "name": "Silgan Holdings Inc.",
+    "marketCap": 4254667008,
+    "trailingPE": 15.07865,
+    "forwardPE": 9.858489,
+    "priceToBook": 1.8665676,
+    "totalRevenue": 6577762816,
+    "operatingMargins": 0.08688,
+    "returnOnEquity": 0.12874,
+    "freeCashflow": 276635872,
+    "totalCash": 435428992,
+    "totalDebt": 4660447232,
+    "currentRatio": 1.258,
+    "revenueGrowth": 0.065
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "완만한 매출 성장과 잠재적 이익 개선 (6.5% 매출 성장률, 낮은 선행 PER은 이익 회복 기대 반영)",
+      "profitability": "안정적 마진 구조 (8.69% 영업이익률, 12.87% ROE는 산업 내 경쟁적 위치와 효율적 자본 활용 시사)",
+      "cashflow_stability": "양호한 현금 창출력, 높은 부채 레버리지 (견고한 FCF에도 불구하고, 총 부채가 시가총액을 상회하여 재무적 유연성 제약)"
+    },
+    "macro_sensitivity": "경기 방어적 특성 보유하나, 높은 부채로 금리 인상에 취약. 필수 소비재 포장재 수요는 경기 침체에 비교적 강하지만, 높은 부채 비용은 수익성을 압박할 수 있습니다. 인플레이션 환경에서는 원가 전가 능력이 핵심 변수입니다.",
+    "technical_synergy": "안정적인 현금 흐름과 경기 방어적 사업 모델은 '단테의 밥그릇 3번 자리'와 같은 장기 이평선 돌파 시 신뢰도 높은 상승 추세 형성 가능성을 높입니다. 다만, 높은 부채 레버리지는 시장의 심리 변화에 따른 변동성을 확대시킬 수 있으므로, 기술적 돌파 시에도 재무 리스크 관리가 중요합니다.",
+    "business_moat": "Silgan은 대규모 생산 능력과 주요 소비재 기업들과의 장기적 관계를 통해 운영 효율성과 고객 전환 비용에서 해자를 구축합니다. 이는 필수 소비재 포장 시장에서 안정적인 수요를 바탕으로 하며, 규모의 경제를 통해 경쟁 우위를 확보합니다.",
+    "ai_system_tags": [
+      "Value",
+      "Defensive"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ticker": "WBUY",
+  "lastUpdated": "2026-05-11T12:04:26.687Z",
+  "rawFinancials": {
+    "name": "WEBUY GLOBAL LTD.",
+    "marketCap": 6796569,
+    "priceToBook": 2.8440368,
+    "totalRevenue": 18834100,
+    "operatingMargins": -0.3513,
+    "returnOnEquity": -1.09816,
+    "freeCashflow": -1697046,
+    "totalCash": 3056043,
+    "totalDebt": 2389958,
+    "currentRatio": 1.15
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "수익성 없는 성장 또는 역성장",
+      "profitability": "심각한 적자 늪",
+      "cashflow_stability": "현금 소진 심화 및 높은 파산 위험"
+    },
+    "macro_sensitivity": "금리 인상 및 경기 침체에 극도로 취약하며, 자금 조달 환경 악화 시 생존 자체가 위협받는 구조",
+    "technical_synergy": "현재의 심각한 펀더멘털 약점을 고려할 때, '단테의 밥그릇 3번 자리'와 같은 기술적 패턴은 단기 투기적 움직임일 가능성이 높으며, 장기적인 신뢰도는 극히 낮음. 펀더멘털 개선 없이는 기술적 반등은 일시적일 뿐, 진정한 가치 투자의 기회로 볼 수 없음.",
+    "business_moat": "현재 재무 상태는 어떠한 경제적 해자도 존재하지 않음을 명확히 보여준다. 오히려 치열한 경쟁 환경 속에서 수익성 확보에 실패하며, 사업 모델의 지속 가능성 자체가 심각하게 의심되는 상황이다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

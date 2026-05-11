@@ -1,0 +1,27 @@
+{
+  "ticker": "MUZE",
+  "lastUpdated": "2026-05-10T13:39:36.281Z",
+  "rawFinancials": {
+    "name": "Muzero Acquisition Corp",
+    "marketCap": 269923648,
+    "priceToBook": -2470,
+    "operatingMargins": 0,
+    "totalDebt": 399,
+    "currentRatio": 0.017
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "성장성 없음 (운영 사업 부재)",
+      "profitability": "수익성 없음 (운영 사업 부재, 적자 구조)",
+      "cashflow_stability": "현금 창출력 전무, 극심한 유동성 위기 및 파산 위험 매우 높음 (Current Ratio 0.017, 마이너스 장부가치)"
+    },
+    "macro_sensitivity": "운영 사업 부재로 직접적인 거시경제 민감도는 낮으나, 현재의 심각한 재무 상태(극심한 유동성 위기, 마이너스 장부가치)로 인해 시장 센티먼트 악화, 금리 인상 등 금융 환경 변화에 극도로 취약하며 파산 위험이 증대됨. 경기 방어적 특성은 전무하며, 투기적 자금 흐름에 의존할 가능성이 높음.",
+    "technical_synergy": "현재의 심각한 펀더멘털(운영 사업 부재, 마이너스 장부가치, 극심한 유동성 위기)을 고려할 때, '단테의 밥그릇 3번 자리'와 같은 기술적 패턴은 신뢰도가 극히 낮으며, 일시적인 투기적 움직임이거나 시장 조작일 가능성이 높음. 펀더멘털 개선 없이는 어떠한 기술적 패턴도 지속적인 폭발력을 기대하기 어려우며, 오히려 함정(Bull Trap)일 가능성이 농후함.",
+    "business_moat": "Muzero Acquisition Corp은 운영 사업이 없는 특수목적합병회사(SPAC)입니다. 현재 어떠한 경제적 해자도 보유하고 있지 않으며, 심각한 재무적 위기로 인해 존속 자체가 불확실합니다. 이는 버핏과 린치가 추구하는 '지속 가능한 경쟁 우위'와는 정반대의 상황입니다.",
+    "ai_system_tags": [
+      "Distressed",
+      "Speculative",
+      "SPAC"
+    ]
+  }
+}

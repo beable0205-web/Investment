@@ -1,0 +1,33 @@
+{
+  "ticker": "XPER",
+  "lastUpdated": "2026-05-10T12:44:21.433Z",
+  "rawFinancials": {
+    "name": "Xperi Inc.",
+    "marketCap": 387619776,
+    "forwardPE": 6.168619,
+    "priceToBook": 0.9100181,
+    "totalRevenue": 448278016,
+    "operatingMargins": 0.01883,
+    "returnOnEquity": -0.110769995,
+    "freeCashflow": 37681376,
+    "totalCash": 70422000,
+    "totalDebt": 67649000,
+    "currentRatio": 2.364,
+    "revenueGrowth": 0.002
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "정체 (매출 성장률 0.2%로 거의 정체, ROE는 마이너스)",
+      "profitability": "수익성 악화 (영업이익률 1.88%로 매우 낮고, ROE는 -11.08%로 손실 기록)",
+      "cashflow_stability": "현금 창출력 양호 및 부채 리스크 낮음 (긍정적인 자유현금흐름, 현금 보유액이 총 부채를 상회하며, 유동비율 2.36으로 재무 건전성 양호)"
+    },
+    "macro_sensitivity": "낮은 마진과 정체된 매출로 경기 침체에 취약하나, 견고한 현금흐름과 낮은 부채는 일정 수준의 방어력을 제공합니다. 금리 인상기에는 성장성 부재로 매력도가 감소할 수 있습니다.",
+    "technical_synergy": "펀더멘털이 약한 상태에서 '단테의 밥그릇 3번 자리' 패턴은 단기적인 기술적 반등일 가능성이 높습니다. 그러나 긍정적인 자유현금흐름과 건전한 재무구조는 이러한 기술적 패턴이 단순한 투기적 움직임을 넘어선, 잠재적 턴어라운드 시그널일 경우 신뢰도를 높여줄 수 있습니다. 지속적인 상승을 위해서는 명확한 사업 개선 신호가 필수적입니다.",
+    "business_moat": "Xperi는 오디오, 비디오, 자동차 등 핵심 기술 분야의 광범위한 특허 포트폴리오를 통해 독점적 라이선스 수익을 창출합니다. 이는 경쟁사의 진입을 어렵게 하고 고객사의 전환 비용을 높여 강력한 경제적 해자를 구축합니다.",
+    "ai_system_tags": [
+      "Value",
+      "Turnaround",
+      "IP-Driven"
+    ]
+  }
+}

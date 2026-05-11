@@ -1,0 +1,32 @@
+{
+  "ticker": "AOMR",
+  "lastUpdated": "2026-05-10T14:32:07.005Z",
+  "rawFinancials": {
+    "name": "Angel Oak Mortgage REIT, Inc.",
+    "marketCap": 219747184,
+    "trailingPE": 14,
+    "forwardPE": 6.4314775,
+    "priceToBook": 0.8553971,
+    "totalRevenue": 35262000,
+    "operatingMargins": 3.34952,
+    "returnOnEquity": 0.06339,
+    "totalCash": 45874000,
+    "totalDebt": 2418134016,
+    "currentRatio": 6.657
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "정체 또는 회복 기대 (낮은 PBR과 향후 이익 개선 전망이 혼재)",
+      "profitability": "박리다매 또는 마진 압박 (매우 낮은 영업이익률, ROE도 평이)",
+      "cashflow_stability": "레버리지 과다, 현금 흐름은 단기 양호하나 부채 리스크 높음 (막대한 총 부채 대비 현금 보유액, 높은 유동비율은 단기 유동성 관리 능력 시사)"
+    },
+    "macro_sensitivity": "금리 변동에 극도로 민감. 금리 인하 시 수혜, 금리 인상 시 취약. 경기 침체 시 모기지 자산 가치 하락 및 부실 위험 증가로 인한 치명적 타격 가능성. 인플레이션은 금리 인상 압력으로 작용하여 부정적.",
+    "technical_synergy": "높은 레버리지와 거시경제 민감성을 고려할 때, '단테의 밥그릇 3번 자리'와 같은 기술적 패턴은 금리 인하 기대감 등 긍정적 거시경제 전환 신호와 결합될 때 폭발력이 극대화될 수 있다. 단순히 차트만으로는 신뢰도가 낮으며, 펀더멘털 개선 기대가 동반되어야 한다. 저 PBR은 상승 여력을 시사하나, 이는 곧 시장이 기업의 자산 가치에 대한 회의적인 시각을 가지고 있음을 반영한다.",
+    "business_moat": "Angel Oak Mortgage REIT는 비적격 모기지(Non-QM) 시장에 특화된 전문성을 바탕으로 모기지 자산에 투자한다. 그러나 이 비즈니스 모델은 금리 변동과 신용 위험에 매우 취약하며, 독점적인 경제적 해자를 구축하기 어렵다.",
+    "ai_system_tags": [
+      "Value",
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

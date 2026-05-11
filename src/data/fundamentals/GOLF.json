@@ -1,0 +1,34 @@
+{
+  "ticker": "GOLF",
+  "lastUpdated": "2026-05-09T13:28:44.589Z",
+  "rawFinancials": {
+    "name": "Acushnet Holdings Corp.",
+    "marketCap": 5360623616,
+    "trailingPE": 32.12281,
+    "forwardPE": 22.19394,
+    "priceToBook": 6.710893,
+    "totalRevenue": 2608333056,
+    "operatingMargins": 0.17554002,
+    "returnOnEquity": 0.21019,
+    "freeCashflow": -22558876,
+    "totalCash": 50379000,
+    "totalDebt": 1270990976,
+    "currentRatio": 2.866,
+    "revenueGrowth": 0.071
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 매출 성장. 순이익은 향후 개선될 것으로 기대되나(Forward PE < Trailing PE), 폭발적인 성장주 유형은 아님.",
+      "profitability": "강력한 브랜드를 기반으로 한 독점적 마진 구조. 20%를 상회하는 높은 자기자본이익률(ROE)은 주주자본을 활용한 이익 창출 능력이 매우 뛰어남을 증명.",
+      "cashflow_stability": "일시적인 마이너스 잉여현금흐름은 재고 투자나 설비 투자 증가 가능성을 시사하며 면밀한 관찰이 필요. 다만, 2.8배가 넘는 유동비율은 단기 부채 상환 능력이 매우 안정적임을 보여줌."
+    },
+    "macro_sensitivity": "대표적인 경기 민감형 소비재. 경기 침체 및 금리 인상 시기에는 소비자의 가처분 소득 감소로 인해 실적 둔화 압력을 받음. 반면, 강력한 브랜드 파워는 인플레이션 환경에서 원가 상승분을 가격에 전가할 수 있는 방어력을 제공.",
+    "technical_synergy": "이처럼 견고한 펀더멘털(높은 수익성, 브랜드 해자)을 보유한 기업이 '단테의 밥그릇 3번 자리' 같은 장기 바닥 탈출 패턴을 완성할 경우, 이는 단순한 기술적 반등이 아닌 기업 가치 재평가의 시작일 가능성이 높음. 따라서 패턴의 신뢰도와 상승 잠재력이 극대화될 수 있음.",
+    "business_moat": "타이틀리스트, 풋조이 등 골프 산업 내 대체 불가능한 브랜드 포트폴리오가 핵심 경제적 해자임. 골퍼들의 높은 충성도와 프리미엄 가격 정책은 신규 경쟁자의 진입을 원천적으로 차단하는 역할을 함.",
+    "ai_system_tags": [
+      "Cyclical",
+      "Dividend",
+      "Value"
+    ]
+  }
+}

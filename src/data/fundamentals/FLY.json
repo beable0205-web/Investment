@@ -1,0 +1,33 @@
+{
+  "ticker": "FLY",
+  "lastUpdated": "2026-05-10T00:56:01.918Z",
+  "rawFinancials": {
+    "name": "Firefly Aerospace Inc.",
+    "marketCap": 6358133248,
+    "forwardPE": -34.6121,
+    "priceToBook": 5.311203,
+    "totalRevenue": 184879008,
+    "operatingMargins": -1.15925,
+    "returnOnEquity": -0.62148,
+    "freeCashflow": -146637120,
+    "totalCash": 551625984,
+    "totalDebt": 52990000,
+    "currentRatio": 2.53,
+    "revenueGrowth": 0.448
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "고성장, 그러나 심각한 적자 지속",
+      "profitability": "심각한 적자 늪, 수익성 구조 취약",
+      "cashflow_stability": "급격한 현금 소진, 그러나 충분한 현금 보유 및 낮은 부채로 단기 유동성은 양호"
+    },
+    "macro_sensitivity": "고금리 환경에 매우 취약하며, 자본 조달 비용 상승 및 성장주 밸류에이션 압박에 민감. 경기 침체 시 민간 수요 위축 가능성 있으나, 정부 계약 비중이 높다면 일부 방어력 기대.",
+    "technical_synergy": "이러한 펀더멘털을 가진 기업이 '단테의 밥그릇 3번 자리'와 같은 강력한 기술적 패턴을 형성한다면, 이는 시장이 미래 성장 잠재력에 대한 중대한 긍정적 촉매(예: 대규모 계약, 기술적 성공)를 기대하고 있음을 시사한다. 폭발력은 매우 클 수 있으나, 현재의 심각한 적자와 현금 소진을 감안할 때, 기술적 신호의 신뢰도는 낮으며, 펀더멘털 개선이 동반되지 않으면 급락 위험이 상존한다.",
+    "business_moat": "Firefly Aerospace는 우주 발사체 및 관련 기술 개발에 집중하며, 높은 진입 장벽과 독점적 기술력을 바탕으로 잠재적 경제적 해자를 구축하고 있습니다. 그러나 현재는 대규모 투자와 기술 개발 단계로 인해 심각한 적자를 기록하며 해자의 강도를 증명하는 과정에 있습니다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

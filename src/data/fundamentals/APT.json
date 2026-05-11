@@ -1,0 +1,34 @@
+{
+  "ticker": "APT",
+  "lastUpdated": "2026-05-10T19:15:05.803Z",
+  "rawFinancials": {
+    "name": "Alpha Pro Tech, Ltd.",
+    "marketCap": 65797044,
+    "trailingPE": 18.941177,
+    "forwardPE": 5.5517244,
+    "priceToBook": 1.0442679,
+    "totalRevenue": 59142000,
+    "operatingMargins": 0.068670005,
+    "returnOnEquity": 0.05663,
+    "freeCashflow": 559375,
+    "totalCash": 16988000,
+    "totalDebt": 7882000,
+    "currentRatio": 12.942,
+    "revenueGrowth": 0.003
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 성장은 정체되어 있으나(0.3%), 낮은 Forward P/E(5.55)는 향후 이익 개선에 대한 시장의 기대를 반영합니다. 전반적으로 고성장 기업과는 거리가 멉니다.",
+      "profitability": "영업 마진(6.87%)과 ROE(5.66%)가 낮아 경쟁이 치열한 시장에서 박리다매 또는 경쟁적 마진 구조를 가집니다. 독점적 마진을 확보하지 못하고 있습니다.",
+      "cashflow_stability": "Free Cash Flow는 미약하지만, 총 현금(16.9M)이 총 부채(7.8M)를 크게 상회하며 Current Ratio가 12.94로 매우 높아 우수한 유동성과 낮은 부채 리스크를 자랑합니다. 파산 위험은 극히 낮습니다."
+    },
+    "macro_sensitivity": "건축 자재 부문은 금리 인상 및 경기 침체에 민감하게 반응할 수 있으나, 보호 장비 부문은 상대적으로 경기 방어적 특성을 가집니다. 전반적으로 낮은 마진과 성장성으로 인해 거시경제 악화 시 이익 압박이 예상되나, 견고한 유동성으로 파산 위험은 낮습니다.",
+    "technical_synergy": "낮은 성장성과 마진에도 불구하고, 매우 낮은 P/B(1.04)와 Forward P/E(5.55)는 시장의 저평가 가능성을 시사합니다. '단테의 밥그릇 3번 자리'와 같은 장기 추세 전환 패턴 발생 시, 이는 단순한 기술적 반등을 넘어 기업 가치 재평가(Re-rating)의 신호로 해석될 수 있습니다. 폭발적인 상승보다는 견고한 펀더멘털(강력한 유동성)에 기반한 신뢰성 있는 상승 추세 전환을 기대할 수 있습니다.",
+    "business_moat": "이 기업은 보호 장비 및 건축 자재와 같은 필수적이지만 경쟁이 치열한 시장에서 운영됩니다. 낮은 마진과 ROE는 강력한 가격 결정력이나 독점적 지위가 부족하여 경제적 해자가 미약함을 시사합니다.",
+    "ai_system_tags": [
+      "Value",
+      "Defensive",
+      "Turnaround"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "ticker": "PRKS",
+  "lastUpdated": "2026-05-10T05:31:00.236Z",
+  "rawFinancials": {
+    "name": "United Parks & Resorts Inc.",
+    "marketCap": 1874948608,
+    "trailingPE": 12.816994,
+    "forwardPE": 8.8846,
+    "priceToBook": -4.59789,
+    "totalRevenue": 1662558976,
+    "operatingMargins": 0.2023,
+    "freeCashflow": 79401376,
+    "totalCash": 99762000,
+    "totalDebt": 2353865984,
+    "currentRatio": 0.735,
+    "revenueGrowth": -0.028
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "현재 매출은 역성장 국면에 있으며, 이는 사업의 정체 또는 축소를 시사합니다.",
+      "profitability": "20%를 상회하는 견고한 영업마진은 핵심 사업의 효율성과 일정 수준의 가격 결정력을 보여줍니다.",
+      "cashflow_stability": "긍정적인 잉여현금흐름에도 불구하고, 시장가치를 초과하는 막대한 부채와 0.735의 낮은 유동비율, 그리고 마이너스 주당순자산가치는 심각한 재무 레버리지와 잠재적 파산 위험을 내포합니다."
+    },
+    "macro_sensitivity": "소비자 지출에 민감한 경기 민감주로, 경기 침체 시 직접적인 타격을 입습니다. 또한, 막대한 부채로 인해 금리 인상에 매우 취약하며, 인플레이션은 운영 비용 압박을 가중시킬 수 있습니다.",
+    "technical_synergy": "심각한 부채와 역성장이라는 펀더멘털 약점으로 인해 '단테의 밥그릇 3번 자리'와 같은 기술적 패턴은 단기적인 투기적 반등을 시사할 수 있으나, 장기적 신뢰도는 낮습니다. 지속적인 상승을 위해서는 부채 구조조정 등 근본적인 재무 개선이 선행되어야 합니다.",
+    "business_moat": "테마파크 및 리조트 사업은 특정 지역의 독점적 입지와 브랜드 인지도를 통해 진입 장벽을 형성할 수 있습니다. 그러나 현재의 재무 상태는 이러한 해자가 외부 충격으로부터 기업을 충분히 보호하지 못하고 있음을 보여줍니다.",
+    "ai_system_tags": [
+      "Cyclical",
+      "Turnaround",
+      "Value"
+    ]
+  }
+}

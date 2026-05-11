@@ -1,0 +1,33 @@
+{
+  "ticker": "MD",
+  "lastUpdated": "2026-05-10T05:16:35.916Z",
+  "rawFinancials": {
+    "name": "Pediatrix Medical Group, Inc.",
+    "marketCap": 1930686208,
+    "trailingPE": 11.4126215,
+    "forwardPE": 10.091905,
+    "priceToBook": 2.144095,
+    "totalRevenue": 1931686016,
+    "operatingMargins": 0.09781,
+    "returnOnEquity": 0.20893,
+    "freeCashflow": 163734256,
+    "totalCash": 328974016,
+    "totalDebt": 629715008,
+    "currentRatio": 1.326,
+    "revenueGrowth": 0.039
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "완만한 성장",
+      "profitability": "양호한 마진과 탁월한 자본 효율성",
+      "cashflow_stability": "견고한 현금 창출력과 관리 가능한 부채 수준"
+    },
+    "macro_sensitivity": "경기 침체에 대한 방어력이 높으며, 필수 의료 서비스 특성상 수요 변동성이 낮다. 다만, 의료 정책 변화 및 인건비 상승, 금리 인상에 따른 부채 비용 증가 가능성은 주시해야 한다.",
+    "technical_synergy": "MD와 같은 안정적인 펀더멘털을 가진 기업이 '단테의 밥그릇 3번 자리'와 같은 장기 추세 전환 패턴을 형성할 경우, 이는 단순한 기술적 반등을 넘어선 가치 재평가의 신호로 해석될 수 있다. 견고한 이익과 현금 흐름은 기술적 돌파 이후의 상승세를 강력히 지지하며, 장기적인 투자 신뢰도를 높인다.",
+    "business_moat": "Pediatrix Medical Group은 소아과 전문 의료 서비스 제공을 통해 환자-의사 관계의 높은 전환 비용과 전문성에서 오는 브랜드 신뢰도를 기반으로 해자를 구축한다. 이는 안정적인 환자 기반과 예측 가능한 수익 흐름을 가능하게 하며, 신규 진입자의 시장 침투를 어렵게 한다.",
+    "ai_system_tags": [
+      "Value",
+      "Defensive"
+    ]
+  }
+}

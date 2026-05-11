@@ -1,0 +1,33 @@
+{
+  "ticker": "JYNT",
+  "lastUpdated": "2026-05-10T16:23:30.343Z",
+  "rawFinancials": {
+    "name": "The Joint Corp.",
+    "marketCap": 123985808,
+    "trailingPE": 96.55555,
+    "forwardPE": 13.685039,
+    "priceToBook": 8.167293,
+    "totalRevenue": 54895592,
+    "operatingMargins": 0.04245,
+    "returnOnEquity": -0.015,
+    "freeCashflow": 5974901,
+    "totalCash": 23601810,
+    "totalDebt": 2009706,
+    "currentRatio": 1.587,
+    "revenueGrowth": 0.031
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "현재 매출 성장률은 둔화되었으나, 높은 후행 P/E 대비 현저히 낮은 선행 P/E는 시장이 향후 이익의 급격한 개선 또는 성장을 기대하고 있음을 시사합니다.",
+      "profitability": "4.2%대의 낮은 영업이익률과 마이너스 ROE는 현재 수익성 구조가 취약하며, 박리다매형 사업 모델의 한계를 보여줍니다. 이는 향후 수익성 개선이 필수적임을 의미합니다.",
+      "cashflow_stability": "수익성 부진에도 불구하고 긍정적인 잉여현금흐름을 창출하고 있으며, 부채가 매우 낮고 유동비율이 건전하여 재무 건전성은 우수합니다. 이는 파산 위험이 극히 낮음을 의미합니다."
+    },
+    "macro_sensitivity": "선택적 의료 서비스의 특성상 경기 침체나 인플레이션 심화 시 소비자 지출 감소로 수요가 둔화될 수 있습니다. 그러나 낮은 부채는 금리 인상에 대한 직접적인 민감도를 낮추지만, 인플레이션은 마진에 압박을 가할 수 있습니다.",
+    "technical_synergy": "현재의 낮은 수익성에도 불구하고 견고한 재무 구조(긍정적 FCF, 낮은 부채)와 예상되는 이익 개선이 결합될 경우, '단테의 밥그릇 3번 자리'와 같은 기술적 돌파는 시장이 펀더멘털 개선을 확신하기 시작했음을 알리는 강력한 신호가 됩니다. 이는 신뢰도 높은 장기 상승 추세의 시작점이 될 수 있습니다.",
+    "business_moat": "The Joint Corp.은 프랜차이즈 모델을 통해 전국적인 브랜드 인지도를 구축하고 접근성을 높여 고객 유입을 촉진합니다. 이는 규모의 경제와 브랜드 충성도를 기반으로 한 약한 해자를 형성할 수 있습니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Growth"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "ticker": "VRA",
+  "lastUpdated": "2026-05-10T16:35:09.775Z",
+  "rawFinancials": {
+    "name": "Vera Bradley, Inc.",
+    "marketCap": 117734360,
+    "forwardPE": 414,
+    "priceToBook": 0.8795411,
+    "totalRevenue": 269651008,
+    "operatingMargins": 0.02622,
+    "returnOnEquity": -0.21042,
+    "freeCashflow": 36036248,
+    "totalCash": 18513000,
+    "totalDebt": 70534000,
+    "currentRatio": 2.373,
+    "revenueGrowth": -0.017
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출은 역성장 중이며, 이익은 적자 상태로 전반적인 성장 동력이 부재합니다.",
+      "profitability": "영업 마진이 매우 얇고 자기자본이익률(ROE)이 음수(-)를 기록하여, 수익성 구조가 취약하고 적자 늪에 빠져 있습니다.",
+      "cashflow_stability": "긍정적인 잉여현금흐름(FCF)을 창출하고 있어 단기 유동성은 양호하나, 총 부채가 현금 보유액보다 상당하여 부채 부담이 존재합니다."
+    },
+    "macro_sensitivity": "소비재 섹터에 속하므로 금리 인상, 인플레이션, 경기 침체 시 소비 심리 위축으로 매출에 직접적인 타격을 입을 수 있는 경기 민감주입니다. 경기 회복 및 금리 인하 시 수혜를 기대할 수 있습니다.",
+    "technical_synergy": "현재의 약한 펀더멘털(매출 역성장, 적자)을 고려할 때, '단테의 밥그릇 3번 자리'와 같은 장기 이평선 돌파 및 지지 패턴이 나타나더라도, 이는 단기적인 기술적 반등일 가능성이 높으며 지속적인 상승 신뢰도는 낮습니다. 강력한 펀더멘털 개선 신호 없이는 추세 전환으로 보기 어렵습니다.",
+    "business_moat": "경쟁이 치열한 패션 액세서리 시장에서 브랜드 인지도와 독특한 디자인에 의존하지만, 현재 재무 상태는 이러한 해자가 약화되었거나 충분히 강력하지 않음을 시사합니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Value",
+      "Cyclical"
+    ]
+  }
+}

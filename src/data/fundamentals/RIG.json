@@ -1,0 +1,33 @@
+{
+  "ticker": "RIG",
+  "lastUpdated": "2026-05-09T09:48:34.509Z",
+  "rawFinancials": {
+    "name": "Transocean Ltd (Switzerland)",
+    "marketCap": 7145223680,
+    "forwardPE": 27.852728,
+    "priceToBook": 0.8648649,
+    "totalRevenue": 4140000000,
+    "operatingMargins": 0.26735002,
+    "returnOnEquity": -0.30049,
+    "freeCashflow": 1086249984,
+    "totalCash": 330000000,
+    "totalDebt": 5273999872,
+    "currentRatio": 1.538,
+    "revenueGrowth": 0.193
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 회복 국면의 턴어라운드형 성장. 19.3%의 높은 매출 성장을 보이고 있으나, 순이익은 아직 적자 상태로, 이익 성장은 본격화되지 않음.",
+      "profitability": "고비용 자본구조에 갇힌 영업이익. 26.7%의 높은 영업이익률에도 불구하고, 과도한 부채로 인한 이자비용 등으로 인해 자기자본이익률(ROE)은 -30%로 극히 부진함.",
+      "cashflow_stability": "강력한 현금 창출력, 그러나 부채 상환 부담 상존. 막대한 감가상각비 덕분에 잉여현금흐름(FCF)은 10억 달러 이상으로 우수하나, 52억 달러에 달하는 총부채는 여전히 재무적 리스크 요인임."
+    },
+    "macro_sensitivity": "대표적인 경기 민감주이자 유가 상승 수혜주. 유가 및 글로벌 에너지 기업들의 자본적 지출(CAPEX)에 실적이 직접적으로 연동됨. 금리 인상 시기에는 높은 부채 부담으로 인해 재무 리스크가 부각될 수 있음.",
+    "technical_synergy": "펀더멘털 상 턴어라운드(흑자전환) 기대감이 내재되어 있어, 장기 이평선 돌파 및 지지 패턴('단테의 밥그릇 3번 자리') 발생 시 신뢰도가 높음. 강력한 영업현금흐름이 주가 하방을 지지하고, 부채 감소 등 재무구조 개선 뉴스가 발생할 경우 폭발적인 상승의 촉매제가 될 수 있음.",
+    "business_moat": "초심해(Ultra-deepwater) 및 혹독한 환경의 시추 설비 운영에 필요한 막대한 자본과 기술적 전문성이 핵심 경제적 해자임. 이는 신규 경쟁자의 진입을 막는 높은 장벽으로 작용함.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Cyclical",
+      "Value"
+    ]
+  }
+}

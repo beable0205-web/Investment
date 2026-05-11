@@ -1,0 +1,34 @@
+{
+  "ticker": "PKOH",
+  "lastUpdated": "2026-05-10T11:17:02.524Z",
+  "rawFinancials": {
+    "name": "Park-Ohio Holdings Corp.",
+    "marketCap": 443751552,
+    "trailingPE": 17.61143,
+    "forwardPE": 8.805715,
+    "priceToBook": 1.1129569,
+    "totalRevenue": 1614700032,
+    "operatingMargins": 0.05487,
+    "returnOnEquity": 0.057350002,
+    "freeCashflow": 15150000,
+    "totalCash": 46700000,
+    "totalDebt": 691299968,
+    "currentRatio": 2.404,
+    "revenueGrowth": 0.038
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "완만한 성장 (매출 성장률 3.8%로 미미하며, ROE가 낮아 자본 효율성이 떨어짐)",
+      "profitability": "경쟁적 마진 (영업 마진 5.48%로 낮은 수준이며, 이는 강력한 가격 결정력이나 독점적 지위가 부족함을 시사)",
+      "cashflow_stability": "현금 창출력은 있으나 레버리지 과다 (긍정적인 FCF에도 불구하고 총 부채가 현금 및 자본 대비 매우 높아 재무적 부담이 큼)"
+    },
+    "macro_sensitivity": "경기 민감주이자 금리 인상 취약주. 산업재 섹터의 특성상 경기 변동에 매우 민감하며, 낮은 마진율은 인플레이션으로 인한 비용 상승에 취약하다. 또한, 높은 부채 수준은 금리 인상 시 이자 비용 부담을 가중시켜 수익성을 압박할 것이다.",
+    "technical_synergy": "이러한 펀더멘털을 가진 기업이 '단테의 밥그릇 3번 자리'와 같은 장기 이평선 돌파 패턴을 보인다면, 이는 주로 경기 회복 기대감에 따른 '순환적 반등' 신호일 가능성이 높다. 근본적인 해자 부족과 높은 부채로 인해 폭발적인 상승보다는 점진적인 회복세를 보일 것이며, 지속적인 상승 신뢰도는 재무 구조 개선(부채 감축, 마진율 향상) 여부에 달려있다.",
+    "business_moat": "Park-Ohio는 산업용 부품 제조 및 공급망 관리 서비스를 제공하며, 특정 틈새 시장에서의 전문성과 고객 관계를 통해 사업을 영위한다. 그러나 낮은 영업 마진과 ROE는 강력한 가격 결정력이나 독점적 지위가 부족하여 경제적 해자가 좁거나 부재함을 시사한다.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Turnaround"
+    ]
+  }
+}

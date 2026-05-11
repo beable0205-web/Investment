@@ -1,0 +1,30 @@
+{
+  "ticker": "LARK",
+  "lastUpdated": "2026-05-10T15:25:48.695Z",
+  "rawFinancials": {
+    "name": "Landmark Bancorp Inc.",
+    "marketCap": 170975360,
+    "trailingPE": 8.958467,
+    "priceToBook": 1.0580733,
+    "totalRevenue": 70026000,
+    "operatingMargins": 0.35939,
+    "returnOnEquity": 0.12581,
+    "totalCash": 34836000,
+    "totalDebt": 90976000,
+    "revenueGrowth": 0.106
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "견실한 성장세를 유지하며 시장 평균을 상회하는 확장 능력 보유.",
+      "profitability": "효율적인 자본 배분과 견고한 순이자마진(NIM)을 통해 안정적인 수익성을 시현.",
+      "cashflow_stability": "지역 기반의 안정적인 예금 유치 능력과 건전한 대출 포트폴리오를 바탕으로 견고한 재무 안정성을 유지."
+    },
+    "macro_sensitivity": "금리 변동에 대한 민감도가 매우 높으며, 금리 인상기에는 순이자마진 확대의 기회를, 금리 인하기에는 대출 수요 증가의 잠재력을 가짐. 그러나 경기 침체 시에는 대출 부실 위험이 증가하는 전형적인 경기 민감주.",
+    "technical_synergy": "펀더멘털이 견고하고 밸류에이션 매력이 있는 LARK가 '단테의 밥그릇 3번 자리'와 같은 기술적 패턴을 형성할 경우, 이는 시장의 저평가 해소와 함께 강력한 매수 신호로 해석될 수 있습니다. 특히 기관 투자자의 관심이 집중될 경우, 장기적인 추세 전환의 신뢰도를 높이며 폭발적인 주가 상승을 견인할 잠재력이 있습니다.",
+    "business_moat": "Landmark Bancorp는 지역 사회에 깊이 뿌리내린 관계 금융을 통해 고객 충성도를 확보하고, 경쟁사 대비 낮은 자금 조달 비용과 안정적인 대출 포트폴리오를 유지합니다. 이는 강력한 브랜드 인지도와 신뢰를 바탕으로 한 진입 장벽을 형성하는 견고한 경제적 해자입니다.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical"
+    ]
+  }
+}

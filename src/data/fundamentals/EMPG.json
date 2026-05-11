@@ -1,0 +1,33 @@
+{
+  "ticker": "EMPG",
+  "lastUpdated": "2026-05-10T15:56:23.242Z",
+  "rawFinancials": {
+    "name": "Empro Group Inc.",
+    "marketCap": 143046400,
+    "trailingPE": 192.88889,
+    "priceToBook": 17.053045,
+    "totalRevenue": 5484664,
+    "operatingMargins": 0.3614,
+    "returnOnEquity": 0.66263,
+    "freeCashflow": -205317,
+    "totalCash": 187035,
+    "totalDebt": 1525433,
+    "currentRatio": 1.941,
+    "revenueGrowth": 1.416
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "고성장 (매출 141.6% 성장으로 폭발적인 성장세를 보이나, 절대 매출 규모는 아직 작음)",
+      "profitability": "독점적 마진 (36.14%의 높은 영업 마진과 66.26%의 경이로운 ROE는 강력한 가격 결정력과 효율적인 자본 활용을 시사)",
+      "cashflow_stability": "성장 투자로 인한 현금 소진, 부채 리스크 존재 (높은 성장에도 불구하고 마이너스 자유 현금 흐름을 기록하며 현금을 소진 중. 총 현금 대비 총 부채가 높아 재무 레버리지 리스크가 있으나, 유동비율은 양호)"
+    },
+    "macro_sensitivity": "금리 인상 및 유동성 축소에 매우 취약하며, 경기 침체 시 성장 둔화 위험이 큼. 높은 P/E와 P/B는 미래 성장 기대치를 반영하므로, 거시경제 불확실성 증대 시 밸류에이션 압박이 가중될 수 있음.",
+    "technical_synergy": "강력한 펀더멘털 성장 모멘텀이 '단테의 밥그릇 3번 자리'와 같은 기술적 패턴과 결합될 경우, 시장의 성장 기대감을 폭발적으로 증폭시켜 강력한 상승 추세를 형성할 수 있음. 단, 높은 밸류에이션과 현금 흐름의 취약성으로 인해 패턴 실패 시 급격한 조정 위험도 상존하며, 변동성이 매우 클 것으로 예상됨.",
+    "business_moat": "Empro Group은 매우 높은 영업 마진과 ROE를 통해 강력한 가격 결정력 또는 독점적 지위를 시사합니다. 이는 특허 기술, 브랜드 충성도, 또는 높은 전환 비용 등 견고한 경제적 해자를 보유하고 있을 가능성이 높음을 의미합니다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Momentum",
+      "Speculative"
+    ]
+  }
+}

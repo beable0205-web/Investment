@@ -1,0 +1,32 @@
+{
+  "ticker": "BFST",
+  "lastUpdated": "2026-05-10T08:05:23.600Z",
+  "rawFinancials": {
+    "name": "Business First Bancshares, Inc.",
+    "marketCap": 904526144,
+    "trailingPE": 9.815603,
+    "forwardPE": 8.5064535,
+    "priceToBook": 0.98239636,
+    "totalRevenue": 323956992,
+    "operatingMargins": 0.36477003,
+    "returnOnEquity": 0.10001001,
+    "totalCash": 708803968,
+    "totalDebt": 410035008,
+    "revenueGrowth": 0.148
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "견고한 매출 성장(14.8%)과 낮은 선행 P/E(8.5)는 꾸준한 이익 개선을 시사합니다.",
+      "profitability": "36.47%의 우수한 영업 마진과 10%의 견조한 자기자본이익률(ROE)은 효율적인 운영과 강력한 수익 창출 능력을 보여줍니다.",
+      "cashflow_stability": "총 현금(7.08억 달러)이 총 부채(4.1억 달러)를 크게 상회하여, 뛰어난 현금 유동성과 매우 낮은 파산 위험을 보유하고 있습니다."
+    },
+    "macro_sensitivity": "은행 산업 특성상 금리 인상기에는 순이자마진 개선으로 수혜를 입지만, 경기 침체 시에는 대출 수요 감소 및 신용 위험 증가에 민감합니다. 다만, 강력한 대차대조표는 거시경제 충격에 대한 방어력을 제공합니다.",
+    "technical_synergy": "이처럼 펀더멘털이 견고하고 잠재적으로 저평가된 기업이 '단테의 밥그릇 3번 자리'와 같은 장기 이평선 돌파 및 지지 패턴을 형성할 경우, 시장의 가치 재평가와 함께 높은 신뢰도의 지속적인 상승 모멘텀을 기대할 수 있습니다. 강력한 재무 건전성이 기술적 신호에 힘을 실어줍니다.",
+    "business_moat": "이 지역 은행은 고객 전환 비용과 효율적인 운영을 통해 안정적인 예금 기반을 확보하고 있습니다. 견고한 영업 마진은 시장 내 경쟁 우위와 가격 결정력을 시사합니다.",
+    "ai_system_tags": [
+      "Value",
+      "Defensive",
+      "Cyclical"
+    ]
+  }
+}

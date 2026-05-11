@@ -1,0 +1,32 @@
+{
+  "ticker": "CPF",
+  "lastUpdated": "2026-05-10T08:06:46.504Z",
+  "rawFinancials": {
+    "name": "Central Pacific Financial Corp ",
+    "marketCap": 908061760,
+    "trailingPE": 11.635451,
+    "forwardPE": 9.754197,
+    "priceToBook": 1.529836,
+    "totalRevenue": 282940992,
+    "operatingMargins": 0.38132,
+    "returnOnEquity": 0.13975,
+    "totalCash": 414108000,
+    "totalDebt": 104575000,
+    "revenueGrowth": 0.092
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "견조한 성장 (매출 9.2% 증가, 낮은 선행 P/E는 지속적인 이익 성장을 시사)",
+      "profitability": "독점적 마진과 탁월한 수익성 (영업이익률 38.13%, ROE 13.97%로 동종업계 대비 매우 우수)",
+      "cashflow_stability": "압도적인 현금 창출력과 매우 낮은 부채 리스크 (총 현금이 총 부채의 약 4배에 달하며, 파산 위험이 극히 낮음)"
+    },
+    "macro_sensitivity": "금리 인상기 수혜 가능성이 높으나, 경기 침체 시 대출 부실 위험에 노출. 그러나 견고한 재무 구조로 거시경제 충격에 대한 방어력이 우수함.",
+    "technical_synergy": "기업의 견고한 펀더멘털, 특히 높은 수익성과 낮은 부채는 '단테의 밥그릇 3번 자리'와 같은 장기 이평선 돌파 및 지지 패턴이 나타날 때 그 신뢰도와 폭발력을 극대화합니다. 이는 단순한 기술적 움직임을 넘어, 기관 투자자들이 기업의 내재가치를 인지하고 장기적인 포지션을 구축하고 있음을 시사하며, 강력하고 지속적인 상승 추세의 기반이 됩니다.",
+    "business_moat": "Central Pacific Financial Corp는 지역 시장에서의 강력한 입지와 고객 충성도를 바탕으로 높은 마진을 유지합니다. 이는 고객 전환 비용과 지역 네트워크 효과에서 비롯된 견고한 경제적 해자를 구축하고 있음을 보여줍니다.",
+    "ai_system_tags": [
+      "Value",
+      "Defensive",
+      "Cyclical"
+    ]
+  }
+}

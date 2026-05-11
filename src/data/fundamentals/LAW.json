@@ -1,0 +1,32 @@
+{
+  "ticker": "LAW",
+  "lastUpdated": "2026-05-10T13:14:31.421Z",
+  "rawFinancials": {
+    "name": "CS Disco, Inc.",
+    "marketCap": 264233760,
+    "forwardPE": -154.48068,
+    "priceToBook": 2.0345678,
+    "totalRevenue": 162078000,
+    "operatingMargins": -0.24099001,
+    "returnOnEquity": -0.32013,
+    "freeCashflow": 3393250,
+    "totalCash": 103038000,
+    "totalDebt": 6321000,
+    "currentRatio": 4.192,
+    "revenueGrowth": 0.143
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출은 두 자릿수 성장세를 보이나, 이익은 심각한 적자 상태로 수익성 없는 고성장 단계에 있다.",
+      "profitability": "영업이익률과 ROE 모두 깊은 마이너스를 기록하며, 현재 수익성 구조는 매우 취약한 '적자 늪'에 빠져 있다.",
+      "cashflow_stability": "긍정적인 잉여현금흐름과 높은 유동비율, 낮은 부채로 단기적 파산 위험은 낮다. 그러나 지속적인 적자 발생 시 현금 소진 압박이 가중될 수 있다."
+    },
+    "macro_sensitivity": "고성장 적자 기업의 전형적인 특성상, 금리 인상기에는 자본 조달 비용 증가 및 미래 현금흐름 할인율 상승으로 부정적 영향을 받기 쉽다. 경기 침체 시 기업들의 IT 투자 축소로 매출 성장 둔화 위험이 크며, 금리 인하 및 경기 회복 시 가장 큰 수혜를 기대할 수 있는 민감한 종목이다.",
+    "technical_synergy": "현재의 깊은 적자 상태를 감안할 때, '단테의 밥그릇 3번 자리'와 같은 기술적 패턴은 단기적인 시장 센티멘트나 특정 호재에 의해 발생할 가능성이 높다. 펀더멘털 개선(특히 흑자 전환)이 동반되지 않는다면 기술적 신뢰도는 낮지만, 성장 기대감으로 인한 폭발력은 클 수 있다. 장기적인 추세 신뢰도를 얻기 위해서는 수익성 개선이라는 '진정한 해자'를 증명해야 한다.",
+    "business_moat": "CS Disco는 법률 분야에 특화된 AI 기반 e-discovery 및 클라우드 플랫폼을 제공한다. 이는 고객의 높은 전환 비용과 데이터 축적에 따른 기술적 우위로 강력한 경제적 해자를 구축할 잠재력을 가지고 있다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Turnaround"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "ticker": "PGAC",
+  "lastUpdated": "2026-05-10T16:37:42.267Z",
+  "rawFinancials": {
+    "name": "Pantages Capital Acquisition Co",
+    "marketCap": 115988264,
+    "trailingPE": 45.739132,
+    "priceToBook": -84.16,
+    "operatingMargins": 0,
+    "freeCashflow": -677110,
+    "totalCash": 187778,
+    "totalDebt": 713500,
+    "currentRatio": 0.347
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "현재 운영 수익이 전무하며, 마이너스 자유현금흐름을 기록 중. 성장성은 완전히 부재하며, 오히려 자본 소진 단계에 있음.",
+      "profitability": "영업 마진 0%와 마이너스 주가순자산비율(-84.16)은 심각한 수익성 부재를 넘어 자본 잠식 상태를 시사. 기업의 본질적 가치 창출 능력이 전무함.",
+      "cashflow_stability": "마이너스 자유현금흐름과 0.347의 매우 낮은 유동비율은 심각한 현금 소진과 단기 부채 상환 능력의 위기를 나타냄. 파산 위험이 매우 높음."
+    },
+    "macro_sensitivity": "운영 사업이 없어 직접적인 거시경제 변수(금리, 인플레이션)에 대한 민감도는 낮으나, 본질적으로 자본 시장의 유동성과 투자 심리에 극도로 의존하는 SPAC의 특성상, 금리 인상 및 경기 침체 시 자금 조달 및 인수합병 기회 감소로 치명적인 영향을 받을 수 있음.",
+    "technical_synergy": "펀더멘털이 전무하고 재무 상태가 극도로 취약한 기업이므로, '단테의 밥그릇 3번 자리'와 같은 장기적이고 신뢰할 수 있는 기술적 패턴은 형성되기 어려움. 만약 유사한 패턴이 나타난다면, 이는 투기적 매수세나 단기적 이벤트에 의한 일시적 현상일 가능성이 높으며, AI 시스템은 이를 '가치 함정'으로 분류하고 신중하게 접근해야 함.",
+    "business_moat": "Pantages Capital Acquisition Co는 현재 운영 사업이 없는 특수목적 인수 회사(SPAC)로서, 자체적인 경제적 해자는 존재하지 않습니다. 그 가치는 오직 성공적인 인수합병을 통해 잠재적 피인수 기업의 해자를 확보하는 데 달려 있습니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "High-Growth"
+    ]
+  }
+}

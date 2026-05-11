@@ -1,0 +1,34 @@
+{
+  "ticker": "WH",
+  "lastUpdated": "2026-05-09T12:04:49.322Z",
+  "rawFinancials": {
+    "name": "Wyndham Hotels & Resorts, Inc.",
+    "marketCap": 6188715520,
+    "trailingPE": 32.805553,
+    "forwardPE": 15.40563,
+    "priceToBook": 13.318833,
+    "totalRevenue": 1440000000,
+    "operatingMargins": 0.37003,
+    "returnOnEquity": 0.37622002,
+    "freeCashflow": 340000000,
+    "totalCash": 79000000,
+    "totalDebt": 2649999872,
+    "currentRatio": 0.983,
+    "revenueGrowth": 0.035
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "이익 개선 중심의 완만한 성장. 3.5%의 낮은 매출 성장률에도 불구하고, 높은 후행 PER 대비 낮은 선행 PER는 향후 강력한 이익률 개선 또는 자사주 매입 효과를 시사함.",
+      "profitability": "독점적 프랜차이즈 마진. 37%에 달하는 영업이익률과 자기자본이익률(ROE)은 자산 경량화(Asset-light) 비즈니스 모델의 강력한 가격 결정력과 수익성을 증명함.",
+      "cashflow_stability": "강력한 현금 창출력, 높은 부채 리스크. 매출 대비 23%가 넘는 우수한 잉여현금흐름을 창출하나, 26.5억 달러의 총부채와 1 미만의 유동비율은 재무 안정성에 부담 요인임."
+    },
+    "macro_sensitivity": "전형적인 경기 순환주. 여행 및 레저 산업에 속해 있어 경기 침체 시 수요가 급감하며, 금리 인상 시기에는 소비 심리 위축과 프랜차이즈 확장 둔화의 이중고를 겪을 수 있음.",
+    "technical_synergy": "펀더멘털이 지지하는 경기 회복 베팅. 이 기업의 높은 수익성은 주가 하방을 경직시키며, '단테의 밥그릇 3번 자리'와 같은 장기 추세 전환 신호는 경기 회복 국면에 진입한다는 강력한 증거로 해석될 수 있어, 높은 레버리지와 함께 주가 폭발력을 기대하게 함.",
+    "business_moat": "세계 최대 호텔 프랜차이즈로서 구축한 강력한 브랜드 인지도와 네트워크 효과가 핵심 해자임. 자산을 직접 소유하지 않는 경량화 모델을 통해 높은 마진을 유지하며, 가맹점주들에게는 예약 시스템과 로열티 프로그램을 제공하여 생태계를 공고히 함.",
+    "ai_system_tags": [
+      "Cyclical",
+      "Value",
+      "Dividend"
+    ]
+  }
+}

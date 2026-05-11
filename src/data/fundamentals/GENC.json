@@ -1,0 +1,33 @@
+{
+  "ticker": "GENC",
+  "lastUpdated": "2026-05-11T10:15:19.553Z",
+  "rawFinancials": {
+    "name": "Gencor Industries, Inc.",
+    "marketCap": 226021760,
+    "trailingPE": 14.826923,
+    "forwardPE": 18.141176,
+    "priceToBook": 1.0500511,
+    "totalRevenue": 103193000,
+    "operatingMargins": 0.21174999,
+    "returnOnEquity": 0.07106,
+    "totalCash": 155134000,
+    "totalDebt": 156000,
+    "currentRatio": 14.286,
+    "revenueGrowth": -0.115
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "현재 매출이 역성장하고 있으며, 향후 이익 성장 전망도 다소 불확실한 정체 국면에 있습니다.",
+      "profitability": "21%가 넘는 매우 높은 영업 마진을 유지하고 있어, 독점적인 가격 결정력이나 효율적인 비용 구조를 가지고 있음을 시사합니다.",
+      "cashflow_stability": "총 부채 대비 압도적인 현금 보유량(현금 1.5억 달러 vs 부채 15만 달러)과 14가 넘는 유동비율은 현금 창출력이 우수하고 파산 위험이 극히 낮은, 매우 안정적인 재무 상태를 보여줍니다."
+    },
+    "macro_sensitivity": "산업재 섹터의 특성상 매출은 경기 변동에 민감할 수 있으나, 막대한 현금 보유량과 미미한 부채는 금리 인상이나 경기 침체로 인한 재무적 압박으로부터 기업을 강력하게 방어하는 역할을 합니다. 사실상 금리 변동에 대한 민감도는 매우 낮습니다.",
+    "technical_synergy": "재무적 안정성이 매우 뛰어나므로, '단테의 밥그릇 3번 자리'와 같은 기술적 패턴은 일시적 침체 후의 강력한 턴어라운드 신호로 해석될 신뢰도가 높습니다. 특히 낮은 P/B(1.05)는 자산 가치 대비 저평가되어 있어, 상승 여력이 크다는 점을 시사합니다.",
+    "business_moat": "Gencor는 높은 영업 마진을 통해 강력한 가격 결정력 또는 비용 우위를 보유하고 있음을 시사합니다. 이는 산업용 장비 시장에서의 기술적 전문성, 브랜드 충성도 또는 높은 전환 비용에서 비롯된 경제적 해자를 가질 가능성이 높습니다.",
+    "ai_system_tags": [
+      "Value",
+      "Turnaround",
+      "Defensive"
+    ]
+  }
+}

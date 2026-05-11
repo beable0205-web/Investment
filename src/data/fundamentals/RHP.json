@@ -1,0 +1,34 @@
+{
+  "ticker": "RHP",
+  "lastUpdated": "2026-05-09T09:53:43.663Z",
+  "rawFinancials": {
+    "name": "Ryman Hospitality Properties, I",
+    "marketCap": 6976730112,
+    "trailingPE": 29.092106,
+    "forwardPE": 22.86453,
+    "priceToBook": 9.408511,
+    "totalRevenue": 2644344064,
+    "operatingMargins": 0.20735,
+    "returnOnEquity": 0.23424,
+    "freeCashflow": 560577472,
+    "totalCash": 426064992,
+    "totalDebt": 4130866944,
+    "currentRatio": 1.309,
+    "revenueGrowth": 0.132
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "견조한 성장세. 13.2%의 높은 매출 성장은 강력한 시장 수요와 자산 포트폴리오의 경쟁력을 증명하며, 미래 이익 성장에 대한 기대감을 높임.",
+      "profitability": "레버리지를 활용한 고수익성 구조. 20%가 넘는 영업이익률과 23%의 높은 자기자본이익률(ROE)은 우수한 운영 효율성을 보여주나, 이는 상당 부분 높은 부채 비율에 의해 증폭된 결과임.",
+      "cashflow_stability": "우수한 현금 창출력, 그러나 높은 부채 의존도. 잉여현금흐름은 매우 강력하지만, 총 부채 규모가 41억 달러에 달해 금리 변동에 따른 이자 비용 증가 리스크에 노출되어 있음."
+    },
+    "macro_sensitivity": "대표적인 금리 민감주이자 경기 순환주. 부채가 많아 금리 인상 시 이자 부담이 가중되지만, 금리 인하 및 경기 확장 국면에서는 여행/컨벤션 수요 증가와 금융 비용 감소의 이중 수혜를 기대할 수 있음.",
+    "technical_synergy": "높은 레버리지와 성장성을 겸비한 특성상, '단테의 밥그릇 3번 자리'와 같은 장기 추세 전환 및 지지 패턴의 신뢰도가 매우 높음. 해당 패턴 완성 시, 시장의 관심이 부채 리스크에 대한 우려에서 성장성에 대한 확신으로 전환되며 폭발적인 주가 상승을 촉발할 잠재력이 큼.",
+    "business_moat": "대규모 컨벤션 센터(Gaylord Hotels)와 그랜드 올 오프리(Grand Ole Opry) 같은 대체 불가능한 상징적 자산을 독점적으로 운영함. 이는 강력한 가격 결정력과 충성도 높은 고객 기반을 확보하는 깊은 경제적 해자로 작용함.",
+    "ai_system_tags": [
+      "Cyclical",
+      "High-Growth",
+      "Dividend"
+    ]
+  }
+}

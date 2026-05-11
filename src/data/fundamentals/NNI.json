@@ -1,0 +1,33 @@
+{
+  "ticker": "NNI",
+  "lastUpdated": "2026-05-10T00:54:39.636Z",
+  "rawFinancials": {
+    "name": "Nelnet, Inc.",
+    "marketCap": 4397605888,
+    "trailingPE": 10.641739,
+    "forwardPE": 12.238,
+    "priceToBook": 1.1912085,
+    "totalRevenue": 1652919040,
+    "operatingMargins": 0.20919001,
+    "returnOnEquity": 0.10699,
+    "totalCash": 240007008,
+    "totalDebt": 7699400192,
+    "currentRatio": 4.786,
+    "revenueGrowth": -0.048
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "역성장 (Negative revenue growth of -4.8% indicates a contraction phase, suggesting a mature or potentially declining core business segment. This is not a growth stock.)",
+      "profitability": "독점적 마진 (Operating margins of 20.9% are exceptionally strong, indicating efficient operations or significant pricing power within its niche. However, a moderate Return on Equity of 10.7% suggests the profitability is somewhat diluted by its asset-heavy nature or high leverage.)",
+      "cashflow_stability": "레버리지 과다 (Total debt of $7.7B is extremely high relative to its market cap and cash, which is characteristic of a financial institution. Crucially, a very strong current ratio of 4.786 indicates excellent short-term liquidity and a well-managed debt structure for its industry, implying robust cash generation for debt servicing despite the high overall leverage.)"
+    },
+    "macro_sensitivity": "Nelnet은 학자금 대출 서비스 기업으로서 금리 변동에 매우 민감합니다. 금리 인상은 자금 조달 비용을 증가시키고 수익성을 압박할 수 있으며, 경기 침체는 학자금 대출 연체율 증가로 이어져 자산 건전성에 부정적인 영향을 미칠 수 있습니다. 정부의 학자금 대출 정책 변화에도 직접적인 영향을 받습니다. 따라서 전형적인 경기 방어주라기보다는 금리 및 정책 민감도가 높은 금융 섹터의 특성을 가지며, 거시경제 변화에 대한 방어력은 낮은 편입니다.",
+    "technical_synergy": "이러한 펀더멘털을 가진 기업이 '단테의 밥그릇 3번 자리'와 같은 장기 이평선 돌파 및 지지 패턴을 형성한다면, 이는 단순한 기술적 반등보다는 사업 환경의 긍정적 변화(예: 새로운 정부 계약, 금리 환경 개선, 부채 구조 개선)에 따른 펀더멘털 턴어라운드 시그널로 해석될 가능성이 높습니다. 폭발적인 성장보다는 저평가된 자산 가치 또는 안정적인 현금 흐름에 대한 재평가(re-rating)로 인한 신뢰도 높은 상승을 기대할 수 있으나, 지속적인 상승을 위해서는 명확한 펀더멘털 개선이 필수적입니다.",
+    "business_moat": "Nelnet은 학자금 대출 서비스 및 교육 기술 분야에서 규제 장벽, 정부 및 교육 기관과의 견고한 관계를 통해 경제적 해자를 구축하고 있습니다. 이는 진입 장벽이 높은 '톨게이트'형 비즈니스 모델로, 안정적인 서비스 수수료 수익을 창출합니다.",
+    "ai_system_tags": [
+      "Value",
+      "Financial",
+      "Cyclical"
+    ]
+  }
+}

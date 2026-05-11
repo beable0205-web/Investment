@@ -1,0 +1,33 @@
+{
+  "ticker": "RNP",
+  "lastUpdated": "2026-05-10T07:35:30.665Z",
+  "rawFinancials": {
+    "name": "Cohen & Steers Reit and Preferr",
+    "marketCap": 1023361664,
+    "trailingPE": 17.766666,
+    "priceToBook": 1.0336468,
+    "totalRevenue": 70411200,
+    "operatingMargins": 0.83579004,
+    "returnOnEquity": 0.05736,
+    "freeCashflow": 23881584,
+    "totalCash": 1326508,
+    "totalDebt": 450000000,
+    "currentRatio": 0.035,
+    "revenueGrowth": -0.002
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "정체 (매출액 미미한 역성장)",
+      "profitability": "독점적 마진 (매우 높은 영업이익률, 보통 수준의 ROE)",
+      "cashflow_stability": "현금 창출력은 양호하나, 극도로 낮은 유동성과 과도한 레버리지로 파산 위험 상존"
+    },
+    "macro_sensitivity": "금리 변동에 극도로 민감하며, 금리 인하 시 수혜가 예상되나 경기 침체 시에는 자산 가치 하락 및 부채 부담 증가로 취약합니다.",
+    "technical_synergy": "높은 마진과 긍정적 현금 흐름은 장기 이평선 지지 시 매력적인 저가 매수 기회를 제공할 수 있으나, 극도로 낮은 유동성과 높은 부채는 기술적 반등의 지속 가능성과 신뢰도를 크게 저해합니다. '단테의 밥그릇 3번 자리'는 단기적 트레이딩 기회일 수 있으나, 펀더멘털 개선 없이는 장기적 폭발력을 기대하기 어렵습니다.",
+    "business_moat": "이 기업은 REIT 및 우선주 투자에 특화된 자산운용사 또는 펀드로 보이며, 높은 운용 효율성에서 오는 독점적 마진이 핵심입니다. 그러나 자산 가치 변동과 금리 민감성으로 인해 해자의 지속 가능성은 거시경제 환경에 크게 좌우됩니다.",
+    "ai_system_tags": [
+      "Value",
+      "Dividend",
+      "Cyclical"
+    ]
+  }
+}

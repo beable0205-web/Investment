@@ -1,0 +1,32 @@
+{
+  "ticker": "STOK",
+  "lastUpdated": "2026-05-10T04:44:59.495Z",
+  "rawFinancials": {
+    "name": "Stoke Therapeutics, Inc.",
+    "marketCap": 2048095744,
+    "forwardPE": -10.519178,
+    "priceToBook": 5.4981613,
+    "totalRevenue": 32080000,
+    "operatingMargins": -8.575689,
+    "returnOnEquity": -0.45578,
+    "freeCashflow": -88338624,
+    "totalCash": 343544992,
+    "totalDebt": 0,
+    "currentRatio": 8.986,
+    "revenueGrowth": -0.961
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "극심한 역성장. 매출이 전년 대비 96% 감소하며 사업 모델의 지속 가능성에 대한 심각한 의문을 제기합니다.",
+      "profitability": "심각한 적자 늪. 영업 마진과 자기자본이익률이 모두 깊은 마이너스를 기록하며, 핵심 사업에서 막대한 손실을 보고 있습니다.",
+      "cashflow_stability": "높은 현금 소진율. 상당한 현금 보유량과 무부채 상태로 단기 유동성은 우수하나, 매년 막대한 잉여현금흐름 적자를 기록하며 현금 고갈 위험이 상존합니다."
+    },
+    "macro_sensitivity": "생명공학 기업으로서 거시경제 사이클보다는 임상 결과, 규제 승인, 그리고 자본 시장의 유동성 및 투자 심리에 더 민감합니다. 특히 높은 현금 소진율로 인해 금리 인상기나 유동성 축소기에는 자금 조달 비용 증가 및 희석 위험이 커집니다.",
+    "technical_synergy": "이러한 극도로 취약한 펀더멘털을 가진 기업이 '단테의 밥그릇 3번 자리'와 같은 강력한 기술적 패턴을 형성한다면, 이는 주로 임상 데이터 발표, M&A 루머, 또는 단기적인 투기적 매수세에 의한 것일 가능성이 높습니다. 펀더멘털 개선 없이는 이러한 기술적 돌파의 신뢰도와 지속성은 매우 낮으며, 높은 변동성을 동반하는 단기 트레이딩 기회로만 해석해야 합니다.",
+    "business_moat": "Stoke Therapeutics의 잠재적 해자는 희귀 유전 질환 치료를 위한 독점적인 TANGO 플랫폼 기술과 이를 기반으로 한 혁신적인 ASO 약물 파이프라인에 있습니다. 그러나 현재까지는 이 기술이 수익성 있는 매출이나 긍정적인 현금 흐름으로 이어지지 않아, 해자가 아직 '잠재적' 단계에 머물러 있습니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "High-Growth"
+    ]
+  }
+}

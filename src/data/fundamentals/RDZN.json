@@ -1,0 +1,31 @@
+{
+  "ticker": "RDZN",
+  "lastUpdated": "2026-05-10T15:57:15.042Z",
+  "rawFinancials": {
+    "name": "Roadzen, Inc.",
+    "marketCap": 151922768,
+    "forwardPE": -36,
+    "priceToBook": -5.373134,
+    "totalRevenue": 50304684,
+    "operatingMargins": -0.16464001,
+    "freeCashflow": -18143374,
+    "totalCash": 5621618,
+    "totalDebt": 29928538,
+    "currentRatio": 0.54,
+    "revenueGrowth": 0.188
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "고성장(매출)이나 수익성 부재 및 지속적인 적자",
+      "profitability": "심각한 적자 늪, 자본 잠식 상태로 수익성 구조가 매우 취약함",
+      "cashflow_stability": "현금 소진 심각, 부채 부담 과중 및 유동성 위기로 파산 위험 매우 높음"
+    },
+    "macro_sensitivity": "금리 인상 및 유동성 축소 환경에 극도로 취약하며, 경기 침체 시 자금 조달 및 생존 자체가 위협받을 수 있음. 금리 인하 및 풍부한 유동성 환경에서 잠재적 수혜 가능성이 있으나, 근본적 재무 구조 개선이 선행되어야 함.",
+    "technical_synergy": "극도로 취약한 펀더멘털로 인해 기술적 패턴의 신뢰도가 매우 낮음. '단테의 밥그릇 3번 자리'와 같은 패턴 발생 시, 단기적 투기적 움직임일 가능성이 크며, 지속적인 상승보다는 '불 트랩'으로 이어질 위험이 높음. 펀더멘털 개선 없이는 기술적 신호만으로 장기적 폭발력을 기대하기 어려움.",
+    "business_moat": "이 기업은 현재 심각한 재무적 어려움에 직면해 있으며, 수익성 부재와 현금 소진으로 인해 경제적 해자를 구축하거나 방어할 여력이 부족합니다. 핵심 비즈니스 모델이 무엇이든, 현재로서는 경쟁 우위를 수익으로 전환하지 못하고 있습니다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Turnaround"
+    ]
+  }
+}

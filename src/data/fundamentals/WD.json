@@ -1,0 +1,33 @@
+{
+  "ticker": "WD",
+  "lastUpdated": "2026-05-10T05:12:24.814Z",
+  "rawFinancials": {
+    "name": "Walker & Dunlop, Inc",
+    "marketCap": 1874829056,
+    "trailingPE": 27.034655,
+    "forwardPE": 9.435853,
+    "priceToBook": 1.0509199,
+    "totalRevenue": 1228390016,
+    "operatingMargins": 0.09192,
+    "returnOnEquity": 0.04152,
+    "totalCash": 235043008,
+    "totalDebt": 3492731904,
+    "currentRatio": 1.321,
+    "revenueGrowth": 0.32
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출액 32% 성장률로 고성장세를 보이나, 자기자본이익률(ROE)이 4.15%로 낮아 이익 성장률은 상대적으로 제한적일 수 있습니다.",
+      "profitability": "영업 마진은 9.19%로 양호하나, ROE가 매우 낮아 자본 효율성이 떨어집니다. 이는 높은 부채 레버리지와 자본 집약적인 사업 모델의 특성으로 보입니다.",
+      "cashflow_stability": "총 부채가 총 현금의 15배 이상으로 레버리지가 매우 높습니다. 유동비율 1.32는 단기 유동성을 확보하고 있으나, 장기적인 부채 상환 능력과 안정적인 현금 창출력에 대한 면밀한 분석이 필수적입니다."
+    },
+    "macro_sensitivity": "상업용 부동산 금융 기업으로서 금리 변동에 극도로 민감하며, 경기 침체 시 부동산 시장 위축과 대출 부실 위험에 직접적으로 노출됩니다. 금리 인하 및 경기 회복 시 가장 큰 수혜를 입을 수 있는 대표적인 경기 민감주입니다.",
+    "technical_synergy": "32%의 강력한 매출 성장과 장부가에 근접한 P/B(1.05)는 잠재적 가치를 시사하나, 낮은 ROE와 높은 부채는 변동성을 키웁니다. '단테의 밥그릇 3번 자리' 돌파 시, 금리 인하 및 부동산 시장 회복이라는 거시경제적 촉매와 결합된다면 강력한 상승 모멘텀을 기대할 수 있으나, 펀더멘털 개선 없이는 신뢰도가 낮을 수 있습니다.",
+    "business_moat": "Walker & Dunlop은 상업용 부동산 금융 시장에서 규모의 경제와 정부 지원 기관(Fannie Mae, Freddie Mac)과의 견고한 관계를 통해 진입 장벽을 구축합니다. 이는 안정적인 자금 조달 능력과 시장 점유율 유지에 기여하는 핵심 해자입니다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Cyclical",
+      "Turnaround"
+    ]
+  }
+}

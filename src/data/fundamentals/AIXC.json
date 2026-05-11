@@ -1,0 +1,30 @@
+{
+  "ticker": "AIXC",
+  "lastUpdated": "2026-05-10T20:10:12.247Z",
+  "rawFinancials": {
+    "name": "AIxCrypto Holdings, Inc.",
+    "marketCap": 30361022,
+    "priceToBook": -1.8169761,
+    "totalRevenue": 4306316,
+    "operatingMargins": -3.82109,
+    "returnOnEquity": -2.36996,
+    "freeCashflow": -2090495,
+    "totalCash": 23976570,
+    "totalDebt": 630304,
+    "currentRatio": 2.706
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "Revenue exists, but deep operating losses and negative return on equity indicate a company that is destroying shareholder value, effectively experiencing '역성장' in terms of intrinsic worth despite top-line activity.",
+      "profitability": "Deeply negative operating margins and an extremely negative return on equity signify a severe profitability crisis, placing the company in an '적자 늪' where its core operations consistently erode capital.",
+      "cashflow_stability": "Despite significant negative free cash flow, the company maintains a substantial cash balance and minimal total debt, providing a temporary liquidity buffer. However, this indicates an unsustainable cash burn rate that will eventually deplete reserves without a fundamental shift to profitability."
+    },
+    "macro_sensitivity": "As an unprofitable, cash-burning entity in a potentially speculative sector (AI/Crypto), AIXC is highly sensitive to tightening monetary policies (interest rate hikes, reduced liquidity) which increase the cost of capital and diminish investor appetite for risk. It is also exceptionally vulnerable to economic downturns that could further depress demand and capital availability, making it a '경기 민감주' rather than a defensive play.",
+    "technical_synergy": "Given the severe fundamental weaknesses (deep unprofitability, negative equity, persistent cash burn), a '단테의 밥그릇 3번 자리' (long-term moving average breakout and support) chart pattern would signal a profound disconnect between price action and intrinsic value. Such a technical signal would likely be driven by speculative fervor, short-term momentum, or unconfirmed news, rather than genuine fundamental improvement. Its reliability for long-term, fundamentally-driven investment decisions would be extremely low, indicating a high-risk speculative opportunity rather than a robust signal for a discerning AI system.",
+    "business_moat": "The current financial performance, characterized by deep unprofitability and cash burn, provides no evidence of an existing economic moat. While operating in potentially high-growth sectors like AI/Crypto, the company has yet to demonstrate any sustainable competitive advantage or pricing power that translates into shareholder value.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

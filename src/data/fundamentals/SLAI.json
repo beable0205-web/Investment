@@ -1,0 +1,32 @@
+{
+  "ticker": "SLAI",
+  "lastUpdated": "2026-05-11T10:56:20.094Z",
+  "rawFinancials": {
+    "name": "SOLAI Limited",
+    "marketCap": 15233193,
+    "forwardPE": -38.5,
+    "priceToBook": 0.42007637,
+    "totalRevenue": 23000000,
+    "operatingMargins": -0.74578005,
+    "returnOnEquity": -0.67936,
+    "freeCashflow": 6632625,
+    "totalCash": 1420000,
+    "totalDebt": 1938000,
+    "currentRatio": 1.764,
+    "revenueGrowth": -0.138
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "역성장 및 수익성 악화 (Revenue declining, deep losses)",
+      "profitability": "심각한 적자 늪 (Deeply unprofitable, negative operating margins and ROE)",
+      "cashflow_stability": "영업 손실에도 불구하고 일시적으로 긍정적인 잉여현금흐름을 보이나, 이는 지속 가능성에 대한 의문을 제기하며 부채 리스크가 상존함. (Despite operating losses, free cash flow is temporarily positive, raising questions about sustainability, and debt risk persists.)"
+    },
+    "macro_sensitivity": "금리 인상, 인플레이션, 경기 침체 등 거시경제 악화에 매우 취약하며, 회복을 위한 강력한 경기 회복이 필수적입니다. 현재의 취약한 펀더멘털은 어떠한 외부 충격에도 쉽게 흔들릴 수 있습니다. (Extremely vulnerable to macro headwinds like interest rate hikes, inflation, recession; strong economic recovery is essential for turnaround. Current weak fundamentals make it susceptible to any external shock.)",
+    "technical_synergy": "현재의 심각한 펀더멘털 악화 상태에서는 '단테의 밥그릇 3번 자리'와 같은 기술적 패턴이 나타나더라도 신뢰도가 매우 낮으며, 일시적 반등에 그칠 가능성이 높습니다. 펀더멘털 개선 없이는 폭발적인 상승을 기대하기 어려우며, 기술적 신호는 '속임수'일 가능성이 큽니다. (Given severe fundamental deterioration, technical patterns like 'Dante's Rice Bowl 3rd position' would have very low reliability and likely result in temporary bounces. Explosive upside is unlikely without fundamental improvement, and technical signals are likely 'head fakes'.)",
+    "business_moat": "현재 사업 모델은 심각한 수익성 문제와 매출 감소를 겪고 있어 경제적 해자가 부재하거나 심각하게 훼손된 상태입니다. 낮은 P/B는 자산 가치에 대한 시장의 불신을 반영하며, 지속 가능한 경쟁 우위를 찾기 위한 근본적인 변화가 시급합니다. (The current business model suffers from severe profitability issues and declining revenue, indicating an absence or severe erosion of an economic moat. The low P/B reflects market distrust in asset value, and fundamental changes are urgently needed to find sustainable competitive advantages.)",
+    "ai_system_tags": [
+      "Value",
+      "Turnaround"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "ticker": "MGYR",
+  "lastUpdated": "2026-05-10T16:42:40.921Z",
+  "rawFinancials": {
+    "name": "Magyar Bancorp, Inc.",
+    "marketCap": 114466104,
+    "trailingPE": 9.926967,
+    "priceToBook": 0.88006777,
+    "totalRevenue": 37162000,
+    "operatingMargins": 0.43405,
+    "returnOnEquity": 0.09361,
+    "totalDebt": 49054000,
+    "revenueGrowth": 0.072
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "완만한 성장세 (매출 성장률 7.2%로 꾸준하나 고성장은 아님)",
+      "profitability": "견고한 마진과 양호한 자본 효율성 (영업 마진 43.4%, ROE 9.36%로 업종 특성을 고려할 때 우수)",
+      "cashflow_stability": "안정적인 이자 수익 기반의 현금 흐름, 부채 관리는 업종 특성상 핵심 (은행업 특성상 부채는 핵심 자산이며, P/B 0.88은 잠재적 저평가 시사)"
+    },
+    "macro_sensitivity": "금리 변동에 매우 민감하며, 금리 인상기에는 순이자마진(NIM) 개선 기회가 있으나 경기 침체 시 대출 부실 위험이 증가합니다. 전형적인 경기 민감주(Cyclical) 특성을 가집니다.",
+    "technical_synergy": "낮은 P/E(9.93)와 P/B(0.88) 비율, 그리고 견고한 수익성을 가진 이 기업이 '단테의 밥그릇 3번 자리'와 같은 기술적 패턴을 형성한다면, 이는 시장이 내재가치를 재평가하기 시작했음을 강력히 시사합니다. 펀더멘털에 기반한 신뢰도 높은 추세 전환 신호로 해석될 수 있습니다.",
+    "business_moat": "Magyar Bancorp은 지역 사회에 뿌리내린 예금 및 대출 서비스를 통해 안정적인 고객 기반을 확보하고 있습니다. 이는 관계형 금융에서 오는 고객 충성도와 규제 산업의 진입 장벽이 결합된 형태의 경제적 해자를 형성합니다.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical"
+    ]
+  }
+}

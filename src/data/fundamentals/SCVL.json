@@ -1,0 +1,34 @@
+{
+  "ticker": "SCVL",
+  "lastUpdated": "2026-05-10T10:41:54.607Z",
+  "rawFinancials": {
+    "name": "Shoe Carnival, Inc.",
+    "marketCap": 493066208,
+    "trailingPE": 9.442105,
+    "forwardPE": 9.732387,
+    "priceToBook": 0.71207434,
+    "totalRevenue": 1135324032,
+    "operatingMargins": 0.043070003,
+    "returnOnEquity": 0.07809,
+    "freeCashflow": 9013625,
+    "totalCash": 130727000,
+    "totalDebt": 371424992,
+    "currentRatio": 3.763,
+    "revenueGrowth": -0.034
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "현재 역성장 국면에 진입했으며, 낮은 P/E는 시장이 향후 고성장을 기대하지 않음을 시사합니다.",
+      "profitability": "4%대의 낮은 영업이익률은 전형적인 박리다매형 소매업의 특징을 보여주며, 경쟁 심화 시 수익성 방어가 쉽지 않은 구조입니다.",
+      "cashflow_stability": "3.7배가 넘는 높은 유동비율로 단기 재무 건전성은 매우 우수하나, 총 부채가 현금성 자산을 크게 상회하여 장기적인 부채 관리가 중요합니다. 긍정적인 잉여현금흐름은 재무적 유연성을 제공합니다."
+    },
+    "macro_sensitivity": "소비자 재량 지출에 크게 의존하는 신발 소매업의 특성상, 경기 침체와 인플레이션에 매우 취약한 경기 민감주입니다. 금리 인상으로 인한 가처분 소득 감소는 매출에 직접적인 타격을 줄 수 있습니다.",
+    "technical_synergy": "낮은 P/E와 P/B는 시장의 저평가 가능성을 시사하며, '단테의 밥그릇 3번 자리'와 같은 장기 이평선 돌파 패턴은 기술적 반등의 신뢰도를 높일 수 있습니다. 그러나 근본적인 성장 동력 부재로 폭발적인 상승보다는 저평가 해소에 따른 점진적인 가치 회복 움직임이 더 합리적입니다.",
+    "business_moat": "신발 소매업은 진입 장벽이 낮고 경쟁이 치열하여 강력한 경제적 해자를 구축하기 어렵습니다. 특별한 브랜드 파워나 독점적 유통망이 부재하여 가격 경쟁과 소비 트렌드 변화에 쉽게 노출됩니다.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Turnaround"
+    ]
+  }
+}

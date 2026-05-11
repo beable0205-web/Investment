@@ -1,0 +1,33 @@
+{
+  "ticker": "FBYD",
+  "lastUpdated": "2026-05-10T09:26:18.522Z",
+  "rawFinancials": {
+    "name": "Falcon's Beyond Global, Inc.",
+    "marketCap": 570465152,
+    "trailingPE": 388.33334,
+    "priceToBook": 46.975807,
+    "totalRevenue": 14896000,
+    "operatingMargins": -0.29461,
+    "returnOnEquity": 3.3899,
+    "freeCashflow": -25598500,
+    "totalCash": 1336000,
+    "totalDebt": 17980000,
+    "currentRatio": 0.364,
+    "revenueGrowth": 3.835
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "고성장 (매출 기준, 383.5% 성장), 그러나 심각한 적자 지속",
+      "profitability": "심각한 적자 늪 (영업 마진 -29.46%), 수익 모델 불확실하며 지속 가능성 의문",
+      "cashflow_stability": "현금 소각 심각 (FCF -2,560만 달러), 부채 부담 높고 유동성 매우 취약 (유동비율 0.364)"
+    },
+    "macro_sensitivity": "금리 인상, 인플레이션, 경기 침체 등 모든 거시경제 악화 요인에 극도로 취약. 자금 조달 환경 악화 시 생존 자체가 위협받을 수 있는 고위험군.",
+    "technical_synergy": "현재 펀더멘털은 '단테의 밥그릇 3번 자리'와 같은 기술적 패턴의 신뢰도를 극히 낮춘다. 기술적 돌파는 단기적 투기적 매수세에 의한 것일 가능성이 높으며, 지속적인 상승 동력은 부재하다. 급격한 변동성과 높은 하방 위험을 내포.",
+    "business_moat": "현재 재무 데이터만으로는 명확한 경제적 해자를 찾기 어렵다. 높은 매출 성장에도 불구하고 심각한 영업 손실은 핵심 비즈니스 모델의 수익성과 지속 가능성에 대한 근본적인 의문을 제기한다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Turnaround",
+      "Speculative"
+    ]
+  }
+}

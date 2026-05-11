@@ -1,0 +1,33 @@
+{
+  "ticker": "NC",
+  "lastUpdated": "2026-05-10T12:06:57.462Z",
+  "rawFinancials": {
+    "name": "NACCO Industries, Inc.",
+    "marketCap": 379820512,
+    "trailingPE": 17.611889,
+    "priceToBook": 0.87154377,
+    "totalRevenue": 274401984,
+    "operatingMargins": -0.096379995,
+    "returnOnEquity": 0.05084,
+    "freeCashflow": -65806000,
+    "totalCash": 53161000,
+    "totalDebt": 133853000,
+    "currentRatio": 3.305,
+    "revenueGrowth": -0.043
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 역성장 및 핵심 사업 부진 (Revenue decline and core business underperformance)",
+      "profitability": "핵심 사업은 적자 늪에 빠져 있으며, 마이너스 영업 마진은 경쟁 우위 부재를 시사합니다. (Core business is in a loss-making swamp; negative operating margins suggest a lack of competitive advantage.)",
+      "cashflow_stability": "지속적인 현금 소진(Negative FCF)으로 재무적 압박이 심화되고 있습니다. 높은 유동비율에도 불구하고, 상당한 부채는 장기적 안정성을 위협합니다. (Persistent cash burn (negative FCF) intensifies financial pressure. Despite a high current ratio, significant debt threatens long-term stability.)"
+    },
+    "macro_sensitivity": "이 기업은 매출 감소와 마이너스 영업 마진으로 인해 경기 침체에 매우 취약한 경기 민감주입니다. 금리 인상은 부채 상환 부담을 가중시켜 재무 건전성을 더욱 악화시킬 것입니다. (This company is highly cyclical and extremely vulnerable to economic downturns due to declining revenue and negative operating margins. Interest rate hikes would exacerbate debt servicing burdens, further deteriorating financial health.)",
+    "technical_synergy": "펀더멘털이 극도로 취약한 기업이 '단테의 밥그릇 3번 자리'와 같은 기술적 패턴을 형성한다면, 이는 지속 가능한 상승 추세보다는 단기적 투기 또는 '데드 캣 바운스'일 가능성이 높습니다. 워런 버핏과 피터 린치의 철학에 따르면, 이러한 패턴은 신뢰도가 매우 낮으며, 펀더멘털 개선 없이는 장기 투자 가치를 찾기 어렵습니다. (If a fundamentally extremely weak company forms a technical pattern like 'Dante's Bowl Position 3', it is more likely a short-term speculation or a 'dead cat bounce' rather than a sustainable uptrend. According to the philosophies of Warren Buffett and Peter Lynch, such patterns have very low reliability, and long-term investment value is difficult to find without fundamental improvement.)",
+    "business_moat": "현재 재무 지표만으로는 뚜렷한 경제적 해자를 찾기 어렵습니다. 마이너스 영업 마진과 매출 감소는 이 기업이 가격 결정력이나 비용 우위와 같은 핵심 경쟁 우위를 상실했거나 부재함을 강력히 시사합니다. (It is difficult to find a clear economic moat based solely on current financial indicators. Negative operating margins and declining revenue strongly suggest that this company has lost or lacks key competitive advantages such as pricing power or cost leadership.)",
+    "ai_system_tags": [
+      "Cyclical",
+      "Turnaround",
+      "Distressed Value"
+    ]
+  }
+}

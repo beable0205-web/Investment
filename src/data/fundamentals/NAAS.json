@@ -1,0 +1,32 @@
+{
+  "ticker": "NAAS",
+  "lastUpdated": "2026-05-10T20:20:06.914Z",
+  "rawFinancials": {
+    "name": "Naas Technology Inc.",
+    "marketCap": 28751654,
+    "forwardPE": 238.5,
+    "priceToBook": -0.03905868,
+    "totalRevenue": 125139000,
+    "operatingMargins": -2.22736,
+    "freeCashflow": 81032128,
+    "totalCash": 82445000,
+    "totalDebt": 585313984,
+    "currentRatio": 0.191,
+    "revenueGrowth": -0.353
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "심각한 역성장 (매출 35% 이상 감소), 미래 성장 동력 부재로 인한 지속적인 매출 하락 추세",
+      "profitability": "핵심 사업에서 막대한 손실 발생 (영업이익률 -222%), 매출액을 훨씬 초과하는 비용 구조로 지속 불가능한 적자 늪에 빠져 있음",
+      "cashflow_stability": "과도한 부채 (총 부채 5.8억 달러)와 심각한 유동성 위기 (유동비율 0.19). 긍정적인 잉여현금흐름은 일시적이거나 비영업적 요인으로 추정되며, 파산 위험이 매우 높음"
+    },
+    "macro_sensitivity": "높은 부채로 인해 금리 인상에 극도로 취약하며, 경기 침체 시 수요 감소와 자금 조달 어려움으로 생존 자체가 위협받을 수 있는 대표적인 경기 민감주. 인플레이션은 비용 부담을 가중시켜 마진 압박을 심화시킬 것입니다.",
+    "technical_synergy": "이러한 심각한 펀더멘털을 가진 기업의 '단테의 밥그릇 3번 자리'와 같은 기술적 패턴은 극히 신뢰하기 어려우며, 대부분 투기적 움직임이나 일시적인 반등에 불과할 가능성이 높습니다. 장기적인 추세 전환의 신호로 해석하기에는 근본적인 기업 가치가 전무합니다.",
+    "business_moat": "현재 재무 상태는 이 기업이 어떠한 경제적 해자도 보유하고 있지 않음을 명확히 보여줍니다. 경쟁 우위는커녕 생존 자체를 위협받는 상황으로, 독점적 지위나 강력한 브랜드 파워를 찾아볼 수 없습니다.",
+    "ai_system_tags": [
+      "Distressed",
+      "High-Risk",
+      "Speculative"
+    ]
+  }
+}

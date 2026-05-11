@@ -1,0 +1,34 @@
+{
+  "ticker": "DOLE",
+  "lastUpdated": "2026-05-10T06:09:58.660Z",
+  "rawFinancials": {
+    "name": "Dole plc",
+    "marketCap": 1416049920,
+    "trailingPE": 14.732674,
+    "forwardPE": 9.871171,
+    "priceToBook": 1.0380913,
+    "totalRevenue": 9172907008,
+    "operatingMargins": 0.011849999,
+    "returnOnEquity": 0.08713,
+    "freeCashflow": 68650128,
+    "totalCash": 280776000,
+    "totalDebt": 1245340032,
+    "currentRatio": 1.172,
+    "revenueGrowth": 0.092
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적이나 완만한 성장 (Stable but Moderate Growth)",
+      "profitability": "박리다매형, 마진 압박 심각 (Low-Margin, Severe Margin Pressure)",
+      "cashflow_stability": "현금 창출력 보통, 레버리지 과다 (Moderate Cash Generation, Excessive Leverage)"
+    },
+    "macro_sensitivity": "인플레이션 및 금리 인상에 매우 취약하며, 경기 침체 시에도 마진 압박이 심화될 수 있는 '취약한 방어주' (Highly vulnerable to inflation and interest rate hikes, a 'vulnerable defensive stock' where margin pressure can intensify even during recessions.)",
+    "technical_synergy": "펀더멘털상 폭발력은 제한적. 장기 이평선 돌파 시 단기적 모멘텀은 가능하나, 박한 마진과 부채 구조로 인해 신뢰도는 낮음. (Limited explosive power fundamentally. Short-term momentum possible on long-term MA breakout, but reliability is low due to thin margins and debt structure.)",
+    "business_moat": "Dole의 경제적 해자는 방대한 글로벌 공급망, 유통 네트워크, 그리고 오랜 기간 축적된 브랜드 인지도에서 비롯됩니다. 그러나 신선 농산물이라는 제품의 본질적 특성상 가격 결정력이 매우 약하여, 이 해자는 경쟁 우위를 유지하는 데는 도움이 되지만 독점적 마진을 창출하기에는 얇습니다.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Defensive"
+    ]
+  }
+}

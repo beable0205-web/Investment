@@ -1,0 +1,34 @@
+{
+  "ticker": "TK",
+  "lastUpdated": "2026-05-10T06:45:33.546Z",
+  "rawFinancials": {
+    "name": "Teekay Corporation Ltd.",
+    "marketCap": 1225996672,
+    "trailingPE": 12.469027,
+    "forwardPE": 32.76744,
+    "priceToBook": 1.6735955,
+    "totalRevenue": 949520000,
+    "operatingMargins": 0.26775998,
+    "returnOnEquity": 0.17179,
+    "freeCashflow": 15844125,
+    "totalCash": 972734976,
+    "totalDebt": 46377000,
+    "currentRatio": 8.887,
+    "revenueGrowth": -0.053
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "현재 역성장 국면 (Currently in a negative growth phase)",
+      "profitability": "독점적 수준의 높은 영업 마진과 우수한 ROE (Monopolistic level of high operating margins and excellent ROE)",
+      "cashflow_stability": "막대한 현금과 극히 낮은 부채로 파산 위험은 전무하며, 현금 흐름은 양호하나 규모는 제한적 (Zero bankruptcy risk due to massive cash and extremely low debt; cash flow is fair but limited in scale)"
+    },
+    "macro_sensitivity": "글로벌 경기 침체 및 에너지 수요 변동에 직접적으로 노출된 경기 민감주. 그러나 압도적인 현금 보유량과 낮은 부채는 금리 인상기 재무적 방어력을 극대화함. (A cyclical stock directly exposed to global economic downturns and energy demand fluctuations. However, overwhelming cash reserves and low debt maximize financial defense during interest rate hike periods.)",
+    "technical_synergy": "강력한 재무 건전성은 주가 하방을 견고히 지지하며, '단테의 밥그릇 3번 자리'와 같은 장기 이평선 돌파 시 자산 가치 재평가 및 사업 회복 기대감으로 신뢰도 높은 상승 추세를 형성할 수 있습니다. 다만, 지속적인 펀더멘털 개선 없이는 모멘텀 유지에 한계가 있을 수 있습니다. (Strong financial health firmly supports the stock's downside. A breakout above long-term moving averages, like 'Dante's Bowl Position 3', could form a highly reliable upward trend driven by asset revaluation and business recovery expectations. However, without sustained fundamental improvement, maintaining momentum may be limited.)",
+    "business_moat": "해상 에너지 운송 분야에서 효율적인 운영과 규모의 경제를 통해 높은 마진을 유지하는 것으로 보입니다. 막대한 현금 보유는 불황기 경쟁 우위를 강화하고 잠재적 인수 기회를 제공하는 강력한 해자입니다. (Appears to maintain high margins through efficient operations and economies of scale in marine energy transportation. Its substantial cash reserves are a strong moat, enhancing competitive advantage during downturns and providing potential acquisition opportunities.)",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Turnaround"
+    ]
+  }
+}

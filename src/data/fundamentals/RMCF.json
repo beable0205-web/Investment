@@ -1,0 +1,33 @@
+{
+  "ticker": "RMCF",
+  "lastUpdated": "2026-05-10T20:44:32.460Z",
+  "rawFinancials": {
+    "name": "Rocky Mountain Chocolate Factor",
+    "marketCap": 23705368,
+    "forwardPE": 2.6458333,
+    "priceToBook": 3.2987013,
+    "totalRevenue": 29638000,
+    "operatingMargins": 0.01087,
+    "returnOnEquity": -0.5096,
+    "freeCashflow": 4375,
+    "totalCash": 641000,
+    "totalDebt": 9222000,
+    "currentRatio": 1.659,
+    "revenueGrowth": -0.044
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "역성장 (Negative Growth)",
+      "profitability": "적자 늪 및 극히 낮은 마진 (Loss-making swamp and extremely thin margins)",
+      "cashflow_stability": "현금 창출력 미약 및 레버리지 부담 (Weak cash generation and leverage burden)"
+    },
+    "macro_sensitivity": "경기 침체 및 인플레이션 취약주, 금리 인상에 매우 민감 (Highly vulnerable to recession and inflation, very sensitive to interest rate hikes)",
+    "technical_synergy": "이 기업의 취약한 펀더멘털은 '단테의 밥그릇 3번 자리'와 같은 강력한 기술적 패턴이 나타나더라도 그 신뢰도를 현저히 떨어뜨립니다. 펀더멘털 개선이라는 명확한 촉매제 없이는 기술적 반등이 지속되기 어렵고, 단기적인 투기적 움직임에 그칠 가능성이 높습니다.",
+    "business_moat": "이 기업은 낮은 마진과 역성장을 보이며, 강력한 브랜드 충성도나 독점적 유통망과 같은 뚜렷한 경제적 해자가 부재합니다. 경쟁 심화와 시장 지위 약화로 인해 수익성 방어에 어려움을 겪고 있으며, 이는 파산 위험을 가중시키는 요인입니다.",
+    "ai_system_tags": [
+      "Distressed",
+      "Value Trap",
+      "High-Risk"
+    ]
+  }
+}

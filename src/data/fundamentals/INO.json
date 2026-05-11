@@ -1,0 +1,32 @@
+{
+  "ticker": "INO",
+  "lastUpdated": "2026-05-10T17:12:48.129Z",
+  "rawFinancials": {
+    "name": "Inovio Pharmaceuticals, Inc.",
+    "marketCap": 119124256,
+    "forwardPE": -2.5172415,
+    "priceToBook": 4.183381,
+    "totalRevenue": 65343,
+    "operatingMargins": -1328.7131,
+    "returnOnEquity": -1.8346801,
+    "freeCashflow": -38681548,
+    "totalCash": 58512464,
+    "totalDebt": 9367826,
+    "currentRatio": 1.4,
+    "revenueGrowth": -1
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "극심한 역성장 및 매출 소멸 단계. 현재 사업 모델에서 유의미한 매출 성장을 기대하기 어려움.",
+      "profitability": "심각한 적자 구조. 영업 마진 및 자기자본 이익률이 극도로 부정적이며, 이는 사업의 근본적인 수익성 부재를 시사함.",
+      "cashflow_stability": "막대한 현금 소진(Cash Burn) 상태. 보유 현금은 있으나, 현재의 현금 흐름으로는 지속 가능성이 매우 낮음. 부채 수준은 낮지만, 현금 소진 속도가 더 큰 리스크."
+    },
+    "macro_sensitivity": "임상 단계 바이오 기업의 특성상 경기 변동에 직접적인 민감도는 낮으나, 자본 시장의 유동성 및 금리 환경 변화에 극도로 취약함. 고금리 환경은 자금 조달 비용을 증가시켜 생존에 치명적일 수 있음.",
+    "technical_synergy": "이러한 극도로 취약한 펀더멘털을 가진 기업이 '단테의 밥그릇 3번 자리'와 같은 기술적 패턴을 형성한다면, 이는 근본적인 사업 개선보다는 단기적인 투기적 이벤트(임상 결과 발표, M&A 루머 등)에 의한 것일 가능성이 높습니다. 따라서 해당 패턴의 신뢰도는 매우 낮으며, 장기적인 추세 전환보다는 급격한 변동성 확대와 투기적 매매 기회로 해석해야 합니다.",
+    "business_moat": "이 기업은 현재 유의미한 매출을 창출하는 제품이 없는 임상 단계 바이오 제약사입니다. 잠재적 경제적 해자는 개발 중인 파이프라인의 특허와 기술력에 기반하지만, 아직 수익성으로 연결되지 않아 그 가치를 입증하지 못했으며, 오히려 막대한 R&D 비용으로 현금을 소진하고 있습니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "High-Growth"
+    ]
+  }
+}

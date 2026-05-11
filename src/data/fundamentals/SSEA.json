@@ -1,0 +1,9 @@
+{
+  "ticker": "SSEA",
+  "lastUpdated": "2026-05-10T17:48:39.613Z",
+  "isInvestable": false,
+  "redFlags": [
+    "불투명한 재무 데이터 (데이터 제공 안됨)"
+  ],
+  "moatAndBusiness": "데이터가 존재하지 않는 껍데기 회사거나 상장폐지 위험 종목."
+}

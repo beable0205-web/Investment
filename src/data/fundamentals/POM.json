@@ -1,0 +1,30 @@
+{
+  "ticker": "POM",
+  "lastUpdated": "2026-05-10T19:17:36.384Z",
+  "rawFinancials": {
+    "name": "POMDOCTOR LIMITED",
+    "marketCap": 8939592,
+    "priceToBook": -0.008302014,
+    "totalRevenue": 366863360,
+    "operatingMargins": -0.06545,
+    "freeCashflow": -12435489,
+    "totalCash": 5746989,
+    "totalDebt": 456020256,
+    "currentRatio": 0.173,
+    "revenueGrowth": 0.162
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "외형 성장은 존재하나, 심각한 적자와 현금 소진으로 지속 불가능한 역설적 성장",
+      "profitability": "핵심 사업의 심각한 적자 구조로, 마진은커녕 운영 비용조차 감당하지 못하는 적자 늪에 빠져 있음",
+      "cashflow_stability": "극심한 현금 소진과 과도한 부채(자본 잠식 상태)로 인해 현금 흐름 안정성은 전무하며, 파산 위험이 임박한 수준"
+    },
+    "macro_sensitivity": "금리 인상, 인플레이션, 경기 침체 등 모든 거시경제 악화 요인에 극도로 취약하며, 이미 심각한 재무 상태를 더욱 악화시켜 파산 위험을 가속화할 수 있는 치명적인 민감도를 가짐. 경기 방어 능력은 전무함",
+    "technical_synergy": "이러한 펀더멘털을 가진 기업은 '단테의 밥그릇 3번 자리'와 같은 기술적 패턴이 나타나더라도 신뢰도가 극히 낮으며, 이는 투자자들을 유인하는 '죽은 고양이의 반등(Dead Cat Bounce)'에 불과할 가능성이 높음. 장기 이평선 돌파 및 지지는 재무적 기반이 뒷받침될 때 의미가 있으며, 이 기업의 경우 기술적 신호는 오히려 함정으로 작용할 수 있음",
+    "business_moat": "POMDOCTOR LIMITED는 외형 성장을 이루고 있으나, 심각한 적자와 현금 소진, 그리고 자본 잠식 상태로 인해 핵심 비즈니스 모델의 지속 가능성이 심각하게 위협받고 있습니다. 현재로서는 어떠한 경제적 해자도 찾아볼 수 없으며, 오히려 경쟁 우위가 완전히 상실되어 생존 자체가 불투명한 상황입니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "ticker": "BPRN",
+  "lastUpdated": "2026-05-10T14:06:46.154Z",
+  "rawFinancials": {
+    "name": "Princeton Bancorp, Inc.",
+    "marketCap": 241122080,
+    "trailingPE": 12.449123,
+    "forwardPE": 9.36971,
+    "priceToBook": 0.88129365,
+    "totalRevenue": 78415000,
+    "operatingMargins": 0.39813998,
+    "returnOnEquity": 0.072,
+    "totalCash": 119794000,
+    "totalDebt": 0,
+    "revenueGrowth": 0.038
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 저성장",
+      "profitability": "우수한 영업 마진, 보통 수준의 자기자본이익률",
+      "cashflow_stability": "압도적인 현금 창출력 및 부채 리스크 전무"
+    },
+    "macro_sensitivity": "금리 변동에 민감한 경기 민감주이나, 견고한 재무구조로 경기 침체 방어력 우수",
+    "technical_synergy": "견고한 펀더멘털과 장부가치 이하 거래는 '단테의 밥그릇 3번 자리' 패턴 발생 시 강력한 신뢰도를 부여하며, 단순 기술적 반등을 넘어선 가치 재평가 가능성을 시사한다.",
+    "business_moat": "이 기업의 해자는 지역 사회 내 깊은 신뢰와 고객 관계에서 비롯되며, 이는 높은 전환 비용을 발생시켜 안정적인 예금 기반과 대출 관계를 유지하게 합니다.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Defensive"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "ticker": "BYD",
+  "lastUpdated": "2026-05-09T11:53:00.614Z",
+  "rawFinancials": {
+    "name": "Boyd Gaming Corporation",
+    "marketCap": 6365635072,
+    "trailingPE": 3.7860298,
+    "forwardPE": 10.934376,
+    "priceToBook": 2.5267007,
+    "totalRevenue": 4097778944,
+    "operatingMargins": 0.18468,
+    "returnOnEquity": 0.94281,
+    "freeCashflow": 480228736,
+    "totalCash": 373616000,
+    "totalDebt": 2921530112,
+    "currentRatio": 0.6,
+    "revenueGrowth": 0.006
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 성장률 0.6%로 사실상 정체 상태. Trailing PE 대비 Forward PE가 높은 것은 향후 이익 감소 가능성을 시사하는 저성장 국면의 기업.",
+      "profitability": "18.5%의 높은 영업이익률은 효율적인 사업 운영을 증명. 그러나 94%에 달하는 비정상적인 ROE는 높은 부채를 활용한 레버리지 효과와 일회성 이익에 기인한 것으로, 지속가능성에 대한 의문이 존재.",
+      "cashflow_stability": "시가총액 대비 7.5%에 달하는 강력한 잉여현금흐름(FCF) 창출 능력 보유. 다만, 총 부채가 현금성 자산의 8배에 달하고 유동비율이 0.6으로 낮아 재무안정성 및 단기 유동성 리스크가 상존."
+    },
+    "macro_sensitivity": "카지노 및 레저 산업의 특성상 경기 변동에 매우 민감한 대표적인 시클리컬(Cyclical) 주식. 경기 침체기에는 소비 지출 감소로 직접적인 타격을 받으며, 높은 부채 구조로 인해 금리 인상 시 이자 비용 부담이 가중되는 이중고를 겪을 수 있음.",
+    "technical_synergy": "폭발적인 성장을 기대하기 어려운 가치주(Value Stock) 특성상, '단테의 밥그릇 3번 자리'와 같은 장기 바닥권 탈출 패턴은 추세적 상승의 신호탄이기보다, 극심한 저평가 국면이 해소되는 '가치 회귀'의 신뢰도를 높여줌. 강력한 현금흐름이 주가 하방 경직성을 제공하므로, 기술적 지지선이 펀더멘털에 의해 강화되는 경향이 있음.",
+    "business_moat": "정부로부터 허가받은 소수의 사업자만 진입할 수 있는 카지노 라이선스가 이 기업의 가장 강력한 경제적 해자임. 특정 지역 내에서 과점적 지위를 누리며, 이를 통해 안정적이고 높은 마진을 유지함.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Dividend"
+    ]
+  }
+}

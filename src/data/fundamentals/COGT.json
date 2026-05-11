@@ -1,0 +1,30 @@
+{
+  "ticker": "COGT",
+  "lastUpdated": "2026-05-09T10:14:17.777Z",
+  "rawFinancials": {
+    "name": "Cogent Biosciences, Inc.",
+    "marketCap": 5935954432,
+    "forwardPE": -30.418188,
+    "priceToBook": 10.931404,
+    "operatingMargins": 0,
+    "returnOnEquity": -0.85716003,
+    "freeCashflow": -167254000,
+    "totalCash": 866377984,
+    "totalDebt": 238652992,
+    "currentRatio": 15.139
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "현재 실적은 없으나, 신약 개발 성공 시 폭발적 성장이 기대되는 전형적인 임상 단계 바이오테크 기업.",
+      "profitability": "R&D 비용으로 인해 막대한 영업손실과 순손실을 기록 중인 '적자 늪' 상태. 모든 가치는 미래의 수익성에 기반함.",
+      "cashflow_stability": "대규모 현금을 소모하고 있으나, 보유 현금(Total Cash)이 부채(Total Debt)를 압도하고 유동비율(Current Ratio)이 극히 높아 단기 파산 위험은 매우 낮음."
+    },
+    "macro_sensitivity": "금리 인상 시기에는 미래가치 할인율 상승으로 주가에 부담. 반면, 경기 침체 자체에는 둔감한 편이나, 자금 조달 시장 경색에는 영향을 받을 수 있음. 대표적인 금리 인하 수혜주 유형.",
+    "technical_synergy": "펀더멘털이 부재한 상태에서 긍정적 임상 데이터 등 강력한 '뉴스'를 기반으로 움직이는 경향. 따라서 장기 이평선 돌파 및 지지(밥그릇 3번 자리) 패턴은 단순한 기술적 신호를 넘어, 시장의 긍정적 컨센서스 형성의 증거로 해석되어 폭발적인 추세 형성 가능성이 높음.",
+    "business_moat": "핵심 비즈니스는 특허로 보호받는 신약 후보물질의 연구개발임. 미국 FDA 등 규제 기관의 허들이라는 강력한 진입장벽이 경제적 해자의 핵심으로, 신약 개발 성공 시 장기간의 독점적 이익을 보장함.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Turnaround"
+    ]
+  }
+}

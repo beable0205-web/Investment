@@ -1,0 +1,32 @@
+{
+  "ticker": "NPFD",
+  "lastUpdated": "2026-05-10T10:52:52.738Z",
+  "rawFinancials": {
+    "name": "Nuveen Variable Rate Preferred & Income Fund",
+    "marketCap": 468784320,
+    "trailingPE": 9.023255,
+    "priceToBook": 0.95741004,
+    "totalRevenue": 48132972,
+    "operatingMargins": 0.83271,
+    "returnOnEquity": 0.1073,
+    "freeCashflow": 15975294,
+    "totalDebt": 273679584,
+    "currentRatio": 0.422,
+    "revenueGrowth": 0.068
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "완만한 성장",
+      "profitability": "독점적 수준의 높은 마진율과 견고한 자기자본이익률을 바탕으로 한 우수한 수익성 구조.",
+      "cashflow_stability": "긍정적인 현금 창출력을 보유하나, 과도한 부채 레버리지와 낮은 유동성 비율은 재무 안정성에 심각한 위험 요인으로 작용."
+    },
+    "macro_sensitivity": "금리 변동에 매우 민감하며, 특히 금리 인상기에는 높은 부채 비용과 자산 가치 하락 압력에 직면할 수 있음. 경기 침체 시에는 낮은 유동성으로 인해 재무적 취약성이 부각될 위험이 큼.",
+    "technical_synergy": "낮은 밸류에이션과 높은 마진율은 기술적 돌파 시 강력한 반등 잠재력을 시사하지만, 과도한 부채와 취약한 유동성은 기술적 신호의 신뢰도를 저해하는 핵심 요소. '단테의 밥그릇 3번 자리' 돌파는 재무 구조 개선이라는 펀더멘털 변화가 동반될 때 비로소 의미 있는 신호로 해석될 수 있으며, 그렇지 않을 경우 '가치 함정'에 빠질 위험이 높음.",
+    "business_moat": "Nuveen이라는 강력한 브랜드 인지도와 전문적인 자산 운용 역량을 바탕으로 안정적인 배당 및 이자 수익을 창출하는 펀드 구조가 핵심 해자. 변동금리 자산 운용을 통해 시장 변화에 대한 유연한 대응력을 확보.",
+    "ai_system_tags": [
+      "Value",
+      "Dividend",
+      "Turnaround"
+    ]
+  }
+}

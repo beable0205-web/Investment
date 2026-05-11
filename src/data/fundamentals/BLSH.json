@@ -1,0 +1,33 @@
+{
+  "ticker": "BLSH",
+  "lastUpdated": "2026-05-09T09:54:46.363Z",
+  "rawFinancials": {
+    "name": "Bullish",
+    "marketCap": 6620966912,
+    "forwardPE": 41.081326,
+    "priceToBook": 2.0475543,
+    "totalRevenue": 237240992,
+    "operatingMargins": -2.44719,
+    "returnOnEquity": -0.27565,
+    "freeCashflow": -633050240,
+    "totalCash": 492036000,
+    "totalDebt": 581084992,
+    "currentRatio": 29.282,
+    "revenueGrowth": 0.979
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "폭발적인 매출 성장(97.9%)을 보이나, 아직 이익으로 연결되지 않는 전형적인 고성장-고비용 구조.",
+      "profitability": "영업이익률(-244.7%)과 ROE(-27.5%)가 극도로 부진한 '적자 늪' 상태로, 수익성 개선이 최우선 과제.",
+      "cashflow_stability": "매출액을 상회하는 막대한 현금 소진(-$633M)으로 인해 외부 자금 조달 의존도가 높으며, 부채($5.8억)가 현금($4.9억)을 초과하여 재무 리스크 상존."
+    },
+    "macro_sensitivity": "고성장 기술주 특성상 금리 인상에 매우 민감하며, 경기 침체 시 투자 심리 위축에 직접적 타격을 받는 대표적인 경기 민감주.",
+    "technical_synergy": "폭발적 성장 스토리가 유효한 구간에서는 '밥그릇 3번 자리' 같은 장기 추세 전환 패턴의 신뢰도와 파괴력이 극대화됨. 단, 펀더멘털의 취약성으로 인해 패턴이 붕괴될 경우, 실적 공백으로 인한 투매 현상이 나타날 위험이 큼.",
+    "business_moat": "디지털 자산 거래소를 운영하며 거래 수수료를 주 수익원으로 함. 현재는 막대한 자본을 투입해 사용자 기반을 확보하는 단계로, 경쟁이 치열한 시장에서 지속 가능한 경제적 해자는 아직 불분명함.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

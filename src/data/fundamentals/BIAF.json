@@ -1,0 +1,32 @@
+{
+  "ticker": "BIAF",
+  "lastUpdated": "2026-05-11T11:43:59.844Z",
+  "rawFinancials": {
+    "name": "bioAffinity Technologies, Inc.",
+    "marketCap": 9132310,
+    "forwardPE": -3.3833332,
+    "priceToBook": 1.2538605,
+    "totalRevenue": 6161959,
+    "operatingMargins": -1.9694501,
+    "returnOnEquity": -3.01826,
+    "freeCashflow": -4933569,
+    "totalCash": 6449782,
+    "totalDebt": 1160821,
+    "currentRatio": 2.603,
+    "revenueGrowth": -0.278
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "심각한 역성장 (매출 -27.8% 감소) 및 이익 부재",
+      "profitability": "극심한 적자 늪 (영업 마진 -196.9%, ROE -301.8%)",
+      "cashflow_stability": "현금 소진 심각 (자유 현금 흐름 -490만 달러), 자금 조달 리스크 매우 높음. 현재 현금은 640만 달러로 1년 내 고갈 위험."
+    },
+    "macro_sensitivity": "금리 인상 및 경기 침체에 극도로 취약하며, 투자 심리 악화 시 자금 조달에 치명적인 영향을 받을 수 있습니다. 바이오/기술 섹터 특성상 고금리 환경은 미래 가치 할인율을 높여 기업 가치에 부정적입니다.",
+    "technical_synergy": "이러한 펀더멘털을 가진 기업이 '단테의 밥그릇 3번 자리'와 같은 기술적 패턴을 형성한다면, 이는 펀더멘털 개선에 기반한 신뢰할 수 있는 추세라기보다는 단기적 투기적 매수세나 기술적 반등에 불과할 가능성이 높습니다. 장기 투자 관점에서의 신뢰도는 극히 낮으며, 펀더멘털 변화 없이는 지속 불가능한 패턴으로 판단됩니다.",
+    "business_moat": "현재 재무 데이터는 이 기업이 지속적인 경쟁 우위나 경제적 해자를 보유하고 있음을 시사하지 않습니다. 심각한 매출 역성장과 적자는 오히려 해자가 부재하거나, 존재하더라도 아직 수익성으로 전환되지 못하고 있음을 보여줍니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "High-Risk"
+    ]
+  }
+}

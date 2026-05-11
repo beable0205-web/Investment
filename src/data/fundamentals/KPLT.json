@@ -1,0 +1,32 @@
+{
+  "ticker": "KPLT",
+  "lastUpdated": "2026-05-10T20:19:28.609Z",
+  "rawFinancials": {
+    "name": "Katapult Holdings, Inc.",
+    "marketCap": 29629114,
+    "trailingPE": 5.655462,
+    "forwardPE": -4.5472975,
+    "priceToBook": -0.8394661,
+    "totalRevenue": 291760992,
+    "operatingMargins": 0.099029996,
+    "freeCashflow": 194715008,
+    "totalCash": 22432000,
+    "totalDebt": 79170000,
+    "currentRatio": 0.895,
+    "revenueGrowth": 0.173
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출은 성장세를 보이나, 향후 이익 전망이 급격히 악화되어 성장 둔화 및 적자 전환 우려가 매우 높음. (양의 Trailing PE와 음의 Forward PE의 극명한 대조)",
+      "profitability": "표면적 영업 마진에도 불구하고, 심각한 자본 잠식 상태(음의 Price-to-Book)는 기업의 근본적인 수익성 구조가 붕괴되었음을 시사하며, 파산 위험을 내포함.",
+      "cashflow_stability": "매우 강력한 잉여현금흐름을 창출하고 있으나, 1 미만의 유동비율과 상당한 부채는 단기 유동성 및 재무 건전성에 대한 심각한 의문을 제기하며, 현금 흐름의 지속 가능성에 대한 면밀한 검토가 필요함."
+    },
+    "macro_sensitivity": "경기 침체, 인플레이션, 금리 인상 등 거시경제 악화 시 소비 심리 위축과 신용 리스크 증가로 인해 사업 모델 전반에 걸쳐 매우 높은 민감도를 보이며, 방어력이 거의 없음. 전형적인 경기 민감주(Cyclical)의 특성을 가짐.",
+    "technical_synergy": "심각한 펀더멘털 리스크(자본 잠식)로 인해 어떠한 기술적 패턴도 장기적 신뢰도를 확보하기 어려움. 단기적 기술적 반등은 투기적 성격이 강하며, 장기적 추세 전환의 신호로 해석하기에는 위험 부담이 매우 큼.",
+    "business_moat": "KPLT는 신용도가 낮은 고객을 위한 리스-투-소유 플랫폼으로, 높은 신용 리스크와 경쟁에 노출되어 있습니다. 현재의 심각한 재무 상태는 이 기업이 지속 가능한 경제적 해자를 보유하고 있지 않거나, 해자가 빠르게 약화되고 있음을 나타냅니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

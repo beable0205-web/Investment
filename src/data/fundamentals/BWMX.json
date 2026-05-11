@@ -1,0 +1,33 @@
+{
+  "ticker": "BWMX",
+  "lastUpdated": "2026-05-10T09:25:17.280Z",
+  "rawFinancials": {
+    "name": "Betterware de Mexico, S.A.P.I. ",
+    "marketCap": 624580544,
+    "trailingPE": 9.064865,
+    "forwardPE": 5.6539083,
+    "priceToBook": 7.2325025,
+    "totalRevenue": 14275182592,
+    "operatingMargins": 0.14793,
+    "returnOnEquity": 0.92617995,
+    "freeCashflow": 1921994112,
+    "totalCash": 311761984,
+    "totalDebt": 4390278144,
+    "currentRatio": 0.925,
+    "revenueGrowth": 0.003
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 성장은 거의 정체 상태(0.3%)이나, 낮은 선행 P/E는 향후 이익 개선에 대한 시장의 기대를 반영할 수 있습니다.",
+      "profitability": "매우 높은 ROE(92.6%)와 견고한 영업 마진(14.8%)은 이 기업이 자본을 매우 효율적으로 활용하며 강력한 수익 창출력을 가졌음을 시사합니다.",
+      "cashflow_stability": "강력한 잉여현금흐름(FCF)을 창출하지만, 높은 총부채와 1 미만의 유동비율은 단기 유동성 및 재무 레버리지 리스크를 내포하고 있습니다."
+    },
+    "macro_sensitivity": "이 기업은 높은 부채 수준으로 인해 금리 인상에 매우 민감하며, 경기 침체 시 소비 심리 위축으로 인한 매출 압박과 유동성 리스크가 증폭될 수 있습니다. 인플레이션 환경에서는 가격 전가 능력에 따라 마진 방어력이 달라질 것입니다.",
+    "technical_synergy": "낮은 P/E와 높은 ROE는 가치 투자자에게 매력적이며, '단테의 밥그릇 3번 자리'와 같은 장기 이평선 돌파 패턴은 저평가 해소에 따른 강력한 상승 모멘텀을 유발할 수 있습니다. 그러나 성장 정체와 부채 리스크는 상승 탄력을 제한하거나 변동성을 키울 수 있으므로, 기술적 신호와 함께 펀더멘털 개선 여부를 면밀히 주시해야 합니다.",
+    "business_moat": "이 기업은 매우 높은 ROE와 안정적인 마진을 통해 효율적인 자본 활용과 강력한 시장 지위를 보여줍니다. 이는 충성도 높은 고객 기반과 효율적인 유통 네트워크에서 비롯된 경제적 해자를 시사합니다.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical"
+    ]
+  }
+}

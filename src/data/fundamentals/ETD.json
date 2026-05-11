@@ -1,0 +1,34 @@
+{
+  "ticker": "ETD",
+  "lastUpdated": "2026-05-10T10:22:12.599Z",
+  "rawFinancials": {
+    "name": "Ethan Allen Interiors Inc.",
+    "marketCap": 518850848,
+    "trailingPE": 12.905063,
+    "forwardPE": 14.062068,
+    "priceToBook": 1.0850362,
+    "totalRevenue": 593091968,
+    "operatingMargins": 0.050079998,
+    "returnOnEquity": 0.08479,
+    "freeCashflow": 34178624,
+    "totalCash": 106488000,
+    "totalDebt": 120988000,
+    "currentRatio": 1.939,
+    "revenueGrowth": -0.048
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 역성장 또는 정체",
+      "profitability": "경쟁적 마진, 박리다매 구조",
+      "cashflow_stability": "현금 창출력 양호, 부채 관리 가능"
+    },
+    "macro_sensitivity": "금리 인상, 경기 침체에 매우 민감한 경기 민감주. 주택 시장 및 소비 심리에 직접적인 영향.",
+    "technical_synergy": "현재 펀더멘털(매출 역성장, 박한 마진)을 고려할 때, '단테의 밥그릇 3번 자리'와 같은 기술적 패턴은 강력한 펀더멘털 개선 신호(턴어라운드)나 거시경제적 호재(주택 시장 활황)가 동반될 때 비로소 신뢰도 높은 장기 투자 신호가 될 수 있음. 그렇지 않다면 단기적 반등에 그칠 가능성.",
+    "business_moat": "오랜 브랜드 인지도와 통합된 유통/제조 모델에서 해자가 발생하나, 경쟁이 치열한 가구 시장에서 그 폭은 좁음. 소비자 취향 변화와 경쟁에 취약.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Turnaround"
+    ]
+  }
+}

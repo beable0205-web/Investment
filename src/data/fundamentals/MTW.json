@@ -1,0 +1,34 @@
+{
+  "ticker": "MTW",
+  "lastUpdated": "2026-05-10T10:40:12.191Z",
+  "rawFinancials": {
+    "name": "Manitowoc Company, Inc. (The)",
+    "marketCap": 471851936,
+    "trailingPE": 62.571434,
+    "forwardPE": 13.730408,
+    "priceToBook": 0.6704766,
+    "totalRevenue": 2264600064,
+    "operatingMargins": 0.0093,
+    "returnOnEquity": 0.01121,
+    "freeCashflow": -1837500,
+    "totalCash": 78400000,
+    "totalDebt": 519000000,
+    "currentRatio": 2.099,
+    "revenueGrowth": 0.05
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 성장률은 5%로 완만하나, 현재 극히 낮은 이익 수준(Trailing PE 62.57) 대비 예상 이익(Forward PE 13.73)이 크게 개선될 것으로 보여 이익 회복 잠재력이 매우 높음.",
+      "profitability": "영업 마진율이 0.93%, ROE가 1.12%로 극히 낮아, 치열한 경쟁 환경 또는 박리다매 구조로 인해 수익성 압박이 심각한 상태.",
+      "cashflow_stability": "자유 현금 흐름(FCF)이 마이너스이며, 총 부채가 총 현금 대비 상당히 높아 현금 창출력에 대한 우려와 높은 부채 부담이 존재함. 다만, 양호한 유동비율은 단기적 재무 안정성을 제공."
+    },
+    "macro_sensitivity": "크레인 및 리프팅 솔루션은 건설, 인프라 투자 등 자본재 산업에 속하므로 경기 민감도가 매우 높음. 금리 인상 시 부채 상환 부담이 가중되고, 인플레이션은 원가 압박을 심화시키며, 경기 침체는 수요를 급감시켜 실적에 치명적일 수 있음. 반대로 금리 인하 및 경기 회복 시 가장 큰 수혜를 볼 수 있는 전형적인 경기 순환주.",
+    "technical_synergy": "현재의 낮은 수익성과 불안정한 현금 흐름을 감안할 때, '단테의 밥그릇 3번 자리'와 같은 장기 이평선 돌파 패턴은 시장이 예상하는 이익 회복(낮은 Forward PE)에 대한 신뢰할 만한 증거가 동반될 때 비로소 강력한 신뢰도를 가질 수 있음. 단순히 기술적 패턴만으로는 '가치 함정(Value Trap)'에 빠질 위험이 크며, 펀더멘털 개선 시그널(마진율 개선, FCF 흑자 전환)이 확인될 때 폭발력이 극대화될 것.",
+    "business_moat": "Manitowoc은 크레인 및 리프팅 솔루션 분야에서 오랜 역사와 브랜드 인지도를 보유하고 있으나, 극히 낮은 영업 마진은 강력한 가격 결정력이나 독점적 기술 해자가 부재함을 시사한다. 이는 경쟁 심화 또는 상품화된 제품 특성으로 인해 경제적 해자가 취약함을 나타낸다.",
+    "ai_system_tags": [
+      "Value",
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

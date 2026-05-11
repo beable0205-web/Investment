@@ -1,0 +1,33 @@
+{
+  "ticker": "PSEC",
+  "lastUpdated": "2026-05-10T06:22:40.706Z",
+  "rawFinancials": {
+    "name": "Prospect Capital Corporation",
+    "marketCap": 1237488896,
+    "forwardPE": 5.880953,
+    "priceToBook": 0.39774558,
+    "totalRevenue": 650638976,
+    "operatingMargins": 0.73296,
+    "returnOnEquity": -0.00799,
+    "freeCashflow": 195640256,
+    "totalCash": 36537000,
+    "totalDebt": 1731963008,
+    "currentRatio": 0.813,
+    "revenueGrowth": -0.121
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "Revenue is in a significant decline (-12.1%), and the negative Return on Equity indicates a contraction in shareholder value, pointing to a clear reverse growth trajectory.",
+      "profitability": "Despite a high operating margin (73.3%), the negative Return on Equity suggests that high interest expenses on substantial debt or investment losses are eroding net profitability, indicating a fragile and challenged profit structure.",
+      "cashflow_stability": "While generating positive free cash flow, the company carries an extremely high debt load (Total Debt 1.73B vs. Total Cash 36.5M) and a current ratio below 1 (0.813), signaling significant leverage and potential short-term liquidity risks."
+    },
+    "macro_sensitivity": "As a Business Development Company (BDC) with substantial leverage, PSEC is highly sensitive to interest rate fluctuations and economic cycles. Rising rates could exacerbate its debt service burden, while an economic downturn would likely increase loan defaults and investment losses, making it a pro-cyclical and rate-sensitive entity with limited defensive capabilities.",
+    "technical_synergy": "Given the severe fundamental weaknesses – negative growth, negative ROE, and high leverage – any '단테의 밥그릇 3번 자리' (long-term moving average breakout and support) chart pattern would likely represent a speculative bounce or short-covering rally rather than a robust, fundamentally driven uptrend. The reliability for sustained long-term appreciation based on such a technical signal would be low, as the underlying business lacks the intrinsic strength to support a durable breakout.",
+    "business_moat": "Prospect Capital operates as a BDC, providing capital to middle-market firms. Its economic moat, typically derived from specialized credit underwriting and deal sourcing, appears severely compromised by its current financial performance, which indicates an inability to consistently generate profits and manage its highly leveraged structure effectively.",
+    "ai_system_tags": [
+      "Value",
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

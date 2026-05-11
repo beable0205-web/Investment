@@ -1,0 +1,33 @@
+{
+  "ticker": "UDMY",
+  "lastUpdated": "2026-05-10T09:07:36.432Z",
+  "rawFinancials": {
+    "name": "Udemy, Inc.",
+    "marketCap": 675681472,
+    "trailingPE": 154.33334,
+    "forwardPE": 7.0206833,
+    "priceToBook": 3.244569,
+    "totalRevenue": 789843968,
+    "operatingMargins": 0.00154,
+    "returnOnEquity": 0.01867,
+    "freeCashflow": 129208624,
+    "totalCash": 358744000,
+    "totalDebt": 10227000,
+    "currentRatio": 1.31,
+    "revenueGrowth": -0.03
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "현재 매출은 역성장 중이나, 매우 낮은 Forward PE는 향후 이익의 극적인 턴어라운드 또는 고성장을 시장이 기대하고 있음을 시사합니다.",
+      "profitability": "영업 마진이 0.15%로 극히 미미하며, ROE 또한 매우 낮아 핵심 사업에서의 수익 창출력이 거의 없는 상태입니다. 이는 경쟁 심화 또는 비효율적인 비용 구조를 반영합니다.",
+      "cashflow_stability": "매우 강력한 현금 창출력(Free Cashflow 우수)과 넉넉한 현금 보유량, 그리고 극히 낮은 총 부채를 가지고 있어 재무 건전성이 매우 우수하며 파산 위험은 거의 없습니다."
+    },
+    "macro_sensitivity": "온라인 학습 플랫폼의 특성상 경기 침체 시 개인의 자기 계발 수요 증가로 인한 방어적 특성을 일부 가질 수 있으나, 기업 교육 지출 감소 위험도 상존합니다. 낮은 부채와 풍부한 현금으로 인해 금리 인상에 대한 직접적인 취약성은 낮습니다.",
+    "technical_synergy": "현재의 부진한 수익성 및 역성장에도 불구하고 강력한 현금 흐름과 낮은 부채는 턴어라운드 성공 시 큰 폭의 주가 상승 여력을 제공합니다. '단테의 밥그릇 3번 자리' 패턴 발생 시, 시장이 예상하는 이익 턴어라운드(낮은 Forward PE)에 대한 신뢰가 형성되기 시작했음을 의미하며, 이는 상당한 폭발력으로 이어질 수 있습니다. 단, 펀더멘털 개선 확인이 중요합니다.",
+    "business_moat": "Udemy는 방대한 온라인 학습 콘텐츠 라이브러리와 글로벌 강사/학습자 네트워크를 기반으로 하지만, 경쟁이 치열한 시장에서 차별화된 경제적 해자를 구축하는 데 어려움을 겪고 있으며, 이는 낮은 영업 마진으로 나타납니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Value"
+    ]
+  }
+}

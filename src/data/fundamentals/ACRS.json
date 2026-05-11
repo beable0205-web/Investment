@@ -1,0 +1,27 @@
+{
+  "ticker": "ACRS",
+  "lastUpdated": "2026-05-10T09:15:22.093Z",
+  "rawFinancials": {
+    "name": "Aclaris Therapeutics, Inc.",
+    "marketCap": 688541888,
+    "forwardPE": -6.6174493,
+    "priceToBook": 5.7660813,
+    "totalRevenue": 8367000,
+    "operatingMargins": -11.118239,
+    "revenueGrowth": 0.372
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출은 미미하나 37.2%의 높은 성장률을 보이며, 초기 단계의 고성장 기업 특성을 가집니다.",
+      "profitability": "영업이익률이 -11%대로 심각한 적자 상태이며, 향후에도 손실이 예상되는 전형적인 적자 늪 기업입니다. 수익성 개선이 시급합니다.",
+      "cashflow_stability": "영업활동으로 인한 현금 창출이 불가능하며, 외부 자금 조달에 전적으로 의존하는 구조입니다. 파산 위험이 높은 레버리지 과다 상태로 볼 수 있습니다."
+    },
+    "macro_sensitivity": "높은 자금 소진율과 낮은 수익성으로 인해 금리 인상기에는 자본 조달 비용 증가로 매우 취약합니다. 경기 침체 시 투자 심리 위축으로 자금 조달이 어려워져 생존에 직접적인 위협을 받을 수 있는 고위험군입니다.",
+    "technical_synergy": "이러한 펀더멘털을 가진 기업이 '단테의 밥그릇 3번 자리'와 같은 기술적 패턴을 형성한다면, 이는 주로 임상 결과 발표, M&A 루머 등 단기적인 촉매에 의한 투기적 움직임일 가능성이 큽니다. 내재가치에 기반한 신뢰도 높은 상승보다는 변동성이 큰 투기적 폭발력에 가깝습니다.",
+    "business_moat": "Aclaris Therapeutics는 혁신적인 치료제 개발을 목표로 하는 바이오 제약 기업입니다. 그들의 경제적 해자는 성공적인 임상 개발과 특허 확보를 통한 독점적 지위에 달려 있으며, 현재는 잠재적 해자 구축 단계에 있습니다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Turnaround"
+    ]
+  }
+}

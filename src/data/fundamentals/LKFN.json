@@ -1,0 +1,32 @@
+{
+  "ticker": "LKFN",
+  "lastUpdated": "2026-05-10T05:46:16.598Z",
+  "rawFinancials": {
+    "name": "Lakeland Financial Corporation",
+    "marketCap": 1533431168,
+    "trailingPE": 14.41452,
+    "forwardPE": 13.602209,
+    "priceToBook": 2.0359895,
+    "totalRevenue": 267891008,
+    "operatingMargins": 0.49372002,
+    "returnOnEquity": 0.15207,
+    "totalCash": 151324000,
+    "totalDebt": 75092000,
+    "revenueGrowth": 0.188
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 성장률 18.8%로 매우 견고하며, 이는 금융 기관으로서의 시장 점유율 확대 또는 서비스 수요 증가를 시사합니다.",
+      "profitability": "영업 마진 49.37%와 ROE 15.21%는 동종 업계 최고 수준으로, 독점적 마진 구조와 탁월한 자본 효율성을 보여줍니다. 이는 강력한 경제적 해자의 증거입니다.",
+      "cashflow_stability": "총 현금 1억 5천 1백만 달러가 총 부채 7천 5백만 달러를 크게 상회하여, 매우 우수한 현금 창출력과 낮은 부채 리스크를 자랑합니다. 파산 위험은 극히 낮습니다."
+    },
+    "macro_sensitivity": "금융 기관으로서 금리 변동에 민감하지만, 견고한 수익성과 낮은 부채는 금리 인상기에는 순이자마진(NIM) 개선의 기회를, 금리 인하기에는 대출 수요 증가의 잠재력을 제공합니다. 경기 침체 시에도 우수한 재무 건전성으로 상대적으로 높은 방어력을 가질 것으로 예상됩니다.",
+    "technical_synergy": "이처럼 강력한 펀더멘털을 가진 기업이 '단테의 밥그릇 3번 자리'와 같은 장기 이평선 돌파 및 지지 패턴을 만들 경우, 이는 단순한 기술적 반등이 아닌, 내재 가치에 대한 시장의 재평가와 기관 투자자들의 꾸준한 매집을 의미합니다. 이러한 패턴은 높은 신뢰도를 가지며, 장기적인 추세 상승의 강력한 신호로 해석될 수 있습니다.",
+    "business_moat": "Lakeland Financial Corporation은 강력한 지역 기반과 고객 충성도를 바탕으로 높은 전환 비용을 창출합니다. 탁월한 영업 마진과 ROE는 효율적인 운영과 강력한 가격 결정력을 통해 형성된 견고한 경제적 해자를 시사합니다.",
+    "ai_system_tags": [
+      "Value",
+      "Growth",
+      "Defensive"
+    ]
+  }
+}

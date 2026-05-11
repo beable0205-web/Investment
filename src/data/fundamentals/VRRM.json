@@ -1,0 +1,33 @@
+{
+  "ticker": "VRRM",
+  "lastUpdated": "2026-05-10T04:15:14.377Z",
+  "rawFinancials": {
+    "name": "Verra Mobility Corporation",
+    "marketCap": 2172265216,
+    "trailingPE": 17.439024,
+    "forwardPE": 9.110485,
+    "priceToBook": 7.494759,
+    "totalRevenue": 979393024,
+    "operatingMargins": 0.2317,
+    "returnOnEquity": 0.45852003,
+    "freeCashflow": 53916000,
+    "totalCash": 55576000,
+    "totalDebt": 1101831936,
+    "currentRatio": 1.892,
+    "revenueGrowth": 0.001
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 성장률은 0.1%로 거의 정체 상태이나, 낮은 선행 P/E(9.11)는 향후 이익 개선에 대한 시장의 기대를 반영할 수 있습니다.",
+      "profitability": "23%가 넘는 높은 영업이익률과 45%에 달하는 경이로운 ROE는 독점적 사업 모델과 효율적인 자본 활용 능력을 시사합니다.",
+      "cashflow_stability": "견고한 잉여현금흐름을 창출하고 있으나, 총 부채가 현금 및 잉여현금흐름 대비 매우 높아 재무 레버리지가 과도하며 금리 변동에 취약합니다."
+    },
+    "macro_sensitivity": "막대한 부채로 인해 금리 인상에 매우 민감하며, 이는 이자 비용 증가로 이어져 수익성을 압박할 수 있습니다. 그러나 필수적인 스마트 모빌리티 및 규제 준수 서비스 특성상 경기 침체 시에도 일정 수준의 매출 방어력은 기대할 수 있습니다.",
+    "technical_synergy": "강력한 수익성과 현금 흐름은 장기 이평선 돌파 시 견고한 지지 기반을 제공할 수 있습니다. 하지만 과도한 부채는 상승 신뢰도를 저해하는 핵심 요인으로 작용합니다. 부채 감소 계획이나 명확한 성장 촉매가 동반될 경우 '단테의 밥그릇 3번 자리' 패턴의 폭발력과 신뢰도가 크게 증가할 것입니다.",
+    "business_moat": "Verra Mobility는 스마트 모빌리티 및 규제 준수 솔루션 분야에서 독점적 기술과 정부 및 대형 고객과의 장기 계약을 통해 높은 전환 비용을 발생시키며 강력한 경제적 해자를 구축하고 있습니다. 이는 안정적인 수익 흐름과 높은 마진을 가능하게 하는 핵심 요인입니다.",
+    "ai_system_tags": [
+      "Value",
+      "Defensive"
+    ]
+  }
+}

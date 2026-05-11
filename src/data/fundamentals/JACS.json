@@ -1,0 +1,31 @@
+{
+  "ticker": "JACS",
+  "lastUpdated": "2026-05-10T12:57:57.389Z",
+  "rawFinancials": {
+    "name": "Jackson Acquisition Company II",
+    "marketCap": 313654016,
+    "trailingPE": 34.19355,
+    "priceToBook": 1514.2858,
+    "operatingMargins": 0,
+    "returnOnEquity": 18.039759,
+    "freeCashflow": -298680,
+    "totalCash": 521776,
+    "totalDebt": 198024,
+    "currentRatio": 1.535
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "현재 운영 수익이 없어 전통적인 의미의 성장성은 측정 불가. SPAC 특성상 인수합병 전까지는 매출 및 이익 성장이 없으며, 향후 인수 대상 기업에 따라 성장 궤적이 결정될 것임.",
+      "profitability": "영업 마진 0%로 핵심 사업에서 수익을 창출하지 못하고 있음. ROE는 긍정적이나 이는 영업 외 수익(예: 신탁 계좌 이자)에 기인한 것으로 보이며, 본질적인 수익성은 전무함.",
+      "cashflow_stability": "자유 현금 흐름이 마이너스이며 현금을 소각하고 있음. 총 부채는 낮으나, 운영 수익이 없어 현금 창출 능력은 전무함. 현재 유동성은 적정하나, 장기적인 현금 흐름 안정성은 전적으로 향후 인수합병 성공 여부에 달려 있음."
+    },
+    "macro_sensitivity": "SPAC 특성상 거시경제 변수에 대한 직접적인 민감도는 낮으나, 전반적인 시장 유동성 및 투자 심리에 매우 민감함. 금리 인상기에는 SPAC 투자 매력이 감소하고, 경기 침체기에는 좋은 인수 대상을 찾기 어려워질 수 있음. 즉, 유동성 장세와 투자 심리 개선 시 수혜를 입는 경향이 있음.",
+    "technical_synergy": "이러한 펀더멘털(운영 수익 없는 SPAC)을 가진 기업이 '단테의 밥그릇 3번 자리'와 같은 기술적 패턴을 형성한다면, 이는 주로 인수합병 발표(De-SPAC)와 같은 중대한 이벤트에 의해 촉발될 가능성이 높음. 순수한 펀더멘털 개선에 기반한 돌파보다는, 기대감 또는 투기적 매수세에 의한 움직임으로 해석해야 하며, 이벤트 리스크가 매우 높으므로 신뢰도는 낮음. 패턴의 폭발력은 이벤트의 크기에 비례하나, 지속성은 불확실함.",
+    "business_moat": "Jackson Acquisition Company II는 현재 운영 사업이 없는 특수목적 인수 회사(SPAC)입니다. 따라서 현재로서는 어떠한 경제적 해자도 존재하지 않으며, 그 가치는 경영진의 인수 역량과 신탁 계좌에 예치된 현금에 기반합니다.",
+    "ai_system_tags": [
+      "Speculative",
+      "Event-Driven",
+      "Pre-Revenue"
+    ]
+  }
+}

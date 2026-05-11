@@ -1,0 +1,33 @@
+{
+  "ticker": "PDS",
+  "lastUpdated": "2026-05-10T06:44:34.386Z",
+  "rawFinancials": {
+    "name": "Precision Drilling Corporation",
+    "marketCap": 1136111616,
+    "forwardPE": 10.049117,
+    "priceToBook": 0.9763824,
+    "totalRevenue": 1843704064,
+    "operatingMargins": 0.07913,
+    "returnOnEquity": 0.00189,
+    "freeCashflow": 142307008,
+    "totalCash": 85781000,
+    "totalDebt": 744238016,
+    "currentRatio": 1.623,
+    "revenueGrowth": 0.022
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "정체 또는 매우 낮은 성장",
+      "profitability": "박리다매에 가까운 낮은 수익성, 자본 효율성 극히 저조",
+      "cashflow_stability": "긍정적인 잉여현금흐름을 창출하나, 상당한 부채로 인해 현금 흐름의 안정성 관리가 중요"
+    },
+    "macro_sensitivity": "에너지 섹터의 대표적인 경기 민감주로, 유가 및 천연가스 가격 변동, 글로벌 경기 침체에 매우 취약합니다. 금리 인상은 부채 부담을 가중시키고 E&P 기업의 투자 위축을 유발하여 부정적입니다.",
+    "technical_synergy": "낮은 수익성과 경기 민감성을 고려할 때, '단테의 밥그릇 3번 자리'와 같은 장기 이평선 돌파 패턴은 유가 상승 등 거시경제적 전환점이나 기업의 구조적 개선이 동반될 때 강력한 신뢰도를 가집니다. 단순한 기술적 반등보다는 펀더멘털 개선이 확인될 경우, 저평가된 자산 가치와 맞물려 상당한 폭발력을 기대할 수 있습니다.",
+    "business_moat": "Precision Drilling은 고도로 경쟁적이고 자본 집약적인 시추 서비스 산업에 속해 있어, 강력한 경제적 해자를 구축하기 어렵습니다. 경쟁 우위는 주로 운영 효율성, 기술력, 그리고 고객 관계에서 비롯될 가능성이 높습니다.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Turnaround"
+    ]
+  }
+}

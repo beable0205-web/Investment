@@ -1,0 +1,32 @@
+{
+  "ticker": "HCAT",
+  "lastUpdated": "2026-05-10T16:32:36.434Z",
+  "rawFinancials": {
+    "name": "Health Catalyst, Inc",
+    "marketCap": 112314464,
+    "forwardPE": 12.5,
+    "priceToBook": 0.44548652,
+    "totalRevenue": 311136000,
+    "operatingMargins": -0.04289,
+    "returnOnEquity": -0.58258,
+    "freeCashflow": 10733875,
+    "totalCash": 95732000,
+    "totalDebt": 171238000,
+    "currentRatio": 1.89,
+    "revenueGrowth": -0.062
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "역성장",
+      "profitability": "적자 늪",
+      "cashflow_stability": "현금 흐름은 긍정적이나 부채 부담"
+    },
+    "macro_sensitivity": "헬스케어 기술 기업으로서 현재의 역성장과 적자 구조는 금리 인상에 매우 취약하며, 경기 침체 시 기업들의 투자 위축으로 매출에 부정적 영향을 받을 수 있습니다.",
+    "technical_synergy": "단테의 밥그릇 3번 자리와 같은 강력한 기술적 패턴이 나타나더라도, 현재의 역성장 및 적자 늪 펀더멘털은 지속적인 상승 신뢰도를 낮춥니다. 이는 단기적 투기적 반등일 가능성이 높으며, 펀더멘털 개선 없이는 가치 함정으로 이어질 수 있습니다.",
+    "business_moat": "Health Catalyst는 헬스케어 데이터 분석 및 플랫폼을 통해 고객의 운영 효율성을 높이는 것을 목표로 합니다. 잠재적으로 높은 전환 비용과 데이터 기반 네트워크 효과를 통해 해자를 구축할 수 있으나, 현재의 역성장과 수익성 악화는 이러한 해자가 아직 충분히 견고하지 않거나 시장에서 제대로 가치를 인정받지 못하고 있음을 시사합니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Value"
+    ]
+  }
+}

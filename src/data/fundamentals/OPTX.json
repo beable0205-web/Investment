@@ -1,0 +1,31 @@
+{
+  "ticker": "OPTX",
+  "lastUpdated": "2026-05-10T12:50:49.394Z",
+  "rawFinancials": {
+    "name": "Syntec Optics Holdings, Inc.",
+    "marketCap": 305356384,
+    "priceToBook": 27.518797,
+    "totalRevenue": 28083984,
+    "operatingMargins": 0.042480003,
+    "returnOnEquity": -0.17431,
+    "freeCashflow": 33528,
+    "totalCash": 358867,
+    "totalDebt": 11162106,
+    "currentRatio": 1.348,
+    "revenueGrowth": 0.025
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "정체된 성장",
+      "profitability": "적자 늪에 빠진 박리다매",
+      "cashflow_stability": "위태로운 현금 흐름과 과도한 레버리지"
+    },
+    "macro_sensitivity": "경기 침체 및 금리 인상에 극도로 취약한 구조",
+    "technical_synergy": "펀더멘털이 뒷받침되지 않는 기술적 패턴은 '가치 함정'일 가능성 농후",
+    "business_moat": "특정 광학 기술 분야에 종사하지만, 낮은 수익성과 성장률은 현재 경제적 해자가 미미하거나 부재함을 시사합니다. 높은 P/B 비율은 시장의 미래 기대감을 반영할 수 있으나, 현 재무 상태는 경쟁 우위가 재무 성과로 이어지지 못하고 있음을 명확히 보여줍니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

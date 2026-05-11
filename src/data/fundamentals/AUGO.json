@@ -1,0 +1,34 @@
+{
+  "ticker": "AUGO",
+  "lastUpdated": "2026-05-09T09:55:55.773Z",
+  "rawFinancials": {
+    "name": "Aura Minerals Inc.",
+    "marketCap": 6879933440,
+    "trailingPE": 73.3125,
+    "forwardPE": 6.033339,
+    "priceToBook": 25.820755,
+    "totalRevenue": 921732992,
+    "operatingMargins": 0.56384,
+    "returnOnEquity": -0.3247,
+    "freeCashflow": 313840256,
+    "totalCash": 286056000,
+    "totalDebt": 428815008,
+    "currentRatio": 0.974,
+    "revenueGrowth": 0.875
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "폭발적인 매출 성장(87.5%)과 극적인 이익 개선 기대(Forward PE 6.0)가 공존하는 고성장 국면",
+      "profitability": "56.4%의 독점적 영업이익률을 가졌으나, 순이익은 적자(ROE -32.5%)인 극단적 상황. 향후 순이익 턴어라운드 시 폭발적 레버리지 기대.",
+      "cashflow_stability": "순이익 적자에도 불구하고 강력한 잉여현금흐름(FCF)을 창출. 순부채 대비 FCF 비율이 우수하여 파산 위험은 낮으나, 단기 유동성(유동비율 0.97)은 주시 필요."
+    },
+    "macro_sensitivity": "원자재 가격 및 글로벌 경기에 직접적으로 연동되는 전형적인 경기민감주(Cyclical). 인플레이션 시기에는 원자재 가격 상승의 수혜를 입을 수 있으나, 금리 인상 및 경기 침체에는 취약함.",
+    "technical_synergy": "폭발적인 성장성과 강력한 현금흐름이라는 펀더멘털 엔진을 장착한 상태. '단테의 밥그릇 3번 자리'와 같은 장기 추세 전환 신호 발생 시, 시장의 의구심(적자 ROE)이 확신으로 바뀌며 매우 높은 신뢰도와 함께 폭발적인 주가 상승을 기대할 수 있는 유형.",
+    "business_moat": "경쟁사 대비 월등히 높은 영업이익률은 저비용 광산 운영 또는 고품위 광물 보유에서 비롯된 강력한 원가 우위 해자를 시사한다. 이를 바탕으로 공격적인 성장을 통해 시장 지배력을 확대하는 전략을 구사 중이다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "ticker": "RSI",
+  "lastUpdated": "2026-05-09T09:56:48.032Z",
+  "rawFinancials": {
+    "name": "Rush Street Interactive, Inc.",
+    "marketCap": 6431590912,
+    "trailingPE": 81.588234,
+    "forwardPE": 33.030495,
+    "priceToBook": 18.832314,
+    "totalRevenue": 1242381952,
+    "operatingMargins": 0.1155,
+    "returnOnEquity": 0.34647,
+    "freeCashflow": 114765000,
+    "totalCash": 336892992,
+    "totalDebt": 5550000,
+    "currentRatio": 1.958,
+    "revenueGrowth": 0.411
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "고성장(High-Growth). 41.1%에 달하는 폭발적인 매출 성장률과 후행 PE 대비 절반 이하인 선행 PE는 시장이 이 기업의 강력한 이익 성장을 확신하고 있음을 보여줍니다.",
+      "profitability": "고효율 수익 구조(High-Efficiency Profit Structure). 11.5%의 영업이익률은 준수하며, 특히 34.6%에 달하는 경이적인 자기자본이익률(ROE)은 주주자본을 활용해 막대한 이익을 창출하는 최상위 수준의 수익 효율성을 증명합니다.",
+      "cashflow_stability": "현금 창출력 우수(Excellent Cash Generation). 튼튼한 잉여현금흐름을 바탕으로 총부채(555만 달러) 대비 총현금(3억 3689만 달러)이 압도적으로 많아 사실상 무차입 경영 상태입니다. 파산 위험은 극도로 낮습니다."
+    },
+    "macro_sensitivity": "경기 민감형 성장주(Cyclical Growth Stock). 온라인 베팅 산업은 대표적인 소비재로 경기 침체기에는 지출 축소에 취약합니다. 다만, 부채가 거의 없어 금리 인상에 따른 이자 비용 부담은 없으나, 고평가 성장주 특성상 금리 인상기에는 밸류에이션 멀티플 하락 압력을 받을 수 있습니다.",
+    "technical_synergy": "펀더멘털이 뒷받침되는 기술적 돌파 패턴에서 높은 신뢰도를 보입니다. 폭발적인 매출 성장과 우량한 재무구조(저부채, 고ROE)는 '단테의 밥그릇 3번 자리'와 같은 장기 저항선 돌파 시, 단순 투기 수급이 아닌 기관 투자자의 강력한 매수세를 유입시켜 추세의 지속성과 폭발력을 크게 증대시킬 수 있습니다.",
+    "business_moat": "온라인 카지노 및 스포츠 베팅 플랫폼을 운영하며, 주별로 획득해야 하는 까다로운 라이선스가 강력한 진입 장벽으로 작용합니다. 기존 고객 데이터와 브랜드 인지도를 기반으로 한 네트워크 효과가 핵심적인 경제적 해자를 구성합니다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Cyclical",
+      "Value"
+    ]
+  }
+}

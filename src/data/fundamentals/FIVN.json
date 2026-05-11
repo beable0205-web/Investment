@@ -1,0 +1,34 @@
+{
+  "ticker": "FIVN",
+  "lastUpdated": "2026-05-10T04:56:59.007Z",
+  "rawFinancials": {
+    "name": "Five9, Inc.",
+    "marketCap": 1692064128,
+    "trailingPE": 34,
+    "forwardPE": 5.853933,
+    "priceToBook": 2.1709232,
+    "totalRevenue": 1174701952,
+    "operatingMargins": 0.06057,
+    "returnOnEquity": 0.07665,
+    "freeCashflow": 271962624,
+    "totalCash": 723875968,
+    "totalDebt": 800310976,
+    "currentRatio": 4.512,
+    "revenueGrowth": 0.092
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "견조한 매출 성장세를 보이며, 향후 이익 성장 잠재력이 매우 높음. 특히 낮은 Forward PE는 시장이 상당한 이익 개선을 기대하고 있음을 시사.",
+      "profitability": "현재 영업 마진은 다소 낮으나, 향후 이익 개선을 통해 수익성이 크게 향상될 것으로 기대됨. 이는 규모의 경제 달성 또는 효율성 증대에서 기인할 수 있음.",
+      "cashflow_stability": "우수한 잉여현금흐름 창출 능력과 매우 견고한 유동성(높은 유동비율)을 바탕으로 재무 안정성이 높음. 부채 수준은 관리 가능한 범위 내에 있음."
+    },
+    "macro_sensitivity": "클라우드 기반 B2B SaaS 기업으로, 금리 인상기에는 성장주 밸류에이션에 압박을 받을 수 있으나, 낮은 Forward PE는 이미 상당 부분 반영되었을 가능성을 시사합니다. 경기 침체 시 기업 IT 지출 둔화로 성장세가 영향을 받을 수 있으나, 핵심 서비스 특성과 견고한 현금 흐름으로 일정 수준의 방어력을 가집니다.",
+    "technical_synergy": "견고한 현금 흐름과 미래 이익 개선 기대감이 높은 기업이 '단테의 밥그릇 3번 자리'와 같은 장기 추세 전환 패턴을 보일 경우, 이는 시장이 기업의 펀더멘털 개선을 뒤늦게 인지하고 강력한 매수세로 전환하는 신호로 해석될 수 있습니다. 특히 낮은 Forward PE는 이러한 기술적 돌파가 단순한 투기적 움직임이 아닌, 펀더멘털에 기반한 신뢰도 높은 상승 추세의 시작일 가능성을 높입니다.",
+    "business_moat": "Five9는 클라우드 기반 컨택 센터 솔루션을 제공하며, 고객사의 핵심 운영 시스템에 깊이 통합되어 높은 전환 비용을 발생시킵니다. 이는 고객 이탈을 어렵게 하여 안정적인 반복 매출을 창출하는 강력한 경제적 해자로 작용합니다.",
+    "ai_system_tags": [
+      "Value",
+      "High-Growth",
+      "Turnaround"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ticker": "PNBK",
+  "lastUpdated": "2026-05-10T16:07:27.212Z",
+  "rawFinancials": {
+    "name": "Patriot National Bancorp Inc.",
+    "marketCap": 136787504,
+    "forwardPE": 1.089109,
+    "priceToBook": 1.3365735,
+    "totalRevenue": 28122000,
+    "operatingMargins": -0.19367,
+    "returnOnEquity": -0.25691,
+    "totalCash": 186430000,
+    "totalDebt": 17688000
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 역성장 및 심각한 영업 손실 지속. 미래 성장 동력 부재.",
+      "profitability": "심각한 적자 구조로, 영업 마진 및 자기자본이익률 모두 깊은 마이너스. 수익성 개선 시급.",
+      "cashflow_stability": "운영 현금 흐름은 불확실하나, 시장 가치 및 총부채를 상회하는 막대한 현금 보유량으로 단기적 파산 위험은 매우 낮음. 현금 활용 전략이 관건."
+    },
+    "macro_sensitivity": "은행업 특성상 금리 변동에 민감하며, 금리 인상기에는 순이자마진(NIM) 개선 잠재력이 있으나, 현재의 적자 구조와 경기 침체 시 대출 부실 위험으로 거시경제 충격에 대한 방어력은 취약함.",
+    "technical_synergy": "현재의 심각한 펀더멘털 약점을 고려할 때, '단테의 밥그릇 3번 자리'와 같은 강력한 기술적 패턴은 기업의 근본적인 사업 구조 개편, 경영진 교체 또는 대규모 자산 매각 등 명확한 턴어라운드 시그널과 동반될 때만 유의미한 신뢰도를 가짐. 그렇지 않을 경우, 기술적 반등은 일시적일 가능성이 높음.",
+    "business_moat": "지역 기반 은행으로서 고객 관계와 규제 장벽이 잠재적 해자이나, 현재의 심각한 영업 손실은 이러한 해자가 수익성으로 전환되지 못하고 있음을 시사함. 막대한 현금 보유량은 단기적 생존력을 보장하지만, 지속 가능한 경쟁 우위로 보기 어려움.",
+    "ai_system_tags": [
+      "Value",
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

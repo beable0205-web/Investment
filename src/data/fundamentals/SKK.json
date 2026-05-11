@@ -1,0 +1,31 @@
+{
+  "ticker": "SKK",
+  "lastUpdated": "2026-05-11T11:06:12.106Z",
+  "rawFinancials": {
+    "name": "SKK Holdings Limited",
+    "marketCap": 13113750,
+    "priceToBook": 13.937824,
+    "totalRevenue": 12949000,
+    "operatingMargins": -0.38219002,
+    "returnOnEquity": -0.40215,
+    "freeCashflow": -3104375,
+    "totalCash": 1975000,
+    "totalDebt": 11904000,
+    "currentRatio": 0.741,
+    "revenueGrowth": -0.046
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 역성장",
+      "profitability": "심각한 적자 늪",
+      "cashflow_stability": "현금 소진 심각, 레버리지 과다"
+    },
+    "macro_sensitivity": "금리 인상, 인플레이션, 경기 침체 등 모든 거시경제 악화 요인에 극도로 취약하며, 방어력이 전무하여 파산 위험이 급증할 수 있는 구조입니다.",
+    "technical_synergy": "이러한 펀더멘털을 가진 기업의 기술적 반등은 '죽은 고양이의 바운스'에 불과할 가능성이 높습니다. 장기 이평선 돌파 같은 패턴은 펀더멘털 개선 없이는 신뢰할 수 없으며, 투기적 단기 트레이딩 외에는 의미가 없습니다.",
+    "business_moat": "지속적인 적자와 매출 감소는 이 기업에 경제적 해자가 전무함을 명확히 보여줍니다. 오히려 경쟁 우위를 상실하고 사업 모델 자체가 위협받고 있음을 시사합니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

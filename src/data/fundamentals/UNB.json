@@ -1,0 +1,31 @@
+{
+  "ticker": "UNB",
+  "lastUpdated": "2026-05-10T16:39:59.188Z",
+  "rawFinancials": {
+    "name": "Union Bankshares, Inc.",
+    "marketCap": 111567728,
+    "trailingPE": 9.633467,
+    "priceToBook": 1.3794284,
+    "totalRevenue": 53683000,
+    "operatingMargins": 0.21274,
+    "returnOnEquity": 0.1504,
+    "totalCash": 21255000,
+    "totalDebt": 305172992,
+    "revenueGrowth": 0.099
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "Union Bankshares demonstrates a healthy revenue growth rate of nearly 10%, indicating a steadily expanding business rather than explosive, but sustainable, organic growth within its sector.",
+      "profitability": "With an operating margin exceeding 21% and an exceptional Return on Equity (ROE) of over 15%, this bank exhibits robust profitability and highly efficient capital deployment, a hallmark of a well-managed financial institution.",
+      "cashflow_stability": "While the banking model inherently involves significant leverage (high total debt relative to cash), the strong profitability and ROE suggest a stable operational cash flow generation. The key risk lies in asset quality and macro-economic shifts impacting loan performance, rather than immediate liquidity concerns based on these metrics alone."
+    },
+    "macro_sensitivity": "As a financial institution, Union Bankshares is highly sensitive to the interest rate environment, benefiting from rising rates that expand net interest margins, but vulnerable to rapid increases that could stifle loan demand or degrade asset quality. It is a distinctly cyclical stock, directly impacted by the health of the regional economy and susceptible to downturns that increase loan defaults and reduce lending opportunities.",
+    "technical_synergy": "For a fundamentally sound, yet potentially overlooked, small-cap bank like UNB, a technical pattern such as '단테의 밥그릇 3번 자리' (long-term moving average breakout and support) would carry significant weight. The low P/E and strong ROE provide a robust value foundation, suggesting that a confirmed technical breakout would likely signal a re-rating by the market, moving from an undervalued asset to a recognized performer with substantial upside momentum, rather than a speculative surge.",
+    "business_moat": "Union Bankshares likely possesses a localized economic moat, built upon deep community ties, trusted relationships, and a stable, low-cost deposit base within its operating region. Its strong profitability metrics suggest efficient management and a competitive advantage in serving its specific market.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Dividend"
+    ]
+  }
+}

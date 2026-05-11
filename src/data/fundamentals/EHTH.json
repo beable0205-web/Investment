@@ -1,0 +1,33 @@
+{
+  "ticker": "EHTH",
+  "lastUpdated": "2026-05-10T18:30:23.244Z",
+  "rawFinancials": {
+    "name": "eHealth, Inc.",
+    "marketCap": 59990524,
+    "forwardPE": 1.5059761,
+    "priceToBook": 0.09902027,
+    "totalRevenue": 528907008,
+    "operatingMargins": 0.0397,
+    "returnOnEquity": 0.035150003,
+    "freeCashflow": 5547375,
+    "totalCash": 110814000,
+    "totalDebt": 133196000,
+    "currentRatio": 7.59,
+    "revenueGrowth": -0.222
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출액이 -22.2% 역성장하며 심각한 사업 축소를 겪고 있습니다.",
+      "profitability": "영업이익률 3.97%, ROE 3.515%로 수익성이 매우 낮아 박리다매 구조이거나 수익성 악화가 심화되고 있습니다.",
+      "cashflow_stability": "자유현금흐름은 양수이며, 유동비율이 7.59로 단기 유동성은 매우 우수합니다. 다만, 총 부채가 총 현금보다 약간 높아 부채 부담이 완전히 해소된 것은 아닙니다."
+    },
+    "macro_sensitivity": "헬스케어 정책 변화와 경기 침체에 매우 민감한 사업 모델입니다. 낮은 수익성과 역성장은 거시경제 악화 시 취약성을 높이며, 금리 인상 시 부채 이자 비용 증가로 인한 추가적인 마진 압박을 받을 수 있습니다.",
+    "technical_synergy": "이처럼 깊은 저평가(P/E 1.5, P/B 0.099)와 강력한 유동성을 가진 기업이 '단테의 밥그릇 3번 자리'와 같은 장기 이평선 돌파 패턴을 보인다면, 이는 시장이 기업의 턴어라운드 가능성을 강하게 시사하는 투기적 바닥 신호로 해석될 수 있습니다. 파산 위험이 낮아 기술적 반등의 신뢰도는 높을 수 있으나, 지속적인 상승을 위해서는 명확한 펀더멘털 개선 촉매가 필수적입니다.",
+    "business_moat": "eHealth는 온라인 건강보험 마켓플레이스를 운영하지만, 심각한 매출 역성장과 낮은 수익성은 이 기업의 경제적 해자가 미약하거나 경쟁 심화로 인해 침식되고 있음을 강력히 시사합니다.",
+    "ai_system_tags": [
+      "Value",
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

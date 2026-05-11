@@ -1,0 +1,33 @@
+{
+  "ticker": "UAA",
+  "lastUpdated": "2026-05-10T03:32:49.177Z",
+  "rawFinancials": {
+    "name": "Under Armour, Inc.",
+    "marketCap": 2738472704,
+    "forwardPE": 28.337227,
+    "priceToBook": 1.9080119,
+    "totalRevenue": 4975792128,
+    "operatingMargins": -0.05429,
+    "returnOnEquity": -0.30394,
+    "freeCashflow": -385754240,
+    "totalCash": 464648000,
+    "totalDebt": 1688519936,
+    "currentRatio": 1.431,
+    "revenueGrowth": -0.052
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "수익성 악화와 함께 매출이 역성장하고 있으며, 이는 시장 점유율 하락 및 경쟁력 약화를 시사합니다.",
+      "profitability": "영업이익과 자기자본이익률 모두 심각한 적자를 기록하며, 핵심 사업 모델의 수익 창출 능력에 근본적인 문제가 있음을 보여줍니다.",
+      "cashflow_stability": "영업활동 현금흐름이 마이너스이며, 상당한 부채를 보유하고 있어 현금 소진 위험이 높고 재무적 레버리지가 과도합니다."
+    },
+    "macro_sensitivity": "소비자 재량 지출 품목을 다루는 기업으로서, 금리 인상, 인플레이션, 경기 침체 시 소비 심리 위축에 매우 취약합니다. 특히 높은 부채는 금리 인상기 재무 부담을 가중시키며, 경기 방어력은 거의 없습니다.",
+    "technical_synergy": "현재의 심각한 펀더멘털 약점을 고려할 때, '단테의 밥그릇 3번 자리'와 같은 기술적 패턴이 나타나더라도 그 신뢰도와 지속성은 매우 낮을 것입니다. 이는 단기적인 투기적 매수나 숏 커버링에 의한 반등일 가능성이 크며, 펀더멘털 개선 없이는 폭발적인 장기 상승을 기대하기 어렵습니다.",
+    "business_moat": "과거의 강력한 브랜드 이미지는 약화되었고, 나이키, 아디다스 등 거대 경쟁사들 사이에서 차별화된 경제적 해자를 구축하는 데 실패했습니다. 이는 가격 결정력 상실과 시장 점유율 하락으로 이어져 수익성 악화의 주된 원인이 되고 있습니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Cyclical",
+      "Distressed"
+    ]
+  }
+}

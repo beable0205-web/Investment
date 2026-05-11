@@ -1,0 +1,32 @@
+{
+  "ticker": "AVK",
+  "lastUpdated": "2026-05-10T10:03:19.020Z",
+  "rawFinancials": {
+    "name": "Advent Claymore Convertible Sec",
+    "marketCap": 570843264,
+    "trailingPE": 4.8066916,
+    "forwardPE": -431.00003,
+    "priceToBook": 0.9658624,
+    "totalRevenue": 41480164,
+    "operatingMargins": 0.78532,
+    "returnOnEquity": 0.21083,
+    "freeCashflow": 8251010,
+    "totalDebt": 350022464,
+    "currentRatio": 0.065,
+    "revenueGrowth": 0.081
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "투자 수익은 견조한 성장세를 보이나, 펀드 특성상 본질적인 사업 성장과는 거리가 있음.",
+      "profitability": "매우 높은 운용 마진과 ROE를 기록하며 효율적인 자본 활용을 보여주나, 극심한 마이너스 선행 PER은 미래 수익성에 대한 심각한 우려를 제기함.",
+      "cashflow_stability": "긍정적인 잉여현금흐름에도 불구하고, 자산 대비 과도한 부채와 극히 낮은 유동비율(0.065)은 단기 유동성 위기 및 파산 위험을 내포함. 레버리지 활용에 따른 양날의 검."
+    },
+    "macro_sensitivity": "전환사채 포트폴리오의 특성상 금리 인상 시 레버리지 비용 증가 및 채권 가치 하락으로 취약하며, 주식 시장 하락 및 신용 스프레드 확대 시 자산 가치 하락 위험이 증폭됨. 경기 침체에 매우 민감한 고베타(High-Beta) 구조.",
+    "technical_synergy": "낮은 PBR과 높은 ROE는 기술적 돌파 시 잠재적 상승 여력을 시사하나, 극심한 부채와 유동성 위험은 기술적 신호의 신뢰도를 크게 저해하고 급격한 반전 가능성을 높임. 펀더멘털 리스크가 해소되지 않는 한, '단테의 밥그릇' 패턴은 단기적 투기 신호로 해석될 여지가 큼.",
+    "business_moat": "AVK는 전환사채에 투자하는 폐쇄형 펀드로, 본질적인 사업 해자를 구축하기 어렵습니다. 해자는 운용사의 독점적인 투자 전략과 시장 통찰력에 달려있으나, 재무 데이터만으로는 그 깊이를 측정할 수 없습니다.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical"
+    ]
+  }
+}

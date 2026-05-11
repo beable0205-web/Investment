@@ -1,0 +1,33 @@
+{
+  "ticker": "BZUN",
+  "lastUpdated": "2026-05-10T15:31:15.180Z",
+  "rawFinancials": {
+    "name": "Baozun Inc.",
+    "marketCap": 159853072,
+    "forwardPE": 3.9442186,
+    "priceToBook": 0.29833746,
+    "totalRevenue": 9945483264,
+    "operatingMargins": 0.03185,
+    "returnOnEquity": -0.03541,
+    "freeCashflow": 467425888,
+    "totalCash": 2654366976,
+    "totalDebt": 1937083008,
+    "currentRatio": 1.866,
+    "revenueGrowth": 0.059
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "완만한 성장 (매출 성장률 5.9%로 보통 수준)",
+      "profitability": "박리다매 또는 수익성 악화 (영업 마진 3.185%, ROE -3.541%로 수익성 매우 취약)",
+      "cashflow_stability": "현금 창출력은 양호하나 수익성 개선 필요 (긍정적인 잉여현금흐름, 총 현금이 총 부채를 상회하며 유동성 양호)"
+    },
+    "macro_sensitivity": "경기 침체에 취약하나, 풍부한 현금으로 단기적 방어력 보유. 금리 인하 시 투자 심리 개선 기대.",
+    "technical_synergy": "강력한 밸류 지표와 건전한 재무 구조는 '단테의 밥그릇 3번 자리' 돌파 시 잠재적 턴어라운드 신호로 해석될 수 있으나, 수익성 개선이라는 펀더멘털 확인이 동반되어야 신뢰도가 높음.",
+    "business_moat": "수익성 지표로 볼 때 뚜렷한 경제적 해자는 부재하나, 꾸준한 현금 창출력과 풍부한 현금 자산은 사업의 지속 가능성을 뒷받침합니다.",
+    "ai_system_tags": [
+      "Value",
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

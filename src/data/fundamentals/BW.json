@@ -1,0 +1,32 @@
+{
+  "ticker": "BW",
+  "lastUpdated": "2026-05-10T04:25:48.626Z",
+  "rawFinancials": {
+    "name": "Babcock & Wilcox Enterprises, I",
+    "marketCap": 1973685888,
+    "forwardPE": 20.870714,
+    "priceToBook": -14.116506,
+    "totalRevenue": 587676032,
+    "operatingMargins": -0.00773,
+    "freeCashflow": 92693376,
+    "totalCash": 95956000,
+    "totalDebt": 368660992,
+    "currentRatio": 1.217,
+    "revenueGrowth": 0.02
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "정체 (Stagnant) - 매출 성장률이 2%에 불과하여 인플레이션을 겨우 상회하거나 미치지 못하는 수준입니다.",
+      "profitability": "적자 늪 (Loss-making swamp) & 자본 잠식 (Capital erosion) - 영업 마진이 마이너스이며, Price-to-Book 비율이 음수라는 것은 자본 잠식 상태로, 기업의 수익성 및 재무 건전성이 매우 취약함을 나타냅니다.",
+      "cashflow_stability": "현금 창출력은 있으나 레버리지 과다 (Positive cash generation but excessive leverage) - 긍정적인 잉여현금흐름은 고무적이나, 총 부채가 현금 보유액을 크게 상회하고 자본 잠식 상태인 점은 심각한 부채 리스크를 내포합니다."
+    },
+    "macro_sensitivity": "산업재 및 에너지 관련 기업으로 경기 변동에 민감하며, 높은 부채 수준과 취약한 수익성으로 금리 인상 및 경기 침체에 매우 취약합니다. 인프라 투자 확대나 에너지 전환 정책의 수혜를 기대할 수 있으나, 현재 재무 구조는 거시경제 충격에 대한 방어력이 극히 낮습니다.",
+    "technical_synergy": "펀더멘털이 이처럼 취약한 기업이 '단테의 밥그릇 3번 자리(장기 이평선 돌파 및 지지)'와 같은 강력한 기술적 패턴을 형성한다면, 이는 단기적인 시장의 기대감, 투기적 매수세, 혹은 공매도 청산에 의한 것일 가능성이 높습니다. 지속적인 상승 추세의 신뢰도는 매우 낮으며, 운영 마진 개선, 부채 감축, 자본 확충 등 강력한 펀더멘털 턴어라운드 신호가 동반되지 않는 한, 변동성만 커질 수 있는 위험한 구간으로 판단됩니다.",
+    "business_moat": "B&W는 에너지 및 환경 기술 분야에서 오랜 역사와 전문성을 보유하고 있으나, 현재의 재무 성과는 이러한 전문성이 강력하고 지속적인 경제적 해자로 이어지지 못하고 있음을 시사합니다. 기술적 우위나 설치 기반이 존재할 수 있으나, 이를 수익성으로 전환하고 경쟁 우위를 유지하는 데 심각한 어려움을 겪고 있습니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Cyclical",
+      "Distressed"
+    ]
+  }
+}

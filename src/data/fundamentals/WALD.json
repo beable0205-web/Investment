@@ -1,0 +1,33 @@
+{
+  "ticker": "WALD",
+  "lastUpdated": "2026-05-10T16:11:27.713Z",
+  "rawFinancials": {
+    "name": "Waldencast plc",
+    "marketCap": 230867760,
+    "forwardPE": -2.7480917,
+    "priceToBook": 0.4607115,
+    "totalRevenue": 272071008,
+    "operatingMargins": -0.22478001,
+    "returnOnEquity": -0.40333,
+    "freeCashflow": 115169504,
+    "totalCash": 30379000,
+    "totalDebt": 149011008,
+    "currentRatio": 1.703,
+    "revenueGrowth": -0.017
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "Revenue is contracting (-1.7%), and the negative forward P/E suggests ongoing or anticipated losses, indicating a company in a state of decline rather than growth. This is a clear red flag for long-term compounding.",
+      "profitability": "Operating margins are deeply negative (-22.5%), and Return on Equity is severely negative (-40.3%), pointing to a business that is currently unprofitable and destroying shareholder value from its core operations. This indicates a significant lack of pricing power or severe operational inefficiencies.",
+      "cashflow_stability": "Despite significant unprofitability, the company reports substantial positive free cash flow ($115M). This suggests strong non-cash expenses (e.g., depreciation/amortization from past acquisitions) or favorable working capital dynamics, which warrants deeper investigation. However, total debt ($149M) is high relative to cash ($30M), posing a long-term solvency risk if profitability doesn't improve, though the current ratio (1.7) indicates adequate short-term liquidity."
+    },
+    "macro_sensitivity": "Given its current unprofitability, negative growth, and significant debt, WALD is highly sensitive to economic downturns, inflation, and rising interest rates. It lacks the defensive characteristics to weather a recession and would likely struggle further in a tightening credit environment, making it a high-beta play against macro headwinds. Any sustained recovery would likely require a robust economic expansion.",
+    "technical_synergy": "For a company with WALD's deeply distressed fundamentals (negative growth, severe unprofitability, high debt), a '단테의 밥그릇 3번 자리' technical pattern would be highly unreliable for long-term investment. Such a breakout would likely be speculative, driven by short-term sentiment or a perceived turnaround, rather than robust underlying strength. Without a clear, fundamental catalyst for sustained profitability and growth, any technical rally would carry significant risk of reversal, making it suitable only for highly agile, short-term tactical plays rather than strategic accumulation.",
+    "business_moat": "Based on the severe unprofitability and negative revenue growth, this company currently exhibits no discernible economic moat. Its business model appears to be struggling under intense competitive pressures or operational inefficiencies, failing to generate sustainable profits or protect market share.",
+    "ai_system_tags": [
+      "Distressed Value",
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

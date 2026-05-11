@@ -1,0 +1,34 @@
+{
+  "ticker": "VSNT",
+  "lastUpdated": "2026-05-09T12:13:50.521Z",
+  "rawFinancials": {
+    "name": "Versant Media Group, Inc.",
+    "marketCap": 5821082624,
+    "trailingPE": 6.3881984,
+    "forwardPE": 5.139288,
+    "priceToBook": 0.5762792,
+    "totalRevenue": 6688000000,
+    "operatingMargins": 0.1236,
+    "returnOnEquity": 0.087349996,
+    "freeCashflow": 565875008,
+    "totalCash": 55000000,
+    "totalDebt": 983000000,
+    "currentRatio": 4.023,
+    "revenueGrowth": -0.066
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "역성장. 매출이 감소하고 있어 성장에 대한 시장의 우려가 주가에 반영된 상태입니다.",
+      "profitability": "안정적이나 낮은 자본수익률(ROE). 영업이익률은 양호하나, 투입된 자본 대비 이익 창출 효율이 낮아 주주가치 증대가 더딘 편입니다.",
+      "cashflow_stability": "현금 창출력 우수. 상당한 규모의 부채를 보유하고 있으나, 강력한 잉여현금흐름(FCF)을 바탕으로 2년 내에 모든 부채를 상환할 수 있는 재무적 안정성을 갖추고 있습니다."
+    },
+    "macro_sensitivity": "경기 침체 시 광고/미디어 지출 감소로 매출 하락이 가속화될 수 있는 경기 민감주입니다. 다만, 극심한 저평가 상태가 안전마진 역할을 하며, 향후 금리 인하 시기에는 부채 부담 감소와 투자 심리 개선으로 수혜를 볼 수 있습니다.",
+    "technical_synergy": "극심한 저평가와 역성장이라는 펀더멘털 특성상, 장기 이평선 돌파와 같은 추세 전환 신호는 '가치 함정(Value Trap)'에서 벗어나는 강력한 증거가 될 수 있습니다. 펀더멘털 턴어라운드가 기술적으로 확인되는 순간, 주가 재평가(Re-rating)가 폭발적으로 일어날 잠재력이 매우 높습니다.",
+    "business_moat": "전통 미디어 산업 내에서 상당한 매출 규모를 유지하고 있으나, 성장성 둔화와 낮은 자본수익률은 경제적 해자가 약화되고 있음을 시사합니다. 현재는 강력한 현금흐름 창출 능력이 핵심 방어기제 역할을 하고 있습니다.",
+    "ai_system_tags": [
+      "Value",
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

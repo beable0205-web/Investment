@@ -1,0 +1,30 @@
+{
+  "ticker": "BEAG",
+  "lastUpdated": "2026-05-10T12:40:46.483Z",
+  "rawFinancials": {
+    "name": "Bold Eagle Acquisition Corp.",
+    "marketCap": 330091712,
+    "trailingPE": 34,
+    "priceToBook": -41.825397,
+    "operatingMargins": 0,
+    "freeCashflow": -503621,
+    "totalCash": 192592,
+    "totalDebt": 542975,
+    "currentRatio": 1.655
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "역성장 (운영 수익 전무, 인수 전 단계로 본질적 성장 동력 부재)",
+      "profitability": "적자 늪 (운영 마진 0%, 극심한 자본 잠식 시사하는 음수 P/B)",
+      "cashflow_stability": "현금 소진 및 부채 리스크 (운영 현금 흐름 마이너스, 낮은 현금 보유액 대비 부채 부담)"
+    },
+    "macro_sensitivity": "본질적으로 운영 사업이 없는 SPAC의 특성상, 거시경제 변수보다는 시장의 투기적 심리 및 M&A 환경에 극도로 민감합니다. 특히 고금리 환경은 신규 자금 조달 비용을 증가시키고 인수 대상 기업의 가치 평가를 어렵게 하여 해산 위험을 높이는 치명적인 요인으로 작용합니다.",
+    "technical_synergy": "이러한 극도로 취약한 펀더멘털과 본질 가치 부재를 고려할 때, '단테의 밥그릇 3번 자리'와 같은 기술적 패턴은 신뢰할 수 없는 신호로 간주해야 합니다. 패턴 발생 시 이는 순전히 투기적 매수세나 미확인 루머에 의한 일시적 현상일 가능성이 높으며, 견고한 펀더멘털 지지 없이 형성된 패턴은 언제든 급격한 붕괴로 이어질 수 있습니다.",
+    "business_moat": "Bold Eagle Acquisition Corp.은 현재 어떠한 운영 사업도 영위하지 않는 특수목적합병회사(SPAC)입니다. 따라서 현재 시점에서는 경제적 해자가 전무하며, 해자는 오직 성공적인 인수합병을 통해 가치 있는 사업체를 확보했을 때 비로소 형성될 수 있습니다.",
+    "ai_system_tags": [
+      "Speculative",
+      "High-Risk",
+      "Pre-Revenue"
+    ]
+  }
+}

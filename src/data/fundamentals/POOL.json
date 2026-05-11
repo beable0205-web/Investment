@@ -1,0 +1,34 @@
+{
+  "ticker": "POOL",
+  "lastUpdated": "2026-05-09T09:54:18.184Z",
+  "rawFinancials": {
+    "name": "Pool Corporation",
+    "marketCap": 6842903040,
+    "trailingPE": 17.274149,
+    "forwardPE": 15.610205,
+    "priceToBook": 6.0248346,
+    "totalRevenue": 5355884032,
+    "operatingMargins": 0.07259,
+    "returnOnEquity": 0.34241,
+    "freeCashflow": 224066624,
+    "totalCash": 72469000,
+    "totalDebt": 1591336960,
+    "currentRatio": 1.872,
+    "revenueGrowth": 0.062
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 성장. 6.2%의 견조한 매출 성장률과 선행 PER(Forward PE)이 후행 PER(Trailing PE)보다 낮다는 점은 향후 이익 성장에 대한 시장의 긍정적 기대를 반영함.",
+      "profitability": "자산 효율성을 극대화한 고수익성 구조. 유통업 특성상 영업이익률(7.26%)이 압도적이진 않지만, 34%에 달하는 경이적인 자기자본이익률(ROE)은 자본을 매우 효율적으로 사용하여 주주가치를 창출하고 있음을 증명함.",
+      "cashflow_stability": "우수한 현금 창출력, 단 부채 레버리지는 관찰 필요. 잉여현금흐름(Free Cashflow)은 견고하나, 현금 보유액 대비 총 부채 규모가 상당하여 레버리지를 적극적으로 활용하는 재무 구조임. 경기 하강 시 이자 부담 리스크를 주시해야 함."
+    },
+    "macro_sensitivity": "주택 시장 및 소비 경기에 민감한 대표적인 경기 민감주(Cyclical). 금리 인상 시기에는 신규 주택 건설 및 고가의 리모델링 수요가 감소하며 직접적인 타격을 받을 수 있으나, 기존 수영장 유지/보수 관련 매출이 일정 부분 방어막 역할을 함.",
+    "technical_synergy": "높은 ROE와 시장 지배력은 펀더멘털의 '품질 보증' 역할을 함. 따라서, 경기 회복 기대감과 함께 '단테의 밥그릇 3번 자리'와 같은 장기 추세 전환 패턴이 나타날 경우, 이는 단순한 기술적 반등을 넘어 새로운 상승 사이클의 시작을 알리는 높은 신뢰도의 신호로 해석될 수 있음.",
+    "business_moat": "세계 최대의 수영장 관련 용품 유통망을 통해 압도적인 규모의 경제를 구축함. 이는 공급업체에 대한 강력한 가격 협상력과 수많은 지역 시공업체 고객에 대한 대체 불가능한 원스톱 솔루션 제공 능력으로 이어져, 모방하기 어려운 강력한 해자로 작용함.",
+    "ai_system_tags": [
+      "Cyclical",
+      "Value",
+      "Dividend"
+    ]
+  }
+}

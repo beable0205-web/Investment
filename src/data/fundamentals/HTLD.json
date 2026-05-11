@@ -1,0 +1,31 @@
+{
+  "ticker": "HTLD",
+  "lastUpdated": "2026-05-10T07:40:15.799Z",
+  "rawFinancials": {
+    "name": "Heartland Express, Inc.",
+    "marketCap": 1024244928,
+    "forwardPE": 26.403564,
+    "priceToBook": 1.3672563,
+    "totalRevenue": 762545024,
+    "operatingMargins": -0.06021,
+    "returnOnEquity": -0.055760004,
+    "totalCash": 44490000,
+    "totalDebt": 153163008,
+    "currentRatio": 1.272,
+    "revenueGrowth": -0.197
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "심각한 역성장",
+      "profitability": "적자 전환 및 수익성 악화",
+      "cashflow_stability": "현금 흐름 압박 및 부채 리스크 증가"
+    },
+    "macro_sensitivity": "Heartland Express는 경기 순환에 매우 민감한 운송 산업에 속합니다. 현재의 실적 악화는 경기 둔화와 운송 수요 감소에 직접적인 영향을 받은 결과로 보이며, 유가 변동성 및 금리 인상에 따른 부채 비용 증가는 재무 건전성을 더욱 압박할 수 있습니다. 전형적인 경기 민감주로, 경기 회복 시 반등 가능성이 있으나 침체기에는 취약합니다.",
+    "technical_synergy": "현재의 심각한 펀더멘털 악화(매출 역성장, 적자 전환)를 고려할 때, '단테의 밥그릇 3번 자리'와 같은 기술적 강세 패턴이 나타나더라도 그 신뢰도는 매우 낮을 것입니다. 이러한 패턴은 펀더멘털 개선의 명확한 증거(예: 흑자 전환, 매출 성장 회복)가 동반될 때 비로소 강력한 매수 신호로 작용할 수 있으며, 그렇지 않다면 일시적인 기술적 반등에 그칠 가능성이 높습니다. 진정한 폭발력은 기업의 내재가치 회복과 함께 발현될 것입니다.",
+    "business_moat": "Heartland Express는 경쟁이 치열하고 자본 집약적인 트럭 운송 산업에 종사하며, 이는 강력한 경제적 해자를 구축하기 어려운 환경입니다. 현재의 심각한 매출 감소와 적자는 이 기업이 경쟁 우위를 상실했거나, 산업 전반의 구조적 압력에 직면해 있음을 시사하며, 뚜렷한 비용 우위나 네트워크 효과를 발견하기 어렵습니다.",
+    "ai_system_tags": [
+      "Cyclical",
+      "Turnaround"
+    ]
+  }
+}

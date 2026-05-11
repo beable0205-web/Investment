@@ -1,0 +1,33 @@
+{
+  "ticker": "NWL",
+  "lastUpdated": "2026-05-10T04:51:51.989Z",
+  "rawFinancials": {
+    "name": "Newell Brands Inc.",
+    "marketCap": 1929172096,
+    "forwardPE": 6.8016,
+    "priceToBook": 0.82365745,
+    "totalRevenue": 7186999808,
+    "operatingMargins": 0.02711,
+    "returnOnEquity": -0.11169,
+    "freeCashflow": 432624992,
+    "totalCash": 201000000,
+    "totalDebt": 5694000128,
+    "currentRatio": 1.042,
+    "revenueGrowth": -0.011
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 및 이익 역성장 (Revenue and earnings contraction)",
+      "profitability": "박리다매를 넘어선 적자 구조 (Beyond thin margins, currently unprofitable)",
+      "cashflow_stability": "긍정적인 잉여현금흐름에도 불구하고 과도한 부채 레버리지와 취약한 단기 유동성 (Positive free cash flow despite excessive debt leverage and weak short-term liquidity)"
+    },
+    "macro_sensitivity": "금리 인상 및 경기 침체에 매우 취약하며, 인플레이션 환경에서 가격 전가력 부족으로 마진 압박이 심화될 수 있는 고위험군. (Highly vulnerable to interest rate hikes and economic downturns; high-risk due to potential margin pressure from lack of pricing power in an inflationary environment.)",
+    "technical_synergy": "현재의 취약한 펀더멘털(역성장, 적자, 고부채)을 고려할 때, '단테의 밥그릇 3번 자리'와 같은 기술적 패턴은 강력한 펀더멘털 개선 신호(예: 부채 감축, 수익성 회복)가 동반되지 않는 한 신뢰도가 낮으며, 단기적인 기술적 반등에 그칠 위험이 크다. (Given current weak fundamentals (negative growth, unprofitability, high debt), a technical pattern like 'Dante's Bowl Position 3' would have low reliability without strong accompanying fundamental improvement signals (e.g., debt reduction, profitability recovery), and carries a high risk of being merely a short-term technical rebound.)",
+    "business_moat": "다수의 유명 소비재 브랜드를 보유하고 있으나, 현재의 낮은 마진과 수익성 악화는 브랜드 해자가 충분한 가격 결정력이나 지속적인 초과 이익으로 이어지지 못하고 있음을 시사한다. (While possessing numerous well-known consumer brands, current low margins and deteriorating profitability suggest that the brand moat is not translating into sufficient pricing power or sustained excess profits.)",
+    "ai_system_tags": [
+      "Value",
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "ticker": "ESLA",
+  "lastUpdated": "2026-05-10T18:34:06.748Z",
+  "rawFinancials": {
+    "name": "Estrella Immunopharma, Inc.",
+    "marketCap": 53758188,
+    "forwardPE": -3.9375,
+    "priceToBook": -4.6153846,
+    "operatingMargins": 0,
+    "freeCashflow": 3429978,
+    "totalCash": 1384302,
+    "totalDebt": 6000,
+    "currentRatio": 0.124
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "현재 수익성 전무하며, 미래 성장 잠재력은 있으나 현 단계에서는 적자 지속 및 매출 성장 미미.",
+      "profitability": "핵심 사업에서 수익 창출이 전혀 없으며, 심각한 자본 잠식 상태로 수익성 측면에서 매우 취약한 구조.",
+      "cashflow_stability": "부채 부담은 미미하나, 극도로 낮은 유동비율은 단기 파산 위험을 시사합니다. 긍정적인 잉여현금흐름의 원천과 지속 가능성에 대한 면밀한 분석이 필수적입니다."
+    },
+    "macro_sensitivity": "금리 인상기에는 자금 조달 비용 증가와 미래 가치 할인율 상승으로 직접적인 타격을 받습니다. 경기 침체 시에는 투기적 자금 유입이 위축되어 생존 자체가 위협받을 수 있는, 거시경제 변수에 극도로 취약한 구조입니다.",
+    "technical_synergy": "이러한 펀더멘털을 가진 기업의 기술적 패턴은 투기적 뉴스나 단기 모멘텀에 의해 형성될 가능성이 높습니다. '단테의 밥그릇 3번 자리'가 나타나더라도, 펀더멘털 개선 없이는 신뢰도가 낮고, 급격한 변동성과 패턴 붕괴 시 큰 손실 위험을 내포합니다.",
+    "business_moat": "면역치료제 개발이라는 잠재력은 있으나, 현재 재무 상태는 어떠한 경제적 해자도 구축하지 못했음을 명확히 보여줍니다. 오히려 생존을 위한 자금 조달이 시급하며, 해자는 먼 미래의 이야기입니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "High-Growth"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "ticker": "ELPW",
+  "lastUpdated": "2026-05-11T11:53:47.196Z",
+  "rawFinancials": {
+    "name": "Elong Power Holding Limited",
+    "marketCap": 9092161,
+    "priceToBook": -0.01736636,
+    "totalRevenue": 2053466,
+    "operatingMargins": -0.71831,
+    "freeCashflow": -2490539,
+    "totalCash": 7648148,
+    "totalDebt": 9602553,
+    "currentRatio": 0.459
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "심각한 역성장 및 가치 파괴 (Severe reverse growth and value destruction)",
+      "profitability": "적자 늪 (Deep loss/Swamp of losses)",
+      "cashflow_stability": "현금 소진 심각, 레버리지 과다, 파산 위험 매우 높음 (Severe cash burn, excessive leverage, very high bankruptcy risk)"
+    },
+    "macro_sensitivity": "극도로 취약하며, 금리 인상, 인플레이션, 경기 침체 등 모든 거시경제 악재에 치명적인 민감도를 보임. 방어력 전무. (Extremely vulnerable, shows fatal sensitivity to all macroeconomic headwinds like interest rate hikes, inflation, economic recession. Zero defensive capability.)",
+    "technical_synergy": "이 기업의 심각한 펀더멘털 약점을 고려할 때, '단테의 밥그릇 3번 자리'와 같은 강력한 기술적 패턴이 나타나더라도 그 신뢰도는 극히 낮다. 이는 단기적인 투기적 움직임이거나 '죽은 고양이의 반등'일 가능성이 높으며, 장기적인 펀더멘털 개선 없이는 폭발력은커녕 추가 하락의 전조일 수 있다. (Given the severe fundamental weaknesses of this company, even if a strong technical pattern like 'Dante's Bowl position 3' appears, its reliability is extremely low. This is likely a short-term speculative move or a 'dead cat bounce', and without long-term fundamental improvement, it could be a precursor to further decline rather than explosive growth.)",
+    "business_moat": "이 기업은 현재 심각한 적자와 현금 소진을 겪고 있어, 어떠한 경제적 해자도 존재하지 않음을 강력히 시사한다. 오히려 가치를 파괴하는 사업 모델로 보이며, 경쟁 우위는 전무하다. (This company is currently experiencing severe losses and cash burn, strongly suggesting the absence of any economic moat. Rather, it appears to be a value-destroying business model with no competitive advantage.)",
+    "ai_system_tags": [
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

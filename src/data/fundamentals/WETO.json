@@ -1,0 +1,31 @@
+{
+  "ticker": "WETO",
+  "lastUpdated": "2026-05-10T19:38:35.395Z",
+  "rawFinancials": {
+    "name": "Wetour Robotics Limited",
+    "marketCap": 38925400,
+    "priceToBook": 1.2671936,
+    "totalRevenue": 27777562,
+    "operatingMargins": -1.15379,
+    "returnOnEquity": -0.60516,
+    "freeCashflow": -35448932,
+    "totalCash": 1301139,
+    "totalDebt": 23072604,
+    "currentRatio": 1.091,
+    "revenueGrowth": -0.45
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출이 -45% 역성장하며 심각한 사업 축소를 겪고 있습니다.",
+      "profitability": "영업이익률이 -115%를 넘고 ROE가 -60%에 달하는 극심한 적자 늪에 빠져 있습니다.",
+      "cashflow_stability": "막대한 자유현금흐름(FCF) 소진과 낮은 현금 보유액, 높은 부채로 인해 현금 흐름이 매우 불안정하며 파산 위험이 높습니다."
+    },
+    "macro_sensitivity": "극심한 경기 민감주로, 금리 인상 및 경기 침체 시 파산 위험이 급증합니다. 현재 재무 상태로는 어떠한 거시경제적 충격에도 방어력이 전무합니다.",
+    "technical_synergy": "현재의 심각한 펀더멘털 악화 상태에서는 '단테의 밥그릇 3번 자리'와 같은 기술적 패턴이 나타나더라도 신뢰도가 극히 낮습니다. 이는 단기적인 투기적 움직임일 가능성이 높으며, 장기적인 추세 전환의 신호로 해석하기 어렵습니다. 오히려 '데드 캣 바운스'에 가까울 수 있습니다.",
+    "business_moat": "Wetour Robotics는 로봇 기술 분야에 속하지만, 현재 재무 데이터는 어떠한 경제적 해자도 존재하지 않거나, 존재하더라도 심각하게 침식되고 있음을 시사합니다. 경쟁 우위가 매출 감소와 막대한 손실을 방어하지 못하고 있습니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

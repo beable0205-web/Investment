@@ -1,0 +1,32 @@
+{
+  "ticker": "FTEK",
+  "lastUpdated": "2026-05-10T19:08:35.980Z",
+  "rawFinancials": {
+    "name": "Fuel Tech, Inc.",
+    "marketCap": 47371176,
+    "forwardPE": -30.4,
+    "priceToBook": 1.1847233,
+    "totalRevenue": 26375000,
+    "operatingMargins": -0.2625,
+    "returnOnEquity": -0.07351,
+    "freeCashflow": -115125,
+    "totalCash": 21579000,
+    "totalDebt": 557000,
+    "currentRatio": 5.444,
+    "revenueGrowth": -0.047
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "역성장 (Negative Growth): 매출이 지속적으로 감소하고 있으며, 이는 시장 점유율 하락 또는 산업 수요 위축을 시사합니다.",
+      "profitability": "적자 늪 (Deep in Losses): 영업 마진과 자기자본이익률이 모두 마이너스를 기록하며, 핵심 사업에서 수익을 창출하지 못하고 있습니다. 이는 사업 모델의 근본적인 문제 또는 심각한 비효율성을 나타냅니다.",
+      "cashflow_stability": "현금은 풍부하나 영업활동 현금 창출력 부족, 부채 리스크는 매우 낮음 (Abundant cash but lack of cash generation from operations, very low debt risk): 상당한 현금 보유량과 미미한 부채로 단기 파산 위험은 매우 낮습니다. 유동성 비율 또한 매우 우수합니다. 그러나 영업활동을 통한 현금 흐름이 마이너스라는 점은 장기적인 관점에서 현금 소진 위험을 내포합니다."
+    },
+    "macro_sensitivity": "경기 침체에 매우 취약하며, 금리 인상기에는 자금 조달 비용 부담은 적으나 성장 동력 부재로 투자 매력 감소. 환경 규제 강화 시 잠재적 수혜 가능성. (Highly vulnerable to recession. In a rising interest rate environment, funding cost burden is low, but lack of growth momentum reduces investment appeal. Potential beneficiary from stricter environmental regulations.)",
+    "technical_synergy": "현재의 약한 펀더멘털(역성장, 적자)을 고려할 때, '단테의 밥그릇 3번 자리'와 같은 기술적 패턴은 단기 투기적 움직임일 가능성이 높으며, 장기적인 신뢰도는 매우 낮다. 펀더멘털 개선 없이는 지속적인 상승을 기대하기 어렵다. (Given current weak fundamentals (negative growth, losses), technical patterns like 'Dante's Bowl Position 3' are likely short-term speculative moves with very low long-term reliability. Sustained upside is difficult to expect without fundamental improvement.)",
+    "business_moat": "이 기업은 연소 최적화 및 배출가스 제어 기술이라는 특정 니치 시장에 집중하고 있으나, 현재 재무 지표는 강력한 경제적 해자(Moat)를 구축했음을 보여주지 못한다. 기술적 우위가 시장 지배력이나 지속적인 수익성으로 이어지지 않고 있다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

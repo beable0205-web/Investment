@@ -1,0 +1,33 @@
+{
+  "ticker": "REZI",
+  "lastUpdated": "2026-05-09T12:01:01.940Z",
+  "rawFinancials": {
+    "name": "Resideo Technologies, Inc.",
+    "marketCap": 6018993152,
+    "forwardPE": 12.69968,
+    "priceToBook": 2.4466057,
+    "totalRevenue": 7472000000,
+    "operatingMargins": 0.09077,
+    "returnOnEquity": -0.16929,
+    "freeCashflow": 178624992,
+    "totalCash": 663000000,
+    "totalDebt": 3531000064,
+    "currentRatio": 1.913,
+    "revenueGrowth": 0.02
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "정체. 매출 성장이 2%에 불과하고, 자기자본이익률(ROE)이 마이너스로 순이익 관점에서는 역성장 상태입니다.",
+      "profitability": "수익성 악화. 영업이익률은 9%대로 준수하나, 높은 부채로 인한 이자비용 등으로 순이익단에서 손실을 기록하며 마이너스 ROE(-16.9%)를 보이고 있습니다. 턴어라운드가 필요한 구조입니다.",
+      "cashflow_stability": "양면적. 긍정적인 잉여현금흐름(FCF)을 창출하는 능력은 있으나, 현금 보유량 대비 부채(Net Debt/FCF 약 16배)가 과도하여 재무 레버리지 리스크가 매우 높습니다. 단기 유동성(유동비율 1.9)은 양호합니다."
+    },
+    "macro_sensitivity": "금리 인상 및 경기 침체에 취약한 경기민감주. 부채 수준이 높아 금리 인상 시 이자 부담이 가중되며, 주력 사업이 주택 및 건설 경기에 민감하게 반응하여 경기 하강 시 매출 타격이 예상됩니다.",
+    "technical_synergy": "높은 부채와 마이너스 ROE로 인해 주가가 펀더멘털 대비 억눌려 있을 가능성이 높습니다. 긍정적 현금흐름이 최악의 상황(파산)을 방어해주므로, 부채 감축이나 수익성 개선 같은 턴어라운드 시그널과 함께 장기 이평선을 돌파하고 지지하는 패턴이 나타날 경우, 시장의 재평가가 빠르게 이루어지며 높은 신뢰도와 폭발력을 보일 수 있습니다.",
+    "business_moat": "Honeywell로부터 분사하여 확보한 강력한 브랜드 인지도와, 전문 설치업자를 대상으로 한 광범위한 B2B 유통망(ADI Global Distribution)이 핵심 해자입니다. 시장에 이미 설치된 방대한 규모의 제품군은 안정적인 교체 수요를 창출하는 기반이 됩니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Value",
+      "Cyclical"
+    ]
+  }
+}

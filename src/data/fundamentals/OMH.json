@@ -1,0 +1,33 @@
+{
+  "ticker": "OMH",
+  "lastUpdated": "2026-05-10T20:42:58.506Z",
+  "rawFinancials": {
+    "name": "Ohmyhome Limited",
+    "marketCap": 20331306,
+    "forwardPE": -9.463441,
+    "priceToBook": 3.3833477,
+    "totalRevenue": 12241483,
+    "operatingMargins": -0.61018,
+    "returnOnEquity": -1.7442399,
+    "freeCashflow": -1443673,
+    "totalCash": 4586491,
+    "totalDebt": 1739906,
+    "currentRatio": 1.254,
+    "revenueGrowth": -0.129
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "심각한 역성장 (매출 12.9% 감소)",
+      "profitability": "적자 늪 (영업이익률 -61%, ROE -174%로 극심한 손실 및 가치 파괴)",
+      "cashflow_stability": "현금 소진 및 높은 파산 위험 (지속적인 잉여현금흐름 적자로 현금 소진 가속화, 장기적 생존 불확실)"
+    },
+    "macro_sensitivity": "금리 인상, 인플레이션, 경기 침체 등 거시경제 악화에 극도로 취약합니다. 이미 심각한 손실을 기록 중인 상황에서 외부 환경 악화는 생존 자체를 위협할 수 있으며, 경기 방어적 특성은 전혀 없습니다. 부동산 관련 사업 특성상 금리 변동에 매우 민감합니다.",
+    "technical_synergy": "이러한 심각한 펀더멘털 약점을 가진 기업이 '단테의 밥그릇 3번 자리'와 같은 기술적 패턴을 형성하더라도, 이는 단기적인 투기적 움직임일 가능성이 높습니다. 근본적인 사업 개선 없이는 해당 패턴의 신뢰도는 매우 낮으며, 장기적인 추세 전환으로 이어질 가능성은 희박합니다. 펀더멘털이 뒷받침되지 않는 기술적 패턴은 '모래 위의 성'과 같습니다.",
+    "business_moat": "Ohmyhome Limited는 현재 심각한 역성장과 막대한 손실을 기록하고 있어, 어떠한 경제적 해자도 찾아보기 어렵습니다. 오히려 경쟁 우위가 부족하거나 비즈니스 모델 자체가 지속 불가능한 상태임을 시사합니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Cyclical",
+      "High-Risk"
+    ]
+  }
+}

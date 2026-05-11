@@ -1,0 +1,33 @@
+{
+  "ticker": "G",
+  "lastUpdated": "2026-05-09T12:14:18.389Z",
+  "rawFinancials": {
+    "name": "Genpact Limited",
+    "marketCap": 5519056896,
+    "trailingPE": 9.987731,
+    "forwardPE": 7.3051662,
+    "priceToBook": 2.1755981,
+    "totalRevenue": 5161025024,
+    "operatingMargins": 0.15322,
+    "returnOnEquity": 0.23117,
+    "freeCashflow": 720613120,
+    "totalCash": 928078976,
+    "totalDebt": 1740839936,
+    "currentRatio": 1.686,
+    "revenueGrowth": 0.067
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 성장. 6.7%의 견조한 매출 성장과 순이익 증가가 예상되는 낮은 선행 PER(Forward PE)이 특징으로, 폭발적이지는 않으나 꾸준한 성장을 보임.",
+      "profitability": "고수익성 구조. 15%대의 준수한 영업이익률과 23%를 상회하는 매우 높은 자기자본이익률(ROE)은 자본을 효율적으로 활용하여 높은 이익을 창출하는 능력을 증명함.",
+      "cashflow_stability": "현금 창출력 우수. 시가총액 대비 높은 잉여현금흐름(FCF)을 기록하고 있으며, 부채 대비 현금 보유량과 유동비율이 양호하여 재무적 안정성이 매우 높음."
+    },
+    "macro_sensitivity": "경기 방어적 성격의 가치주. 경기 침체 시 기업들이 비용 절감을 위해 아웃소싱을 늘리는 경향이 있어 오히려 수요가 견조할 수 있음. 금리 인상기에는 부채 부담이 일부 있으나, 강력한 현금흐름으로 방어 가능.",
+    "technical_synergy": "펀더멘털이 뒷받침하는 신뢰도 높은 패턴. 이처럼 저평가된 우량주가 장기 이평선을 돌파하며 '밥그릇 3번 자리'와 같은 추세 전환 패턴을 형성할 경우, 이는 단순한 기술적 반등이 아닌 기업 가치의 재평가 시작을 의미할 가능성이 높다. 따라서 패턴의 신뢰도와 상승 잠재력이 매우 크다.",
+    "business_moat": "Genpact는 특정 산업에 대한 깊은 전문성과 고객사의 핵심 업무 프로세스에 깊숙이 통합된 서비스를 통해 강력한 전환 비용 해자를 구축했다. 이는 안정적인 반복 매출과 장기적인 파트너십을 가능하게 하는 핵심 경쟁력이다.",
+    "ai_system_tags": [
+      "Value",
+      "Defensive"
+    ]
+  }
+}

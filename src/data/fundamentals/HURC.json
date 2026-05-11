@@ -1,0 +1,32 @@
+{
+  "ticker": "HURC",
+  "lastUpdated": "2026-05-10T16:50:14.149Z",
+  "rawFinancials": {
+    "name": "Hurco Companies, Inc.",
+    "marketCap": 106495424,
+    "priceToBook": 0.5460435,
+    "totalRevenue": 175008000,
+    "operatingMargins": -0.08328,
+    "returnOnEquity": -0.07256,
+    "freeCashflow": 2591625,
+    "totalCash": 48011000,
+    "totalDebt": 11562000,
+    "currentRatio": 4.185,
+    "revenueGrowth": -0.076
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 역성장 및 수익성 악화 (Revenue contraction and deteriorating profitability).",
+      "profitability": "영업이익 및 자기자본이익률 모두 적자를 기록하며, 수익성 측면에서 심각한 어려움을 겪고 있습니다. (Operating margins and ROE are negative, indicating severe profitability challenges.)",
+      "cashflow_stability": "영업이익은 적자이나, 긍정적인 잉여현금흐름과 막대한 현금 보유량(부채의 4배 이상), 그리고 매우 높은 유동비율(4.185)을 통해 단기 파산 위험은 매우 낮고 재무적 안정성은 우수합니다. (Despite operating losses, positive free cash flow, substantial cash holdings (over 4x debt), and a very high current ratio (4.185) indicate very low short-term bankruptcy risk and excellent financial stability.)"
+    },
+    "macro_sensitivity": "산업재 섹터에 속하며, 매출 역성장이 이미 진행 중인 점을 감안할 때 경기 침체에 매우 취약한 경기 민감주입니다. 금리 인상기에는 기업들의 설비 투자 위축으로 직접적인 타격을 입으며, 인플레이션은 원가 부담을 가중시킬 수 있습니다. (Belonging to the industrial sector and already experiencing revenue contraction, this is a highly cyclical stock very vulnerable to economic downturns. During interest rate hikes, it's directly impacted by reduced corporate capital expenditures, and inflation could exacerbate cost pressures.)",
+    "technical_synergy": "현재의 역성장과 적자 상태에서는 '단테의 밥그릇 3번 자리'와 같은 기술적 패턴이 나타나더라도, 이는 단기적인 반등일 가능성이 높으며 지속적인 상승 동력을 얻기 어렵습니다. 그러나 0.54배에 불과한 낮은 PBR과 풍부한 현금, 낮은 부채로 대변되는 견고한 재무구조는 향후 턴어라운드 시 강력한 기술적 상승의 기반이 될 수 있으며, 이때의 기술적 돌파는 신뢰도가 높을 것입니다. (Given current negative growth and losses, a technical pattern like 'Dante's Bowl Position 3' would likely be a short-term rebound without sustainable upward momentum. However, its low P/B of 0.54 and robust financial structure (ample cash, low debt) could form a strong technical base for a powerful rally if a turnaround materializes, in which case a technical breakout would be highly reliable.)",
+    "business_moat": "이 기업은 CNC 공작기계를 제조하는 산업재 기업입니다. 현재의 역성장과 적자 상태는 강력한 경제적 해자가 부재하거나, 해자가 있더라도 현재 시장 환경에서 효과적으로 작동하지 못하고 있음을 시사합니다. (This company manufactures CNC machine tools, an industrial goods company. Its current negative growth and losses suggest the absence of a strong economic moat, or that any existing moat is not effectively functioning in the current market environment.)",
+    "ai_system_tags": [
+      "Value",
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

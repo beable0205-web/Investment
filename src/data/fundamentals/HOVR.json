@@ -1,0 +1,30 @@
+{
+  "ticker": "HOVR",
+  "lastUpdated": "2026-05-10T16:58:11.100Z",
+  "rawFinancials": {
+    "name": "New Horizon Aircraft Ltd.",
+    "marketCap": 108179408,
+    "forwardPE": -2.6442776,
+    "priceToBook": 18.670818,
+    "operatingMargins": 0,
+    "returnOnEquity": -3.13008,
+    "freeCashflow": -6980125,
+    "totalCash": 19674000,
+    "totalDebt": 14000,
+    "currentRatio": 14.809
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "현재 매출 및 이익은 전무하며, 상당한 현금 소진을 통해 미래 성장 동력을 구축하는 초기 단계 기업. 잠재적 고성장 기대.",
+      "profitability": "영업이익률 0% 및 ROE -3.13%로, 현재 심각한 적자 상태. 수익성 확보까지 상당한 시간과 자본 투입이 필요.",
+      "cashflow_stability": "자유현금흐름이 마이너스 698만 달러로 현금을 빠르게 소진 중. 다만, 총 부채가 미미하고 유동비율이 14.8로 단기 유동성은 매우 우수하나, 지속적인 자금 조달 없이는 재무적 압박 가중."
+    },
+    "macro_sensitivity": "항공 산업의 초기 단계 혁신 기업으로, 자본 시장의 유동성과 투자 심리에 극도로 민감. 금리 인상 기조나 경기 침체 시 자금 조달 환경이 악화되어 생존에 직접적인 위협이 될 수 있음. 거시경제 변동에 대한 방어력은 전무.",
+    "technical_synergy": "펀더멘털이 아직 확립되지 않은 투기적 성격의 기업이므로, '단테의 밥그릇 3번 자리'와 같은 기술적 패턴은 단기적인 뉴스나 테마에 의한 투기적 매수세로 해석될 가능성이 높음. 장기적인 추세 전환의 신뢰도는 매우 낮으며, 변동성이 극심할 것으로 예상.",
+    "business_moat": "현재로서는 명확한 경제적 해자를 구축하지 못했으나, 'New Horizon Aircraft'라는 이름에서 유추컨대 혁신적인 항공 기술 개발을 통해 미래 시장에서 독점적 지위를 확보하려는 전략. 성공 시 강력한 기술적 해자가 될 수 있으나, 실패 시 막대한 투자 손실로 이어질 위험.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Turnaround"
+    ]
+  }
+}

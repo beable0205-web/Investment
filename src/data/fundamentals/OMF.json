@@ -1,0 +1,32 @@
+{
+  "ticker": "OMF",
+  "lastUpdated": "2026-05-09T10:11:30.912Z",
+  "rawFinancials": {
+    "name": "OneMain Holdings, Inc.",
+    "marketCap": 6480131072,
+    "trailingPE": 8.359165,
+    "forwardPE": 6.445363,
+    "priceToBook": 1.932805,
+    "totalRevenue": 3040000000,
+    "operatingMargins": 0.37375,
+    "returnOnEquity": 0.23915,
+    "totalCash": 834000000,
+    "totalDebt": 22396000256,
+    "revenueGrowth": 0.091
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 성장. 9%대의 견조한 매출 성장을 보이고 있으며, 선행 PER이 후행 PER보다 낮아 이익 증가가 기대되는 국면.",
+      "profitability": "독점적 수준의 고마진. 37%에 달하는 높은 영업이익률과 23%를 넘는 자기자본이익률(ROE)은 비우량 대출 시장에서의 강력한 가격 결정력과 효율적인 비용 관리를 증명함.",
+      "cashflow_stability": "레버리지 기반의 현금 창출, 부채 리스크 상존. 금융업의 특성상 부채 비율이 매우 높지만, 높은 수익성을 바탕으로 안정적인 현금을 창출함. 단, 경기 악화 시 채무 불이행 리스크가 재무 안정성을 위협할 수 있는 구조."
+    },
+    "macro_sensitivity": "대표적인 경기 민감주. 금리 변동 및 실업률에 따라 실적이 크게 좌우되며, 경기 침체 시 대손충당금 증가 리스크가 부각됨. 반대로, 금리 인하 및 경기 회복 국면에서는 가장 빠르게 실적이 개선되는 대표적인 턴어라운드 수혜주.",
+    "technical_synergy": "저평가(Low PER)와 고수익성(High ROE)을 겸비한 경기 민감주의 특성상, 거시경제 턴어라운드(금리 인하, 경기 회복) 신호와 장기 이평선 돌파 및 지지 패턴이 결합될 때, 억눌렸던 밸류에이션이 재평가되며 강력한 시세 분출을 보일 신뢰도가 높음.",
+    "business_moat": "전통 은행이 기피하는 비우량(Non-prime) 소비자 대출 시장에 특화된 선두주자. 수십 년간 축적된 리스크 평가 데이터와 광범위한 오프라인 지점망을 통해, 경쟁사 대비 정교한 대출 심사 및 채권 관리가 가능한 구조적 해자를 구축함.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Dividend"
+    ]
+  }
+}

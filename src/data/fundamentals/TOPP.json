@@ -1,0 +1,31 @@
+{
+  "ticker": "TOPP",
+  "lastUpdated": "2026-05-10T21:15:28.627Z",
+  "rawFinancials": {
+    "name": "Toppoint Holdings Inc.",
+    "marketCap": 19501030,
+    "priceToBook": 2.2600458,
+    "totalRevenue": 16548734,
+    "operatingMargins": -0.26948,
+    "returnOnEquity": -1.3158299,
+    "freeCashflow": -1335078,
+    "totalCash": 1202395,
+    "totalDebt": 1464849,
+    "currentRatio": 3.234,
+    "revenueGrowth": 0.104
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "미약한 성장 노력, 수익성 없는 매출 증가",
+      "profitability": "적자 늪, 심각한 운영 효율성 문제",
+      "cashflow_stability": "현금 소진 심화, 재무 압박 가중"
+    },
+    "macro_sensitivity": "거시경제 악화에 극도로 취약하며, 금리 인상, 인플레이션, 경기 침체 시 파산 위험이 급증할 수 있는 고위험군.",
+    "technical_synergy": "펀더멘털과 괴리된 기술적 패턴(예: 단테의 밥그릇 3번 자리)은 신뢰도가 매우 낮으며, 투기적 움직임이나 일시적 반등에 불과할 가능성이 높음. 장기 투자 관점에서는 극도의 주의가 필요함.",
+    "business_moat": "현재 재무제표는 TOPP가 유의미한 경제적 해자를 보유하고 있음을 전혀 보여주지 않습니다. 오히려 심각한 수익성 악화는 경쟁 우위 부재와 시장 내에서의 취약한 위치를 명확히 드러냅니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Value"
+    ]
+  }
+}

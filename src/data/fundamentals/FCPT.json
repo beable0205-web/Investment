@@ -1,0 +1,34 @@
+{
+  "ticker": "FCPT",
+  "lastUpdated": "2026-05-10T03:25:23.624Z",
+  "rawFinancials": {
+    "name": "Four Corners Property Trust, In",
+    "marketCap": 2762387456,
+    "trailingPE": 22.675676,
+    "forwardPE": 20.87965,
+    "priceToBook": 2.4283648,
+    "totalRevenue": 300822016,
+    "operatingMargins": 0.62556,
+    "returnOnEquity": 0.07534,
+    "freeCashflow": 148332000,
+    "totalCash": 17735000,
+    "totalDebt": 743334976,
+    "currentRatio": 0.591,
+    "revenueGrowth": 0.069
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 성장 (6.9% 매출 성장률은 REIT 섹터에서 견고한 수준)",
+      "profitability": "독점적 마진 (62.5%의 높은 영업 마진은 강력한 사업 모델과 효율적인 자산 관리를 시사)",
+      "cashflow_stability": "견고한 현금 창출력과 관리 가능한 레버리지 (높은 FCF는 긍정적이나, REIT 특성상 상당한 부채는 금리 변동에 대한 민감도를 높임)"
+    },
+    "macro_sensitivity": "금리 변동에 민감한 경기 방어적 특성. 금리 인상기에는 자본 비용 증가와 자산 가치 하락 압력에 직면하나, 안정적인 임대 수익은 경기 침체기에도 일정 부분 방어력을 제공함. 금리 인하 시 가장 큰 수혜를 입을 수 있는 구조.",
+    "technical_synergy": "견고한 펀더멘털과 안정적인 현금 흐름을 가진 기업이 장기 이평선을 돌파할 경우, 이는 단순한 기술적 반등을 넘어선 구조적 개선 또는 시장의 재평가를 의미합니다. 특히 거시경제적 순풍(예: 금리 인하 기대)이 동반될 때, '단테의 밥그릇 3번 자리'는 높은 신뢰도의 장기 상승 추세 시작점으로 작용할 수 있습니다. 폭발적인 단기 수익보다는 꾸준하고 예측 가능한 자본 이득을 기대할 수 있습니다.",
+    "business_moat": "FCPT는 핵심 상업용 부동산에 대한 장기 순임대 계약을 통해 예측 가능한 현금 흐름을 확보하며, 이는 높은 전환 비용과 전략적 입지 선점을 통해 강력한 경제적 해자를 구축합니다. 안정적인 임대 수익은 경기 변동에도 불구하고 기업의 가치를 지탱하는 핵심 요소입니다.",
+    "ai_system_tags": [
+      "Defensive",
+      "Dividend",
+      "Cyclical"
+    ]
+  }
+}

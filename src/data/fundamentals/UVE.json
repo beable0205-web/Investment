@@ -1,0 +1,34 @@
+{
+  "ticker": "UVE",
+  "lastUpdated": "2026-05-10T07:11:24.258Z",
+  "rawFinancials": {
+    "name": "UNIVERSAL INSURANCE HOLDINGS IN",
+    "marketCap": 1100814464,
+    "trailingPE": 5.834319,
+    "forwardPE": 8.963635,
+    "priceToBook": 2.004676,
+    "totalRevenue": 1602612992,
+    "operatingMargins": 0.18621,
+    "returnOnEquity": 0.38883,
+    "freeCashflow": 338452640,
+    "totalCash": 595771008,
+    "totalDebt": 100290000,
+    "currentRatio": 0.547,
+    "revenueGrowth": -0.003
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출은 정체 또는 소폭 역성장하나, 높은 ROE와 FCF는 효율적인 자본 활용을 시사합니다.",
+      "profitability": "매우 우수한 영업 마진(18.6%)과 압도적인 자기자본이익률(38.8%)을 기록하며, 독점적 수준의 수익성을 자랑합니다.",
+      "cashflow_stability": "견고한 잉여현금흐름(FCF)과 풍부한 현금 보유량으로 부채 리스크는 매우 낮습니다. 다만, 낮은 유동비율(0.547)은 단기 유동성 관점에서 주의가 필요합니다."
+    },
+    "macro_sensitivity": "보험 산업 특성상 금리 인상 시 투자 수익 개선이 기대되나, 인플레이션은 손해율 악화로 이어질 수 있습니다. 경기 침체기에는 보험 수요의 상대적 견고함으로 방어적 특성을 가지지만, 투자 포트폴리오의 성과는 거시경제 변동에 민감합니다.",
+    "technical_synergy": "강력한 펀더멘털(높은 ROE, 견고한 현금 흐름, 낮은 부채)은 기술적 돌파 시 시장의 재평가를 이끌어낼 신뢰성 높은 기반을 제공합니다. 특히 현재의 저평가된 PE 비율을 고려할 때, '단테의 밥그릇 3번 자리'와 같은 장기 이평선 돌파는 단순한 기술적 신호가 아닌, 기업 가치 회복과 모멘텀 전환의 강력한 증거로 작용하여 폭발적인 상승 잠재력을 가질 수 있습니다.",
+    "business_moat": "UVE는 효율적인 운영과 정교한 언더라이팅 역량을 통해 높은 영업 마진과 자기자본이익률을 지속적으로 창출합니다. 이는 경쟁사 대비 비용 우위와 안정적인 수익 기반을 제공하는 핵심 경제적 해자로 작용합니다.",
+    "ai_system_tags": [
+      "Value",
+      "Financial Strength",
+      "Cyclical"
+    ]
+  }
+}

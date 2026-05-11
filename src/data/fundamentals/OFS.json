@@ -1,0 +1,32 @@
+{
+  "ticker": "OFS",
+  "lastUpdated": "2026-05-10T18:56:46.603Z",
+  "rawFinancials": {
+    "name": "OFS Capital Corporation",
+    "marketCap": 52118528,
+    "forwardPE": 7.4807696,
+    "priceToBook": 0.42310202,
+    "totalRevenue": 39300000,
+    "operatingMargins": 0.71349996,
+    "returnOnEquity": -0.2773,
+    "totalCash": 3258000,
+    "totalDebt": 199896000,
+    "currentRatio": 1.595,
+    "revenueGrowth": -0.135
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "역성장 (Negative Growth): 매출이 전년 대비 13.5% 감소하며 사업 축소 국면에 진입했음을 시사합니다. 이는 신규 투자 부진 또는 기존 포트폴리오의 부실화를 반영할 수 있습니다.",
+      "profitability": "표면적 고마진, 실질적 자본 잠식 (High Superficial Margin, Actual Capital Erosion): 71%가 넘는 높은 영업 마진은 인상적이나, -27.7%에 달하는 처참한 자기자본이익률(ROE)은 이 기업이 주주 자본을 심각하게 훼손하고 있음을 명확히 보여줍니다. 이는 높은 이자 비용, 운용 손실 또는 대규모 대손상각에 기인할 가능성이 큽니다.",
+      "cashflow_stability": "레버리지 과다 및 현금 흐름 불안정 (Excessive Leverage & Unstable Cash Flow): 2억 달러에 육박하는 총 부채는 현금 보유액(320만 달러)에 비해 압도적으로 높습니다. 현재 유동비율은 양호하나, 지속적인 역성장과 적자 ROE는 부채 상환 능력에 심각한 의문을 제기하며 파산 위험을 높입니다."
+    },
+    "macro_sensitivity": "경기 침체 및 금리 인상에 극도로 취약 (Extremely Vulnerable to Recession & Interest Rate Hikes): BDC(사업개발회사)의 특성상, 이 기업은 중소기업 대출 및 투자 포트폴리오를 보유하고 있습니다. 따라서 경기 침체 시 포트폴리오 기업들의 부실 위험이 급증하고, 금리 인상 시 차입 비용 증가와 함께 대출 상환 부담이 가중되어 직접적인 타격을 입을 수 있습니다. 현재의 재무 상태는 이러한 거시경제적 충격에 대한 방어력이 전무함을 보여줍니다.",
+    "technical_synergy": "펀더멘털과 괴리된 기술적 패턴은 함정 (Technical Patterns Diverging from Fundamentals are Traps): 현재의 심각한 역성장, 자본 잠식, 과도한 부채를 고려할 때, '단테의 밥그릇 3번 자리'와 같은 강력한 기술적 매수 신호가 나타나더라도 이는 신뢰하기 어렵습니다. 워런 버핏과 피터 린치의 철학에 따르면, 펀더멘털이 뒷받침되지 않는 기술적 반등은 일시적인 '죽은 고양이의 반등(Dead Cat Bounce)'이거나 개인 투자자를 유인하는 함정일 가능성이 매우 높습니다. 장기적인 관점에서 이러한 패턴은 무시해야 합니다.",
+    "business_moat": "경제적 해자 부재 및 사업 모델의 취약성 (Absence of Economic Moat & Vulnerability of Business Model): OFS Capital은 중소기업 대출 및 투자라는 본질적으로 경쟁이 치열한 사업 모델을 가지고 있습니다. 현재의 심각한 재무 성과는 독점적인 해자가 존재하지 않거나, 존재하더라도 심각하게 훼손되어 수익성으로 연결되지 못하고 있음을 명확히 보여줍니다. 이는 지속적인 경쟁 우위 확보에 실패했음을 의미합니다.",
+    "ai_system_tags": [
+      "Value",
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

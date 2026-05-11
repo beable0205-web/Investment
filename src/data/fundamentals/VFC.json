@@ -1,0 +1,34 @@
+{
+  "ticker": "VFC",
+  "lastUpdated": "2026-05-09T09:36:42.122Z",
+  "rawFinancials": {
+    "name": "V.F. Corporation",
+    "marketCap": 7426177536,
+    "trailingPE": 33.298244,
+    "forwardPE": 18.002466,
+    "priceToBook": 2.0076156,
+    "totalRevenue": 12784847872,
+    "operatingMargins": 0.10953,
+    "returnOnEquity": 0.22092,
+    "freeCashflow": 781847872,
+    "totalCash": 1466468992,
+    "totalDebt": 5338700800,
+    "currentRatio": 1.443,
+    "revenueGrowth": 0.015
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 성장은 1.5%로 정체 상태이나, 후행 PER(33.3) 대비 선행 PER(18.0)이 크게 낮아 향후 이익의 강력한 턴어라운드를 시장이 기대하고 있음.",
+      "profitability": "10.95%의 안정적인 영업이익률과 22.09%라는 높은 자기자본이익률(ROE)은 강력한 브랜드 파워를 기반으로 한 효율적인 수익 창출 구조를 증명함.",
+      "cashflow_stability": "안정적인 잉여현금흐름(FCF)을 창출하고 있으나, 현금 보유량 대비 총부채 규모가 상당하여 레버리지 관리가 향후 재무 안정성의 핵심 변수임."
+    },
+    "macro_sensitivity": "의류/신발 등 대표적인 경기소비재 기업으로, 금리 인상 및 경기 침체 시 소비 위축에 직접적인 타격을 받음. 인플레이션 둔화와 금리 인하 국면에서 실적 개선 기대감이 높은 경기민감주(Cyclical)로 분류됨.",
+    "technical_synergy": "펀더멘털의 핵심이 '이익 턴어라운드'이므로, 장기 이평선 돌파 및 지지(밥그릇 3번 자리)는 '최악의 국면은 지났다'는 시장의 합의를 보여주는 결정적 신호임. 이 기술적 패턴이 확인될 경우, 펀더멘털 개선 기대감과 맞물려 강력한 밸류에이션 재평가(Re-rating)를 촉발할 가능성이 높음.",
+    "business_moat": "The North Face, Vans, Timberland 등 강력한 브랜드 포트폴리오를 소유한 글로벌 의류 기업입니다. 경제적 해자는 각 브랜드가 수십 년간 쌓아온 무형의 브랜드 가치와 고객 충성도에서 비롯되며, 이는 경기 변동 속에서도 일정 수준의 가격 결정력을 유지하는 원천이 됩니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Cyclical",
+      "Value"
+    ]
+  }
+}

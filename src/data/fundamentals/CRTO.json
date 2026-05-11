@@ -1,0 +1,34 @@
+{
+  "ticker": "CRTO",
+  "lastUpdated": "2026-05-10T07:39:15.388Z",
+  "rawFinancials": {
+    "name": "Criteo S.A.",
+    "marketCap": 828532224,
+    "trailingPE": 7.7417836,
+    "forwardPE": 3.7117486,
+    "priceToBook": 0.7339654,
+    "totalRevenue": 1918105984,
+    "operatingMargins": 0.024489999,
+    "returnOnEquity": 0.10393,
+    "freeCashflow": 181086256,
+    "totalCash": 348328992,
+    "totalDebt": 144322000,
+    "currentRatio": 1.276,
+    "revenueGrowth": -0.059
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출은 역성장하고 있으나, 효율성 개선 및 비용 통제를 통해 향후 이익 개선이 기대되는 턴어라운드 초기 단계입니다. (Revenue is declining, but profit improvement is expected through efficiency and cost control, suggesting an early-stage turnaround.)",
+      "profitability": "경쟁 심화 또는 산업 특성상 영업 마진이 매우 낮아 가격 결정력이 제한적입니다. 다만, 자산 효율성을 통해 양호한 자기자본이익률을 유지하고 있습니다. (Operating margins are very low due to intense competition or industry characteristics, indicating limited pricing power. However, it maintains a decent ROE through asset efficiency.)",
+      "cashflow_stability": "견고한 잉여현금흐름을 창출하며, 총 부채 대비 현금 보유량이 압도적으로 많아 재무 건전성이 매우 우수합니다. 파산 위험은 극히 낮습니다. (Generates robust free cash flow, and cash holdings significantly outweigh total debt, indicating excellent financial health. Bankruptcy risk is extremely low.)"
+    },
+    "macro_sensitivity": "광고 지출은 경기 변동에 매우 민감하므로, 금리 인상으로 인한 소비 위축 및 경기 침체 시 기업의 광고 예산 삭감으로 직접적인 매출 타격을 입을 수 있습니다. 인플레이션은 운영 비용을 증가시켜 마진 압박을 가중시킬 수 있습니다. (Ad spending is highly sensitive to economic fluctuations. During periods of consumer contraction due to interest rate hikes or recession, the company faces direct revenue impact from corporate ad budget cuts. Inflation can increase operating costs, exacerbating margin pressure.)",
+    "technical_synergy": "강력한 재무 건전성(풍부한 현금, 낮은 부채)은 기업의 하방 경직성을 보장하며, '단테의 밥그릇 3번 자리'와 같은 장기 이평선 돌파 패턴 발생 시 단순한 기술적 반등을 넘어선 펀더멘털 개선에 대한 시장의 신뢰를 반영할 수 있습니다. 특히 밸류에이션 매력이 부각되는 턴어라운드 국면에서 이러한 기술적 신호는 중장기적 상승 추세의 시작을 알리는 강력한 지표가 될 수 있습니다. (Strong financial health (abundant cash, low debt) ensures downside protection. When technical patterns like 'Dante's Bowl Position 3' (breaking long-term moving averages) occur, it can reflect market confidence in fundamental improvement beyond a mere technical bounce. Especially in a turnaround phase where valuation appeal is highlighted, such technical signals can be a strong indicator of the beginning of a mid-to-long-term uptrend.)",
+    "business_moat": "Criteo는 방대한 소비자 행동 데이터와 AI 기반의 개인화된 광고 최적화 기술을 통해 광고주에게 높은 전환율을 제공합니다. 그러나 구글, 메타 등 거대 플랫폼의 자체 광고 생태계 강화와 개인정보 보호 규제 강화로 인해 독점적 해자가 점차 약화될 위험에 직면해 있습니다. (Criteo leverages vast consumer behavioral data and AI-driven personalized ad optimization to deliver high conversion rates for advertisers. However, it faces the risk of its economic moat gradually weakening due to the strengthening of proprietary ad ecosystems by giant platforms like Google and Meta, and increasing privacy regulations.)",
+    "ai_system_tags": [
+      "Value",
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

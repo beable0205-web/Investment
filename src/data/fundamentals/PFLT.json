@@ -1,0 +1,34 @@
+{
+  "ticker": "PFLT",
+  "lastUpdated": "2026-05-10T08:01:03.628Z",
+  "rawFinancials": {
+    "name": "PennantPark Floating Rate Capit",
+    "marketCap": 885023616,
+    "trailingPE": 14.1587305,
+    "forwardPE": 7.602295,
+    "priceToBook": 0.850658,
+    "totalRevenue": 268524992,
+    "operatingMargins": 0.77312,
+    "returnOnEquity": 0.05886,
+    "freeCashflow": 44045876,
+    "totalCash": 121871000,
+    "totalDebt": 1667698944,
+    "currentRatio": 4.189,
+    "revenueGrowth": 0.065
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "견조한 매출 성장(6.5%)과 낮은 선행 PER(7.60)이 시사하는 예상 이익 성장을 바탕으로 안정적인 성장세를 유지할 것으로 보입니다. 이는 BDC(Business Development Company)로서 대출 포트폴리오 확대를 통한 점진적 성장을 의미합니다.",
+      "profitability": "매우 높은 영업 마진(77.3%)을 기록하며 효율적인 비용 구조를 보여주지만, 자기자본이익률(ROE 5.88%)은 보통 수준으로 자본 활용의 효율성 개선 여지가 있습니다. 이는 높은 부채 비용이나 자산 회전율의 영향일 수 있습니다.",
+      "cashflow_stability": "견조한 잉여현금흐름(4,404만 달러)과 우수한 유동비율(4.189)을 통해 단기적인 현금 창출력과 유동성은 양호합니다. 그러나 총 부채가 16.6억 달러로 매우 높아, 부채 관리가 핵심 리스크 요인입니다."
+    },
+    "macro_sensitivity": "주로 변동금리 대출에 투자하는 BDC의 특성상, 금리 인상기에는 순이자마진 개선 가능성이 있습니다. 하지만 높은 부채 수준으로 인한 이자 비용 증가와 경기 침체 시 대출 포트폴리오의 부실 위험에 매우 민감하게 반응할 수 있는 경기 민감주입니다.",
+    "technical_synergy": "안정적인 현금 흐름과 배당 매력(BDC 특성)을 가진 이 기업이 '단테의 밥그릇 3번 자리'와 같은 장기 이평선 돌파 패턴을 만들 경우, 이는 단순한 기술적 반등을 넘어 저평가 해소와 함께 기관 투자자의 유입을 알리는 신뢰도 높은 신호로 해석될 수 있습니다. 폭발적인 주가 상승보다는 꾸준하고 신뢰할 수 있는 상승 추세의 시작을 기대할 수 있습니다.",
+    "business_moat": "PFLT는 중소기업에 대한 변동금리 대출을 전문으로 하는 BDC입니다. 이들의 경제적 해자는 특정 시장에 대한 심층적인 대출 심사 전문성, 광범위한 관계망, 그리고 안정적인 자본 조달 능력에서 비롯됩니다.",
+    "ai_system_tags": [
+      "Value",
+      "Dividend",
+      "Cyclical"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "ticker": "TMDX",
+  "lastUpdated": "2026-05-10T02:39:12.429Z",
+  "rawFinancials": {
+    "name": "TransMedics Group, Inc.",
+    "marketCap": 2344612096,
+    "trailingPE": 15.524027,
+    "forwardPE": 18.996468,
+    "priceToBook": 4.9138055,
+    "totalRevenue": 635889984,
+    "operatingMargins": 0.07645,
+    "returnOnEquity": 0.45224,
+    "freeCashflow": 108822248,
+    "totalCash": 461739008,
+    "totalDebt": 863414976,
+    "currentRatio": 6.737,
+    "revenueGrowth": 0.212
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "고성장 (매출 21.2% 증가), 합리적인 PE 비율로 성장 잠재력 우수.",
+      "profitability": "독점적 마진 (영업이익률 7.6%), 탁월한 자본 효율성 (ROE 45.2%)으로 강력한 수익성 구조.",
+      "cashflow_stability": "현금 창출력 우수 (긍정적 FCF), 압도적인 유동성 (유동비율 6.7)으로 파산 위험 극히 낮음."
+    },
+    "macro_sensitivity": "필수 의료 서비스 제공으로 경기 침체에 대한 방어력이 높으나, 높은 부채로 인한 금리 인상 민감도와 인플레이션 압박에 대한 마진 방어력은 주시 필요.",
+    "technical_synergy": "강력한 펀더멘털은 '단테의 밥그릇 3번 자리'와 같은 기술적 패턴의 신뢰도를 극대화하며, 이는 단순한 투기적 움직임이 아닌 기업 가치 재평가에 기반한 폭발적인 상승 잠재력을 시사한다.",
+    "business_moat": "TMDX는 독점적인 장기 이식 기술과 FDA 승인이라는 강력한 무형 자산을 통해 높은 진입 장벽과 의료기관의 높은 전환 비용을 구축하고 있습니다. 이는 지속적인 초과 수익을 가능하게 하는 견고한 경제적 해자를 형성합니다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Value",
+      "Defensive"
+    ]
+  }
+}

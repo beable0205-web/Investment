@@ -1,0 +1,33 @@
+{
+  "ticker": "CLW",
+  "lastUpdated": "2026-05-10T14:29:52.587Z",
+  "rawFinancials": {
+    "name": "Clearwater Paper Corporation",
+    "marketCap": 220432208,
+    "forwardPE": -8.876624,
+    "priceToBook": 0.26565355,
+    "totalRevenue": 1537500032,
+    "operatingMargins": -0.07827,
+    "returnOnEquity": -0.07259,
+    "freeCashflow": -119125000,
+    "totalCash": 36500000,
+    "totalDebt": 373200000,
+    "currentRatio": 2.605,
+    "revenueGrowth": -0.047
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "역성장 심화",
+      "profitability": "만성적 적자 구조",
+      "cashflow_stability": "현금 소진 및 높은 부채 부담"
+    },
+    "macro_sensitivity": "제지 산업 특성상 경기 변동에 민감하며, 현재의 높은 부채와 현금 소진은 금리 인상과 인플레이션 환경에서 재무적 압박을 가중시킵니다. 경기 침체 시 수요 감소로 인한 실적 악화가 예상됩니다.",
+    "technical_synergy": "매우 취약한 펀더멘털은 기술적 반등의 신뢰도를 현저히 떨어뜨립니다. '단테의 밥그릇 3번 자리'와 같은 장기 이평선 돌파 패턴이 나타나더라도, 이는 단기적 투기성 매수세에 의한 것일 가능성이 높으며, 지속적인 상승 동력은 부족할 것입니다. 장기 투자 관점에서는 이러한 기술적 신호에 대한 의존도가 매우 낮습니다.",
+    "business_moat": "Clearwater Paper는 경쟁이 치열한 제지 및 티슈 시장에서 운영되며, 현재의 마이너스 마진과 매출 감소는 강력한 경제적 해자가 부재하거나 심각하게 약화되었음을 시사합니다. 원가 우위나 브랜드 충성도와 같은 해자가 확인되지 않습니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Cyclical",
+      "Value"
+    ]
+  }
+}

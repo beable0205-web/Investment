@@ -1,0 +1,34 @@
+{
+  "ticker": "SEM",
+  "lastUpdated": "2026-05-10T04:34:36.754Z",
+  "rawFinancials": {
+    "name": "Select Medical Holdings Corpora",
+    "marketCap": 2035115648,
+    "trailingPE": 15.336448,
+    "forwardPE": 11.9626465,
+    "priceToBook": 1.1931942,
+    "totalRevenue": 5521134080,
+    "operatingMargins": 0.06924,
+    "returnOnEquity": 0.09806,
+    "freeCashflow": 40698124,
+    "totalCash": 25683000,
+    "totalDebt": 2992244992,
+    "currentRatio": 1.146,
+    "revenueGrowth": 0.05
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "완만한 성장 (매출 성장률 5%로 안정적이나 고성장은 아님)",
+      "profitability": "경쟁적 마진 (영업이익률 6.9%로 박리다매형에 가까우며, 독점적 마진은 아님)",
+      "cashflow_stability": "레버리지 과다 및 현금 창출력 압박 (총 부채가 시가총액의 1.5배에 달하며, 낮은 현금 보유액과 제한적인 잉여현금흐름으로 부채 리스크가 매우 높음)"
+    },
+    "macro_sensitivity": "금리 인상에 매우 취약하며, 인플레이션 압박에 마진이 쉽게 침식될 수 있습니다. 의료 서비스 산업의 특성상 경기 침체에는 상대적으로 방어적일 수 있으나, 높은 부채가 금융 리스크를 증폭시켜 방어력을 약화시킵니다.",
+    "technical_synergy": "낮은 밸류에이션과 완만한 성장을 보이지만, 과도한 부채와 낮은 현금 창출력이 발목을 잡는 기업입니다. '단테의 밥그릇 3번 자리'와 같은 기술적 패턴이 나타날 경우, 이는 부채 감소 또는 마진 개선과 같은 펀더멘털 전환의 강력한 신호일 때만 신뢰도가 높습니다. 그렇지 않다면 기술적 돌파는 일시적일 수 있으며, '가치 함정'으로 이어질 위험이 큽니다.",
+    "business_moat": "Select Medical은 병원 및 재활 센터 운영을 통해 의료 서비스를 제공합니다. 경제적 해자는 주로 지역 내 시장 점유율, 전문화된 서비스 제공 능력, 그리고 환자 전환 비용에서 발생할 수 있으나, 높은 부채와 낮은 마진은 해자의 강도가 제한적임을 시사합니다.",
+    "ai_system_tags": [
+      "Value",
+      "Turnaround",
+      "Defensive"
+    ]
+  }
+}

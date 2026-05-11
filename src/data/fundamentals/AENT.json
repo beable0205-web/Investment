@@ -1,0 +1,33 @@
+{
+  "ticker": "AENT",
+  "lastUpdated": "2026-05-10T12:00:32.203Z",
+  "rawFinancials": {
+    "name": "Alliance Entertainment Holding ",
+    "marketCap": 361287744,
+    "trailingPE": 16.488373,
+    "forwardPE": 10.426471,
+    "priceToBook": 3.0732555,
+    "totalRevenue": 1063480000,
+    "operatingMargins": 0.04636,
+    "returnOnEquity": 0.2053,
+    "freeCashflow": -7181625,
+    "totalCash": 1379000,
+    "totalDebt": 107223000,
+    "currentRatio": 1.348,
+    "revenueGrowth": -0.063
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "역성장. 매출이 지속적으로 감소하고 있어 사업의 축소 또는 시장 점유율 하락을 시사합니다.",
+      "profitability": "박리다매. 영업 마진이 매우 낮아 치열한 경쟁 환경 또는 상품의 차별성 부족을 나타냅니다. 높은 ROE는 상당한 레버리지에 기인할 가능성이 높습니다.",
+      "cashflow_stability": "현금 창출력 미흡 및 레버리지 과다. 마이너스 자유 현금 흐름과 높은 부채 수준, 낮은 현금 보유액은 심각한 유동성 및 파산 위험을 내포하고 있습니다."
+    },
+    "macro_sensitivity": "낮은 마진, 역성장, 높은 부채로 인해 금리 인상 시 이자 비용 부담이 가중되어 매우 취약합니다. 또한, 경기 침체 시 소비 심리 위축으로 인한 매출 감소에 극도로 민감하게 반응할 경기 민감주입니다.",
+    "technical_synergy": "이러한 취약한 펀더멘털을 가진 기업이 '단테의 밥그릇 3번 자리'와 같은 강력한 기술적 패턴을 형성한다면, 이는 단기 투기성 움직임일 가능성이 높습니다. 근본적인 사업 개선 없이 발생하는 기술적 돌파는 신뢰도가 매우 낮으며, 지속적인 상승보다는 데드 캣 바운스 또는 차익 실현 매물에 취약할 것입니다. AI 시스템은 이러한 패턴을 고위험 단기 트레이딩 기회로만 인식해야 합니다.",
+    "business_moat": "Alliance Entertainment는 낮은 영업 마진과 역성장을 보이는 것으로 보아, 경쟁이 치열한 유통 산업에 속하며 뚜렷한 경제적 해자가 부족합니다. 규모의 경제나 브랜드 충성도와 같은 해자가 존재하더라도, 현재 재무 상태는 이를 효과적으로 활용하지 못하고 있음을 시사합니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

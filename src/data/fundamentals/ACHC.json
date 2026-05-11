@@ -1,0 +1,32 @@
+{
+  "ticker": "ACHC",
+  "lastUpdated": "2026-05-10T04:00:04.478Z",
+  "rawFinancials": {
+    "name": "Acadia Healthcare Company, Inc.",
+    "marketCap": 2315729664,
+    "forwardPE": 14.434018,
+    "priceToBook": 1.1670375,
+    "totalRevenue": 3371066112,
+    "operatingMargins": 0.10115,
+    "returnOnEquity": -0.41050997,
+    "freeCashflow": -216916256,
+    "totalCash": 158472000,
+    "totalDebt": 2692616960,
+    "currentRatio": 1.711,
+    "revenueGrowth": 0.076
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "Acadia Healthcare exhibits moderate revenue growth at 7.6%, indicating a growing top line. However, this growth has not translated into bottom-line profitability, as evidenced by a deeply negative Return on Equity, suggesting significant challenges in converting sales into shareholder value.",
+      "profitability": "The company maintains a respectable operating margin of over 10%, indicating efficiency in its core healthcare operations. Yet, a severely negative Return on Equity (-41%) points to substantial net losses, likely driven by high interest expenses from its considerable debt burden or other non-operating factors, eroding shareholder capital.",
+      "cashflow_stability": "Acadia Healthcare is currently burning cash, with negative free cash flow, which is unsustainable. This, coupled with a massive debt load of nearly $2.7 billion (exceeding its market cap), creates a precarious financial position despite a healthy current ratio. The company faces significant leverage risk and a pressing need to improve cash generation."
+    },
+    "macro_sensitivity": "As a healthcare provider, ACHC benefits from relatively inelastic demand, offering some defensive characteristics during economic downturns. However, its substantial debt burden makes it highly sensitive to interest rate fluctuations, where rising rates would severely impact its already strained profitability and cash flow. Inflationary pressures on labor and operating costs could also erode its operating margins.",
+    "technical_synergy": "For a company with ACHC's current fundamental profile – moderate growth, deeply negative profitability, and significant debt – a technical pattern like '단테의 밥그릇 3번 자리' would require robust accompanying evidence of a fundamental turnaround. Without a clear path to sustained profitability and positive free cash flow, such a technical breakout would carry a high risk of being a speculative, short-lived rally rather than a reliable signal for long-term value accumulation.",
+    "business_moat": "Acadia Healthcare operates in the behavioral health sector, potentially benefiting from local regulatory barriers, established patient networks, and specialized facilities that create a regional economic moat. However, its current financial performance indicates these advantages are not sufficiently robust to generate sustainable profits or protect against significant financial distress.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Defensive"
+    ]
+  }
+}

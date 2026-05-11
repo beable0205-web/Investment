@@ -1,0 +1,31 @@
+{
+  "ticker": "GRF",
+  "lastUpdated": "2026-05-10T19:41:39.249Z",
+  "rawFinancials": {
+    "name": "Eagle Capital Growth Fund, Inc.",
+    "marketCap": 40273532,
+    "trailingPE": 7.992126,
+    "priceToBook": 0.84901714,
+    "totalRevenue": 996733,
+    "operatingMargins": 0.35987,
+    "returnOnEquity": 0.107889995,
+    "totalDebt": 0,
+    "currentRatio": 1.389,
+    "revenueGrowth": -0.02
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "역성장 (Contraction)",
+      "profitability": "독점적 마진 구조 (Monopolistic Margin Structure)",
+      "cashflow_stability": "현금 창출력 우수, 부채 리스크 전무 (Excellent Cash Generation, Zero Debt Risk)"
+    },
+    "macro_sensitivity": "자체 부채가 없어 금리 인상에 대한 직접적 취약성은 낮으나, 투자 포트폴리오의 성격과 시장 전반의 변동성 및 투자 심리에 고도로 민감합니다. 경기 침체 시 자산 가치 하락 위험이 존재하며, 저평가된 P/B는 시장의 위험 회피 심화 시 할인율이 확대될 수 있음을 시사합니다.",
+    "technical_synergy": "견고한 재무 구조(무부채, 높은 마진)와 저평가된 밸류에이션(낮은 P/E, P/B)을 가진 기업이므로, '단테의 밥그릇 3번 자리'와 같은 장기 추세 전환 패턴 발생 시 높은 신뢰도를 가집니다. 시장의 재평가와 함께 강력한 상승 모멘텀을 기대할 수 있으며, 부채가 없다는 점은 이러한 기술적 신호의 지속 가능성을 더욱 강화합니다.",
+    "business_moat": "이 기업은 투자 펀드로서, 높은 영업 마진은 효율적인 운용 또는 특정 투자 전략에서 오는 독점적 수수료 구조를 시사합니다. 그러나 역성장하는 매출은 자산 운용 규모 확대에 어려움이 있거나 시장 내 경쟁 심화를 반영할 수 있어 해자의 지속 가능성에 의문을 제기합니다.",
+    "ai_system_tags": [
+      "Value",
+      "Defensive",
+      "Turnaround"
+    ]
+  }
+}

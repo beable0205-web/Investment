@@ -1,0 +1,31 @@
+{
+  "ticker": "KMRK",
+  "lastUpdated": "2026-05-10T18:44:03.279Z",
+  "rawFinancials": {
+    "name": "K-Tech Solutions Company Limite",
+    "marketCap": 60134996,
+    "priceToBook": 7.9387183,
+    "totalRevenue": 17088424,
+    "operatingMargins": -0.04005,
+    "returnOnEquity": -0.11328,
+    "freeCashflow": -2829998,
+    "totalCash": 7484589,
+    "totalDebt": 1174131,
+    "currentRatio": 3.947,
+    "revenueGrowth": -0.123
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출이 두 자릿수 역성장하고 있으며, 영업이익과 자기자본이익률 모두 적자를 기록하여 심각한 성장 정체 및 후퇴 국면에 있습니다.",
+      "profitability": "영업마진과 ROE가 모두 마이너스를 기록하며 사업 본연의 수익 창출 능력이 부재합니다. 이는 지속적인 현금 소진을 의미하는 '적자 늪'에 빠져 있음을 시사합니다.",
+      "cashflow_stability": "자유현금흐름이 마이너스를 기록하며 사업 운영을 위한 현금 소진이 심화되고 있습니다. 다만, 총 부채 대비 현금 보유량이 상당하고 유동비율이 높아 단기적인 파산 위험은 낮으나, 장기적인 현금 소진은 심각한 위협입니다."
+    },
+    "macro_sensitivity": "K-Tech Solutions는 기술 솔루션 기업으로서 경기 침체 시 기업들의 IT 투자 축소로 인해 매출이 더욱 위축될 가능성이 높습니다. 또한, 현재 적자 상태에서 금리 인상 기조는 자금 조달 비용을 증가시켜 재무 부담을 가중시킬 수 있는 전형적인 경기 민감주입니다.",
+    "technical_synergy": "이러한 심각한 펀더멘털 약점을 가진 기업이 '단테의 밥그릇 3번 자리'와 같은 기술적 패턴을 형성한다면, 이는 일시적인 투기적 매수세나 시장의 오해에 기반한 것일 가능성이 큽니다. 펀더멘털 개선 없이는 이러한 기술적 신호의 신뢰도는 극히 낮으며, '불 트랩(Bull Trap)'으로 이어질 위험이 매우 높습니다.",
+    "business_moat": "K-Tech Solutions는 현재 매출 역성장과 지속적인 적자를 기록하며 강력한 경제적 해자를 보유하고 있다는 증거를 찾기 어렵습니다. 오히려 경쟁 우위 상실과 시장에서의 차별성 부족으로 인해 사업 모델이 위협받고 있는 상황으로 판단됩니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

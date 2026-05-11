@@ -1,0 +1,32 @@
+{
+  "ticker": "HTT",
+  "lastUpdated": "2026-05-10T12:05:58.975Z",
+  "rawFinancials": {
+    "name": "High Templar Tech Limited",
+    "marketCap": 344729376,
+    "trailingPE": 3.580645,
+    "priceToBook": 0.20425281,
+    "totalRevenue": 40963624,
+    "operatingMargins": -32.60109,
+    "returnOnEquity": 0.06183,
+    "freeCashflow": -593863552,
+    "totalCash": 8296843264,
+    "totalDebt": 1580887936,
+    "currentRatio": 5.752,
+    "revenueGrowth": -0.939
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "극심한 역성장 (매출 93.9% 감소)",
+      "profitability": "심각한 적자 늪 (영업 마진 -32.6%), 핵심 사업 수익성 전무",
+      "cashflow_stability": "막대한 현금 소진 (자유 현금 흐름 -5.9억 달러), 단기 유동성은 양호하나 장기적 생존 위협"
+    },
+    "macro_sensitivity": "경기 침체 및 금리 인상에 극도로 취약하며, 생존 자체가 위협받을 수 있는 고위험군입니다. 외부 자금 조달 환경 악화 시 치명적입니다.",
+    "technical_synergy": "펀더멘털이 극도로 취약하여 '단테의 밥그릇 3번 자리'와 같은 기술적 패턴이 나타나더라도 신뢰도가 매우 낮습니다. 이는 투기적 움직임일 가능성이 크며, 펀더멘털 개선 없이는 지속적인 상승 추세를 기대하기 어렵습니다.",
+    "business_moat": "현재 재무 상태는 강력한 경제적 해자가 부재하며, 경쟁 우위가 심각하게 훼손되었음을 시사합니다. 핵심 비즈니스 모델이 시장에서 외면받거나 경쟁에 밀려 수익성을 상실한 것으로 보입니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Value"
+    ]
+  }
+}

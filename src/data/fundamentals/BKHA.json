@@ -1,0 +1,29 @@
+{
+  "ticker": "BKHA",
+  "lastUpdated": "2026-05-10T19:07:14.188Z",
+  "rawFinancials": {
+    "name": "Black Hawk Acquisition Corporat",
+    "marketCap": 49261420,
+    "trailingPE": 79.06666,
+    "priceToBook": -10.900734,
+    "operatingMargins": 0,
+    "freeCashflow": -255730,
+    "totalCash": 178407,
+    "totalDebt": 2013354,
+    "currentRatio": 0.079
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "운영 활동 부재 또는 초기 단계로 성장성 판단 불가. 현재 현금 소진 중이며, 매출 및 이익 성장의 기반이 전무함.",
+      "profitability": "운영 마진 0%로 본질적인 수익성 부재. 자본 잠식 상태(Price-to-Book 음수)로 적자 늪에 빠져 있으며, 지속적인 손실이 예상됨.",
+      "cashflow_stability": "현금 창출력 전무하며, 심각한 현금 소진 상태. 총 부채가 현금 대비 매우 높고, 유동비율(0.079)이 극도로 낮아 단기 유동성 위기와 파산 위험이 매우 높음."
+    },
+    "macro_sensitivity": "금리 인상, 인플레이션, 경기 침체 등 모든 거시경제 악재에 극도로 취약. 자본 조달 환경 악화 시 생존 자체가 위협받을 수 있는 고위험 기업으로, 방어력은 전무함.",
+    "technical_synergy": "펀더멘털이 극도로 취약하고 파산 위험이 높아, 어떠한 기술적 패턴도 장기적인 신뢰도를 부여하기 어려움. '단테의 밥그릇'과 같은 패턴이 나타나더라도 투기적 움직임일 가능성이 크며, AI 시스템은 이를 '기술적 함정'으로 분류하고 회피해야 함.",
+    "business_moat": "현재 운영 사업이 부재하거나 초기 단계로, 어떠한 형태의 경제적 해자도 존재하지 않음. 기업 인수를 통해 새로운 가치를 창출해야 하는 구조이나, 현재 재무 상태는 이러한 목표 달성에 심각한 제약을 가함.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Value"
+    ]
+  }
+}

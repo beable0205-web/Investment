@@ -1,0 +1,29 @@
+{
+  "ticker": "HSPT",
+  "lastUpdated": "2026-05-10T19:08:59.635Z",
+  "rawFinancials": {
+    "name": "Horizon Space Acquisition II Co",
+    "marketCap": 45977104,
+    "trailingPE": 39.225,
+    "priceToBook": -54.103447,
+    "operatingMargins": 0,
+    "freeCashflow": -633607,
+    "totalCash": 7917,
+    "totalDebt": 1344484,
+    "currentRatio": 0.022
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "현재 운영 수익이 전무하며, 현금 흐름은 마이너스입니다. 성장 동력이 부재하거나 심각한 역성장/정체 상태로 판단됩니다.",
+      "profitability": "운영 마진이 0으로, 핵심 사업에서 수익을 창출하지 못하고 있습니다. 자산 대비 부채가 과도하여 수익성 구조가 붕괴된 상태입니다.",
+      "cashflow_stability": "현금 창출력이 전무하며, 보유 현금은 극히 적고 부채는 상당합니다. 유동성 비율이 매우 낮아 파산 위험이 임박한 수준입니다."
+    },
+    "macro_sensitivity": "내부 재무 구조가 극도로 취약하여 거시경제 변수에 대한 방어력이 전무합니다. 금리 인상, 신용 경색, 경기 침체 등 어떠한 부정적 거시경제 환경에서도 생존이 불가능할 정도로 취약합니다.",
+    "technical_synergy": "이러한 펀더멘털을 가진 기업은 '단테의 밥그릇 3번 자리'와 같은 장기적이고 신뢰할 수 있는 차트 패턴을 형성할 수 없습니다. 어떠한 기술적 반등도 펀더멘털에 의해 지지되지 않는 투기적 움직임에 불과하며, 신뢰도는 극히 낮습니다.",
+    "business_moat": "이 기업은 현재 운영 사업이 전무하거나 심각한 재정 위기에 처해 있어, 어떠한 경제적 해자도 존재하지 않습니다. 오히려 사업 모델 자체가 붕괴되었거나, SPAC으로서 인수 실패에 직면한 것으로 보입니다.",
+    "ai_system_tags": [
+      "Distressed",
+      "Bankruptcy Risk"
+    ]
+  }
+}

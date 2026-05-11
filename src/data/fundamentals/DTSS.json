@@ -1,0 +1,32 @@
+{
+  "ticker": "DTSS",
+  "lastUpdated": "2026-05-11T11:43:35.296Z",
+  "rawFinancials": {
+    "name": "Datasea Intelligent Technology ",
+    "marketCap": 9820324,
+    "forwardPE": 18.8,
+    "priceToBook": 2.7405248,
+    "totalRevenue": 56887888,
+    "operatingMargins": -0.03975,
+    "returnOnEquity": -0.81445,
+    "freeCashflow": -1213787,
+    "totalCash": 671785,
+    "totalDebt": 3995383,
+    "currentRatio": 0.6,
+    "revenueGrowth": -0.365
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출이 급격히 역성장(-36.5%)하고 있으며, 영업이익과 자기자본이익률(ROE) 모두 심각한 적자를 기록하여 기업 가치를 훼손하고 있습니다.",
+      "profitability": "영업마진이 마이너스(-3.975%)이고 ROE가 -81.445%에 달해, 핵심 사업에서 지속적으로 손실을 보고 있는 '적자 늪'에 빠져 있습니다.",
+      "cashflow_stability": "자유현금흐름이 마이너스(-121만 달러)로 현금을 소각하고 있으며, 총 현금(67만 달러) 대비 총 부채(399만 달러)가 과도하고 유동비율(0.6)이 낮아 파산 위험이 매우 높습니다."
+    },
+    "macro_sensitivity": "이 기업은 현재의 취약한 재무 구조로 인해 금리 인상, 인플레이션, 경기 침체 등 모든 거시경제 악재에 극도로 취약합니다. 특히 자금 조달 비용 상승과 기업 지출 감소는 생존에 치명적인 영향을 미칠 수 있는 '경기 민감주'이자 '고위험군'에 속합니다.",
+    "technical_synergy": "이러한 펀더멘털을 가진 기업이 '단테의 밥그릇 3번 자리'와 같은 강력한 기술적 패턴을 형성하더라도, 이는 일시적인 투기적 움직임일 가능성이 높습니다. 근본적인 재무 개선 없이는 장기적인 신뢰도나 폭발력을 기대하기 어려우며, '데드 캣 바운스'에 그칠 위험이 매우 큽니다.",
+    "business_moat": "이 기업은 현재 수익성 악화와 매출 감소를 겪고 있어, 어떠한 경제적 해자도 발견하기 어렵습니다. 오히려 경쟁 우위가 부족하여 시장에서 고전하고 있는 것으로 보입니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

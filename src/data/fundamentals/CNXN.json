@@ -1,0 +1,33 @@
+{
+  "ticker": "CNXN",
+  "lastUpdated": "2026-05-10T05:28:40.672Z",
+  "rawFinancials": {
+    "name": "PC Connection, Inc.",
+    "marketCap": 1681316096,
+    "trailingPE": 19.375,
+    "forwardPE": 15.737898,
+    "priceToBook": 1.8469768,
+    "totalRevenue": 2893565952,
+    "operatingMargins": 0.03226,
+    "returnOnEquity": 0.09725001,
+    "freeCashflow": 104340000,
+    "totalCash": 411448000,
+    "totalDebt": 7380000,
+    "currentRatio": 2.705,
+    "revenueGrowth": 0.03
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적이나 완만한 성장세 (매출 성장률 3%, 향후 이익 성장 기대치 반영된 낮은 Forward P/E)",
+      "profitability": "박리다매형 마진 구조 (영업이익률 3.2%, ROE 9.7%), 독점적 지위보다는 효율적 운영에 기반",
+      "cashflow_stability": "현금 창출력 우수 (긍정적 FCF), 부채 리스크 극히 낮음 (총 현금이 총 부채를 압도, 높은 유동비율)"
+    },
+    "macro_sensitivity": "경기 변동에 민감할 수 있으나, 견고한 재무구조와 필수 IT 서비스 제공으로 경기 침체에 대한 방어력 보유. 금리 인상기에는 기업 투자 위축으로 간접적 영향 가능하나, 낮은 부채로 직접적 부담은 미미함.",
+    "technical_synergy": "이처럼 재무적으로 매우 건전하고 안정적인 기업이 '단테의 밥그릇 3번 자리'와 같은 장기 이평선 돌파 및 지지 패턴을 만들 경우, 이는 단순한 기술적 반등이 아닌 펀더멘털 가치 재평가 또는 시장의 긍정적 인식 변화를 의미할 가능성이 높습니다. 따라서 이러한 기술적 신호는 높은 신뢰도를 가지며, 지속 가능한 상승 추세의 시작점으로 해석될 수 있습니다.",
+    "business_moat": "PC Connection은 IT 솔루션 및 제품 유통을 통해 기업 고객에게 가치를 제공합니다. 낮은 마진은 치열한 경쟁 환경을 시사하지만, 효율적인 공급망 관리와 고객 관계를 통해 일정 수준의 운영 효율성과 고객 충성도를 확보하고 있습니다.",
+    "ai_system_tags": [
+      "Value",
+      "Defensive"
+    ]
+  }
+}

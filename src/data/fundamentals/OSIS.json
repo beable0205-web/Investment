@@ -1,0 +1,33 @@
+{
+  "ticker": "OSIS",
+  "lastUpdated": "2026-05-10T02:00:36.265Z",
+  "rawFinancials": {
+    "name": "OSI Systems, Inc.",
+    "marketCap": 3804745472,
+    "trailingPE": 26.350456,
+    "forwardPE": 20.161886,
+    "priceToBook": 4.49138,
+    "totalRevenue": 1806910976,
+    "operatingMargins": 0.13101,
+    "returnOnEquity": 0.17165,
+    "freeCashflow": 36977752,
+    "totalCash": 345236000,
+    "totalDebt": 1045211008,
+    "currentRatio": 3.245,
+    "revenueGrowth": 0.02
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "완만한 매출 성장률을 보이나, 효율성 개선 및 비용 통제를 통한 이익 성장 기대가 반영된 상태.",
+      "profitability": "양호한 영업 마진과 매우 높은 자기자본이익률을 통해 견고한 수익성과 자본 효율성을 입증.",
+      "cashflow_stability": "긍정적이나 상대적으로 작은 잉여현금흐름과 높은 부채 수준은 장기적 재무 부담 요인이나, 매우 우수한 유동비율로 단기적 안정성은 확보."
+    },
+    "macro_sensitivity": "필수 보안 및 헬스케어 부문은 경기 방어적 특성을 가지나, 주요 고객의 자본 지출 주기에 민감하며, 높은 부채로 인해 금리 인상 환경에 취약한 복합적 민감도를 보임.",
+    "technical_synergy": "견고한 수익성과 이익 개선 기대가 뒷받침되므로, 장기 이평선 돌파 시 시장의 긍정적 재평가(re-rating) 신호로 해석될 수 있으며 신뢰도가 높다. 다만, 높은 부채 수준을 감안할 때, 현금 흐름 개선이나 부채 관리 계획에 대한 추가적인 펀더멘털 확인이 동반될 경우 폭발력은 더욱 커질 것이다.",
+    "business_moat": "OSI Systems는 공항 보안 검색대, 의료 진단 장비 등 고도의 기술력과 엄격한 규제 승인이 필요한 전문 분야에서 사업을 영위한다. 이는 신규 진입 장벽을 높여 강력한 기술적 해자를 구축하며, 오랜 업력과 고객과의 신뢰 관계를 통해 형성된 서비스 네트워크와 브랜드 인지도가 경쟁 우위를 강화한다.",
+    "ai_system_tags": [
+      "Defensive",
+      "Cyclical"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ticker": "BLTE",
+  "lastUpdated": "2026-05-09T11:58:39.384Z",
+  "rawFinancials": {
+    "name": "Belite Bio, Inc",
+    "marketCap": 6189827584,
+    "forwardPE": 197.29936,
+    "priceToBook": 7.9080935,
+    "operatingMargins": 0,
+    "returnOnEquity": -0.1694,
+    "freeCashflow": -9765250,
+    "totalCash": 492422016,
+    "totalDebt": 429000,
+    "currentRatio": 50.017
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "미래 폭발적 성장 기대 (임상 성공 전제)",
+      "profitability": "전형적인 R&D 투자 단계의 적자 구조",
+      "cashflow_stability": "현금 소모 중이나, 막대한 현금 보유고와 무부채 구조로 파산 위험 극히 낮음"
+    },
+    "macro_sensitivity": "미래가치 할인율에 민감하여 금리 인상에 취약. 단, 막대한 현금 보유로 단기적 자금 조달 리스크는 방어하며, 제품 상용화 시 수요는 경기 방어적 성격을 띰.",
+    "technical_synergy": "펀더멘털이 임상 결과 등 특정 이벤트에 따라 급변하는 바이오주 특성상, 장기 이평선 돌파와 같은 기술적 신호는 임상 성공 등 강력한 펀더멘털 촉매와 결합될 때 폭발적인 시너지를 냄. 해당 패턴의 신뢰도는 뉴스에 의해 좌우됨.",
+    "business_moat": "희귀 안과 질환 치료제 개발에 집중하며, 핵심 해자는 신약 후보물질에 대한 특허권과 규제기관의 승인 과정 자체에서 비롯됨. 성공적으로 상용화될 경우, 장기간의 독점적 시장 지위를 확보할 수 있음.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Turnaround"
+    ]
+  }
+}

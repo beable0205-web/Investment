@@ -1,0 +1,34 @@
+{
+  "ticker": "PLXS",
+  "lastUpdated": "2026-05-09T09:38:30.216Z",
+  "rawFinancials": {
+    "name": "Plexus Corp.",
+    "marketCap": 7131923456,
+    "trailingPE": 39.083576,
+    "forwardPE": 28.296177,
+    "priceToBook": 4.7872624,
+    "totalRevenue": 4310282752,
+    "operatingMargins": 0.05314,
+    "returnOnEquity": 0.132,
+    "freeCashflow": 22870750,
+    "totalCash": 303132992,
+    "totalDebt": 267672992,
+    "currentRatio": 1.54,
+    "revenueGrowth": 0.187
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "18.7%의 높은 매출 성장률과 시장의 긍정적 이익 성장 전망(선행 PER 하락)을 보이는 고성장 국면.",
+      "profitability": "5%대의 낮은 영업이익률을 특징으로 하는 박리다매 구조. 단, 13%대의 양호한 자기자본이익률(ROE)은 효율적인 자산 운용 능력을 시사함.",
+      "cashflow_stability": "총 부채보다 많은 현금을 보유한 극히 안정적인 재무구조가 파산 위험을 최소화함. 다만, 성장을 위한 투자 확대로 잉여현금흐름의 변동성은 존재함."
+    },
+    "macro_sensitivity": "제품 수요가 경기 사이클에 연동되는 대표적인 경기 민감주. 특히 낮은 이익률 구조는 원자재 및 인건비 상승 인플레이션에 취약할 수 있으며, 고성장주 특성상 금리 인상 시 밸류에이션 부담이 부각될 수 있음.",
+    "technical_synergy": "고성장성과 재무적 안정성을 겸비했기에, 장기 이평선 지지(밥그릇 3번 자리) 확인 시 신뢰도가 매우 높음. 펀더멘털이 뒷받침되는 기술적 신호는 투기적 자금뿐만 아니라 기관 투자자의 유입을 촉발하며 폭발적인 추세 상승을 이끌 잠재력이 큼.",
+    "business_moat": "Plexus Corp.는 의료, 항공우주 등 고도로 규제된 산업에 특화된 복잡한 전자제품 설계 및 제조 서비스를 제공합니다. 핵심 해자는 단순한 생산 능력이 아닌, 고객과의 깊은 엔지니어링 파트너십과 높은 규제 장벽으로 인한 전환 비용에 있습니다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Cyclical",
+      "Defensive"
+    ]
+  }
+}

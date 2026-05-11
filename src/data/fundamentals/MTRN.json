@@ -1,0 +1,33 @@
+{
+  "ticker": "MTRN",
+  "lastUpdated": "2026-05-10T01:46:25.935Z",
+  "rawFinancials": {
+    "name": "Materion Corporation",
+    "marketCap": 4147191808,
+    "trailingPE": 54.621914,
+    "forwardPE": 26.797043,
+    "priceToBook": 4.382529,
+    "totalRevenue": 1916044032,
+    "operatingMargins": 0.0572,
+    "returnOnEquity": 0.08293,
+    "freeCashflow": -2358875,
+    "totalCash": 17365000,
+    "totalDebt": 562529984,
+    "currentRatio": 3.036,
+    "revenueGrowth": 0.308
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출액 30.8%의 고성장을 기록하며 시장의 높은 성장 기대를 반영하고 있으나, 이익 성장으로의 전환 효율성은 추가 분석이 필요합니다.",
+      "profitability": "영업 마진 5.72%, ROE 8.29%로, 첨단 소재 기업임에도 불구하고 경쟁적 마진 구조를 보이며 자본 대비 수익성이 낮은 편입니다.",
+      "cashflow_stability": "자유현금흐름이 마이너스이며, 총 부채가 현금 보유액 대비 매우 높아 현금 창출력에 대한 우려와 레버리지 부담이 존재합니다. 단기 유동성은 양호합니다."
+    },
+    "macro_sensitivity": "첨단 소재 산업의 특성상 경기 변동에 민감한 경기 민감주입니다. 높은 부채와 마이너스 FCF로 인해 금리 인상 시 이자 비용 부담이 가중될 수 있으며, 인플레이션은 원가 상승 압력으로 작용하여 마진을 더욱 압박할 수 있습니다.",
+    "technical_synergy": "높은 성장 기대감으로 인해 '단테의 밥그릇 3번 자리'와 같은 장기 이평선 돌파 시 단기적인 폭발력은 높을 수 있습니다. 그러나 낮은 수익성, 마이너스 현금 흐름, 높은 부채라는 펀더멘털 약점으로 인해 추세의 신뢰도와 지속성은 변동성이 클 수 있으며, 펀더멘털 개선 없이는 장기적인 지지력 약화 가능성이 있습니다.",
+    "business_moat": "Materion Corporation은 고성능 합금 및 첨단 재료 분야에서 독점적인 기술과 전문성을 보유하고 있어 특정 산업 분야에 필수적인 공급자 역할을 합니다. 그러나 낮은 영업 마진과 ROE는 이러한 기술적 해자가 강력한 가격 결정력이나 압도적인 수익성으로 이어지지 못하고 있음을 시사합니다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Cyclical"
+    ]
+  }
+}

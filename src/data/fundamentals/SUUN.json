@@ -1,0 +1,32 @@
+{
+  "ticker": "SUUN",
+  "lastUpdated": "2026-05-10T20:24:13.982Z",
+  "rawFinancials": {
+    "name": "PowerBank Corporation",
+    "marketCap": 31554750,
+    "forwardPE": 17.15443,
+    "priceToBook": 1.5650682,
+    "totalRevenue": 44603000,
+    "operatingMargins": -2.91299,
+    "returnOnEquity": -0.2202,
+    "freeCashflow": -12269518,
+    "totalCash": 13643000,
+    "totalDebt": 71725000,
+    "currentRatio": 1.14,
+    "revenueGrowth": -0.242
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "강력한 역성장 및 수익성 악화",
+      "profitability": "만성적인 적자 구조, 수익성 개선 시급",
+      "cashflow_stability": "현금 소진 심화, 과도한 부채 부담으로 파산 위험 내재"
+    },
+    "macro_sensitivity": "고금리, 인플레이션, 경기 침체 등 모든 거시경제 악재에 극도로 취약하며, 생존 자체가 위협받을 수 있는 구조. 경기 회복 시에도 자체 펀더멘털 개선 없이는 수혜를 기대하기 어려움.",
+    "technical_synergy": "현재의 심각한 펀더멘털 악화 상태에서는 '단테의 밥그릇 3번 자리'와 같은 기술적 패턴이 나타나더라도 그 신뢰도는 매우 낮다. 단기적인 투기적 움직임일 가능성이 크며, 장기적인 폭발력이나 추세 전환으로 이어지기 위해서는 근본적인 사업 모델 개선과 재무 구조 혁신이 선행되어야 한다.",
+    "business_moat": "현재 재무 상태로 볼 때, 이 기업은 유의미한 경제적 해자를 보유하고 있지 않으며, 오히려 경쟁 심화와 시장 점유율 하락에 직면해 있는 것으로 보인다. 핵심 비즈니스 모델의 차별성 부족과 수익성 악화가 해자 부재를 명확히 보여준다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "ticker": "MORN",
+  "lastUpdated": "2026-05-09T10:12:20.555Z",
+  "rawFinancials": {
+    "name": "Morningstar, Inc.",
+    "marketCap": 6719550464,
+    "trailingPE": 18.085976,
+    "forwardPE": 13.356019,
+    "priceToBook": 5.746902,
+    "totalRevenue": 2508400128,
+    "operatingMargins": 0.24178,
+    "returnOnEquity": 0.30656,
+    "freeCashflow": 452812512,
+    "totalCash": 532200000,
+    "totalDebt": 1906499968,
+    "currentRatio": 1.032,
+    "revenueGrowth": 0.108
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 성장. 10%대의 견고한 매출 성장률과 순이익 증가가 예상되는 Forward PE를 통해 확인되는, 꾸준한 확장 국면의 기업.",
+      "profitability": "독점적 마진. 24%를 상회하는 높은 영업이익률과 30%가 넘는 경이로운 자기자본이익률(ROE)은 강력한 가격 결정권과 효율적인 비용 구조를 증명함.",
+      "cashflow_stability": "현금 창출력 우수, 부채 레버리지 활용. 잉여현금흐름은 매우 강력하나, 현금 보유량 대비 총부채 규모가 상당하여 성장을 위한 레버리지를 적극적으로 활용하는 재무 구조."
+    },
+    "macro_sensitivity": "경기 중립적 방어주. 핵심 비즈니스가 구독 기반의 데이터 및 소프트웨어이므로, 경기 침체기에도 매출 변동성이 낮음. 다만, 금융 시장의 장기 침체는 신규 고객 확보에 영향을 줄 수 있어 완전한 경기 방어주보다는 경기 중립적 성격이 강함.",
+    "technical_synergy": "펀더멘털이 뒷받침되는 패턴의 신뢰도 극대화. 이처럼 압도적인 수익성을 가진 기업이 장기 이평선 지지(밥그릇 3번 자리)를 형성할 경우, 이는 단순한 기술적 반등이 아닌 기관 투자자의 강력한 매수세 유입 신호로 해석될 수 있어 추세의 신뢰도가 매우 높음.",
+    "business_moat": "Morningstar는 신뢰도 높은 투자 데이터와 분석 등급 시스템을 통해 강력한 브랜드 해자를 구축했습니다. 기관 고객들이 자사 워크플로우에 모닝스타 데이터를 깊숙이 통합함에 따라, 높은 전환 비용이 발생하여 안정적인 반복 매출을 창출합니다.",
+    "ai_system_tags": [
+      "Value",
+      "Defensive",
+      "Growth"
+    ]
+  }
+}

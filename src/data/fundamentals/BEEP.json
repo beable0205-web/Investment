@@ -1,0 +1,33 @@
+{
+  "ticker": "BEEP",
+  "lastUpdated": "2026-05-10T17:50:46.353Z",
+  "rawFinancials": {
+    "name": "Mobile Infrastructure Corporati",
+    "marketCap": 74558360,
+    "forwardPE": -4.8918915,
+    "priceToBook": 0.50814146,
+    "totalRevenue": 35075000,
+    "operatingMargins": 0.03059,
+    "returnOnEquity": -0.13616,
+    "freeCashflow": 8214125,
+    "totalCash": 8349000,
+    "totalDebt": 208170000,
+    "currentRatio": 0.466,
+    "revenueGrowth": -0.043
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 역성장 및 이익 감소 (Revenue decline and profit erosion)",
+      "profitability": "매우 낮은 영업 마진과 지속적인 적자 (Very low operating margins and persistent losses)",
+      "cashflow_stability": "긍정적인 잉여현금흐름에도 불구하고 과도한 부채와 심각한 유동성 위험 (Despite positive free cash flow, excessive debt and severe liquidity risk)"
+    },
+    "macro_sensitivity": "이 기업은 막대한 부채와 낮은 수익성으로 인해 금리 인상과 경기 침체에 극도로 취약합니다. 자금 조달 비용 증가와 수요 위축은 파산 위험을 가중시킬 것입니다.",
+    "technical_synergy": "이러한 심각한 펀더멘털을 가진 기업이 '단테의 밥그릇 3번 자리'와 같은 강한 기술적 패턴을 형성한다면, 이는 일시적인 투기적 반등일 가능성이 높으며 장기적인 신뢰도는 매우 낮습니다. 펀더멘털 개선 없이는 지속 가능한 상승을 기대하기 어렵습니다.",
+    "business_moat": "모바일 인프라 사업을 영위하는 것으로 보이나, 현재의 재무 상태(역성장, 낮은 마진, 막대한 부채)는 어떠한 경제적 해자도 존재하지 않음을 시사합니다. 경쟁 우위가 부재하며 자본 집약적인 산업에서 고전하고 있습니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Speculative",
+      "Distressed"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "ticker": "ETO",
+  "lastUpdated": "2026-05-10T10:40:54.654Z",
+  "rawFinancials": {
+    "name": "Eaton Vance Tax-Advantage Globa",
+    "marketCap": 499510432,
+    "trailingPE": 5.665427,
+    "priceToBook": 0.98211694,
+    "totalRevenue": 21114812,
+    "operatingMargins": 0.70588994,
+    "returnOnEquity": 0.18330999,
+    "freeCashflow": 5649463,
+    "totalCash": 82300,
+    "totalDebt": 103000000,
+    "currentRatio": 3.023,
+    "revenueGrowth": 0.234
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 성장률이 23.4%로 매우 높으며, 이는 탁월한 ROE(18.33%)와 70%가 넘는 독점적 영업 마진으로 뒷받침됩니다. 낮은 P/E와 P/B는 시장이 아직 이 성장성과 수익성을 온전히 반영하지 못하고 있음을 시사합니다.",
+      "profitability": "70%를 상회하는 경이로운 영업 마진과 18% 이상의 높은 ROE는 이 기업이 강력한 가격 결정력과 효율적인 자본 활용 능력을 보유하고 있음을 명확히 보여줍니다. 이는 경쟁 우위의 핵심 지표입니다.",
+      "cashflow_stability": "견고한 잉여현금흐름(FCF) 창출력과 3배가 넘는 유동비율로 단기 유동성은 매우 우수합니다. 그러나 총부채가 1억 달러를 상회하여 FCF 대비 부채 부담이 상당하며, 이는 잠재적 리스크 요인으로 작용할 수 있습니다."
+    },
+    "macro_sensitivity": "이 기업은 'Tax-Advantage Global'이라는 이름에서 유추할 수 있듯이, 투자 펀드(Closed-End Fund)의 특성을 가집니다. 따라서 금리 인상 시 차입 비용 증가로 수익성에 직접적인 타격을 입을 수 있으며, 글로벌 시장 변동성 및 경기 침체 시 보유 자산 가치 하락으로 인한 민감도가 매우 높습니다. 전형적인 금리 및 시장 민감주입니다.",
+    "technical_synergy": "강력한 펀더멘털(고성장, 독점적 마진, 높은 ROE)에도 불구하고 낮은 P/E와 P/B로 거래되는 이 기업이 '단테의 밥그릇 3번 자리'와 같은 장기 이평선 돌파 패턴을 보인다면, 이는 시장이 드디어 내재가치를 인식하기 시작했다는 강력한 신호로 해석될 수 있습니다. 이러한 기술적 패턴은 단순한 단기 모멘텀이 아닌, 펀더멘털 재평가에 기반한 폭발적인 상승 추세의 시작을 알리는 신뢰도 높은 시그널이 될 것입니다.",
+    "business_moat": "이 기업의 경제적 해자는 'Tax-Advantage Global'이라는 특화된 투자 전략과 Eaton Vance의 오랜 브랜드 명성 및 전문적인 운용 능력에서 비롯됩니다. 이는 경쟁이 치열한 자산 운용 시장에서 지속적으로 높은 수익성을 유지할 수 있는 기반을 제공합니다.",
+    "ai_system_tags": [
+      "Value",
+      "High-Growth",
+      "Dividend"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "ticker": "HR",
+  "lastUpdated": "2026-05-09T09:44:23.324Z",
+  "rawFinancials": {
+    "name": "Healthcare Realty Trust Incorpo",
+    "marketCap": 7067652608,
+    "forwardPE": -201.5,
+    "priceToBook": 1.5729898,
+    "totalRevenue": 1160866048,
+    "operatingMargins": 0.11508001,
+    "returnOnEquity": -0.04232,
+    "freeCashflow": 144416256,
+    "totalCash": 28587000,
+    "totalDebt": 4339977216,
+    "currentRatio": 0.316,
+    "revenueGrowth": -0.065
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "역성장. 매출(-6.5%)이 감소하고 있으며, 순이익(ROE -4.23%)과 미래 이익 전망(Forward PE 음수) 모두 부정적으로 기업이 축소되고 있음을 시사함.",
+      "profitability": "적자 늪. 영업이익률(11.5%)은 흑자이나, 과도한 부채로 인한 이자 비용 등이 순이익을 잠식하여 최종적으로는 주주자본을 갉아먹는 구조.",
+      "cashflow_stability": "레버리지 과다 및 유동성 리스크. 긍정적인 영업현금흐름을 창출하고 있으나, 총 부채(43억 달러) 규모가 막대하고 유동비율(0.316)이 극히 낮아 단기 채무 상환 능력에 대한 심각한 우려가 존재함."
+    },
+    "macro_sensitivity": "금리 인상 최대 피해주. 사업 모델(부동산 임대)은 경기 방어적 성격을 띠나, 막대한 부채 구조로 인해 금리 변동에 주가와 비용 구조가 극도로 민감하게 반응함. 금리 인상기에는 이자 부담 증가와 자산 가치 하락의 이중고를 겪을 가능성이 높음.",
+    "technical_synergy": "펀더멘털이 기술적 신뢰도를 훼손하는 경우. '단테의 밥그릇 3번 자리'와 같은 장기 상승 추세 전환 패턴이 나타나더라도, 부채 리스크와 역성장이라는 펀더멘털의 무게가 주가 상승을 억누를 가능성이 큼. 금리 인하와 같은 거시적 변수의 극적인 개선이 동반되지 않는 한, 기술적 돌파는 일시적이거나 거짓일 확률이 높음.",
+    "business_moat": "미국 내 핵심 의료 시설(Medical Outpatient Buildings)을 소유 및 임대하는 리츠(REIT)로서, 경기 변동에 둔감한 헬스케어 산업의 수요를 기반으로 함. 병원 시스템 및 의사 그룹과의 장기 임대 계약이 안정적인 현금 흐름의 원천이자 핵심 해자임.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Dividend",
+      "Cyclical"
+    ]
+  }
+}

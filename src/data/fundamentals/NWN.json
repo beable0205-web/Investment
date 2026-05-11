@@ -1,0 +1,34 @@
+{
+  "ticker": "NWN",
+  "lastUpdated": "2026-05-10T04:13:01.364Z",
+  "rawFinancials": {
+    "name": "Northwest Natural Holding Compa",
+    "marketCap": 2122532864,
+    "trailingPE": 17.273972,
+    "forwardPE": 15.606435,
+    "priceToBook": 1.4212453,
+    "totalRevenue": 1285481984,
+    "operatingMargins": 0.33211,
+    "returnOnEquity": 0.08103,
+    "freeCashflow": -284913248,
+    "totalCash": 34945000,
+    "totalDebt": 2682576896,
+    "currentRatio": 0.8,
+    "revenueGrowth": -0.008
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "정체 또는 미미한 역성장",
+      "profitability": "독점적 사업 모델 기반의 높은 영업 마진, 규제 환경 내 안정적 ROE",
+      "cashflow_stability": "지속적인 CAPEX 투자로 인한 마이너스 잉여현금흐름과 과도한 부채 수준. 외부 자금 조달 의존도가 높음."
+    },
+    "macro_sensitivity": "금리 인상에 매우 취약하며, 높은 부채 부담으로 인해 자금 조달 비용 증가가 수익성에 직접적인 타격을 줍니다. 인플레이션은 규제 승인 지연 시 마진 압박 요인이 될 수 있습니다. 경기 침체기에는 비교적 방어적이나, 금리 환경 변화에 대한 민감도가 더 큽니다.",
+    "technical_synergy": "이러한 펀더멘털(높은 부채, 마이너스 FCF, 정체된 성장)을 가진 기업이 '단테의 밥그릇 3번 자리'와 같은 강력한 기술적 패턴을 형성한다면, 이는 주로 금리 인하 기대감이나 시장의 방어적 심리 강화에 기인할 가능성이 높습니다. 그러나 내재된 재무적 취약성으로 인해 폭발력은 제한적일 수 있으며, 장기적인 신뢰도를 위해서는 잉여현금흐름 개선 및 부채 감소와 같은 펀더멘털 변화가 필수적입니다.",
+    "business_moat": "NWN은 규제된 천연가스 유틸리티로서, 해당 서비스 지역 내 독점적 지위와 막대한 인프라 투자 비용으로 인해 강력한 경제적 해자를 보유합니다. 이는 안정적인 수요와 예측 가능한 수익 흐름을 보장하지만, 동시에 규제 당국의 통제와 높은 자본 지출 부담을 수반합니다.",
+    "ai_system_tags": [
+      "Defensive",
+      "Value",
+      "Dividend"
+    ]
+  }
+}

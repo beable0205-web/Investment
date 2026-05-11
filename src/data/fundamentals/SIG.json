@@ -1,0 +1,34 @@
+{
+  "ticker": "SIG",
+  "lastUpdated": "2026-05-10T02:34:55.429Z",
+  "rawFinancials": {
+    "name": "Signet Jewelers Limited",
+    "marketCap": 3551752192,
+    "trailingPE": 12.330509,
+    "forwardPE": 7.19638,
+    "priceToBook": 1.7937865,
+    "totalRevenue": 6813599744,
+    "operatingMargins": 0.15083,
+    "returnOnEquity": 0.15422,
+    "freeCashflow": 364400000,
+    "totalCash": 874800000,
+    "totalDebt": 1217299968,
+    "currentRatio": 1.601,
+    "revenueGrowth": -0.003
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출은 소폭 역성장하며 정체 국면에 있으나, 낮은 Forward PE는 향후 이익 개선 기대감을 반영할 수 있음.",
+      "profitability": "15%대의 견고한 영업이익률과 ROE는 효율적인 자본 활용 및 일정 수준의 가격 결정력을 시사함.",
+      "cashflow_stability": "견조한 잉여현금흐름 창출력과 양호한 유동성 비율을 바탕으로 재무 안정성이 우수하며, 부채 수준은 관리 가능한 범위."
+    },
+    "macro_sensitivity": "귀금속 소매업의 특성상 소비자의 재량 지출에 크게 의존하므로, 금리 인상, 인플레이션 심화, 경기 침체 시 매출 및 이익에 직접적인 타격을 받을 수 있는 경기 민감주. 금리 인하 및 경기 회복 시 강한 반등 가능성.",
+    "technical_synergy": "견고한 펀더멘털(수익성, 현금흐름)과 낮은 밸류에이션(P/E, P/B)을 고려할 때, '단테의 밥그릇 3번 자리'와 같은 장기 추세 전환 패턴 발생 시, 단순한 기술적 반등을 넘어선 강력한 밸류에이션 재평가(re-rating)에 기반한 폭발적인 상승 신뢰도가 높음. 이는 시장이 기업의 내재가치를 뒤늦게 인식하는 과정으로 해석될 수 있음.",
+    "business_moat": "Signet Jewelers는 다수의 유명 브랜드를 보유한 세계 최대의 다이아몬드 주얼리 소매업체로서, 규모의 경제와 강력한 브랜드 인지도를 통해 경쟁 우위를 확보하고 있습니다. 이는 고객 충성도와 시장 점유율을 유지하는 데 기여하는 해자로 작용합니다.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Turnaround"
+    ]
+  }
+}

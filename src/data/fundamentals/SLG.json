@@ -1,0 +1,33 @@
+{
+  "ticker": "SLG",
+  "lastUpdated": "2026-05-10T02:31:58.882Z",
+  "rawFinancials": {
+    "name": "SL Green Realty Corp",
+    "marketCap": 3522878208,
+    "forwardPE": -25.178312,
+    "priceToBook": 0.98175967,
+    "totalRevenue": 937372992,
+    "operatingMargins": 0.01343,
+    "returnOnEquity": -0.03472,
+    "freeCashflow": 743510464,
+    "totalCash": 153252992,
+    "totalDebt": 6543857152,
+    "currentRatio": 1.377,
+    "revenueGrowth": -0.04
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 역성장 및 이익 적자 (Revenue decline and loss-making).",
+      "profitability": "극히 낮은 영업 마진과 마이너스 자기자본이익률로 인한 적자 늪 (Loss swamp due to extremely low operating margins and negative return on equity).",
+      "cashflow_stability": "상당한 규모의 긍정적인 잉여현금흐름을 창출하나, 시장가치 대비 과도한 부채 레버리지 보유 (Generates substantial positive free cash flow, but carries excessive debt leverage relative to market capitalization)."
+    },
+    "macro_sensitivity": "상업용 부동산 시장의 특성상 금리 인상에 따른 차입 비용 증가와 자산 가치 하락에 매우 취약하며, 경기 침체 시 임대 수익 감소 위험이 큽니다. 금리 인하 및 경기 회복 시 가장 큰 수혜를 입을 수 있는 대표적인 경기 민감주입니다.",
+    "technical_synergy": "이러한 펀더멘털(저평가된 장부가, 높은 부채, 적자이나 긍정적 FCF)을 가진 기업이 '단테의 밥그릇 3번 자리'와 같은 장기 이평선 돌파 및 지지 패턴을 형성한다면, 이는 시장이 거시경제적 전환점(예: 금리 인하 기대)이나 기업의 구조적 개선(예: 부채 감축)을 인지하기 시작했다는 강력한 신호로 해석될 수 있습니다. 과거의 과도한 하락과 공매도 포지션으로 인해 폭발적인 숏 스퀴즈와 함께 강력한 턴어라운드 랠리를 기대할 수 있으나, 이러한 기술적 패턴의 신뢰도는 반드시 거시경제적 환경 변화나 기업의 펀더멘털 개선이라는 촉매와 동반될 때 극대화됩니다.",
+    "business_moat": "주요 도시의 핵심 상업용 부동산 자산 포트폴리오와 오랜 운영 경험을 통해 일정 수준의 경제적 해자를 보유하고 있습니다. 그러나 현재 거시경제적 역풍과 산업 변화로 인해 이 해자가 일시적으로 약화된 상태입니다.",
+    "ai_system_tags": [
+      "Value",
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "ticker": "QUIK",
+  "lastUpdated": "2026-05-10T12:48:59.047Z",
+  "rawFinancials": {
+    "name": "QuickLogic Corporation",
+    "marketCap": 352459456,
+    "forwardPE": 124.3125,
+    "priceToBook": 15.311777,
+    "totalRevenue": 13774000,
+    "operatingMargins": -0.93464,
+    "returnOnEquity": -0.52097,
+    "freeCashflow": -879250,
+    "totalCash": 18840000,
+    "totalDebt": 18243000,
+    "currentRatio": 1.138,
+    "revenueGrowth": -0.342
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "심각한 역성장 (매출 -34.2%), 현재 성장 동력 부재",
+      "profitability": "깊은 적자 늪 (영업이익률 -93.4%, ROE -52.1%), 수익성 구조 전무",
+      "cashflow_stability": "현금 소진 (FCF 음수) 및 부채 리스크 (총 부채가 현금과 유사), 단기 유동성 취약 (유동비율 1.138)"
+    },
+    "macro_sensitivity": "고금리, 인플레이션, 경기 침체 등 모든 거시경제 악재에 매우 취약하며 방어력이 전무합니다. 외부 자금 조달 비용 상승 및 수요 위축은 기업의 생존을 위협할 수 있습니다.",
+    "technical_synergy": "이러한 극도로 취약한 펀더멘털을 가진 기업이 '단테의 밥그릇 3번 자리'와 같은 강력한 기술적 패턴을 형성한다면, 이는 펀더멘털 개선보다는 극단적인 투기적 심리, 단기적인 재료 노출, 또는 숏 스퀴즈에 의한 것일 가능성이 높습니다. 폭발력은 있을 수 있으나, 펀더멘털 기반의 신뢰도는 매우 낮아 '궁극의 AI 투자 시스템'은 이를 고위험 투기성 신호로 해석해야 합니다.",
+    "business_moat": "현재 재무 지표상으로는 경제적 해자를 찾아보기 어렵습니다. 오히려 심각한 역성장과 적자로 인해 경쟁 우위가 약화되고 있음을 시사하며, 지속 가능한 이익 창출 능력이 부재합니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "High-Risk",
+      "Speculative"
+    ]
+  }
+}

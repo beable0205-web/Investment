@@ -1,0 +1,33 @@
+{
+  "ticker": "APWC",
+  "lastUpdated": "2026-05-10T18:25:28.658Z",
+  "rawFinancials": {
+    "name": "Asia Pacific Wire & Cable Corpo",
+    "marketCap": 60199388,
+    "trailingPE": 8.111111,
+    "priceToBook": 0.17675544,
+    "totalRevenue": 489679008,
+    "operatingMargins": 0.021170001,
+    "returnOnEquity": 0.02305,
+    "freeCashflow": -26279000,
+    "totalCash": 33224000,
+    "totalDebt": 44924000,
+    "currentRatio": 2.345,
+    "revenueGrowth": -0.017
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출은 역성장하고 있으며, ROE 또한 매우 낮은 수준으로 기업의 성장 동력이 현저히 약화되었음을 시사합니다.",
+      "profitability": "영업 마진이 2%대에 불과하여 박리다매형 사업 구조를 가지고 있으며, 이는 강력한 가격 결정력이나 경쟁 우위가 부재함을 나타냅니다.",
+      "cashflow_stability": "자유 현금 흐름이 마이너스(-)를 기록하며 현금을 소진하고 있어, 장기적인 재무 건전성에 심각한 우려가 있습니다. 부채 대비 현금 보유량도 충분치 않아 레버리지 리스크가 존재합니다."
+    },
+    "macro_sensitivity": "APWC는 전형적인 경기 민감주로, 경기 침체 시 수요 감소로 인한 매출 타격이 예상됩니다. 얇은 마진 구조는 인플레이션으로 인한 원가 상승 압력에 매우 취약하며, 마이너스 현금 흐름과 부채는 금리 인상 시 재무 부담을 가중시킬 것입니다.",
+    "technical_synergy": "이처럼 부실한 펀더멘털을 가진 기업이 '단테의 밥그릇 3번 자리'와 같은 기술적 패턴을 형성하더라도, 이는 일시적인 반등에 그치거나 '가치 함정'일 가능성이 매우 높습니다. 펀더멘털의 근본적인 개선 없이는 기술적 신호의 폭발력이나 신뢰도를 기대하기 어렵습니다.",
+    "business_moat": "APWC는 전선 및 케이블 산업의 일반적인 플레이어로 보이며, 2%대의 낮은 영업 마진과 역성장하는 매출은 강력한 경제적 해자가 부재함을 시사한다. 이는 치열한 경쟁과 상품화된 제품 특성으로 인해 가격 결정력이 매우 약함을 의미한다.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Turnaround"
+    ]
+  }
+}

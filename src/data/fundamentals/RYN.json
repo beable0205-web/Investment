@@ -1,0 +1,34 @@
+{
+  "ticker": "RYN",
+  "lastUpdated": "2026-05-09T10:15:20.778Z",
+  "rawFinancials": {
+    "name": "Rayonier Inc. REIT",
+    "marketCap": 6194574848,
+    "trailingPE": 44.391304,
+    "forwardPE": 33.50562,
+    "priceToBook": 1.4917086,
+    "totalRevenue": 678385024,
+    "operatingMargins": -0.16510001,
+    "returnOnEquity": 0.01827,
+    "freeCashflow": 324320384,
+    "totalCash": 681699968,
+    "totalDebt": 2055100032,
+    "currentRatio": 2.53,
+    "revenueGrowth": 2.338
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "저성장 및 정체. 매출 성장은 2%대로 미미하며, 순이익 지표(Trailing PE 44배) 대비 미래 이익 기대치(Forward PE 33배)가 개선되나, 성장주로 분류하기는 어려움.",
+      "profitability": "회계상 이익 부진, 현금흐름으로 상쇄. 영업이익률(Operating Margin)은 -16.5%로 심각한 적자 상태이나, 이는 감가상각비 등 비현금성 비용이 큰 REIT 산업의 특성일 수 있음. 실제 현금 창출력을 나타내는 잉여현금흐름(FCF)은 3.2억 달러로 매우 양호함.",
+      "cashflow_stability": "현금 창출력 우수, 부채 리스크는 존재. 잉여현금흐름이 매우 강력하고 유동비율(Current Ratio)이 2.53으로 단기 파산 위험은 매우 낮음. 다만, 총부채(20.5억 달러)가 현금성 자산(6.8억 달러)의 3배에 달해 부채 수준에 대한 지속적인 관리가 필요함."
+    },
+    "macro_sensitivity": "금리 인상에 취약한 대표적인 경기 순환주. 주력 사업인 목재 수요는 주택 건설 경기에 직접적인 영향을 받으므로, 금리 인상 시기에는 수요 감소와 주가 하락 압력이 커짐. 단, 극심한 인플레이션 시기에는 실물자산(토지, 목재) 보유가 부각되며 자산가치 방어력을 보일 수 있음.",
+    "technical_synergy": "회계적 이익의 부진으로 장기 소외될 수 있으나, 강력한 FCF와 자산가치가 주가의 하방을 지지. 금리 인하 등 거시적 변곡점에서 장기 이평선을 돌파하는 '밥그릇 패턴' 형성 시, 숨겨진 현금흐름과 자산가치가 재평가받으며 높은 신뢰도와 함께 강한 추세 전환을 기대할 수 있음.",
+    "business_moat": "대규모 사유림 소유에서 비롯된 희소하고 복제 불가능한 실물 자산이 핵심 경제적 해자. 지속가능한 산림 경영을 통해 건설 및 산업용 목재를 공급하는 핵심 원자재 사업을 영위함.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Dividend"
+    ]
+  }
+}

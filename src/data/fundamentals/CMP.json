@@ -1,0 +1,33 @@
+{
+  "ticker": "CMP",
+  "lastUpdated": "2026-05-10T07:11:45.541Z",
+  "rawFinancials": {
+    "name": "Compass Minerals Intl Inc",
+    "marketCap": 1171896704,
+    "trailingPE": 174.5625,
+    "forwardPE": 25.804245,
+    "priceToBook": 4.2942805,
+    "totalRevenue": 1291399936,
+    "operatingMargins": 0.12357,
+    "returnOnEquity": 0.0278,
+    "freeCashflow": 82537504,
+    "totalCash": 74100000,
+    "totalDebt": 775400000,
+    "currentRatio": 2.06,
+    "revenueGrowth": -0.084
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "현재 매출은 역성장 중이나, 미래 예상 이익(Forward PE)이 현재 이익(Trailing PE) 대비 크게 개선될 것으로 보여 턴어라운드 기대감이 반영된 상태입니다.",
+      "profitability": "영업 마진은 양호하나, 자기자본이익률(ROE)이 매우 낮아 자본 효율성이 떨어집니다. 현재 이익 창출력은 미미하며, 높은 P/B는 미래 가치에 대한 기대 또는 과대평가 가능성을 시사합니다.",
+      "cashflow_stability": "긍정적인 잉여현금흐름과 양호한 유동비율을 보이나, 총 부채가 현금 및 현금흐름 대비 상당하여 장기적인 부채 상환 능력에 대한 주의가 필요합니다."
+    },
+    "macro_sensitivity": "필수 광물 및 농업 관련 제품을 생산하므로 경기 변동에 민감한 경기 순환주(Cyclical) 특성을 가집니다. 높은 부채로 인해 금리 인상에 취약하며, 인플레이션은 원가 압박을 가할 수 있습니다. 겨울철 기후 및 농산물 가격 변동에도 직접적인 영향을 받습니다.",
+    "technical_synergy": "현재 펀더멘털은 역성장과 낮은 수익성을 보이나, 미래 턴어라운드 기대감이 반영된 상태입니다. 이러한 기업이 '단테의 밥그릇 3번 자리'를 돌파한다면, 이는 시장이 펀더멘털 개선을 확신하고 있다는 강력한 신호로 해석되어 폭발적인 상승 모멘텀을 기대할 수 있습니다. 다만, 높은 부채와 경기 민감성으로 인해 펀더멘털 개선이 지연될 경우 신뢰도가 급락할 수 있습니다.",
+    "business_moat": "이 기업은 필수 광물(소금, 식물 영양소) 채굴 및 생산에 특화되어 있으며, 이는 특정 지질학적 자원에 대한 접근권과 대규모 생산 설비가 필요한 진입 장벽을 형성합니다. 효율적인 생산 및 유통 네트워크가 핵심 경쟁력입니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

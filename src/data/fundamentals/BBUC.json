@@ -1,0 +1,33 @@
+{
+  "ticker": "BBUC",
+  "lastUpdated": "2026-05-09T09:37:31.960Z",
+  "rawFinancials": {
+    "name": "Brookfield Business Corporation",
+    "marketCap": 6386180608,
+    "forwardPE": 12.962184,
+    "priceToBook": 2.8025072,
+    "totalRevenue": 27456999424,
+    "operatingMargins": 0.16662,
+    "returnOnEquity": 0.023729999,
+    "freeCashflow": -774000000,
+    "totalCash": 4270000128,
+    "totalDebt": 44572999680,
+    "currentRatio": 1.675,
+    "revenueGrowth": -0.045
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "역성장",
+      "profitability": "높은 영업이익률에도 불구하고, 과도한 부채로 인한 이자 비용이 순이익을 잠식하여 자기자본이익률(ROE)이 극도로 낮은 구조",
+      "cashflow_stability": "대규모 마이너스 잉여현금흐름으로 현금 소진 중. 단기 유동성은 양호하나, 시장가치(시가총액)의 7배에 달하는 총부채는 심각한 재무 리스크 요인"
+    },
+    "macro_sensitivity": "총부채 규모가 막대하여 금리 변동에 극도로 민감함. 금리 인상 시 이자 부담이 가중되어 파산 위험이 증가하며, 금리 인하 시에는 부채 리파이낸싱을 통한 턴어라운드 기대감이 가장 큰 동력으로 작용할 수 있는 경기민감주.",
+    "technical_synergy": "전형적인 고위험-고기대수익(High-Risk, High-Return)형 턴어라운드 후보군. '단테의 밥그릇 3번 자리'와 같은 장기 저항선 돌파 패턴은 금리 인하, 자산 매각을 통한 부채 감축 등 결정적 펀더멘털 개선 신호와 결합될 때 폭발적인 시너지를 낼 수 있음. 펀더멘털 개선 없는 기술적 신호는 신뢰도가 매우 낮음.",
+    "business_moat": "글로벌 대체자산 운용사 브룩필드(Brookfield)의 운영 전문성과 딜 소싱 네트워크가 핵심 해자. 하지만 현재는 과도한 레버리지를 활용한 사업 모델이 고금리 환경에서 심각한 시험대에 올라 있음.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Cyclical",
+      "Value"
+    ]
+  }
+}

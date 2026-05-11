@@ -1,0 +1,33 @@
+{
+  "ticker": "ILPT",
+  "lastUpdated": "2026-05-10T10:36:37.487Z",
+  "rawFinancials": {
+    "name": "Industrial Logistics Properties",
+    "marketCap": 543323584,
+    "forwardPE": -9.261363,
+    "priceToBook": 1.1325736,
+    "totalRevenue": 453361984,
+    "operatingMargins": 0.34395,
+    "returnOnEquity": -0.09595,
+    "freeCashflow": 144377120,
+    "totalCash": 105593000,
+    "totalDebt": 4193131008,
+    "currentRatio": 3.776,
+    "revenueGrowth": 0.04
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출은 4% 성장으로 정체 상태이나, 핵심 수익성 지표는 심각한 악화를 보임.",
+      "profitability": "34%의 양호한 영업마진에도 불구하고, 마이너스 ROE와 마이너스 선행 P/E는 순이익 단에서의 심각한 적자 늪을 시사하며, 자본 파괴가 진행 중.",
+      "cashflow_stability": "긍정적인 잉여현금흐름은 긍정적이나, 40억 달러가 넘는 막대한 총부채는 기업의 장기적 생존 가능성에 심각한 위협을 가하며, 레버리지 과다 리스크가 극심함."
+    },
+    "macro_sensitivity": "금리 인상에 극도로 취약한 구조. 막대한 부채로 인해 금리 상승은 이자 비용을 급증시켜 수익성을 더욱 악화시킬 것이며, 경기 침체 시 물류 수요 감소와 자산 가치 하락 위험에 직접적으로 노출됨. 전형적인 금리 인상 취약주이자 경기 민감주.",
+    "technical_synergy": "이러한 심각한 펀더멘털 약점을 가진 기업이 '단테의 밥그릇 3번 자리'와 같은 기술적 패턴을 형성하더라도, 이는 일시적인 반등이거나 투기적 움직임일 가능성이 높습니다. 근본적인 사업 개선 없이는 장기적인 신뢰도를 부여하기 어려우며, AI 시스템은 이러한 패턴을 '베어 트랩' 또는 '데드 캣 바운스'로 해석하여 신중한 접근이 필요합니다.",
+    "business_moat": "ILPT는 필수적인 산업 물류 인프라를 소유하여 잠재적 해자를 가질 수 있으나, 40억 달러가 넘는 과도한 부채와 지속적인 순손실은 이 해자를 심각하게 침식하고 있습니다. 현재는 재무적 압박이 사업 모델의 강점을 압도하는 상황입니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "High-Debt",
+      "Cyclical"
+    ]
+  }
+}

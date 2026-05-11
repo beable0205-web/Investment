@@ -1,0 +1,32 @@
+{
+  "ticker": "WSBC",
+  "lastUpdated": "2026-05-10T02:38:34.658Z",
+  "rawFinancials": {
+    "name": "WesBanco, Inc.",
+    "marketCap": 3293222656,
+    "trailingPE": 10.503068,
+    "forwardPE": 8.687599,
+    "priceToBook": 0.86386114,
+    "totalRevenue": 1037641024,
+    "operatingMargins": 0.49231997,
+    "returnOnEquity": 0.08169,
+    "totalCash": 1017201984,
+    "totalDebt": 1454310016,
+    "revenueGrowth": 1.077
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적인 매출 성장세를 보이며, 향후 이익 개선에 대한 시장의 기대가 반영된 보통 성장 기업.",
+      "profitability": "매우 높은 영업 마진을 통해 핵심 사업의 효율성을 입증하나, 보통 수준의 자기자본이익률과 장부가치 대비 낮은 주가는 시장의 보수적인 평가를 시사한다.",
+      "cashflow_stability": "높은 영업 마진에서 비롯된 견고한 현금 창출력을 보유하며, 은행업의 특성상 부채 규모는 크지만 유동성 관리는 안정적인 수준으로 판단된다."
+    },
+    "macro_sensitivity": "금리 변동에 매우 민감하며, 금리 인상기에는 순이자마진 확대의 수혜를 입을 수 있으나, 경기 침체 시에는 대출 부실 위험 증가로 취약해질 수 있는 경기 민감형 금융주.",
+    "technical_synergy": "견고한 펀더멘털과 저평가된 가치를 지닌 기업이 '단테의 밥그릇 3번 자리'를 형성한다면, 이는 단순한 기술적 반등을 넘어선 시장의 근본적인 재평가 신호로 해석될 수 있다. 이러한 패턴은 신뢰도가 높으며, 지속 가능한 상승 추세의 시작을 알릴 가능성이 크다.",
+    "business_moat": "WesBanco는 지역 기반의 강력한 고객 관계와 안정적인 저비용 예금 기반을 통해 경쟁 우위를 확보하고 있다. 높은 영업 마진은 효율적인 운영과 비용 통제 능력을 반영하며, 이는 지속 가능한 수익성을 뒷받침하는 경제적 해자로 작용한다.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Defensive"
+    ]
+  }
+}

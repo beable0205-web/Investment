@@ -1,0 +1,33 @@
+{
+  "ticker": "PCM",
+  "lastUpdated": "2026-05-10T18:01:30.101Z",
+  "rawFinancials": {
+    "name": "PCM Fund, Inc.",
+    "marketCap": 73351616,
+    "trailingPE": 10.607142,
+    "priceToBook": 0.99714625,
+    "totalRevenue": 10736000,
+    "operatingMargins": 0.90506,
+    "returnOnEquity": 0.09014,
+    "freeCashflow": 6028000,
+    "totalCash": 365000,
+    "totalDebt": 38758000,
+    "currentRatio": 0.077,
+    "revenueGrowth": -0.207
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출이 20% 이상 역성장하며 자산 기반 또는 투자 수익 창출력이 크게 위축되고 있음.",
+      "profitability": "90%가 넘는 독점적 수준의 영업 마진을 기록, 자산 운용 효율성 또는 비용 통제력이 매우 우수함.",
+      "cashflow_stability": "긍정적인 잉여현금흐름에도 불구하고, 총부채가 시가총액의 절반을 넘고 유동비율이 극히 낮아 레버리지 과다 및 심각한 단기 유동성 위험에 직면해 있음."
+    },
+    "macro_sensitivity": "높은 부채 비율로 인해 금리 인상 시 차입 비용이 급증하여 수익성에 치명적이며, 보유 자산의 가치 하락 시 레버리지 효과로 인해 순자산 가치(NAV)가 크게 훼손될 수 있어 경기 침체 및 시장 변동성에 매우 취약함.",
+    "technical_synergy": "이러한 펀더멘털 취약성(역성장, 과도한 부채, 유동성 위험)을 가진 기업이 '단테의 밥그릇 3번 자리'와 같은 기술적 돌파 패턴을 만들 경우, 이는 단기적인 투기적 매수세일 가능성이 높으며, 지속적인 상승 추세로 이어지기 위해서는 부채 감축, 투자 전략 변화 등 강력한 펀더멘털 개선이 선행되어야 함. 신뢰도는 매우 낮음.",
+    "business_moat": "PCM Fund, Inc.는 90% 이상의 경이로운 영업 마진을 통해 자산 운용의 효율성 측면에서 강력한 해자를 보유한 것으로 보이나, 지속적인 역성장과 과도한 부채는 이러한 해자의 지속 가능성을 심각하게 위협하고 있다.",
+    "ai_system_tags": [
+      "Value",
+      "Turnaround",
+      "Dividend"
+    ]
+  }
+}

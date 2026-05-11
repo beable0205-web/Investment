@@ -1,0 +1,33 @@
+{
+  "ticker": "CLWT",
+  "lastUpdated": "2026-05-11T11:50:53.255Z",
+  "rawFinancials": {
+    "name": "Euro Tech Holdings Company Limi",
+    "marketCap": 8671413,
+    "trailingPE": 58.5,
+    "priceToBook": 0.59180576,
+    "totalRevenue": 13265000,
+    "operatingMargins": 0.0183,
+    "returnOnEquity": 0.0100300005,
+    "freeCashflow": -1333625,
+    "totalCash": 4283000,
+    "totalDebt": 329000,
+    "currentRatio": 2.015,
+    "revenueGrowth": -0.092
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 역성장 및 이익 정체",
+      "profitability": "박리다매 또는 경쟁 심화로 인한 극히 낮은 마진",
+      "cashflow_stability": "영업 현금흐름 적자 지속, 그러나 낮은 부채로 단기 파산 위험은 낮음"
+    },
+    "macro_sensitivity": "경기 침체 및 인플레이션에 매우 취약하며, 금리 인하 시에도 펀더멘털 개선 없이는 제한적 수혜 예상. 전형적인 경기 민감주.",
+    "technical_synergy": "부진한 펀더멘털로 인해 장기 이평선 돌파 시에도 신뢰도가 낮으며, 단기적 기술적 반등은 투기적 성격이 강할 것. 진정한 '단테의 밥그릇' 패턴은 강력한 펀더멘털 개선이 동반될 때만 유효.",
+    "business_moat": "극히 낮은 마진과 매출 역성장은 이 기업이 유의미한 경제적 해자를 보유하고 있지 않음을 시사한다. 치열한 경쟁 환경에 노출되어 있으며, 차별화된 경쟁 우위가 부재한 것으로 판단된다.",
+    "ai_system_tags": [
+      "Deep Value",
+      "Struggling",
+      "Turnaround Candidate"
+    ]
+  }
+}

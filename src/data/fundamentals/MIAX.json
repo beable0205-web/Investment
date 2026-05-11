@@ -1,0 +1,32 @@
+{
+  "ticker": "MIAX",
+  "lastUpdated": "2026-05-10T01:18:52.851Z",
+  "rawFinancials": {
+    "name": "Miami International Holdings, I",
+    "marketCap": 4928655872,
+    "trailingPE": 40.302326,
+    "forwardPE": 28.527063,
+    "priceToBook": 5.047573,
+    "totalRevenue": 1406685952,
+    "operatingMargins": 0.12434,
+    "returnOnEquity": 0.16829,
+    "totalCash": 577580032,
+    "totalDebt": 18371000,
+    "currentRatio": 2.768,
+    "revenueGrowth": 0.13
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "견고한 매출 성장세와 함께 향후 이익 성장이 가속화될 것으로 예상되는 고성장 기업입니다.",
+      "profitability": "12%대의 견고한 영업 마진과 16%가 넘는 높은 자기자본이익률(ROE)은 이 기업의 우수한 수익성과 효율적인 자본 활용 능력을 방증합니다.",
+      "cashflow_stability": "5억 달러 이상의 현금을 보유하고 부채는 2천만 달러 미만으로, 압도적인 현금 유동성과 극히 낮은 부채 리스크를 자랑합니다. 파산 위험은 사실상 전무합니다."
+    },
+    "macro_sensitivity": "금융 시장 인프라 제공자로서 시장 거래량 및 변동성에 민감하게 반응합니다. 견고한 재무구조 덕분에 금리 인상이나 경기 침체에 대한 방어력은 높지만, 시장 활력이 저하될 경우 성장 모멘텀이 둔화될 수 있습니다. 전반적인 금융 시장의 건전성과 혁신에 수혜를 입습니다.",
+    "technical_synergy": "이처럼 강력한 펀더멘털을 가진 기업이 '단테의 밥그릇 3번 자리'와 같은 기술적 패턴을 형성할 경우, 이는 단순한 기술적 반등을 넘어선 본질 가치 상승에 기반한 추세 전환으로 해석될 가능성이 큽니다. 기관 투자자들의 확신에 찬 매수세가 유입되며 높은 신뢰도와 함께 상당한 폭발력을 기대할 수 있습니다.",
+    "business_moat": "MIAX는 금융 시장 인프라 제공자로서 강력한 네트워크 효과와 규제 장벽을 통해 견고한 경제적 해자를 구축하고 있습니다. 이는 높은 전환 비용과 유동성 집중으로 경쟁 우위를 확보하게 합니다.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Defensive"
+    ]
+  }
+}

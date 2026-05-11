@@ -1,0 +1,34 @@
+{
+  "ticker": "STVN",
+  "lastUpdated": "2026-05-10T00:59:40.609Z",
+  "rawFinancials": {
+    "name": "Stevanato Group S.p.A.",
+    "marketCap": 4976857088,
+    "trailingPE": 30.383331,
+    "forwardPE": 21.285788,
+    "priceToBook": 2.8377666,
+    "totalRevenue": 1203282048,
+    "operatingMargins": 0.14181,
+    "returnOnEquity": 0.09592,
+    "freeCashflow": -62899624,
+    "totalCash": 111700000,
+    "totalDebt": 452100000,
+    "currentRatio": 1.633,
+    "revenueGrowth": 0.066
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "중성장",
+      "profitability": "견고한 마진, 보통의 자본 효율성",
+      "cashflow_stability": "현금 흐름 압박, 부채 관리 필요"
+    },
+    "macro_sensitivity": "금리 인상에 취약한 경기 방어주",
+    "technical_synergy": "펀더멘털 개선 시 폭발력 증대, 현 상태에서는 신중한 접근 필요",
+    "business_moat": "제약 산업의 높은 전환 비용과 전문 기술력에서 비롯된 해자를 보유하고 있습니다. 이는 안정적인 운영 마진을 가능하게 하지만, 해자 유지를 위한 지속적인 투자가 현재 현금 흐름을 압박하고 있습니다.",
+    "ai_system_tags": [
+      "Defensive",
+      "Growth",
+      "Turnaround"
+    ]
+  }
+}

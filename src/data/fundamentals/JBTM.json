@@ -1,0 +1,34 @@
+{
+  "ticker": "JBTM",
+  "lastUpdated": "2026-05-09T09:52:42.463Z",
+  "rawFinancials": {
+    "name": "JBT Marel Corporation",
+    "marketCap": 7260856320,
+    "trailingPE": 42.907692,
+    "forwardPE": 14.882604,
+    "priceToBook": 1.619083,
+    "totalRevenue": 3880199936,
+    "operatingMargins": 0.09295,
+    "returnOnEquity": 0.03918,
+    "freeCashflow": 375737504,
+    "totalCash": 211000000,
+    "totalDebt": 1843000064,
+    "currentRatio": 1.011,
+    "revenueGrowth": 0.096
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 매출 성장(9.6%)을 기반으로, 과거 이익(Trailing PE 42.9) 대비 향후 이익(Forward PE 14.9)의 폭발적 개선이 기대되는 전형적인 턴어라운드 구조를 보임.",
+      "profitability": "영업이익률(9.3%)은 준수하나, 자기자본이익률(ROE 3.9%)이 매우 낮아 자본 효율성에 심각한 의문이 제기됨. 이는 높은 부채 또는 자본 집약적 산업의 특성을 반영함.",
+      "cashflow_stability": "낮은 이익률에도 불구하고 강력한 잉여현금흐름(FCF $375M)을 창출하는 것은 최대 강점이나, 과도한 총부채($1.84B)와 1.0을 간신히 넘는 유동비율은 재무 안정성의 잠재적 리스크임."
+    },
+    "macro_sensitivity": "고객사의 설비투자에 의존하는 경기 순환적(Cyclical) 산업재 기업으로, 경기 침체 시 매출 둔화 위험이 존재함. 특히 부채 수준이 높아 금리 인상기에 이자 비용 부담이 가중될 수 있는 구조임.",
+    "technical_synergy": "강력한 현금흐름과 이익 턴어라운드 스토리를 겸비하고 있어, '단테의 밥그릇 3번 자리'와 같은 장기 추세 전환 신호 발생 시 신뢰도가 높음. 시장이 턴어라운드를 확신하는 순간, 낮은 ROE와 부채 리스크에 대한 우려를 딛고 폭발적인 주가 재평가가 일어날 수 있는 잠재력을 가짐.",
+    "business_moat": "식품 및 음료 가공 기술 솔루션 분야의 글로벌 선두주자임. 고객사의 생산 라인에 깊숙이 통합된 장비와 글로벌 서비스 네트워크를 통해 높은 전환 비용(Switching Cost)을 구축하여 경쟁 우위를 확보함.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Value",
+      "Cyclical"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "ticker": "MYGN",
+  "lastUpdated": "2026-05-10T10:45:58.688Z",
+  "rawFinancials": {
+    "name": "Myriad Genetics, Inc.",
+    "marketCap": 405182816,
+    "forwardPE": 29.041431,
+    "priceToBook": 1.2003357,
+    "totalRevenue": 557000000,
+    "operatingMargins": -0.2141,
+    "returnOnEquity": -0.23513001,
+    "freeCashflow": -46062500,
+    "totalCash": 150700000,
+    "totalDebt": 0,
+    "currentRatio": 2.669,
+    "revenueGrowth": -0.208
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "심각한 역성장 (매출액 -20.8% 감소)",
+      "profitability": "심각한 적자 구조 (영업이익률 -21.41%, ROE -23.51%)",
+      "cashflow_stability": "현금 소진 심각하나 부채 없어 단기 파산 위험은 낮음 (잉여현금흐름 마이너스, 총 부채 0)"
+    },
+    "macro_sensitivity": "경기 침체 시 진단 수요 위축 및 인플레이션으로 인한 비용 압박에 취약. 금리 인상 환경에서는 미래 자금 조달(특히 증자)에 대한 부담이 가중될 수 있음.",
+    "technical_synergy": "극도로 취약한 펀더멘털로 인해 '단테의 밥그릇'과 같은 기술적 패턴이 나타나더라도 신뢰도가 매우 낮음. 이러한 패턴은 단기적인 투기적 매수세나 숏 스퀴즈에 의한 것일 가능성이 크며, 지속적인 상승 추세로 이어지기 위해서는 근본적인 사업 모델 개선과 수익성 회복이 필수적.",
+    "business_moat": "유전체 진단 분야의 선도적 기술력과 특허 포트폴리오가 잠재적 해자이나, 현재 심화된 경쟁과 시장 변화 속에서 이를 수익성으로 전환하는 데 어려움을 겪고 있음. 강력한 해자 구축을 위한 차별화된 전략이 시급함.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Value"
+    ]
+  }
+}

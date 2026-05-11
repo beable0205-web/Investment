@@ -1,0 +1,34 @@
+{
+  "ticker": "ARLP",
+  "lastUpdated": "2026-05-10T02:31:18.218Z",
+  "rawFinancials": {
+    "name": "Alliance Resource Partners, L.P",
+    "marketCap": 3197171200,
+    "trailingPE": 13.078948,
+    "forwardPE": 9.036364,
+    "priceToBook": 1.8116206,
+    "totalRevenue": 2170360064,
+    "operatingMargins": 0.11566,
+    "returnOnEquity": 0.13971,
+    "freeCashflow": 230619120,
+    "totalCash": 28869000,
+    "totalDebt": 507790016,
+    "currentRatio": 1.458,
+    "revenueGrowth": -0.045
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 역성장 (Revenue Contraction)",
+      "profitability": "안정적 마진 및 효율적 자본 활용 (Stable Margins & Efficient Capital Utilization)",
+      "cashflow_stability": "우수한 현금 창출력, 부채 관리 양호 (Excellent Cash Generation, Good Debt Management)"
+    },
+    "macro_sensitivity": "에너지 및 산업 수요에 민감한 경기 민감주. 인플레이션은 원자재 가격 상승으로 일부 긍정적이나, 금리 인상은 부채 부담을 가중시킬 수 있음. 환경 규제 변화에 취약합니다.",
+    "technical_synergy": "매출 역성장에도 불구하고 견고한 현금 흐름과 낮은 밸류에이션을 가진 기업이 장기 이평선 돌파 패턴을 보인다면, 이는 경기 순환적 바닥 형성 또는 시장의 가치 재평가를 시사할 수 있습니다. 이러한 패턴은 에너지 시장의 긍정적 전환이나 기업의 효율성 개선이 동반될 때 높은 신뢰도를 가지며, 제한적이지만 강력한 반등을 기대할 수 있습니다.",
+    "business_moat": "Alliance Resource Partners는 효율적인 채굴 운영과 장기 공급 계약을 통해 안정적인 현금 흐름을 창출하며, 이는 비용 우위와 고객 관계에서 비롯된 해자로 볼 수 있습니다. 그러나 화석 연료 산업의 구조적 전환은 장기적인 해자 유지에 도전 과제를 제시합니다.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Turnaround"
+    ]
+  }
+}

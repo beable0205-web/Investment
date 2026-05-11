@@ -1,0 +1,33 @@
+{
+  "ticker": "PLBY",
+  "lastUpdated": "2026-05-11T10:23:56.444Z",
+  "rawFinancials": {
+    "name": "Playboy, Inc.",
+    "marketCap": 207828224,
+    "forwardPE": 11.25,
+    "priceToBook": 11.042944,
+    "totalRevenue": 120928000,
+    "operatingMargins": 0.00115,
+    "returnOnEquity": -0.74347,
+    "freeCashflow": 8146250,
+    "totalCash": 37801000,
+    "totalDebt": 196344992,
+    "currentRatio": 1.026,
+    "revenueGrowth": 0.042
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "정체에 가까운 완만한 성장",
+      "profitability": "극도로 낮은 마진과 심각한 적자 구조",
+      "cashflow_stability": "긍정적인 잉여현금흐름에도 불구하고 과도한 부채와 취약한 유동성"
+    },
+    "macro_sensitivity": "소비자 재량 지출에 크게 의존하는 사업 모델로, 경기 침체와 인플레이션에 매우 취약합니다. 높은 부채 수준은 금리 인상 시 이자 비용 부담을 가중시켜 재무 건전성을 더욱 악화시킬 수 있습니다.",
+    "technical_synergy": "이러한 취약한 펀더멘털을 가진 기업이 '단테의 밥그릇 3번 자리'와 같은 강력한 기술적 패턴을 형성한다면, 이는 단기적인 투기적 움직임일 가능성이 높습니다. 장기적인 신뢰도는 매우 낮으며, 펀더멘털 개선 없이는 지속적인 상승 동력을 기대하기 어렵습니다. '가치 함정'에 빠질 위험이 큽니다.",
+    "business_moat": "Playboy는 한때 강력한 브랜드 인지도를 가졌으나, 현재 재무제표는 이 브랜드가 지속적인 경제적 해자로 작용하여 수익을 창출하고 있음을 보여주지 못합니다. 오히려 극도로 낮은 마진과 적자는 브랜드 가치 활용에 심각한 문제가 있음을 시사합니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Cyclical",
+      "High-Risk"
+    ]
+  }
+}

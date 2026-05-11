@@ -1,0 +1,34 @@
+{
+  "ticker": "MHK",
+  "lastUpdated": "2026-05-09T12:07:31.037Z",
+  "rawFinancials": {
+    "name": "Mohawk Industries, Inc.",
+    "marketCap": 6328764928,
+    "trailingPE": 15.543414,
+    "forwardPE": 10.484321,
+    "priceToBook": 0.7574409,
+    "totalRevenue": 10988300288,
+    "operatingMargins": 0.05475,
+    "returnOnEquity": 0.051030003,
+    "freeCashflow": 858924992,
+    "totalCash": 872300032,
+    "totalDebt": 2523500032,
+    "currentRatio": 2.159,
+    "revenueGrowth": 0.08
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "안정적 성장, 이익 개선 기대",
+      "profitability": "경쟁 심화에 따른 저수익성 구조",
+      "cashflow_stability": "현금 창출력 탁월, 재무 안정성 매우 높음"
+    },
+    "macro_sensitivity": "금리 및 경기 변동에 민감한 대표적인 경기순환주. 주택 건설 및 리모델링 시장 경기에 직접적인 영향을 받으며, 금리 인상 시기에 수요 둔화 압력을 받음.",
+    "technical_synergy": "깊은 가치(Deep Value)와 강력한 현금흐름을 겸비한 경기순환주의 특성상, 장기 이평선 돌파와 같은 추세 전환 신호는 신뢰도가 높음. 경기 회복 기대감이 기술적 분석과 결합될 때, 낮은 밸류에이션(P/B < 1)으로 인해 주가 상승 탄력이 매우 클 수 있음.",
+    "business_moat": "Mohawk Industries는 바닥재 산업의 글로벌 리더로서 규모의 경제를 통한 원가 우위를 핵심 해자로 보유하고 있음. 하지만 치열한 경쟁과 경기 민감성으로 인해 강력한 가격 결정력이나 독점적 이익률을 확보하기는 어려운 구조임.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Turnaround"
+    ]
+  }
+}

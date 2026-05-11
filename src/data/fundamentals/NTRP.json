@@ -1,0 +1,33 @@
+{
+  "ticker": "NTRP",
+  "lastUpdated": "2026-05-10T19:52:57.222Z",
+  "rawFinancials": {
+    "name": "NextTrip, Inc.",
+    "marketCap": 34549304,
+    "forwardPE": -11.84186,
+    "priceToBook": 5.428571,
+    "totalRevenue": 2180102,
+    "operatingMargins": -2.57037,
+    "returnOnEquity": -6.80929,
+    "freeCashflow": -4395821,
+    "totalCash": 2427299,
+    "totalDebt": 4101711,
+    "currentRatio": 0.852,
+    "revenueGrowth": 15.08
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출은 성장하나 이익은 심각한 역성장 상태로, 지속 가능한 성장이 아닌 현금 소진형 성장 모델입니다.",
+      "profitability": "영업이익률과 자기자본이익률 모두 심각한 마이너스로, 사업 모델의 수익성이 전무하며 자본을 잠식하는 적자 늪에 빠져 있습니다.",
+      "cashflow_stability": "잉여현금흐름이 크게 마이너스이며, 보유 현금 대비 부채가 많고 유동비율이 1 미만으로 단기 유동성 및 파산 위험이 매우 높습니다. 현금 소진이 심각한 수준입니다."
+    },
+    "macro_sensitivity": "금리 인상 시 자금 조달 비용 증가로 인한 압박이 심화되며, 경기 침체 시 소비 위축으로 매출 성장 동력이 약화될 수 있습니다. 거시경제 악화에 매우 취약한 구조입니다.",
+    "technical_synergy": "현재의 극도로 취약한 펀더멘털로는 '단테의 밥그릇 3번 자리'와 같은 기술적 패턴이 나타나더라도, 이는 투기적 매수세나 단기적 이벤트에 의한 것일 가능성이 높습니다. 펀더멘털 개선 없이는 장기적인 추세 전환의 신뢰도가 매우 낮습니다.",
+    "business_moat": "현재 재무 지표상으로는 지속적인 손실과 현금 소진을 감당할 만한 독점적 지위나 강력한 경제적 해자를 찾아볼 수 없습니다. 사업 모델의 근본적인 수익성 확보가 시급합니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Cyclical",
+      "High-Growth"
+    ]
+  }
+}

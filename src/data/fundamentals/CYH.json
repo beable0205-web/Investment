@@ -1,0 +1,33 @@
+{
+  "ticker": "CYH",
+  "lastUpdated": "2026-05-10T11:38:23.622Z",
+  "rawFinancials": {
+    "name": "Community Health Systems, Inc.",
+    "marketCap": 393157600,
+    "trailingPE": 0.8110465,
+    "forwardPE": 26.104042,
+    "priceToBook": -0.25992173,
+    "totalRevenue": 12291000320,
+    "operatingMargins": 0.06442,
+    "freeCashflow": 337875008,
+    "totalCash": 712000000,
+    "totalDebt": 10757000192,
+    "currentRatio": 1.47,
+    "revenueGrowth": -0.061
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 역성장 및 이익 감소 추세 (Revenue decline and decreasing profit trend)",
+      "profitability": "심각한 마진 압박 및 자본 잠식 (Severe margin pressure and capital impairment)",
+      "cashflow_stability": "긍정적 잉여현금흐름에도 불구하고 막대한 부채로 인한 높은 파산 위험 (High bankruptcy risk due to massive debt despite positive free cash flow)"
+    },
+    "macro_sensitivity": "막대한 부채로 인해 금리 인상에 극도로 취약하며, 경기 침체 시 부채 상환 능력에 심각한 압박을 받을 수 있습니다. 정부 의료 정책 변화에도 민감합니다. (Extremely vulnerable to interest rate hikes due to massive debt; severe pressure on debt repayment ability during economic downturns. Also sensitive to changes in government healthcare policies.)",
+    "technical_synergy": "펀더멘털이 매우 취약하여 '단테의 밥그릇 3번 자리'와 같은 기술적 패턴이 나타나더라도 신뢰도는 매우 낮습니다. 단기적인 반등은 가능하나, 근본적인 재무 구조 개선 없이는 지속적인 상승을 기대하기 어렵습니다. (Extremely weak fundamentals mean very low reliability for technical patterns like 'Dante's Bowl Position 3'. Short-term bounces are possible, but sustained upside is unlikely without fundamental financial restructuring.)",
+    "business_moat": "지역 병원 네트워크를 통해 일정 수준의 진입 장벽을 가지지만, 막대한 부채와 지속적인 수익성 악화로 인해 경제적 해자가 심각하게 침식된 상태입니다. 경쟁 심화와 규제 환경 변화에 취약합니다. (Possesses some entry barriers through its regional hospital network, but its economic moat is severely eroded by massive debt and persistent profitability issues. Vulnerable to increased competition and changes in the regulatory environment.)",
+    "ai_system_tags": [
+      "Turnaround",
+      "Value",
+      "Cyclical"
+    ]
+  }
+}

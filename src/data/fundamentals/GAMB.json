@@ -1,0 +1,33 @@
+{
+  "ticker": "GAMB",
+  "lastUpdated": "2026-05-10T16:00:55.255Z",
+  "rawFinancials": {
+    "name": "Gambling.com Group Limited",
+    "marketCap": 158288336,
+    "forwardPE": 4.9256783,
+    "priceToBook": 1.46619,
+    "totalRevenue": 165447008,
+    "operatingMargins": 0.2133,
+    "returnOnEquity": -0.28493,
+    "freeCashflow": 27804250,
+    "totalCash": 16385000,
+    "totalDebt": 123423000,
+    "currentRatio": 1.207,
+    "revenueGrowth": 0.31
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "High revenue growth (31%) is evident, but the deeply negative Return on Equity suggests significant bottom-line challenges, indicating that growth is not yet translating into sustainable shareholder value.",
+      "profitability": "Despite a healthy operating margin of over 21%, the deeply negative Return on Equity points to substantial profitability issues at the net income level, likely exacerbated by high interest expenses from its considerable debt.",
+      "cashflow_stability": "The company demonstrates strong free cash flow generation, providing operational liquidity. However, its substantial total debt, significantly outweighing cash reserves, poses a considerable financial leverage risk and could strain future profitability through interest payments."
+    },
+    "macro_sensitivity": "As a discretionary online gambling affiliate, GAMB is moderately sensitive to economic cycles and consumer spending trends. Its high debt burden makes it particularly vulnerable to rising interest rates, which would increase financing costs and further pressure its already challenged profitability. Conversely, a stable economic environment with declining rates would offer some relief.",
+    "technical_synergy": "For a company with high revenue growth but significant profitability issues and high debt, a '단테의 밥그릇 3번 자리' technical pattern would signal a highly speculative opportunity. While it could indicate a market belief in a fundamental turnaround, the underlying financial weaknesses mean such a breakout would carry elevated risk and require strong fundamental confirmation (e.g., debt reduction, sustained positive ROE) to sustain momentum and be considered reliable.",
+    "business_moat": "Gambling.com Group's economic moat likely stems from its established brand authority and sophisticated SEO capabilities, enabling it to consistently capture high-value traffic in the competitive online gambling affiliate market. This allows it to maintain strong operating margins by effectively connecting users with operators.",
+    "ai_system_tags": [
+      "High-Growth",
+      "Turnaround",
+      "Value"
+    ]
+  }
+}

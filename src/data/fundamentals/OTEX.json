@@ -1,0 +1,34 @@
+{
+  "ticker": "OTEX",
+  "lastUpdated": "2026-05-09T12:06:39.579Z",
+  "rawFinancials": {
+    "name": "Open Text Corporation",
+    "marketCap": 6289262080,
+    "trailingPE": 12,
+    "forwardPE": 5.563833,
+    "priceToBook": 1.5228238,
+    "totalRevenue": 5207911936,
+    "operatingMargins": 0.21435,
+    "returnOnEquity": 0.1276,
+    "freeCashflow": 836536896,
+    "totalCash": 1259085952,
+    "totalDebt": 6415261184,
+    "currentRatio": 0.94,
+    "revenueGrowth": 0.022
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "매출 성장률은 2.2%로 정체 상태이나, 낮은 선행 PER(5.5배)는 향후 인수합병 시너지 또는 비용 절감을 통한 이익 개선 가능성을 시사함.",
+      "profitability": "영업이익률 21.4%, 자기자본이익률 12.7%로, 한 번 고객을 확보하면 안정적인 고마진을 창출하는 견고한 수익 구조를 보유함.",
+      "cashflow_stability": "시가총액의 13%가 넘는 막대한 잉여현금흐름을 창출하는 현금 창출 기계. 다만, 총 부채(64억 달러)가 현금(12억 달러)을 크게 상회하고 유동비율이 1 미만인 점은 레버리지 리스크 요인임."
+    },
+    "macro_sensitivity": "높은 부채 수준으로 인해 금리 인상 시 이자 비용 부담이 가중되는 리스크가 존재함. 반면, 주력 사업인 기업용 소프트웨어는 고객의 필수 운영 시스템이므로 경기 침체기에도 상대적으로 안정적인 수요를 유지하는 경기 방어적 특성을 지님.",
+    "technical_synergy": "전형적인 가치주(Value Stock)로서, 펀더멘털 개선(부채 감소, 이익률 상승 등)이 확인되며 장기 이평선을 돌파하는 '밥그릇 3번 자리' 패턴이 나타날 경우, 단기 투기 세력보다는 가치를 알아보는 기관 투자자의 꾸준한 매수세가 유입될 가능성이 높음. 이는 폭발적 급등보다는 안정적이고 신뢰도 높은 우상향 추세를 기대하게 함.",
+    "business_moat": "기업의 핵심 정보 및 콘텐츠 관리 시스템을 제공하며, 고객사의 업무 프로세스에 깊숙이 통합되어 막대한 전환 비용(Switching Cost)을 발생시킴. 이는 한번 유입된 고객을 묶어두는(Lock-in) 강력한 경제적 해자로 작용하여, 지속적인 유지보수 및 업그레이드 매출을 보장함.",
+    "ai_system_tags": [
+      "Value",
+      "Dividend",
+      "Turnaround"
+    ]
+  }
+}

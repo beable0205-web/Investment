@@ -1,0 +1,32 @@
+{
+  "ticker": "SFIX",
+  "lastUpdated": "2026-05-10T10:28:07.624Z",
+  "rawFinancials": {
+    "name": "Stitch Fix, Inc.",
+    "marketCap": 487385408,
+    "forwardPE": -83.06189,
+    "priceToBook": 2.328767,
+    "totalRevenue": 1319666944,
+    "operatingMargins": -0.013890001,
+    "returnOnEquity": -0.12269,
+    "freeCashflow": 47293752,
+    "totalCash": 227707008,
+    "totalDebt": 80602000,
+    "currentRatio": 1.692,
+    "revenueGrowth": 0.094
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "수익성 없는 성장 (매출은 소폭 증가하나, 만성적인 적자로 가치 창출 미흡)",
+      "profitability": "만성적인 적자 구조 (마이너스 영업 마진 및 ROE로 수익성 심각한 문제)",
+      "cashflow_stability": "견고한 현금 흐름 창출력 및 낮은 부채 리스크 (긍정적인 잉여현금흐름, 충분한 현금 보유, 낮은 부채 비율)"
+    },
+    "macro_sensitivity": "경기 침체 및 인플레이션에 매우 취약하며, 소비 심리 위축 시 직접적인 타격을 입는 경기 민감주. 금리 인하 및 경기 회복 시 잠재적 수혜 가능.",
+    "technical_synergy": "수익성 개선이라는 펀더멘털 전환점이 명확해질 경우, '단테의 밥그릇 3번 자리'는 강력한 추세 전환 신호로 해석될 수 있습니다. 그러나 현재의 수익성 없는 성장 구조가 지속된다면, 기술적 반등은 단기적이고 신뢰도가 낮을 가능성이 큽니다. 펀더멘털 개선 없이는 기술적 패턴의 지속력이 약합니다.",
+    "business_moat": "Stitch Fix는 개인화된 데이터 기반 스타일링 서비스를 통해 고객 편의성을 제공하지만, 온라인 패션 시장의 높은 경쟁 강도와 낮은 전환 비용으로 인해 강력한 경제적 해자를 구축하는 데 어려움을 겪고 있습니다. 현재로서는 차별화된 브랜드 충성도나 독점적 기술 우위가 수익성으로 이어지지 못하고 있습니다.",
+    "ai_system_tags": [
+      "Turnaround",
+      "Cyclical"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "ticker": "GPRK",
+  "lastUpdated": "2026-05-10T09:27:35.045Z",
+  "rawFinancials": {
+    "name": "Geopark Ltd",
+    "marketCap": 603452928,
+    "trailingPE": 8.8018875,
+    "forwardPE": 3.6913948,
+    "priceToBook": 1.7880414,
+    "totalRevenue": 483542016,
+    "operatingMargins": 0.45189998,
+    "returnOnEquity": 0.22567,
+    "freeCashflow": 149743008,
+    "totalCash": 274895008,
+    "totalDebt": 633308032,
+    "currentRatio": 1,
+    "revenueGrowth": -0.065
+  },
+  "analysis": {
+    "fundamental_traits": {
+      "growth": "현재 매출은 역성장(-6.5%)을 기록하고 있으나, 현저히 낮은 Forward PE(3.69)는 시장이 향후 이익 개선 또는 턴어라운드를 기대하고 있음을 시사합니다.",
+      "profitability": "45%에 달하는 매우 높은 영업 마진과 22.5%의 ROE는 탁월한 수익 창출 능력을 보여주며, 이는 강력한 원가 경쟁력 또는 독점적 시장 지위를 암시합니다.",
+      "cashflow_stability": "견고한 잉여현금흐름(FCF) 창출력은 긍정적이나, 총 부채가 총 현금의 2배 이상이며 유동비율이 1에 불과하여 재무 레버리지 리스크가 상당합니다."
+    },
+    "macro_sensitivity": "원유 및 가스 탐사/생산 기업으로서 원자재 가격 변동에 매우 민감한 경기 민감주입니다. 글로벌 경기 침체 시 수요 감소로 인한 타격이 크며, 높은 부채 수준으로 인해 금리 인상 환경에서 이자 비용 부담이 가중될 수 있습니다.",
+    "technical_synergy": "이 기업의 높은 수익성과 잠재적 턴어라운드 기대감은 '단테의 밥그릇 3번 자리'와 같은 기술적 패턴 발생 시 강력한 신뢰도를 부여할 수 있습니다. 특히 낮은 Forward PE는 기술적 돌파가 시장의 펀더멘털 재평가와 맞물려 폭발적인 상승 모멘텀으로 이어질 가능성을 시사하나, 부채 리스크는 항상 염두에 두어야 합니다.",
+    "business_moat": "Geopark는 45%의 높은 영업 마진과 22.5%의 ROE를 통해 효율적인 운영과 저비용 생산 구조를 바탕으로 한 경제적 해자를 보유하고 있습니다. 이는 특정 지역의 우월한 자산 접근성 또는 독점적 생산 기술에서 기인할 수 있으나, 원자재 가격 변동성은 해자의 방어력을 시험하는 주요 변수입니다.",
+    "ai_system_tags": [
+      "Value",
+      "Cyclical",
+      "Turnaround"
+    ]
+  }
+}
