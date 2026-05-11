@@ -1,0 +1,8 @@
+{
+  "account": {
+    "initialSeed": 500000000,
+    "cash": 500000000,
+    "totalRealizedProfit": 0
+  },
+  "stocks": []
+}

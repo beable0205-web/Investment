@@ -146,9 +146,12 @@ a {
 }
 
 .metric-value {
-  font-size: 2rem;
+  font-size: 1.4rem;
   font-weight: 700;
   color: var(--text-primary);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .metric-positive { color: var(--success-color); }

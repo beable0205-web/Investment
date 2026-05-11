@@ -2,7 +2,7 @@ import * as dotenv from 'dotenv';
 import path from 'path';
 import cron from 'node-cron';
 import { runDailyScreener } from './run_daily_screener';
-import { sendTelegramMessage } from '../src/lib/telegram';
+import { sendTelegramMessage, startTelegramListener } from '../src/lib/telegram';
 import { GoogleGenAI } from '@google/genai';
 
 dotenv.config({ path: path.join(process.cwd(), '.env.local') });
@@ -66,13 +66,24 @@ ${JSON.stringify(matchedStocks, null, 2)}
   }
 }
 
-// 매일 오전 6시에 실행 (서버 시간 기준, 한국 시간 오후 2/3시쯤 될 수도 있으므로 서버 timezone 주의)
-// 0 6 * * * -> 매일 오전 6시
-cron.schedule('0 6 * * *', () => {
-  executeMorningBriefing();
+import { runKrPipeline } from './run_kr_pipeline';
+
+// S&P 500 자동화 비활성화 (대표님 지시)
+// cron.schedule('0 6 * * *', () => {
+//   executeMorningBriefing();
+// });
+
+// 매주 월~금 오후 4시 정각 (16:00)에 한국 주식 파이프라인 자동 실행
+cron.schedule('0 16 * * 1-5', () => {
+  console.log('⏰ [Cron] 오후 4시 정각 - 한국 주식 통합 파이프라인 자동 실행');
+  runKrPipeline().catch(err => console.error('한국 주식 파이프라인 에러:', err));
 });
 
-console.log('✅ 크론 스케줄러가 활성화되었습니다. 매일 아침 자동으로 텔레그램 브리핑을 발송합니다.');
+console.log('✅ 크론 스케줄러가 활성화되었습니다. (한국주식 오후 4시 자동화 대기 중)');
+
+// 텔레그램 수동 제어 리스너 데몬 시작
+startTelegramListener();
 
 // 개발 모드 테스트 시 즉시 한 번 실행하려면 아래 주석 해제
 // executeMorningBriefing();
+// runKrPipeline();

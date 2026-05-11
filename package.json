@@ -9,7 +9,12 @@
     "lint": "next lint",
     "scan": "npx tsx scripts/run_daily_screener.ts",
     "cron": "npx tsx scripts/cron_scheduler.ts",
-    "backtest:all": "npx tsx scripts/run_global_backtest.ts"
+    "backtest:all": "npx tsx scripts/run_global_backtest.ts",
+    "fetch:kr": "npx tsx scripts/fetch_kr_tickers.ts",
+    "scan:kr": "npx tsx scripts/run_kr_daily_screener.ts",
+    "analyze:kr": "npx tsx scripts/run_fundamental_analysis.ts",
+    "track:kr": "npx tsx scripts/run_kr_trend_following.ts",
+    "start:kr": "npx tsx scripts/run_kr_pipeline.ts"
   },
   "dependencies": {
     "@google/genai": "^1.52.0",
@@ -17,6 +22,7 @@
     "cheerio": "^1.2.0",
     "dotenv": "^17.4.2",
     "html2canvas": "^1.4.1",
+    "iconv-lite": "^0.7.2",
     "jspdf": "^4.2.1",
     "lucide-react": "^1.14.0",
     "next": "16.2.4",
