@@ -36,6 +36,40 @@ async function sendTelegramMessage(message: string) {
   }
 }
 
+// 텔레그램 파일 전송 함수
+async function sendTelegramDocument(filePath: string, caption?: string) {
+  const token = process.env.TELEGRAM_BOT_TOKEN;
+  const chatId = process.env.TELEGRAM_CHAT_ID;
+  if (!token || !chatId) {
+    return;
+  }
+  
+  try {
+    const cleanToken = token.replace(/"/g, '');
+    const cleanChatId = chatId.replace(/"/g, '');
+    const url = `https://api.telegram.org/bot${cleanToken}/sendDocument`;
+    
+    const fileBuffer = fs.readFileSync(filePath);
+    const blob = new Blob([fileBuffer], { type: 'text/html' });
+    
+    const formData = new FormData();
+    formData.append('chat_id', cleanChatId);
+    formData.append('document', blob, path.basename(filePath));
+    if (caption) {
+      formData.append('caption', caption);
+    }
+
+    const res = await fetch(url, {
+      method: 'POST',
+      body: formData
+    });
+    if (!res.ok) throw new Error(await res.text());
+    console.log(`✅ 텔레그램 리포트 파일(${path.basename(filePath)}) 전송 완료!`);
+  } catch (err: any) {
+    console.error('❌ 텔레그램 파일 전송 실패:', err.message);
+  }
+}
+
 // SEC에서 전체 티커 목록 가져오기
 async function fetchAllUSTickers(): Promise<string[]> {
   try {
@@ -155,7 +189,7 @@ async function aiDeepAnalysis(finalCandidates: any[]) {
   if (!apiKey) throw new Error('GEMINI_API_KEY is not defined');
   const ai = new GoogleGenAI({ apiKey });
 
-  let prompt = `당신은 월스트리트 최고의 트레이더이자, 서울대학교 투자동아리(SMIC) 수석 애널리스트입니다. 아래 리스트는 오늘 당장 기술적 타점(폭발적 거래량, 이평선 돌파)이 발생했고, 펀더멘털도 안전한 최정예 후보들입니다.\n\n`;
+  let prompt = `당신은 장기 투자의 대가 워런 버핏이자, 텐배거(10배 상승) 종목 발굴에 특화된 서울대학교 투자동아리(SMIC) 수석 애널리스트입니다. 아래 리스트는 오늘 당장 기술적 타점(폭발적 거래량, 이평선 돌파)이 발생하여 강력한 시세 분출의 '초입'에 있으며, 펀더멘털도 튼튼한 최정예 후보들입니다.\n\n`;
   finalCandidates.forEach((s, idx) => {
     prompt += `후보 ${idx + 1}: ${s.ticker}\n`;
     prompt += `- 기술적 타점: ${s.matchReasons.join(' / ')}\n`;
@@ -164,20 +198,26 @@ async function aiDeepAnalysis(finalCandidates: any[]) {
     prompt += `- 비즈니스 해자: ${s.fundamentalData.analysis?.business_moat}\n\n`;
   });
 
-  prompt += `이 중에서 현재 거시경제 매크로 상황을 고려했을 때, '오늘 당장 매수하기 가장 좋은 단 1개의 주식'을 고르고 아래 JSON 형식으로 응답해주세요.
+  prompt += `이 중에서 현재 거시경제 매크로 상황을 고려했을 때, '6개월 이상 장기 보유하여 최소 50% 이상, 최대 텐배거(10배) 수익을 낼 수 있는 가장 완벽한 1개의 주식'을 고르고 아래 JSON 형식으로 응답해주세요.
 
-선정 이유(rationale)는 우리의 기술적 룰(특히 Rule 4: 당일 거래량 폭발 및 이격도 안전, Rule 1: 밥그릇 3번 자리, Rule 3: 역주행 장대양봉 등)에 어떻게 완벽하게 부합하는지 기술적 근거를 바탕으로 명확히 서술해야 합니다.
+선정 이유(rationale)는 이 기업이 왜 장기적으로 텐배거 잠재력이 있는지(비즈니스 해자, 턴어라운드 모멘텀, 폭발적 성장성 등)와 우리의 기술적 룰(특히 Rule 4: 당일 거래량 폭발 및 이격도 안전, Rule 1: 밥그릇 3번 자리, Rule 3: 역주행 장대양봉 등)이 어떻게 '대세 상승의 신호탄'으로 완벽하게 부합하는지를 결합하여 명확히 서술해야 합니다.
 
-추가로, 해당 기업의 심층 기본적 분석을 'SMIC 리서치 보고서' 양식(기업 개요, 투자 포인트, 산업 분석, 리스크 요소, 밸류에이션)에 맞춰서 깔끔한 HTML 형식(body 태그 내부만, 가독성 좋은 인라인 CSS 스타일 포함)으로 작성하여 'smic_html_report' 필드에 넣어주세요.
+추가로, 해당 기업의 심층 기본적 분석을 'SMIC 리서치 보고서' 양식(기업 개요, 핵심 상승 모멘텀 및 숨은 재료, 산업 분석, 리스크 요소, 밸류에이션)에 맞춰서 깔끔한 HTML 형식(body 태그 내부만, 가독성 좋은 인라인 CSS 스타일 포함)으로 작성하여 'smic_html_report' 필드에 넣어주세요.
+
+**[SMIC 리서치 보고서 핵심 작성 지침 (매우 중요)]**
+우리의 매수 타점인 '단테 3번 자리'는 장기 하락 및 횡보 추세를 강력한 거래량과 함께 돌파하는 시점입니다. 따라서, 뻔하고 보편적인 기업 설명은 최소화하고, **"왜 하필 지금 추세를 돌렸는가?"** 에 대한 답을 반드시 포함해야 합니다:
+1. 최근 하락/횡보를 끝내고 상승 추세로 전환시킨 **구체적인 상승 재료(Catalyst) 및 최신 뉴스**
+2. 단기 반등이 아니라 대세 상승을 이끌어갈 **강력한 후속 모멘텀** (신사업, 수주, 실적 턴어라운드 등)
+3. 대중이나 시장이 아직 충분히 가격에 반영하지 못한 **숨겨진 상승 재료(Hidden Edge)**
 
 {
   "best_stock_ticker": "TICKER",
   "buy_price": 현재가 근처의 매수 진입가,
-  "target_price": 단기/스윙 목표가,
-  "stop_loss": 손절가 (매수가 대비 -5% ~ -10%),
+  "target_price": 6개월~1년 중장기 목표가 (현재가 대비 최소 +50% ~ 텐배거 수준으로 과감하게 설정),
+  "stop_loss": 중장기 투자 손절가 (매수가 대비 -15% ~ -20%, 일시적 잔파도는 버티는 용도),
   "should_buy": true/false (실제 포트폴리오에 편입할 가치가 있는지 판단),
   "conviction_score": 0~100 (확신도 점수. 매우 강력한 확신은 90~100, 애매하면 50 이하 지정),
-  "rationale": "Rule 1~4를 기반으로 한 구체적이고 논리적인 선정 사유 (3~4문장)",
+  "rationale": "장기적 텐배거 잠재력(펀더멘털)과 대세 상승 초입(기술적 타점)을 결합한 구체적이고 논리적인 선정 사유 (3~4문장)",
   "smic_html_report": "<div style='font-family: sans-serif; line-height: 1.6;'><h1>[TICKER] SMIC 심층 기업분석</h1>...</div>"
 }`;
 
@@ -262,6 +302,7 @@ async function aiDeepAnalysis(finalCandidates: any[]) {
       `※ 상세 SMIC 기업 분석 리포트(HTML)가 로컬에 저장되었습니다.`;
     
     await sendTelegramMessage(telegramMessage);
+    await sendTelegramDocument(htmlPath);
 
   } catch (err: any) {
     console.error('AI 분석 실패:', err.message);
@@ -269,8 +310,17 @@ async function aiDeepAnalysis(finalCandidates: any[]) {
 }
 
 export async function runDailyTopStock() {
-  const tickers = await fetchAllUSTickers();
+  let tickers = await fetchAllUSTickers();
   
+  // 이미 포트폴리오에 보유 중인 종목은 새로운 발굴 대상에서 제외
+  const p = initPortfolio(500000);
+  const holdingTickers = p.positions.map((pos: any) => pos.ticker);
+  
+  if (holdingTickers.length > 0) {
+    console.log(`\n[포트폴리오 체크] 이미 보유 중인 종목 제외: ${holdingTickers.join(', ')}`);
+    tickers = tickers.filter(t => !holdingTickers.includes(t));
+  }
+
   // 전체 스캔은 10~15분 소요.
   const techStocks = await technicalScreening(tickers);
   const fundamentallySoundStocks = fundamentalFiltering(techStocks);

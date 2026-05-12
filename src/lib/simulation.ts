@@ -144,33 +144,26 @@ export function dailySettlement(currentDate: string, currentPrices: Record<strin
 
     pos.highestPrice = Math.max(pos.highestPrice || pos.entryPrice, currentPrice);
 
-    // 하드 스탑 (-5%)
-    if (pos.roi <= -5) {
-      executeSell(p, pos.ticker, currentPrice, currentDate, "🛑 리스크 관리 (하드스탑 -5%)");
+    // Rule 1: 기계적 하드 스탑 (-15%)
+    if (pos.roi <= -15) {
+      executeSell(p, pos.ticker, currentPrice, currentDate, "🛑 기계적 손절 (-15% 하드스탑)");
     }
-    // 50% 도달 시 트레일링 스탑 활성화 (매도 안 함, 끝까지 발라먹기)
+    // Rule 2: 트레일링 스탑 활성화 및 익절
+    // 50% 도달 시 트레일링 스탑 활성화
     else if (pos.roi >= 50 && !pos.inTrailing) {
       pos.inTrailing = true;
-      console.log(`🚀 [${pos.ticker}] 50% 수익 돌파! 트레일링 스탑 활성화 (추세 끝까지 홀딩)`);
+      console.log(`🚀 [${pos.ticker}] 50% 수익 돌파! 트레일링 스탑 활성화 (수익 극대화 구간 진입)`);
       totalPositionValue += currentPrice * pos.quantity;
     }
-    // 트레일링 스탑 작동 중 고점 대비 15% 하락 시 추세 꺾임으로 간주하고 익절
-    else if (pos.inTrailing && currentPrice < (pos.highestPrice * 0.85)) {
-      executeSell(p, pos.ticker, currentPrice, currentDate, `🎯 추세 종료 익절 (최고점 대비 -15% 하락, 트레일링 스탑)`);
+    // 트레일링 스탑 작동 중 고점 대비 20% 하락 시 추세 꺾임으로 간주하고 익절
+    else if (pos.inTrailing && currentPrice < (pos.highestPrice * 0.80)) {
+      executeSell(p, pos.ticker, currentPrice, currentDate, `🎯 추세 종료 익절 (최고점 대비 -20% 하락, 트레일링 스탑)`);
     }
-    // 시간 청산 (6개월 룰, 단 이미 50% 돌파해서 대시세 타는 중이면 안 팜)
-    else if (holdingDays > 180 && !pos.inTrailing) {
-      // 기계적 매도가 아니라, 상승 모멘텀이 꺾인 '죽은 주식'만 자름
-      // 상승 모멘텀 기준: 현재 수익권(ROI > 0)이면서, 고점 대비 크게 꺾이지 않은 상태(고점 대비 -15% 이내)면 홀딩!
-      const isUpwardMomentum = pos.roi > 0 && currentPrice >= (pos.highestPrice * 0.85);
-      
-      if (!isUpwardMomentum) {
-        executeSell(p, pos.ticker, currentPrice, currentDate, "⏳ 기한 만료 및 모멘텀 상실 (6개월 룰 매도)");
-      } else {
-        // 상승 추세 중이면 시간 청산을 무시하고 계속 홀딩!
-        totalPositionValue += currentPrice * pos.quantity;
-      }
-    } else {
+    // Rule 3: 타임 스탑 (90일 초과, 수익률 -5% ~ +5% 횡보)
+    else if (holdingDays > 90 && pos.roi >= -5 && pos.roi <= 5 && !pos.inTrailing) {
+      executeSell(p, pos.ticker, currentPrice, currentDate, "⏳ 기회비용 방어 (90일 횡보 타임스탑 매도)");
+    } 
+    else {
       totalPositionValue += currentPrice * pos.quantity;
     }
   }

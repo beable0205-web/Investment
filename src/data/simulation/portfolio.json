@@ -1,33 +1,27 @@
 {
-  "cash": 60023.759004592896,
-  "totalEquity": 100000,
+  "cash": 440022.16,
+  "totalEquity": 500000,
   "positions": [
     {
-      "ticker": "BF-A",
-      "companyName": "Brown Forman Inc",
-      "entryDate": "2026-05-08T13:30:00.000Z",
-      "entryPrice": 28.360000610351562,
-      "quantity": 705,
-      "rule": "Rule 1: 완벽한 밥그릇 3번 자리 포착 (장기 매집 후 224일선 돌파 및 눌림목, 강력한 매집봉 존재) + 단단한 공구리 지지선 확인됨",
-      "currentPrice": 28.360000610351562,
-      "roi": 0
-    },
-    {
-      "ticker": "GME",
-      "companyName": "GameStop Corporation",
-      "entryDate": "2026-05-08T13:30:00.000Z",
-      "entryPrice": 24.280000686645508,
-      "quantity": 823,
-      "rule": "Rule 1: 완벽한 밥그릇 3번 자리 포착 (장기 매집 후 224일선 돌파 및 눌림목, 강력한 매집봉 존재)",
-      "currentPrice": 24.280000686645508,
+      "ticker": "AD",
+      "companyName": "AD",
+      "entryPrice": 52.52,
+      "currentPrice": 52.52,
+      "quantity": 1142,
+      "entryDate": "2026-05-11",
+      "rationale": "Rule 1~4를 기반으로 한 구체적이고 논리적인 선정 사유 (AI 추천)",
       "roi": 0
     }
   ],
-  "history": [],
-  "equityCurve": [
+  "history": [
     {
-      "date": "2026-05-09",
-      "equity": 100000
+      "date": "2026-05-11",
+      "ticker": "AD",
+      "action": "BUY",
+      "price": 52.52,
+      "quantity": 1142,
+      "totalAmount": 59977.84,
+      "reason": "AI Recommendation"
     }
   ]
 }
